@@ -24,17 +24,13 @@ standing in line. This direction is important for system performance.
 
 ILLUSTRATION GOES HERE
 
-### Camera placement locations
-
-This section covers camera height, camera-to-target distances, and camera mounting ranges.
-
-#### Camera height
+## Camera height
 
 Generally, cameras should be mounted 12-14 feet from the ground. When planning your camera mounting in this range, 
 consider the obstructions (for example, shelving, hanging lights, hanging signage, and displays) that might affect the 
 camera view, and then adjust the height as necessary. 
 
-#### Camera-to-focal-point distance recommendations 
+### Camera-to-focal-point distance recommendations 
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
 These distances are for optimal placement and are suitable for end caps (display effectiveness), queues, or entrances. 
@@ -55,12 +51,12 @@ The following illustration simulates camera views from the closest and farthest 
 |--------------------------------------------------------|----------------------------------------------------|
 |ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE|
 
-#### Camera angle mounting ranges
+### Camera angle mounting ranges
 
 This section describes acceptable camera angle mounting ranges for store entrances, queues, and end caps. These mounting ranges show 
 the acceptable range from optimal placement.
 
-##### Store entrances
+### Store entrances
 
 The following table shows recommendations for store entrances.
 
@@ -82,14 +78,14 @@ The following illustration shows camera placement and mounting angles from a bir
 
 ILLUSTRATION GOES HERE
  
-##### End caps
+#### End caps
 
 We recommend that you place cameras at 10 feet or more above ground to guarantee the covered area is big enough. Mount end-cap 
 cameras in the specified distance from the target within the acceptable 120-degree angle range as shown in the following illustration.
 
 ILLUSTRATION GOES HERE
 
-##### Queues
+#### Queues
 
 For optimal Queue data quality, retractable belt barriers are preferred (see image below). This type of barrier is preferred over 
 opaque barriers for queue formation.
@@ -136,3 +132,5 @@ beyond 2-3 people and the line forms within the zone definition. If the queue le
 using a retractable belt barrier to help guide the queue direction and ensure the line forms and dwells within the zone definition.
 
 ## What's next?
+
+[Install your cameras](camera-installation.md)
