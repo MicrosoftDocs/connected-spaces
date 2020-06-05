@@ -2,7 +2,7 @@
 
 # Camera placement recommendations for Dynamics 365 Connected Store
 
-You need to consider three things when deciding how to install a camera:
+You need to consider three things when deciding how to install a camera for Dynamics 365 Connected Store:
 
 - Camera height
 
