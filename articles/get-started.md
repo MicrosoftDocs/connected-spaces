@@ -22,6 +22,6 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 8. [Add cameras to the gateway and add zones and skills for the camera](add-camera-skills.md). You'll use the mobile app to do this step.
 
-9. [Use dashboards in the web app to gain insights](insights.md).
+9. [Use dashboards to gain insights](insights.md). You'll use the web app for this step.
 
 
