@@ -1,4 +1,5 @@
 # Dynamics 365 Connected Store
+## [Overview](index.md)
 ## [Sign up for public preview](sign-up.md)
 ## [Get started](get-started.md)
 ## [Plan camera placement](plan-camera-placement.md)
