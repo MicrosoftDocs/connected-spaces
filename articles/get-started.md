@@ -6,7 +6,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 1. [Sign up for the public preview](sign-up.md). After you're accepted into the public preview program, we'll send you an Azure Stack Edge Gateway device. This is also the time to purchase other necessary equipment if you need it (LP cameras and network switch).
 
-   When you sign up for the public preview, you can also download the Dynamics 365 Connected Store mobile app. You'll use this app to create a store, pair a gateway, add cameras to the gateway, and add zones and skills to the cameras.
+   When you sign up for the public preview, you can also download the Dynamics 365 Connected Store mobile app. 
 
 2. [Determine your business interests](business-interests.md). These are the insights you want to gain from the app. 
 
