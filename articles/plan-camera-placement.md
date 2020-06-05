@@ -159,8 +159,7 @@ the acceptable range from optimal placement.
 
 The following table shows recommendations for store entrances.
 
-|Camera height|Camera-to-focal-point distance|Acceptable camera
-mounting angle (min/max)|
+|Camera height|Camera-to-focal-point distance|Acceptable camera mounting angle (min/max)|
 |--------------|-----------------------------|-----------------------------------------------------------------|
 |8’ |9’| +/-40°|
 |10’|10’|+/-30°|
