@@ -2,7 +2,7 @@
 
 # General guidelines and scenarios for placing cameras for use with Dynamics 365 Connected Store
 
-Consider the following when positioning cameras:
+Consider the following when positioning cameras for Dynamics 365 Connected Store:
 
 - **Lighting height.** Place cameras below lighting fixtures so the fixtures don’t block the cameras.
 
