@@ -120,7 +120,7 @@ This style of queue formation restricts the camera’s view of customers because
 To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 
 customers.
 
-#### Organic queue lines
+#### Organic queues
 
 Organic queue lines form organically from the point of sale. This style of queue is acceptable if customer queues don’t form 
 beyond 2-3 people and the line forms within the zone definition. If the queue length is typically more than 2-3 people, we recommend 
