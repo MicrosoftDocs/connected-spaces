@@ -8,7 +8,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the major steps 
 |--------|--------------------------------------------------------------------|-----------------------------|
 |1|Sign up for the public preview of Dynamics 365 Connected Store. After you're accepted into the public preview program, we'll send you an Azure Stack Edge Gateway device. This is also the time to purchase other necessary equipment if you need it (LP cameras and network switch).<br><br>When you sign up for the public preview, you can also download the Dynamics 365 Connected Store mobile app. You'll use this app to create a store, pair a gateway, add cameras to the gateway, and add zones and skills to the cameras.|[Sign up for public preview](sign-up.md)|
 |2|Determine your business interests (insights you want to gain from the app).|[Determine your business interests](business-interests.md)|
-|3|Determine where to place your cameras.|[Plan camera placements](camera-placement.md)|
+|3|Create a plan for placing your cameras.|[Plan camera placements](camera-placement.md)|
 |4|Install the cameras and route the ethernet cable.|[Install cameras](camera-installation.md)|
 |5|Prepare and configure the network and install Azure Stack Edge.|[Install Azure Stack Edge](ase-install.md)|
 |6|Create your first store. You'll use the mobile app to add a store.|[Create a store](create-store.md)|
