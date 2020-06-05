@@ -3,7 +3,7 @@
 ## [Sign up for the public preview](sign-up.md)
 ## [Get started](get-started.md)
 ## [Determine your business interests](determine-business-interests.md)
-## [Plan camera placement](plan-camera-placement.md)
+## [Create a plan for placing your cameras](plan-camera-placement.md)
 ## [Install the cameras](install-cameras.md)
 ## [Prepare and configure your network and install Azure Stack Edge](ase-install.md)
 ## [Create a store](create-store.md)
