@@ -1,6 +1,6 @@
 
 
-## General guidelines and scenarios for placing cameras for use with Dynamics 365 Connected Store
+# General guidelines and scenarios for placing cameras for use with Dynamics 365 Connected Store
 
 Consider the following when positioning cameras:
 
@@ -36,7 +36,7 @@ The main scenarios for camera placement include the following zones:
 
 To plan for the scenarios in your space, you need to understand each zone and the way customers and the environment interact with that zone.
 
-### End caps
+## End caps
 
 For end cap cameras, consider the following:
 
@@ -50,7 +50,7 @@ For end cap cameras, consider the following:
 
 - What is the height of nearby shelving or obstructions?
 
-### Queues
+## Queues
 
 For queue cameras, consider the following:
 
@@ -60,7 +60,7 @@ For queue cameras, consider the following:
 
 - How long is the queue and what direction does the line form?
 
-### Entrances
+## Entrances
 
 For entrance cameras, consider the following:
 
@@ -71,5 +71,9 @@ For entrance cameras, consider the following:
 - How will lighting outside the store affect viewing quality?
 
 - What are the local rules and regulations regarding privacy?
+
+## What's next?
+
+[Learn about camera placement recommendations](camera-placement-recommendations.md)
 
 
