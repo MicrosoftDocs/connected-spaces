@@ -1,1 +1,11 @@
-# [Camera placement guide](camera.md)
+Dynamics 365 Connected Store
+
+# [Sign up for public preview and determine equipment needed](sign-up.md)
+# [Get started](get-started.md)
+# [Plan camera placement](plan-camera-placement.md)
+# [Install the cameras](install-cameras.md)
+# [Prepare and configure your network and install Azure Stack Edge](ase-install.md)
+# [Create a store](create-store.md)
+# [Pair a gateway](pair-gateway.md)
+# [Add cameras, zones, and skills to gateway](add-cameras-skills.md)
+# [Get insights](insights.md)
