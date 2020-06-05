@@ -24,4 +24,6 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 9. [Use dashboards to gain insights](insights.md). You'll use the web app for this step.
 
+## What's next?
 
+[Sign up for the public preview if you haven't already](sign-up.md)
