@@ -2,7 +2,7 @@
 
 # Get started with Dynamics 365 Connected Store
 
-Welcome to Dynamics 365 Connected Store! This article describes the major steps required to acquire, install, configure, and use  Dynamics 365 Connected Store. 
+Welcome to Dynamics 365 Connected Store! This article describes the steps required to acquire, install, configure, and use  Dynamics 365 Connected Store. 
 
 1. [Sign up for the public preview](sign-up.md) of Dynamics 365 Connected Store. After you're accepted into the public preview program, we'll send you an Azure Stack Edge Gateway device. This is also the time to purchase other necessary equipment if you need it (LP cameras and network switch).
 
