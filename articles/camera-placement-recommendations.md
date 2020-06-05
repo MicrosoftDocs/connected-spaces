@@ -1,6 +1,6 @@
 
 
-## Camera placement details
+## Camera placement recommendations
 
 You need to consider three things when deciding how to install a camera:
 
