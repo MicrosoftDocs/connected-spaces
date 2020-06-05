@@ -6,7 +6,7 @@ Consider the following when positioning cameras for Dynamics 365 Connected Store
 
 - **Lighting height.** Place cameras below lighting fixtures so the fixtures don’t block the cameras.
 
-- **Obstructions.** To avoid obstructing camera views take note of obstructions such as poles, signage, shelving, walls, and existing 
+- **Obstructions.** To avoid obstructing camera views, take note of obstructions such as poles, signage, shelving, walls, and existing 
 LP cameras.
 
 - **Environmental backlighting.** Outdoor backlighting affects camera image quality. To avoid severe backlighting conditions, 
