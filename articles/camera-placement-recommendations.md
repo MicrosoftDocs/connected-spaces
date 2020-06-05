@@ -22,7 +22,7 @@ ILLUSTRATION GOES HERE
 ## Camera height
 
 Generally, cameras should be mounted 12-14 feet from the ground. When planning your camera mounting in this range, 
-consider the obstructions (for example, shelving, hanging lights, hanging signage, and displays) that might affect the 
+consider obstructions (for example, shelving, hanging lights, hanging signage, and displays) that might affect the 
 camera view, and then adjust the height as necessary. 
 
 ## Camera-to-focal-point distance recommendations 
