@@ -15,7 +15,7 @@ camera. This distance is measured on the floor plane.
 
 ILLUSTRATION GOES HERE
  
-It's also important to know when direction the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
+It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
 ILLUSTRATION GOES HERE
 
