@@ -13,11 +13,11 @@ You need to consider three things when deciding how to install a camera for Dyna
 *Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
 camera. This distance is measured on the floor plane.
 
-ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
  
 It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
-ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
 
 ## Camera height
 
@@ -44,7 +44,7 @@ The following illustration simulates camera views from the closest and farthest 
 
 |Closest| Farthest |
 |--------------------------------------------------------|----------------------------------------------------|
-|ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE|
+|![XXX](media/filename.PNG "XXX")|![XXX](media/filename.PNG "XXX")|
 
 ## Camera angle mounting ranges
 
@@ -67,54 +67,54 @@ The following illustration simulates camera views using the leftmost (-) and rig
 
 |Leftmost view|Rightmost view|
 |----------------------------------------------------------|-----------------------------------------------------|
-|ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE|
+|![XXX](media/filename.PNG "XXX")|![XXX](media/filename.PNG "XXX")|
 
 The following illustration shows camera placement and mounting angles from a birds-eye view.
 
-ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
  
 ### End caps
 
 We recommend that you place cameras at 10 feet or more above ground to guarantee the covered area is big enough. Mount end-cap 
 cameras in the specified distance from the target within the acceptable 120-degree angle range as shown in the following illustration.
 
-ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
 
 ### Queues
 
 For optimal Queue data quality, retractable belt barriers are preferred (see image below). This type of barrier is preferred over 
 opaque barriers for queue formation.
 
-ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
  
 There are two types of queues: linear and zig-zag.
 
 The following illustration shows recommendations for linear queues:
 
-ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
  
 The following illustration provides simulations for left and right camera views for linear queues. Note that you can mount the camera 
 on the opposite side of the queue. 
 
 |Left view|Right view|
 |----------------------------------------------------------|-----------------------------------------------------|
-|ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE| 
+|![XXX](media/filename.PNG "XXX")|![XXX](media/filename.PNG "XXX")| 
 
 For zip-zag queues, it’s best to avoid placing the camera directly facing the queue line direction, as shown in the 
 following illustration. Note that each of the four example camera positions in the illustration provide the ideal view with an 
 acceptable deviation of +/- 15 degrees in each direction.
 
-ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE
- 
+![XXX](media/filename.PNG "XXX")
+
 The following illustration simulates the view from a camera placed in the ideal location for a zig-zag queue.
   
-ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
 
 #### Fixture (shelving) queues
 
 Fixture queue lines use shelving to guide shoppers and to enable impulse buying. 
 
-ILLUSTRATION GOES HERE|ILLUSTRATION GOES HERE
+![XXX](media/filename.PNG "XXX")
  
 This style of queue formation restricts the camera’s view of customers because it blocks customers from the waist down. 
 To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 
