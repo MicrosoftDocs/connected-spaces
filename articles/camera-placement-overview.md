@@ -17,7 +17,7 @@ your site floorplan.
 
 4.	[Review the camera placement recommendations](camera-placement-recommendations.md) to determine camera placement details for the specified locations.
 
-5.	[Determine the installation locations](camera-placement-locations) (height and distance from target) for each camera to help prepare for installation and cable routing.
+5.	[Determine the installation locations](camera-placement-locations.md) (height and distance from target) for each camera to help prepare for installation and cable routing.
 
 ## What's next?
 
