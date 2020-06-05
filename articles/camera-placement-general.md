@@ -1,6 +1,6 @@
 
 
-## General guidelines for placing cameras
+## General guidelines and scenarios for placing cameras for use with Dynamics 365 Connected Store
 
 Consider the following when positioning cameras:
 
