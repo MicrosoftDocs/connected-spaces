@@ -2,7 +2,7 @@
 
 # Get started with Dynamics 365 Connected Store
 
-Welcome to Dynamics 365 Connected Store! This article describes the major steps required to acquire, install, configure, and use  Dynamics 365 Connected Store and where to find instructions for each step.
+Welcome to Dynamics 365 Connected Store! This article describes the major steps required to acquire, install, configure, and use  Dynamics 365 Connected Store and where to find instructions for each step. 
 
 |Step|Action|Documentation|
 |--------|--------------------------------------------------------------------|-----------------------------|
