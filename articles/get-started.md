@@ -8,7 +8,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
    When you sign up for the public preview, you can also download the Dynamics 365 Connected Store mobile app. You'll use this app to create a store, pair a gateway, add cameras to the gateway, and add zones and skills to the cameras.
 
-2. [Determine your business interests](business-interests.md) (the insights you want to gain from the app). 
+2. [Determine your business interests](business-interests.md). These are the insights you want to gain from the app. 
 
 3. [Create a plan for placing your cameras](camera-placement.md).
 
