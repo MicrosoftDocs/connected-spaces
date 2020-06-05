@@ -16,9 +16,9 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 5. [Prepare and configure the network and install Azure Stack Edge](ase-installation.md).
 
-6. [Create a store](create-store.md). You'll use the mobile app to do this step.
+6. [Create a store](create-store.md). You'll use the mobile app on your Android or iPhone to do this step.
 
-7. [Pair a gateway](pair-gateway.md). You'll start with the mobile app on your Android or iOS phone, switch to your laptop, and then go back to the mobile app to finish pairing the gateway.
+7. [Pair a gateway](pair-gateway.md). You'll start with the mobile app, switch to your laptop, and then go back to the mobile app to finish pairing the gateway.
 
 8. [Add cameras to the gateway and add zones and skills for the camera](add-camera-skills.md). You'll use the mobile app to do this step.
 
