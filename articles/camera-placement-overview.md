@@ -13,13 +13,11 @@ for the preview).
 2.	Select up to 10 locations for the cameras (focused on display effectiveness, queue analysis, and store traffic) and mark them on 
 your site floorplan.
 
-3.	Review the general placement guidelines and scenarios included in this article.
+3.	[Review the general placement guidelines and scenarios](camera-placement-general.md).
 
-4.	Review the camera placement recommendations included in this article to determine camera placement details for the specified 
-locations.
+4.	[Review the camera placement recommendations](camera-placement-recommendations.md) to determine camera placement details for the specified locations.
 
-5.	Determine the installation locations (height and distance from target) for each camera to help prepare for installation and 
-cable routing.
+5.	[Determine the installation locations](camera-placement-locations) (height and distance from target) for each camera to help prepare for installation and cable routing.
 
 ## What's next?
 
