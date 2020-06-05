@@ -1,6 +1,6 @@
 
 
-### Camera placement rules
+### Camera placement locations
 
 This section covers camera height, camera-to-target distances, and camera mounting ranges.
 
