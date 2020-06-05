@@ -21,4 +21,4 @@ your site floorplan.
 
 ## What's next?
 
-[Learn about general guidelines for placing cameras](camera-placement-general.md)
+[Learn about general placement guideslines and scenarios](camera-placement-general.md)
