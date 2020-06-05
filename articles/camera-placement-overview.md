@@ -21,6 +21,6 @@ locations.
 5.	Determine the installation locations (height and distance from target) for each camera to help prepare for installation and 
 cable routing.
 
-# What's next?
+## What's next?
 
 [Learn about general guidelines for placing cameras](camera-placement-general.md)
