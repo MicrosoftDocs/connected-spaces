@@ -13,11 +13,11 @@ You need to consider three things when deciding how to install a camera for Dyna
 *Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
 camera. This distance is measured on the floor plane.
 
-![XXX](media/camera-to-focal-point.PNG "XXX")
+![Camera-to-focal-point-distance](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
  
 It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
-![XXX](media/filename.PNG "XXX")
+![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
 
 ## Camera height
 
@@ -44,7 +44,7 @@ The following illustration simulates camera views from the closest and farthest 
 
 |Closest| Farthest |
 |--------------------------------------------------------|----------------------------------------------------|
-|![XXX](media/filename.PNG "XXX")|![XXX](media/filename.PNG "XXX")|
+|![Closest camera-to-focal-point distance](media/focal-point-closest.PNG "Closest camera-to-focal-point distance")|![Farthest camera-to-focal-point distance](media/focal-point-farthest.PNG "Farthest camera-to-focal-point distance")|
 
 ## Camera angle mounting ranges
 
@@ -67,54 +67,54 @@ The following illustration simulates camera views using the leftmost (-) and rig
 
 |Leftmost view|Rightmost view|
 |----------------------------------------------------------|-----------------------------------------------------|
-|![XXX](media/filename.PNG "XXX")|![XXX](media/filename.PNG "XXX")|
+|![Leftmost camera angle](media/camera-angle-left.PNG "Leftmost camera angle")|![Rightmost camera angle](media/camera-angle-right.PNG "Rightmost camera angle")|
 
 The following illustration shows camera placement and mounting angles from a birds-eye view.
 
-![XXX](media/filename.PNG "XXX")
+![Bird's eye view](media/camera-angle-top.PNG "Bird's eye view")
  
 ### End caps
 
 We recommend that you place cameras at 10 feet or more above ground to guarantee the covered area is big enough. Mount end-cap 
 cameras in the specified distance from the target within the acceptable 120-degree angle range as shown in the following illustration.
 
-![XXX](media/filename.PNG "XXX")
+![Acceptable camera angle](media/camera-angle-acceptable.PNG "Acceptable camera angle")
 
 ### Queues
 
 For optimal Queue data quality, retractable belt barriers are preferred (see image below). This type of barrier is preferred over 
 opaque barriers for queue formation.
 
-![XXX](media/filename.PNG "XXX")
+![Belted queue](media/belted-queue.PNG "Belted queue")
  
 There are two types of queues: linear and zig-zag.
 
 The following illustration shows recommendations for linear queues:
 
-![XXX](media/filename.PNG "XXX")
+![Linear queue recommendation](media/camera-angle-linear-queue.PNG "Linear queue recommendation")
  
 The following illustration provides simulations for left and right camera views for linear queues. Note that you can mount the camera 
 on the opposite side of the queue. 
 
 |Left view|Right view|
 |----------------------------------------------------------|-----------------------------------------------------|
-|![XXX](media/filename.PNG "XXX")|![XXX](media/filename.PNG "XXX")| 
+|![Left angle for linear queue](media/camera-angle-linear-left.PNG "Left angle for linear queue")|![Right angle for linear queue](media/camera-angle-linear-right.PNG "Right angle for linear queue")| 
 
 For zip-zag queues, it’s best to avoid placing the camera directly facing the queue line direction, as shown in the 
 following illustration. Note that each of the four example camera positions in the illustration provide the ideal view with an 
 acceptable deviation of +/- 15 degrees in each direction.
 
-![XXX](media/filename.PNG "XXX")
+![Camera angle for zig-zag queue](media/camera-angle-zig-zag-queue.PNG "Camera angle for zig-zag queue")
 
 The following illustration simulates the view from a camera placed in the ideal location for a zig-zag queue.
   
-![XXX](media/filename.PNG "XXX")
+![Ideal location for zig-zag queue](media/camera-angle-ideal-zig-zag.PNG "Ideal location for zig-zag queue")
 
 #### Fixture (shelving) queues
 
 Fixture queue lines use shelving to guide shoppers and to enable impulse buying. 
 
-![XXX](media/filename.PNG "XXX")
+![Shelving queue](media/shelving-queue.PNG "Shelving queue")
  
 This style of queue formation restricts the camera’s view of customers because it blocks customers from the waist down. 
 To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 
