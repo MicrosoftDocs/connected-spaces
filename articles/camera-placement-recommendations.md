@@ -25,7 +25,7 @@ Generally, cameras should be mounted 12-14 feet from the ground. When planning y
 consider obstructions (for example, shelving, hanging lights, hanging signage, and displays) that might affect the 
 camera view, and then adjust the height as necessary. 
 
-## Camera-to-focal-point distance recommendations 
+## Camera-to-focal-point distance
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
 These distances are for optimal placement and are suitable for end caps (display effectiveness), queues, or entrances. 
