@@ -87,6 +87,8 @@ opaque barriers for queue formation.
 
 ![Belted queue](media/belted-queue.PNG "Belted queue")
  
+#### Zig-zag and linear queues
+
 There are two types of queues: linear and zig-zag.
 
 The following illustration shows recommendations for linear queues:
