@@ -82,7 +82,7 @@ cameras in the specified distance from the target within the acceptable 120-degr
 
 ### Queues
 
-For optimal Queue data quality, retractable belt barriers are preferred (see image below). This type of barrier is preferred over 
+For optimal queue data quality, retractable belt barriers are preferred (see image below). This type of barrier is preferred over 
 opaque barriers for queue formation.
 
 ![Belted queue](media/belted-queue.PNG "Belted queue")
