@@ -10,10 +10,7 @@ You need to consider three things when deciding how to install a camera for Dyna
 
 - The angle of the camera relative to the floor plane
 
-*Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
-camera. This distance is measured on the floor plane.
-
-
+It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
 ![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
 
@@ -25,9 +22,10 @@ camera view, and then adjust the height as necessary.
 
 ## Camera-to-focal-point distance
 
+*Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
+camera. This distance is measured on the floor plane.
+
 ![Camera-to-focal-point-distance](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
- 
-It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
 These distances are for optimal placement and are suitable for end caps (display effectiveness), queues, or entrances. 
