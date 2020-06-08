@@ -9,7 +9,7 @@ What do you want to do?
 
 - [Download the app](mobile-app-download.md)
 
-- [Add a store](mobile-app-add-store.md)
+- [Add a store](mobile-app-create-store.md)
 
 - [Pair a gateway](mobile-app-pair-gateway.md)
 
