@@ -61,13 +61,13 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 > [!NOTE]
 > Download and install the Dynamics 365 Connected Store mobile app before you start.
 
-1. Unpack and install Azure Stack Edge using the following instructions: https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-deploy-install
+1. Unpack and install Azure Stack Edge using the following instructions: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-install
 
 2. To connect Azure Stack Edge to the network switch:
 
     a. Install your network PoE switch if it’s not already installed. We recommend installing it in close proximity to Azure Stack Edge.
     
-    b. Use the following tutorial to connect Azure Stack Edge to the network switch: https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-deploy-connect-setup-activate
+    b. Use the following tutorial to connect Azure Stack Edge to the network switch: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-connect-setup-activate
     
     c. As shown in the Azure Stack Edge documentation, connect Azure Stack Edge to PORT 3 if you have an SFP cable, or PORT 2 if you have an RJ45 cable. Connect the other end to the dedicated network switch.
     
