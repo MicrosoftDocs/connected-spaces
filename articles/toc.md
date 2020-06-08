@@ -9,7 +9,10 @@
 ### [Height, angle, and focal point recommendations](camera-placement-recommendations.md)
 ## [Install the cameras](install-cameras.md)
 ## [Prepare network and install Azure Stack Edge](ase-install.md)
-## [Create a store](create-store.md)
-## [Pair a gateway](pair-gateway.md)
-## [Add cameras, zones, and skills to the gateway](add-cameras.md)
+## Use the Mobile app
+### [Requirements](mobile-app-requirements.md)
+### [Download](mobile-app-download.md)
+### [Create a store](mobile-app-create-store.md)
+### [Pair a gateway](mobile-app-pair-gateway.md)
+### [Add cameras, zones, and skills to the gateway](mobile-app-add-cameras.md)
 ## [Get insights](insights.md)
