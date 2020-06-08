@@ -23,7 +23,7 @@ Dynamics 365 Connected Store supports the following LP cameras:
 
    - LNZ32P4B
 
-> [!NOTE]
+> [!IMPORTANT]
 > Lorex cameras are currently banned by the US government. We don’t recommended using these cameras unless they have already been installed in your environment.
 
 ## Install cameras 	
