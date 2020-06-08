@@ -74,7 +74,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
     d. Connect the laptop you’re using to configure Azure Stack Edge to PORT 1.
     
     > [!NOTE]
-    > You must configure your ethernet adapter to have a static IP address on the same network as the Azure Stack Edge local network. The Azure Stack Edge local IP address is 192.168.100.10 so configure your ethernet adapter static IP address to be on the same network as the Azure Stack Edge by using the 192.168.100.9 IP address. In addition, confirm that the ASE has connectivity with the NTP server.
+    > You must configure your ethernet adapter to have a static IP address on the same network as the Azure Stack Edge local network. The Azure Stack Edge local IP address is 192.168.100.10 so configure your ethernet adapter static IP address to be on the same network as the Azure Stack Edge by using the 192.168.100.9 IP address. In addition, confirm that Azure Stack Edge has connectivity to the NTP server.
     
     e. When your laptop is connected to PORT 1 and your ethernet adapter or port is configured on your laptop, go to the Dynamics 365 Mobile App guide to set up a store, pair a gateway, and add cameras and camera skill zones.
 
