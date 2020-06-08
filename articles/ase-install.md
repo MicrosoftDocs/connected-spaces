@@ -1,7 +1,7 @@
 
 # Prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store
 
-This article covers the steps to prepare and install Azure Stack Edge for use with Dynamics 365 Connected Store. After installing Azure Stack Edge using these instructions, you can configure and pair the gateway by using the Dynamics 365 Connected Store Mobile App guide.
+This article covers the steps to prepare and install Azure Stack Edge for use with Dynamics 365 Connected Store. After installing Azure Stack Edge using these instructions, you can create a store, and then pair a gateway with the Dynamics 365 Connected Store Mobile App guide.
 
 ## Azure Stack Edge installation requirements	
 
