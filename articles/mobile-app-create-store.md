@@ -19,7 +19,7 @@ Dynamics 365 Connected Store mobile app.
    b. In the **Allow Location Access** field, move the slide to the On position if you would like to detect the location from your 
 mobile device.
 
-   c. In the **Add Store Image** field, tap the image, and then do one of the following:
+   c. Tap the **Add Store Image** field, and then do one of the following:
 
       - Select a photo from your phone files.
 
