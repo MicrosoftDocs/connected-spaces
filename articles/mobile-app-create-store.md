@@ -52,7 +52,7 @@ about a store, including the creation date, number of cameras, and zones:
     The following table describes each field and specifies whether the field is editable from the **Store Info** page:
 
     |Field|Description|Editable?|
-    |----------------------|---------------------------------------------------------|--------|
+    |----------------------|--------------------------------------------|--------|
     |Name|The friendly name of the store|Yes|
     |Creation Date|The date the store was added to the app|No|
     |Location|The location of the store|Yes|
