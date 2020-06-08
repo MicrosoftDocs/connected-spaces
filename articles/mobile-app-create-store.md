@@ -25,14 +25,14 @@ mobile device.
 
       - Take a picture with your phone camera.
     
-   ![XXX](media/XXX.PNG "XXX")
+   ![Add Store Image field](media/store-add-field-image.PNG "Add Store Image field")
  
 3.	When you’re done, tap the check mark in the upper-right corner of the page.
 
     On the **Stores** page, you’ll see your new store in the Stores list. The Stores list shows at a glance the name of the store, 
     how many gateways are set up for the store, and the store location.
     
-    ![XXX](media/XXX.PNG "XXX")
+    ![Stores list](media/stores-list.PNG "Stores list")
     
  ## Get more information about a store
  
@@ -43,11 +43,11 @@ about a store, including the creation date, number of cameras, and zones:
 
 2. Tap **Info** at the bottom of the page.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Info button](media/store-info.PNG "Info button")
  
 3. Review and/or edit the info. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![List of store fields](media/store-fields.PNG "List of store fields")
     
     The following table describes each field and specifies whether the field is editable from the **Store Info** page:
 
@@ -66,7 +66,7 @@ about a store, including the creation date, number of cameras, and zones:
 
 2. Tap **Rename** at the bottom of the page.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Rename button](media/store-rename.PNG "Rename button")
  
 
 
