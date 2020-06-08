@@ -33,7 +33,7 @@ Use the steps below in addition to your local standards and requirements for ins
 > [!NOTE]
 > If you’re using Axis cameras, create your ONVIF user profile if you haven’t already done so before installing the cameras.
 
-1. Review the [Camera Placement checklist](camera-placement-checklist.md) to plan your installation, if you haven’t already done so.
+1. Review the [camera placement checklist](camera-placement-checklist.md) to plan your installation, if you haven’t already done so.
 
 2. To make camera installation easier, use tape to mark the camera locations on the floor.
 
@@ -51,7 +51,7 @@ Use the steps below in addition to your local standards and requirements for ins
     > [!NOTE] 
     > Make sure to set the date/time correctly according to your local time zone.
   
-7.	Mount the camera to the ceiling or drop structure (pole or truss structure used to lower the camera height) as outlined in the [Camera height, angle, and focal distance](cameara-placement-recommendations.md) article.
+7.	Mount the camera to the ceiling or drop structure (pole or truss structure used to lower the camera height) as outlined in the [camera height, angle, and focal distance](camera-placement-recommendations.md) article.
 
     > [!NOTE] 
     > For camera mounting, we recommend focusing the lens 0-degree position toward your point of interest when mounted (not the 180-degree position).
