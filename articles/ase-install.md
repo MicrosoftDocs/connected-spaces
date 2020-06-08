@@ -59,7 +59,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 ## Install and connect Azure Stack Edge	
 
 > [!NOTE]
-> Make sure to download and install the Dynamics 365 Connected Store mobile app before you start.
+> Download and install the Dynamics 365 Connected Store mobile app before you start.
 
 1. Unpack and install Azure Stack Edge using the following instructions: https://docs.microsoft.com/en-us/azure/databox-online/data-box-edge-deploy-install
 
