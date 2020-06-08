@@ -10,7 +10,7 @@ Dynamics 365 Connected Store mobile app.
 
 1. On the **Stores** page, tap the **+** sign.
 
-     SCREEN SHOT GOES HERE
+     ![Create store + sign](media/create-store.PNG "Create store + sign")
   
 2. On the **Create Store** page:
 
@@ -25,14 +25,14 @@ mobile device.
 
       - Take a picture with your phone camera.
     
-       SCREEN SHOT GOES HERE
+   ![XXX](media/XXX.PNG "XXX")
  
 3.	When you’re done, tap the check mark in the upper-right corner of the page.
 
     On the **Stores** page, you’ll see your new store in the Stores list. The Stores list shows at a glance the name of the store, 
     how many gateways are set up for the store, and the store location.
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
  ## Get more information about a store
  
@@ -43,11 +43,11 @@ about a store, including the creation date, number of cameras, and zones:
 
 2. Tap **Info** at the bottom of the page.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
  
 3. Review and/or edit the info. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
     The following table describes each field and specifies whether the field is editable from the **Store Info** page:
 
@@ -66,10 +66,8 @@ about a store, including the creation date, number of cameras, and zones:
 
 2. Tap **Rename** at the bottom of the page.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
  
 
 
  
- 
-Learn more about other actions you can do with stores.
