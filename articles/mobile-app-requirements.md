@@ -28,4 +28,6 @@ If you have any problems with the app, make sure that your operating system is u
 
 [Pair a gateway](mobile-app-pair-gateway)
 
-[Add cameras and camera skill zones](mobile-app-add-cameras.md)
+[Add cameras](mobile-app-add-cameras.md)
+
+[Add camera skill zones](add-camera-skill-zones.md)
