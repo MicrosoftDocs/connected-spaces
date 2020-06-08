@@ -7,7 +7,7 @@ processes.
 
 What do you want to do?
 
-- [Learn about requirements](mobile-app-requirements.md)
+- [Learn about operating system requirements for using the app](mobile-app-requirements.md)
 
 - [Download the app](mobile-app-download.md)
 
