@@ -19,3 +19,14 @@ To download the app for your device, go to your iOS or Google App Store or use t
 
 - Apple App store    
 
+## What's next?
+
+[Overview of the mobile app](mobile-app-overview.md)
+
+[Requirements for using the app](mobile-app-requirements.md)
+
+[Create a store](mobile-app-create-store.md)
+
+[Pair a gateway](mobile-app-pair-gateway)
+
+[Add cameras and camera skill zones](mobile-app-add-cameras.md)
