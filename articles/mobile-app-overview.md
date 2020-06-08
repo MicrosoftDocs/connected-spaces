@@ -1,8 +1,7 @@
 
 # Overview of the Dynamics 365 Connected Store mobile app
 
-You can use the Microsoft Dynamics 365 Connected Store mobile app on your Android phone or iPhone to create a store, 
-pair a gateway, and add cameras and camera skill zones. After installing Azure Stack Edge, you must use the mobile app to create a store and pair a gateway before you can add cameras and camera skill zones.
+After [installing Azure Stack Edge](ase.install.md) for use with Microsoft Dynamics 365 Connected Store, you must use the Dynamics 365 Connected Store mobile app to create a store and pair a gateway. After you finish pairing a gateway, you can use the mobile app to add cameras and camera skill zones to your store.
 
 What do you want to do?
 
