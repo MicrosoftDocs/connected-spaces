@@ -27,12 +27,14 @@ mobile device.
     
    ![Add Store Image field](media/store-add-field-image.PNG "Add Store Image field")
  
-3.	When you’re done, tap the check mark in the upper-right corner of the page.
+3. When you’re done, tap the check mark in the upper-right corner of the page.
 
     On the **Stores** page, you’ll see your new store in the Stores list. The Stores list shows at a glance the name of the store, 
     how many gateways are set up for the store, and the store location.
     
     ![Stores list](media/stores-list.PNG "Stores list")
+    
+If this is the first store you're creating, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
     
  ## Get more information about a store
  
