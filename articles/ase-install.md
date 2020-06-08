@@ -78,12 +78,14 @@ Verify that the server rack is accessible and is ready for you to load the Azure
     
     e. When your laptop is connected to PORT 1 and your ethernet adapter or port is configured on your laptop, go to the Dynamics 365 Mobile App guide to
 
-      i. [Set up a store](create-store.md).
+      i. [Set up a store](mobile-app-create-store.md).
        
-      ii. [Pair a gateway](pair-gateway.md).
+      ii. [Pair a gateway](mobile-app-pair-gateway.md).
        
-      iii. [Add cameras and camera skill zones](add-cameras).
+      iii. [Add cameras](mobile-app-add-cameras).
+      
+      iv. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
 
 ## What's next?
 
-[Create a store on the mobile app](create-store.md)
+[Create a store on the mobile app](mobile-app-create-store.md)
