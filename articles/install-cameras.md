@@ -9,7 +9,7 @@ Dynamics 365 Connected Store supports the following LP cameras:
 
 - Axis:
 
-   - M3045V (Make sure that Axis M3045V cameras have the 9.60.1 or later firmware.)
+   - M3045V (must have 9.60.1 or later firmware)
    
    - M5055 PTZ
    
@@ -33,7 +33,7 @@ Use the steps below in addition to your local standards and requirements for ins
 > [!NOTE]
 > If you’re using Axis cameras, create your ONVIF user profile if you haven’t already done so before installing the cameras.
 
-1. Review the [Camera Placement checklist]camera-placement-checklist.md) to plan your installation, if you haven’t already done so.
+1. Review the [Camera Placement checklist](camera-placement-checklist.md) to plan your installation, if you haven’t already done so.
 
 2. To make camera installation easier, use tape to mark the camera locations on the floor.
 
@@ -48,18 +48,24 @@ Use the steps below in addition to your local standards and requirements for ins
 
 6.	Change the default username/password as instructed by the camera manufacturer documentation, to align with your corporate security guidelines.
 
-   > [!NOTE] 
-   > Make sure to set the date/time correctly according to your local time zone.
+    > [!NOTE] 
+    > Make sure to set the date/time correctly according to your local time zone.
   
 7.	Mount the camera to the ceiling or drop structure (pole or truss structure used to lower the camera height) as outlined in the [Camera height, angle, and focal distance](cameara-placement-recommendations.md) article.
 
-   > [!NOTE] 
-   > For camera mounting, we recommend focusing the lens 0-degree position toward your point of interest when mounted (not the 180-degree position).
+    > [!NOTE] 
+    > For camera mounting, we recommend focusing the lens 0-degree position toward your point of interest when mounted (not the 180-degree position).
+   
+   ![O-degree camera position](media/orientation-0.PNG "0-degree camera position")
  
    If installed at 180 degrees, or moved later, ensure the ONVIF profile settings correspond to the camera lens position. 
+   
+   ![180-degree camera position](media/orientation-180.PNG "180-degree camera position")
  
    > [!NOTE]  
    > If the camera is positioned at 180 degrees, the media profile should specify 180.
+   
+   ![Media profile](media/ONVIF.PNG "Media profile")
  
 When you’re finished mounting and setting up the camera per the manufacturer’s documentation, you’re ready to [install and configure Azure Stack Edge](ase-install.md).
 
