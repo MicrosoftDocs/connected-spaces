@@ -34,7 +34,7 @@ mobile device.
     
     ![Stores list](media/stores-list.PNG "Stores list")
     
-If this is the first store you're creating, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
+If this is the first store that you're creating in the mobile app, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
     
  ## Get more information about a store
  
