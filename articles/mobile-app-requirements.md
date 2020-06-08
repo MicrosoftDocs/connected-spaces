@@ -20,7 +20,7 @@ If you have any problems with the app, make sure that your operating system is u
 
 ## What's next?
 
-[What do you use the mobile app for](mobile-app-overview.md)
+[What do you use the mobile app for?](mobile-app-overview.md)
 
 [Download the app](mobile-app-download.md)
 
