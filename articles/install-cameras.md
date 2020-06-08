@@ -63,7 +63,7 @@ Use the steps below in addition to your local standards and requirements for ins
     ![180-degree camera position](media/orientation-180.PNG "180-degree camera position")
  
     > [!NOTE]  
-    > If the camera is positioned at 180 degrees, the ONVIF media profile should specify 180.
+    > If the camera is positioned at 180 degrees, the ONVIF media profile should also specify 180.
    
     ![ONVIF media profile](media/ONVIF.PNG "ONVIF media profile")
  
