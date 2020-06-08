@@ -8,7 +8,7 @@
 ### [General guidelines and scenarios](camera-placement-general.md)
 ### [Height, angle, and focal point recommendations](camera-placement-recommendations.md)
 ## [Install the cameras](install-cameras.md)
-## [Prepare your network and install Azure Stack Edge](ase-install.md)
+## [Prepare network and install Azure Stack Edge](ase-install.md)
 ## [Create a store](create-store.md)
 ## [Pair a gateway](pair-gateway.md)
 ## [Add cameras, zones, and skills to the gateway](add-cameras-skills.md)
