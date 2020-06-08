@@ -20,7 +20,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 7. [Pair a gateway](pair-gateway.md). You'll start with the mobile app, switch to your laptop, and then go back to the mobile app to finish pairing the gateway.
 
-8. [Add cameras to the gateway and add zones and skills for the camera](add-camera-skills.md). You'll use the mobile app to do this step.
+8. [Add cameras to the gateway and add zones and skills for the cameras](add-camera-skills.md). You'll use the mobile app to do this step.
 
 9. [Use dashboards to gain insights](insights.md). You'll use the web app for this step.
 
