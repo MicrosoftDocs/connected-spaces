@@ -11,5 +11,5 @@
 ## [Prepare network and install Azure Stack Edge](ase-install.md)
 ## [Create a store](create-store.md)
 ## [Pair a gateway](pair-gateway.md)
-## [Add cameras, zones, and skills to the gateway](add-cameras-skills.md)
+## [Add cameras, zones, and skills to the gateway](add-cameras.md)
 ## [Get insights](insights.md)
