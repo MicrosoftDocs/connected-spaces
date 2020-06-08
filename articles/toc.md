@@ -6,7 +6,7 @@
 ## Create a plan for placing your cameras
 ### [Checklist](camera-placement-checklist.md)
 ### [General guidelines and scenarios](camera-placement-general.md)
-### [Recommendations](camera-placement-recommendations.md)
+### [Height, angle, and focal point recommendations](camera-placement-recommendations.md)
 ## [Install the cameras](install-cameras.md)
 ## [Prepare and configure your network and install Azure Stack Edge](ase-install.md)
 ## [Create a store](create-store.md)
