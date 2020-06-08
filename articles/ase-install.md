@@ -50,7 +50,7 @@ We recommend that you secure a range of static IP addresses on the same network 
 
 ### Check power and ventilation 
 
-Make sure the site meets the power and ventilation requirements outlined in the requirements section of this document. 
+Make sure the site meets the power and ventilation requirements outlined in the requirements section of this article. 
 
 ### Check server rack accessibility
 
