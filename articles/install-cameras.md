@@ -26,7 +26,7 @@ Dynamics 365 Connected Store supports the following LP cameras:
 > [!IMPORTANT]
 > Lorex cameras are currently banned by the US government. We don’t recommended using these cameras unless they have already been installed in your environment.
 
-## Install cameras 	
+## Install a camera	
 
 Use the steps below in addition to your local standards and requirements for installing ethernet.
 
