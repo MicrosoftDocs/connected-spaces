@@ -58,8 +58,6 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 ## Install and connect Azure Stack Edge	
 
-This section describes how to install your Azure Stack Edge device. After installing the device, you’ll use the Dynamics 365 Connected Store Mobile App guide to add a store and pair a gateway.
-
 > [!NOTE]
 > Make sure to download and install the Dynamics 365 Connected Store mobile app before you start.
 
