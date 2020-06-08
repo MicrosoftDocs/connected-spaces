@@ -68,6 +68,11 @@ about a store, including the creation date, number of cameras, and zones:
 
     ![Rename button](media/store-rename.PNG "Rename button")
  
+## What's next?
 
+[Pair a gateway](mobile-app-pair-gateway)
 
+[Add cameras](mobile-app-add-cameras.md)
+
+[Add camera skill zones](add-camera-skill-zones.md)
  
