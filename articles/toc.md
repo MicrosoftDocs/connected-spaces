@@ -4,7 +4,7 @@
 ## [Get started](get-started.md)
 ## [Determine your business interests](determine-business-interests.md)
 ## Create a plan for placing your cameras
-### [Checklis](camera-placement-overview.md)
+### [Checklist](camera-placement-overview.md)
 ### [General guidelines and scenarios](camera-placement-general.md)
 ### [Recommendations](camera-placement-recommendations.md)
 ## [Install the cameras](install-cameras.md)
