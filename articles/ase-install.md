@@ -13,7 +13,7 @@ The following table shows the requirements for installing and connecting the Azu
 |Airflow|Azure Stack Edge requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
 |Power|You’ll need standard AC power from an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS).|
 |Noise|Azure Stack Edge uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge where people perform daily operations which may be affected by prolonged noise exposure.|
-|Network|Azure Stack Edge requires a standard 20 MB internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) Switch is also required for the IP cameras to connect Azure Stack Edge to the LAN.|
+|Network|Azure Stack Edge requires a standard 20 MB internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge to the LAN.|
 |Operating temperatures|See the Azure Stack Edge technical specifications for detailed operating and power requirements.|
 
 ## Site preparation	
