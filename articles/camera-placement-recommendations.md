@@ -130,4 +130,4 @@ using a retractable belt barrier to help guide the queue direction and ensure th
 
 ## What's next?
 
-[Install your cameras](camera-installation.md)
+[Install your cameras](install-cameras.md)
