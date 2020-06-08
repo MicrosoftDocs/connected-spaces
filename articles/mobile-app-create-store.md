@@ -8,22 +8,22 @@ Dynamics 365 Connected Store mobile app.
 
 ## Create a store
 
-1.	On the **Stores** page, tap the **+** sign.
+1. On the **Stores** page, tap the **+** sign.
 
      SCREEN SHOT GOES HERE
   
-2.	On the **Create Store** page:
+2. On the **Create Store** page:
 
-a.	In the **Store Name** field, enter a friendly name for the store.
+    a. In the **Store Name** field, enter a friendly name for the store.
 
-b.	In the **Allow Location Access** field, move the slide to the On position if you would like to detect the location from your 
+    b. In the **Allow Location Access** field, move the slide to the On position if you would like to detect the location from your 
 mobile device.
 
-c.	In the **Add Store Image** field, tap the image, and then do one of the following:
+    c. In the **Add Store Image** field, tap the image, and then do one of the following:
 
-    - Select a photo from your phone files.
+       - Select a photo from your phone files.
 
-    - Take a picture with your phone camera.
+       - Take a picture with your phone camera.
     
        SCREEN SHOT GOES HERE
  
