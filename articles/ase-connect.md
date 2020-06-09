@@ -72,7 +72,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
     
     c. [Add cameras to the gateway](mobile-app-add-cameras.md).
     
-    d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
+    d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md).
     
 ## What's next?
 
