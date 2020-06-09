@@ -85,3 +85,5 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 ## What's next?
 
 [Connect cameras to the gateway](mobile-app-add-cameras.md)
+
+[Add camera skill zones](mobile-app-add-camera-skill-zones.md)
