@@ -3,11 +3,11 @@
 ## [Sign up for the public preview](sign-up.md)
 ## [Get started](get-started.md)
 ## [Determine your business interests](determine-business-interests.md)
-## Create a plan for placing your cameras
+## Camera plan and installation
 ### [Checklist](camera-placement-checklist.md)
 ### [General guidelines and scenarios](camera-placement-general.md)
 ### [Height, angle, and focal point](camera-placement-recommendations.md)
-## [Install the cameras](install-cameras.md)
+### [Install the cameras](install-cameras.md)
 ## Install and connect Azure Stack Edge
 ### [Prepare network and install](ase-install.md)
 ### [Connect to the network](ase-connect.md)
