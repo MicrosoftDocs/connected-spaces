@@ -13,6 +13,6 @@ What do you want to do?
 
 - [Pair a gateway](mobile-app-pair-gateway.md)
 
-- [Add cameras](mobile-app-add-cameras.md)
+- [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
 - [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
