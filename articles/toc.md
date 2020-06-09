@@ -9,7 +9,7 @@
 ### [Height, angle, and focal point](camera-placement-recommendations.md)
 ## [Install the cameras](install-cameras.md)
 ## [Prepare network and install Azure Stack Edge](ase-install.md)
-## Use the Mobile app
+## Use the mobile app
 ### [Overview](mobile-app-overview.md)
 ### [Requirements](mobile-app-requirements.md)
 ### [Download](mobile-app-download.md)
