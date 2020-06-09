@@ -50,5 +50,39 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
    After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
 
+## Get more information about a gateway created in the mobile app
+
+In the Gateway list on the **Gateways** page, you can see the name, IP address, and status of the gateway at a glance. To get more information about the gateway, including network properties, firmware, and the device model:
+
+1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
+
+   SCREEN SHOT GOES HERE
+ 
+2.	Review or edit the info.
+
+   SCREEN SHOT GOES HERE
+ 
+   > [!IMPORTANT]
+   > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
+   
+   The following table describes each field and specifies whether the field is editable from the **Gateway Info** page:
+
+   |Field|Description|Editable?|
+   |**Name**|The friendly name of the gateway|Yes|
+   |**Status**|Whether the device is connected or not|No|
+   |**Network**|The IP Address, MAC Address, and Subnet Mask. For more information on these fields, see the Dynamics 365 Connected Store Deployment guide.|No|
+   |**Device**|The firmware and model of the gateway|No|
+   
+4.	When you’re finished, select the check mark in the upper-right corner of the screen.
+
+## Rename a gateway
+
+1.	On the **Gateways** page, tap the **Actions** button.
+
+2.	Tap **Rename** at the bottom of the page.
+
+## What's next?
+
+[Connect cameras to the gateway](mobile-app-add-cameras.md)
 
 
