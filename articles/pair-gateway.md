@@ -71,7 +71,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
     |--------------|------------------------------------------------------------|------|
     |**Name**|The friendly name of the gateway|Yes|
     |**Status**|Whether the device is connected or not|No|
-    |**Network**|The IP Address, MAC Address, and Subnet Mask. For more information on these fields, see the Dynamics 365 Connected Store Deployment guide.|No|
+    |**Network**|The IP Address, MAC Address, and Subnet Mask. For more information on these fields, see [prepare your network and Install Azure Stack Edge](ase-install.md).|No|
     |**Device**|The firmware and model of the gateway|No|
    
 4.	When you’re finished, select the check mark in the upper-right corner of the screen.
