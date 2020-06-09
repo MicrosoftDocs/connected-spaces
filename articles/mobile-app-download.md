@@ -29,6 +29,6 @@ To download the app for your device, go to your iOS or Google App Store or use t
 
 [Pair a gateway](mobile-app-pair-gateway)
 
-[Add cameras](mobile-app-add-cameras.md)
+[Connect cameras to the gateway](mobile-app-add-cameras.md)
 
 [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
