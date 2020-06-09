@@ -20,7 +20,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
  
 4. In the **Network** screen:
 
-   a. Select the port that you connected your network to when you installed Azure Stack Edge (Port 2 if you have an RJ45 cable or Port 3 if you have an SFP cable).
+   a. Select the port that you connected your network to when you [installed Azure Stack Edge](ase-install.md) (Port 2 if you have an RJ45 cable or Port 3 if you have an SFP cable).
     
    ![Network screen](media/ase-network.PNG "Network screen")
  
