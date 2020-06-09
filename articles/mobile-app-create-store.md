@@ -74,7 +74,7 @@ about a store, including the creation date, number of cameras, and zones:
 
 [Pair a gateway](mobile-app-pair-gateway)
 
-[Add cameras](mobile-app-add-cameras.md)
+[Connect cameras to the gateway](mobile-app-add-cameras.md)
 
 [Add camera skill zones](add-camera-skill-zones.md)
  
