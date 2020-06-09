@@ -10,36 +10,36 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
    After signing in to Azure Stack Edge, you’ll see the **Get started** screen.
     
-   ![XXX](media/XXX.PNG "XXX")
+   ![Get started screen](media/ase-get-started.PNG "Get Started screen")
  
 2. Under **Set up as standalone**, select **Start**. 
 
 3. In the **Get started with standalone device setup** screen, select **Configure** next to **Network**.
 
-   ![XXX](media/XXX.PNG "XXX")
+   ![Configure command](media/ase-configure-network.PNG "Configure command")
  
 4. In the **Network** screen:
 
    a. Select the port that you connected your network to when you installed Azure Stack Edge (Port 2 if you have an RJ45 cable or Port 3 if you have an SFP cable).
     
-   ![XXX](media/XXX.PNG "XXX")
+   ![Network screen](media/ase-network.PNG "Network screen")
  
    b. In the **Network settings** pane on the right side of the screen, select the **Static** tab, and then enter the IP addresses for **Subnet mask**, **Gateway**, **Primary DNS**, and **Secondary DNS**. Select **Apply** when you’re done.
 
-   ![XXX](media/XXX.PNG "XXX")
+   ![Network settings pane](media/ase-network-settings.PNG "Network settings pane")
  
    > [!NOTE]
    > This is the information you recorded when working with the Site preparation section of the Installation guide. 
     
    c. In the **Network** screen, under **Virtual IP settings**, select **Azure Consistent Services**.
 
-   ![XXX](media/XXX.PNG "XXX")
+   ![Azure consistent services command](media/ase-azure-consistent-services.PNG "Azure consistent services command")
  
 5. In the **Virtual IP settings** pane, in the **Azure Consistent Services network** field, select the network (same as the static port configured earlier), select the **Static** tab, enter the IP address in the **Azure Consistent Services Virtual IP** field, and then select **Apply**.
 
 6. In the left pane, select **Device**.
 
-   ![XXX](media/XXX.PNG "XXX")
+   ![Device screen](media/ase-device.PNG "Device screen")
  
 7. In the **Device** screen, select the **Apply settings** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply settings**. Otherwise, the activation won’t work.
  
@@ -48,11 +48,9 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
 8. In the left pane, select **Update server**.
 
-   ![XXX](media/XXX.PNG "XXX")
-
 9. In the **Update server** screen, select **Apply** (you don’t need to make any changes in this screen).
 
-   ![XXX](media/XXX.PNG "XXX")
+   ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
 10. In the left pane, select **Time**.
 
@@ -62,7 +60,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
 13. In the **Get started with standalone device setup** screen, select **Activate**. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Activate command](media/ase-activate.PNG "Activate command")
  
 14. Open the Connected Store mobile application, and then do the following:
 
