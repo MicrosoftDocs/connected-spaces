@@ -2,7 +2,7 @@
 
 # Pair a gateway to a store by using the Dynamics 365 Connected Store mobile app
 
-Next, you need to pair a gateway to your store. A gateway serves as a device aggregator, where your input devices are connected and paired. You must have at least one gateway to successfully create a connected store. If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
+After [reating a store in Microsoft Dynamics 365 Connected Store](mobile-app-create-store.md), the next thing you need to do is pair a gateway to your store. A gateway serves as a device aggregator, where your input devices are connected and paired. You must have at least one gateway to successfully create a connected store. If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
 
 Connect Azure Stack Edge and configure the network
 1.	Use your laptop and the following documentation to connect Azure Stack Edge and configure the network: https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-deploy-connect-setup-activate
