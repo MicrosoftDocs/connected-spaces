@@ -18,7 +18,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     
     This opens the **Gateways** page. 
  
-2.	Tap the **+** sign at the bottom of the page.
+2.	Tap the **+** sign at the bottom of the **Gateways** page.
 
     ![Add gateway](media/add-gateway.PNG "Add gateway")
 
