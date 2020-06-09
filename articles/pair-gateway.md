@@ -68,6 +68,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
     The following table describes each field and specifies whether the field is editable from the **Gateway Info** page:
 
     |Field|Description|Editable?|
+    |--------------|------------------------------------------------------------|------|
     |**Name**|The friendly name of the gateway|Yes|
     |**Status**|Whether the device is connected or not|No|
     |**Network**|The IP Address, MAC Address, and Subnet Mask. For more information on these fields, see the Dynamics 365 Connected Store Deployment guide.|No|
