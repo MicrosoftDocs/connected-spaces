@@ -29,7 +29,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
    ![Network settings pane](media/ase-network-settings.PNG "Network settings pane")
  
    > [!NOTE]
-   > This is the information you recorded when working with the Site preparation section of the Installation guide. 
+   > This is the information you recorded when you [installed Azure Stack Edge](ase-install.md). 
     
    c. In the **Network** screen, under **Virtual IP settings**, select **Azure Consistent Services**.
 
