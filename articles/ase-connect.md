@@ -39,9 +39,11 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
 6. In the left pane, select **Device**.
 
-   ![Device screen](media/ase-device.PNG "Device screen")
+   ![Device command](media/ase-device-left-nav.PNG "Device command")
  
 7. In the **Device** screen, select the **Apply settings** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply settings**. Otherwise, the activation won’t work.
+
+   ![Device screen](media/ase-device.PNG "Device screen")
  
    > [!NOTE]
    > At this time, you can’t change the device name. 
