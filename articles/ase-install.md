@@ -88,4 +88,4 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 ## What's next?
 
-[Create a store on the mobile app](mobile-app-create-store.md)
+[Connect Azure Stack Edge to your network](ase-connect.md)
