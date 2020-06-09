@@ -14,7 +14,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 1.	On the **Stores** page, tap a store in the Stores list. This opens the **Gateways** page. 
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Add gateway](media/add-gateway.PNG "Add gateway")
  
 2.	Tap the **+** sign at the bottom of the page.
 
@@ -22,29 +22,31 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     “Go to aka.ms/ConnectedStore on your laptop and enter the following <security number> to get the activation key of your gateway.”
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Pairing instructions](media/pairing-instructions.PNG "Pairing instructions")
 
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
+
+    ![Sign-in button](media/sign-in.PNG "Sign-in button")
  
 5.	Enter your Dynamics 365 Connected Store credentials.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Sign-in dialog box](media/credentials.PNG "Sign-in dialog box")
  
 6.	Enter the security number from the mobile app.
  
-    ![xxx](media/xxx.PNG "xxx")
+    ![Device serial number box](media/security-number.PNG "Device serial number box")
  
 7.	Select the venue ID you created earlier in the mobile app, and then select **Submit**.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Venue ID box](media/venue-id.PNG "Venue ID box")
  
 8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), paste it into the **Activation** key field in the **Activate** pane, and then select **Activate**.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
     The activation process can take from one to ten minutes. When the device is activated, a notification will appear on your laptop to inform you that activation is complete. The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You’ll see a notification in the mobile app when downloading is complete.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Device activated notification](media/device-activated.PNG "Device activated notification")
  
     After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
 
@@ -54,11 +56,11 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 
 1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Info button](media/gateway-info.PNG "Info button")
  
 2.	Review or edit the info.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Gateway fields](media/gateway-fields.PNG "Gateway fields")
  
     > [!IMPORTANT]
     > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
@@ -80,7 +82,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 
 2.	Tap **Rename** at the bottom of the page.
 
-    ![xxx](media/xxx.PNG "xxx")
+    ![Rename button](media/gateway-rename.PNG "Rename button")
 
 ## What's next?
 
