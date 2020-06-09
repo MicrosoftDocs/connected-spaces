@@ -2,7 +2,7 @@
 
 # Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store
 
-After you've installed Azure Stack Edge, you're ready to connect it to your network. If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
+After you've [installed Azure Stack Edge](ase-install.md), you're ready to connect it to your network. If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
 
 ## Connect Azure Stack Edge and configure the network
 
