@@ -14,7 +14,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 1.	On the **Stores** page, tap a store in the Stores list. This opens the **Gateways** page. 
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 2.	Tap the **+** sign at the bottom of the page.
 
@@ -22,29 +22,29 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     “Go to aka.ms/ConnectedStore on your laptop and enter the following <security number> to get the activation key of your gateway.”
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
 
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
  
 5.	Enter your Dynamics 365 Connected Store credentials.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 6.	Enter the security number from the mobile app.
  
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 7.	Select the venue ID you created earlier in the mobile app, and then select **Submit**.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), paste it into the **Activation** key field in the **Activate** pane, and then select **Activate**.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
     The activation process can take from one to ten minutes. When the device is activated, a notification will appear on your laptop to inform you that activation is complete. The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You’ll see a notification in the mobile app when downloading is complete.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
     After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
 
@@ -54,11 +54,11 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 
 1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 2.	Review or edit the info.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
     > [!IMPORTANT]
     > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
@@ -80,7 +80,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 
 2.	Tap **Rename** at the bottom of the page.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
 
 ## What's next?
 
