@@ -12,11 +12,15 @@ Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store mo
 
 To complete this procedure, you'll use the mobile app and your laptop, which should be connected to Azure Stack Edge as described in [Connect Azure Stack Edge to your network](ase-connect.md).
 
-1.	On the **Stores** page, tap a store in the Stores list. This opens the **Gateways** page. 
+1.	On the **Stores** page, tap a store in the Stores list. 
 
-    ![Add gateway](media/add-gateway.PNG "Add gateway")
+    ![Stores list](media/stores-list.PNG "Stores list")
+    
+    This opens the **Gateways** page. 
  
 2.	Tap the **+** sign at the bottom of the page.
+
+    ![Add gateway](media/add-gateway.PNG "Add gateway")
 
 3.	Select the gateway you want to pair with, and then tap the **Add** button next to it. You’ll see the following message: 
 
