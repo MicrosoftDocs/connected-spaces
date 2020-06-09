@@ -54,17 +54,17 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
    SCREEN SHOT GOES HERE
  
-10.	In the left pane, select **Time**.
+10. In the left pane, select **Time**.
 
-11.	In the **Time** screen, select the correct time zone, and then select **Apply**. 
+11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
 
-12.	In the left pane, select **Get started**.
+12. In the left pane, select **Get started**.
 
-13.	In the **Get started with standalone device setup** screen, select **Activate**. 
+13. In the **Get started with standalone device setup** screen, select **Activate**. 
 
     SCREEN SHOT GOES HERE
  
-14.	Open the Connected Store mobile application, and then do the following:
+14. Open the Connected Store mobile application, and then do the following:
 
     a. [Create a store](mobile-app-create-store.md).
     
@@ -73,3 +73,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
     c. [Add cameras to the gateway](mobile-app-add-cameras.md).
     
     d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
+    
+## What's next?
+
+[Create a store using the Dynamics 365 Connected Store mobile app](mobile-app-create-store.md)
