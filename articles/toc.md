@@ -17,4 +17,4 @@
 ### [Pair a gateway](mobile-app-pair-gateway.md)
 ### [Add cameras](mobile-app-add-cameras.md)
 ### [Add camera skill zones](add-camera-skill-zones.md)
-## [Get insights](insights.md)
+## [Get insights with the web app](insights.md)
