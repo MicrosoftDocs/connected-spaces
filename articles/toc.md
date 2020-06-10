@@ -17,5 +17,5 @@
 ### [Create a store](mobile-app-create-store.md)
 ### [Pair a gateway](mobile-app-pair-gateway.md)
 ### [Connect a camera to the gateway](mobile-app-add-cameras.md)
-### [Add camera skill zones](add-camera-skill-zones.md)
+### [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
 ## [Get insights with the web app](web-app-get-insights.md)
