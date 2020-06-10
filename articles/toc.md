@@ -2,7 +2,6 @@
 ## [Overview](index.md)
 ## [Sign up for the public preview](sign-up.md)
 ## [Get started](get-started.md)
-## [Determine your business interests](determine-business-interests.md)
 ## Camera plan and installation
 ### [Checklist](camera-placement-checklist.md)
 ### [General guidelines and scenarios](camera-placement-general.md)
