@@ -8,7 +8,7 @@ If your store has multiple gateways, you’ll need to access them one by one to 
 
 If you haven't already installed your cameras, see: 
 
-- [Checklist for planning camera placement](camera-placement-checklist.md)
+- [Checklist for placing cameras](camera-placement-checklist.md)
 
 - [Install your cameras](install-cameras.md)
 
