@@ -1,10 +1,6 @@
 
 
-# General guidelines and scenarios for placing cameras for use with Dynamics 365 Connected Store
-
-
-
-## Scenarios
+# Scenarios for placing cameras to use with Dynamics 365 Connected Store
 
 The main scenarios for camera placement include the following zones:
 
