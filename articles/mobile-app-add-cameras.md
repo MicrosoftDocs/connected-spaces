@@ -1,6 +1,6 @@
 
 
-# Connect a camera to a gateway with the Dynamics 365 Connected Store mobile app
+# Connect a camera to a gateway in the Dynamics 365 Connected Store mobile app
 
 After you've paired a gateway to your store in Microsoft Dynamics 365 Connected Store, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any camera on the same network as your gateway.
 
