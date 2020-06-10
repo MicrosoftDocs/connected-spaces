@@ -18,18 +18,18 @@ If you haven't already installed your cameras, see:
 
 2. On the **Cameras** page, tap the **+** button. 
 
-    SCREEN SHOT GOES HERE
+    ![Plus sign button](media/add-camera.PNG "Plus sign button")
  
 3. Select an available camera, and then tap the **+** sign  next to it. (You’ll see the camera feed after you sign in).
 
    > [!TIP]
    > To add multiple cameras that use the same sign-in credentials, tap a camera image, tap the button to the left of each camera you want to add, and then tap the **+** button in the upper-right corner of the page.
     
-    SCREEN SHOT GOES HERE
+    ![Add multiple cameras](media/add-cameras.PNG "Add multiple cameras")
  
 4.	Enter the current username and password for the camera (supplied by your IT administrator), and then select **Apply** (or **Apply All** if you selected multiple cameras).
  
-    SCREEN SHOT GOES HERE
+    ![Authentication screen](media/camera-authentication.PNG "Authentication screen")
     
 After connecting a camera to a gateway, you can [add a camera skill zone](mobile-app-add-camera-skill-zones.md).
 
@@ -41,11 +41,11 @@ On the **Cameras** page, you can get quick information about the camera from the
 
 2. Tap **Info** at the bottom of the page.
 
-    SCREEN SHOT GOES HERE
+    ![Info button](media/camera-info.PNG "Info button")
  
 3. Review and/or edit the information.
 
-    SCREEN SHOT GOES HERE
+    ![Camera fields](media/camera-fields.PNG "Camera fields")
  
     The following table describes each field and specifies whether the field is editable from the **Camera Info** page:
 
@@ -65,7 +65,7 @@ On the **Cameras** page, you can get quick information about the camera from the
 
 2. Select **Rename** at the bottom of the page.
 
-    SCREEN SHOT GOES HERE
+    ![Rename command](media/camera-rename.PNG "Rename command")
 
 ## Remove a camera
 
@@ -73,7 +73,7 @@ On the **Cameras** page, you can get quick information about the camera from the
 
 2. Select **Remove** at the bottom of the page.
 
-    SCREEN SHOT GOES HERE
+    ![Remove command](media/camera-remove.PNG "Remove command")
  
 ## What's next?
 
