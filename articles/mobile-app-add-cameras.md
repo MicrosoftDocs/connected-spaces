@@ -31,7 +31,7 @@ If you haven't already installed your cameras, see:
  
     SCREEN SHOT GOES HERE
     
-After connecting a camera to a gateway, you can [add a camera skill zone](mobile-app-add-camera-skill-zone.md)
+After connecting a camera to a gateway, you can [add a camera skill zone](mobile-app-add-camera-skill-zones.md)
 
 ## Get more information about a camera
 
