@@ -7,7 +7,7 @@ move and interact within your store.
 
 When determining where to place your cameras, we recommend working through this checklist:
 
-1.	[Understand your business interests](determine-business-interests.md) and your customer insight goals (limited to 10 cameras total 
+1.	[Understand scenarios](camera-placement-general.md) and your customer insight goals (limited to 10 cameras total 
 for the preview).
 
 2.	Select up to 10 locations for the cameras (focused on display effectiveness, queue analysis, and store traffic) and mark them on 
