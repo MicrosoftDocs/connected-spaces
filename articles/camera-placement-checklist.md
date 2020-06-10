@@ -7,15 +7,13 @@ move and interact within your store.
 
 When determining where to place your cameras, we recommend working through this checklist:
 
-1.	[Understand scenarios](camera-placement-general.md) and your customer insight goals (limited to 10 cameras total 
-for the preview).
+1.	[Understand scenarios](camera-placement-general.md) and your customer insight goals.
 
-2.	Select up to 10 locations for the cameras (focused on display effectiveness, queue analysis, and store traffic) and mark them on 
-your site floorplan.
+2.	Select up to 10 locations for the cameras (focused on the display effectiveness, queue analysis, and store traffic zones) and mark them on your site floorplan.
 
-3.	[Review the general placement guidelines and scenarios](camera-placement-general.md).
+3.	[Review the general placement guidelines](camera-placement-general.md).
 
-4.	[Review the camera placement recommendations](camera-placement-recommendations.md) to determine camera placement details for the specified locations.
+4.	[Review height, angle, and focus-point recommendations](camera-placement-recommendations.md) to determine camera placement details for the specified locations.
 
 5.	[Determine the installation locations](camera-placement-recommendations.md) (height and distance from target) for each camera to help prepare for installation and cable routing.
 
