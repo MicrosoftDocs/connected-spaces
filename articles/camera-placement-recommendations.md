@@ -2,7 +2,7 @@
 
 # Camera height, angle, and focal-point recommendations for Dynamics 365 Connected Store
 
-Consider the following general guidelines when positioning cameras for Dynamics 365 Connected Store:
+Consider the following general guidelines when positioning cameras for Microsoft Dynamics 365 Connected Store:
 
 - **Lighting height.** Place cameras below lighting fixtures so the fixtures don’t block the cameras.
 
