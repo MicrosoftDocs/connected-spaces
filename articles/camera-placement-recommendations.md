@@ -1,8 +1,8 @@
 
 
-# Camera height, angle, and focal-point recommendations for Dynamics 365 Connected Store
+# Camera placement recommendations (height, angle, and focal-point) for Dynamics 365 Connected Store
 
-## General guidelines to keep in mind when placing cameras
+## General guidelines
 
 Consider the following general guidelines when positioning cameras for Microsoft Dynamics 365 Connected Store:
 
