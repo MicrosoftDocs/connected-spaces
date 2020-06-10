@@ -4,7 +4,7 @@
 ## [Get started](get-started.md)
 ## Camera plan and installation
 ### [Checklist](camera-placement-checklist.md)
-### [General guidelines and scenarios](camera-placement-general.md)
+### [Scenarios](camera-placement-general.md)
 ### [Height, angle, and focal point](camera-placement-recommendations.md)
 ### [Install the cameras](install-cameras.md)
 ## Install and connect Azure Stack Edge
