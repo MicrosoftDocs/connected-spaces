@@ -47,15 +47,15 @@ On the **Cameras** page, you can get quick information about the camera from the
 
     SCREEN SHOT GOES HERE
  
-The following table describes each field and specifies whether the field is editable from the **Camera Info** page:
+    The following table describes each field and specifies whether the field is editable from the **Camera Info** page:
 
-|Field|Description|Editable?|
-|-------------------|----------------------------------------------------|------|
-|Name|The friendly name of the camera|Yes|
-|Description|Brief description about the camera|Yes|
-|Network Details|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md)|No|
-|Credentials|The username and password for the camera|Yes|
-|Device info|The firmware and camera model|No|
+    |Field|Description|Editable?|
+    |-------------------|----------------------------------------------------|------|
+    |Name|The friendly name of the camera|Yes|
+    |Description|Brief description about the camera|Yes|
+    |Network Details|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-  install.md)|No|
+    |Credentials|The username and password for the camera|Yes|
+    |Device info|The firmware and camera model|No|
 
 4.	When you’re finished, select the check mark in the upper-right corner of the page to go back to the **Cameras** page.
 
