@@ -20,17 +20,17 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
 
 1.	On the **Cameras** page, select the camera you want to add a skill zone to by tapping it, and then tap the + button.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 2.	Select one of the three available skills.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
     The zone is added to the Zone list. It shows the skill zone name, type of skill zone, and whether it’s active or not.
 
 3.	Rotate your phone to Landscape mode so you have a larger screen to work with. (You may need to change your screen rotation setting allow Landscape mode.)
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 4.	The new zone appears in the middle of the screen. Tap and drag the zone to move it where you want it.
 
@@ -40,7 +40,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
 
 7.	Make changes to the fields to customize the skill for your store’s needs.
 
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
     The fields change depending on which skill you choose in step 2. The following table describes the fields for each skill zone.
 
@@ -60,7 +60,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
     > [!TIP]
     > You can edit skills details or zone placement anytime by tapping the Actions  button for the zone you want to update.
     
-    SCREEN SHOT GOES HERE
+    ![xxx](media/xxx.PNG "xxx")
  
 ## Tips for drawing skill zones
 
@@ -72,13 +72,13 @@ If you want to see a specific section of your camera view, create a small, selec
 
 This zone is small and focused on the area of interest:
 
-SCREEN SHOT GOES HERE
+![xxx](media/xxx.PNG "xxx")
  
 ### Example of a zone that isn’t well-shaped
 
 The corners of this zone will capture data from the side aisles instead of the focus area—the display.
 
-SCREEN SHOT GOES HERE
+![xxx](media/xxx.PNG "xxx")
  
 > [!TIP]
 > For display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
