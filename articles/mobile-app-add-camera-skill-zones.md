@@ -28,7 +28,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
  
     The zone is added to the Zone list. It shows the skill zone name, type of skill zone, and whether it’s active or not.
 
-3.	Rotate your phone to Landscape mode so you have a larger screen to work with. (You may need to change your screen rotation setting allow Landscape mode.)
+3.	Rotate your phone to Landscape mode so you have a larger screen to work with. (You may need to change your screen rotation setting to allow Landscape mode.)
 
     ![Rotated screen showing camera view](media/skill-zone-rotate.PNG "Rotated screen showing camera view")
  
