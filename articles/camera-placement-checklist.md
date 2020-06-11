@@ -5,7 +5,7 @@
 Dynamics 365 Connected Store requires Loss Prevention (LP) cameras installed within your space to process customer actions as they 
 move and interact within your store.
 
-When determining where to place your cameras, we recommend working through this checklist:
+When determining where to place your cameras, we recommend using this checklist:
 
 1.	[Understand the scenarios](camera-placement-general.md) and your customer insight goals.
 
