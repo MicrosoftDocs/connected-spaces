@@ -58,7 +58,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
 8.	When you’re finished editing the skills, tap the check mark in the upper-right corner of the page.
 
     > [!TIP]
-    > You can edit skills details or zone placement anytime by tapping the Actions  button for the zone you want to update.
+    > You can edit skills details or zone placement anytime by tapping the **Actions** button for the zone you want to update.
     
     ![Actions button](media/skill-zone-actions-button.PNG "Actions button")
  
