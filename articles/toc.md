@@ -1,5 +1,5 @@
 # Dynamics 365 Connected Store
-## [Overview](index.md)
+## [Overview of Dynamics 365 Connected Store](index.md)
 ## [Sign up for the public preview](sign-up.md)
 ## [Get started](get-started.md)
 ## Camera plan and installation
