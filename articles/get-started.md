@@ -14,7 +14,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 4. [Install the cameras](install-cameras.md) and route the ethernet cable.
 
-5. [Prepare and configure the network and install Azure Stack Edge](ase-installation.md).
+5. [Prepare and configure the network and install Azure Stack Edge](ase-install.md).
 
 6. [Connect Azure Stack Edge to the network](ase-connect.md).
 
