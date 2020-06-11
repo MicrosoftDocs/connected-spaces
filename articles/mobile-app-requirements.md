@@ -30,4 +30,4 @@ If you have any problems with the app, make sure that your operating system is u
 
 [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
-[Add camera skill zones](add-camera-skill-zones.md)
+[Add camera skill zones](mobile-app-add-camera-skill-zones.md)
