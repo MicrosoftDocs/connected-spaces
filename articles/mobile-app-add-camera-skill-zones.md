@@ -46,14 +46,14 @@ The zone is added to the Zone list. It shows the skill zone name, type of skill 
 
     |Field|	Description|	Applies to (skills)|
     |----------------|------------------------------------------------|-------------------------------------------------------|
-    |Zone Name|	Give your zone a name to easily identify it in the dashboard (for example, Holiday promotion).	|- Display effectiveness<br>- Queue management<br>- Store traffic|
-    |Active Date Range|	Set the time frame for collecting data in the selected zone.<br><br>For the display effectiveness skill, this is especially useful for zones where the physical location of the zone may not change but the product changes.	|- Display effectiveness<br>- Queue management<br>- Store traffic|
-    |Engagement Threshold|	Set a dwell time threshold over which you consider people engaged in the zone.|	- Display effectiveness|
-    |Direction Names|	Personalize the names of the sides of your zone to give context to the people count data.|	- Display effectiveness<br>- Queue management<br>- Store traffic|
-    |People Count|	The number of people crossing into and/or out of a zone.|	- Display effectiveness<br>- Queue management<br>- Store traffic|
-    |Dwell Time	|The average time spent by people in a selected zone. |	- Display effectiveness|
-    |Direction	|Associates people count with the direction name of a zone side.	|- Display effectiveness<br>- Queue management<br>- Store traffic|
-    |Direction Names|	Personalize the names of the sides of your zone to give context to the people count data.|	- Store traffic|
+    |**Zone Name**|Give your zone a name to easily identify it in the dashboard (for example, Holiday promotion).|- Display effectiveness<br>- Queue management<br>- Store traffic|
+    |**Active Date Range**|Set the time frame for collecting data in the selected zone.<br><br>For the display effectiveness skill, this is especially useful for zones where the physical location of the zone may not change but the product changes.|- Display effectiveness<br>- Queue management<br>- Store traffic|
+    |**Engagement Threshold**|Set a dwell time threshold over which you consider people engaged in the zone.|- Display effectiveness|
+    |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>- Store traffic|
+    |**People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Store traffic|
+    |**Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
+    |**Direction**|Associates people count with the direction name of a zone side.|- Display effectiveness<br>- Queue management<br>- Store traffic|
+    |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Store traffic|
 
 8.	When you’re finished editing the skills, tap the check mark in the upper-right corner of the page.
 Tip: You can edit skills details or zone placement anytime by tapping the Actions  button for the zone you want to update.
