@@ -10,7 +10,7 @@
 ## Install and connect Azure Stack Edge
 ### [Prepare network and install](ase-install.md)
 ### [Connect to the network](ase-connect.md)
-## Use the mobile app
+## Add a store and connect cameras with the mobile app
 ### [Overview](mobile-app-overview.md)
 ### [Requirements](mobile-app-requirements.md)
 ### [Download](mobile-app-download.md)
