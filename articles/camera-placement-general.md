@@ -50,6 +50,6 @@ For entrance cameras, consider the following:
 
 ## What's next?
 
-[Learn about camera height, angle, and focal point recommendations](camera-placement-recommendations.md)
+[Learn about placement recommendations](camera-placement-recommendations.md)
 
 
