@@ -10,7 +10,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 2. [Determine your business interests](camera-placement-general.md). These are the insights you want to gain from the app for the different zones in your store. 
 
-3. [Create a plan for placing your cameras](camera-placement.md).
+3. [Create a plan for placing your cameras](camera-placement-recommendations.md).
 
 4. [Install the cameras](camera-installation.md) and route the ethernet cable.
 
