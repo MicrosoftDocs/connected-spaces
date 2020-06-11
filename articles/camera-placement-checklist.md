@@ -17,4 +17,4 @@ When determining where to place your cameras, we recommend using this checklist:
 
 ## What's next?
 
-[Review placement recommendations](camera-placement-general.md)
+[Understand the scenarios](camera-placement-general.md)
