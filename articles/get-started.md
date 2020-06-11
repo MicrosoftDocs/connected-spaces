@@ -12,7 +12,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 3. [Create a plan for placing your cameras](camera-placement-recommendations.md).
 
-4. [Install the cameras](camera-installation.md) and route the ethernet cable.
+4. [Install the cameras](install-cameras.md) and route the ethernet cable.
 
 5. [Prepare and configure the network and install Azure Stack Edge](ase-installation.md).
 
