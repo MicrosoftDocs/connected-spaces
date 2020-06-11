@@ -83,3 +83,6 @@ The corners of this zone will capture data from the side aisles instead of the f
 > [!TIP]
 > For display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
+## What's next?
+
+[Get insights with the web app](web-app-get-insights.md)
