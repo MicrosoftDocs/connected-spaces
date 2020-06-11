@@ -26,7 +26,7 @@ Welcome to Dynamics 365 Connected Store! This article describes the steps requir
 
 10. [Add skill zones to the cameras](mobile-app-add-camera-skill-zones.md) You'll use the mobile app to do this step.
 
-11. [Use dashboards to gain insights](insights.md). You'll use the web app to do this step.
+11. [Use dashboards to gain insights](web-app-get-insights.md). You'll use the web app to do this step.
 
 ## What's next?
 
