@@ -71,5 +71,5 @@ When youâ€™re finished mounting and setting up the camera per the manufacturerâ€
 
 ## What's next?
 
-[Install Azure Stack Edge](ase-install.md)
+[Prepare your network and install Azure Stack Edge](ase-install.md)
 
