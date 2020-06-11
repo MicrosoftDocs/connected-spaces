@@ -56,17 +56,30 @@ The zone is added to the Zone list. It shows the skill zone name, type of skill 
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Store traffic|
 
 8.	When you’re finished editing the skills, tap the check mark in the upper-right corner of the page.
-Tip: You can edit skills details or zone placement anytime by tapping the Actions  button for the zone you want to update.
+
+    > [!TIP]
+    > You can edit skills details or zone placement anytime by tapping the Actions  button for the zone you want to update.
+    
+    SCREEN SHOT GOES HERE
  
-Tips for drawing skill zones
+## Tips for drawing skill zones
+
 Remember that every store is different; you’ll need to update the position or size depending on your needs.
+
 If you want to see a specific section of your camera view, create a small, selective zone for it. This increases the accuracy of the data collected and prevents false positives from areas you don’t want to track. Be careful placing the corners of your polygon to make sure they’re not outside the area you want to track.
  
-Example of a well-shaped zone
+### Example of a well-shaped zone
+
 This zone is small and focused on the area of interest:
+
+SCREEN SHOT GOES HERE
  
-Example of a zone that isn’t well-shaped
+### Example of a zone that isn’t well-shaped
+
 The corners of this zone will capture data from the side aisles instead of the focus area—the display.
+
+SCREEN SHOT GOES HERE
  
-Tip: For display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
+> [!TIP]
+> For display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
