@@ -116,6 +116,13 @@ cameras in the specified distance from the target within the acceptable 120-degr
 
 ![Acceptable camera angle](media/camera-angle-acceptable.PNG "Acceptable camera angle")
 
+The following illustration provides simulations for left and right camera views for end caps.
+
+|Left view|Right view|
+|----------------------------------------------------------|-----------------------------------------------------|
+|![Left view](media/end-cap-left.PNG "Left view")|![Right view](media/end-cap-right.PNG "Right view")|
+
+
 ### Queues
 
 For optimal queue data quality, retractable belt barriers are preferred. This type of barrier is preferred over 
