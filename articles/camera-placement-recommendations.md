@@ -149,10 +149,12 @@ acceptable deviation of +/- 15 degrees in each direction.
 
 ![Camera angle for zig-zag queue](media/camera-angle-zig-zag-queue.PNG "Camera angle for zig-zag queue")
 
-The following illustration simulates the view from a camera placed in the ideal location for a zig-zag queue.
-  
-![Ideal location for zig-zag queue](media/camera-angle-ideal-zig-zag.PNG "Ideal location for zig-zag queue")
+The following illustrations simulate the view from a camera placed in the ideal locations for a zig-zag queue.
 
+|View 1|View 2|
+|----------------------------------------------------------|-----------------------------------------------------|
+|![View 1](media/camera-angle-ideal-zig-zag-1.PNG "View 1")|![View 2](media/camera-angle-ideal-zig-zag-2.PNG "View 2")|
+  
 #### Fixture (shelving) queues
 
 Fixture queue lines use shelving to guide shoppers and to enable impulse buying. 
