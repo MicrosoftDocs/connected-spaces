@@ -128,8 +128,6 @@ The following illustration provides simulations for left and right camera views 
 For optimal queue data quality, retractable belt barriers are preferred. This type of barrier is preferred over 
 opaque barriers for queue formation.
 
-![Belted queue](media/belted-queue.PNG "Belted queue")
- 
 #### Zig-zag and linear queues
 
 There are two types of queues: linear and zig-zag.
@@ -159,8 +157,6 @@ The following illustration simulates the view from a camera placed in the ideal 
 
 Fixture queue lines use shelving to guide shoppers and to enable impulse buying. 
 
-![Shelving queue](media/shelving-queue.PNG "Shelving queue")
- 
 This style of queue formation restricts the camera’s view of customers because it blocks customers from the waist down. 
 To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 
 customers.
