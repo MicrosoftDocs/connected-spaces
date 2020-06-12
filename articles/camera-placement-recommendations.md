@@ -51,9 +51,13 @@ camera view, and then adjust the height as necessary.
 ## Camera-to-focal-point distance
 
 *Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
-camera. This distance is measured on the floor plane.
+camera. 
 
 ![Camera-to-focal-point-distance](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
+
+This distance is measured on the floor plane.
+
+![How camera-to-focal-point-distance is measured](media/camera-to-focal-point-2.PNG "How camera-to-focal-point-distance is measured")
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
 These distances are for optimal placement and are suitable for end caps (display effectiveness), queues, or entrances. 
