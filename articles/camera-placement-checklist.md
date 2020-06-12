@@ -13,7 +13,7 @@ When determining where to place your cameras, we recommend using this checklist:
 
 3. [Review the general placement guidelines and scenarios](camera-placement-general.md).
 
-4. [Review the placement recommendations](camera-placement-recommendations.md) to determine camera placement details for the different zones(camera-placement-recommendations.md).
+4. [Review the placement recommendations](camera-placement-recommendations.md) to determine camera placement details for the different zones.
 
 5. [Determine the installation locations](camera-placement-recommendations.md) (height, angle, and focal-point-distance from the target) for each camera to help prepare for installation and cable routing.
 
