@@ -11,7 +11,7 @@ When determining where to place your cameras, we recommend using this checklist:
 
 2. Select up to 10 locations for the cameras (focused on the **Display Effectiveness**, **Queue Management**, and **Shopper Analytics** zones) and mark them on your site floorplan.
 
-3. [Review the general placement guidelines and scenarios](camera-placement-general.md)
+3. [Review the general placement guidelines and scenarios](camera-placement-general.md).
 
 4. [Review the camera placement recommendations](camera-placement-recommendations.md) to determine camera placement details for the different zones(camera-placement-recommendations.md).
 
