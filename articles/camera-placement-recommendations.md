@@ -154,6 +154,10 @@ The following illustrations simulate the view from a camera placed in the ideal 
 |View 1|View 2|
 |----------------------------------------------------------|-----------------------------------------------------|
 |![View 1](media/camera-angle-ideal-zig-zag-1.PNG "View 1")|![View 2](media/camera-angle-ideal-zig-zag-2.PNG "View 2")|
+
+|View 3|View 4|
+|----------------------------------------------------------|-----------------------------------------------------|
+|![View 3](media/camera-angle-ideal-zig-zag-3.PNG "View 3")|![View 4](media/camera-angle-ideal-zig-zag-4.PNG "View 4")|
   
 #### Fixture (shelving) queues
 
