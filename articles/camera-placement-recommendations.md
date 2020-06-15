@@ -42,7 +42,7 @@ It's also important to know the direction that the majority of people walk in re
 
 ![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
 
-The following illustration shows the elevation and plan view for person walking direction.
+The following illustration shows the elevation view for person walking direction.
 
 ![Elevation and plan view](media/person-walking-direction-2.PNG "Elevation and plan view")
 
