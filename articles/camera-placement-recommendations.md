@@ -125,8 +125,11 @@ The following illustration provides simulations for left and right camera views 
 
 ### Queues
 
-For optimal queue data quality, retractable belt barriers are preferred. This type of barrier is preferred over 
-opaque barriers for queue formation.
+For optimal queue data quality, retractable belt barriers are preferred. 
+
+![Retractable belt queue](media/retractable-belt-queue.PNG "Retractable belt queue")
+
+This type of barrier is preferred over opaque barriers for queue formation.
 
 #### Zig-zag and linear queues
 
