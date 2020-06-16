@@ -1,3 +1,13 @@
+---
+author: kfrankc-ms
+description: Learn how to prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store (public preview)
+ms.author: frch
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store (public preview)
+ms.reviewer: v-brycho
+--- 
 
 # Prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store
 
