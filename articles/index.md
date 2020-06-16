@@ -4,7 +4,7 @@ Dynamics 365 Connected Store brings together computer vision and AI to help tran
 
 ![Woman at counter demonstrating queue management](media/overview.PNG "Woman at counter demonstrating queue management")
 
-Dynamics 365 Connected Store enables customers to:
+Dynamics 365 Connected Store enables you to:
 
 - **React to environmental triggers.** Ensure that customer needs are met effectively and quickly by equipping store managers and employees with actionable alerts triggered by store activity, such as long checkout lines. Access to automated, sensor-driven reporting is standardized and available in-the-moment for immediate action.
 
