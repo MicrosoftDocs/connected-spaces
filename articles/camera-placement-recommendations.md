@@ -2,7 +2,7 @@
 
 # Camera placement recommendations for Dynamics 365 Connected Store
 
-This article provides camera placement recommendations for Microsoft Dynamics 365 Connected Store. It includes general guidelines as well as specific recommendations for height, angle, and camera-to-focal-point-distance for the three different zones (**Display Effectiveness**, **Queue Management**, and **Shopper Analytics**).
+This article provides camera placement recommendations for Microsoft Dynamics 365 Connected Store. It includes general guidelines as well as specific recommendations for height, angle, and camera-to-focal-point-distance for the three different zones (**Display effectiveness**, **Queue management**, and **Shopper analytics**).
 
 ## General guidelines
 
