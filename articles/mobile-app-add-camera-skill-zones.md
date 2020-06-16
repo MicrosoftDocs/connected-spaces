@@ -7,9 +7,9 @@ custom zones with one of three available skills:
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
-|Display effectiveness|	Track how your displays perform	|End caps, displays, promotions|
-|Shopper analytics| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
-|Queue management|	Understand traffic patterns into and around the store|	Store entry/exit, aisles|
+|**Display Effectiveness**|	Track how your displays perform	|End caps, displays, promotions|
+|**Shopper Analytics**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
+|**Queue Management**|	Understand traffic patterns into and around the store|	Store entry/exit, aisles|
 
 You can add one skill zone per camera view. Your skill zones can have custom names and shapes (limited to four sides).
 
