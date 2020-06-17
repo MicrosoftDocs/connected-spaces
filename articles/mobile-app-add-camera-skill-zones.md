@@ -97,7 +97,7 @@ If you have a lot of skills in your Skill zone list, you might want to sort or f
 
 To sort or filter the Skill zone list:
 
-- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
+- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Skill zone** page.
 
 ## What's next?
 
