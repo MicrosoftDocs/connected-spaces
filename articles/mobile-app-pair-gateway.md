@@ -9,9 +9,9 @@ title: Pair a gateway with the Dynamics 365 Connected Store (public preview) mob
 ms.reviewer: v-brycho
 ---
 
-# Pair a gateway with the Dynamics 365 Connected Store mobile app
+# Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
 
-Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store mobile app, you need to:
+Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store (public preview) mobile app, you need to:
 
 1. [Install Azure Stack Edge](ase-install.md).
 
