@@ -77,6 +77,14 @@ about a store, including the creation date, number of cameras, and zones:
 2. Tap **Rename** at the bottom of the page.
 
     ![Rename button](media/store-rename.PNG "Rename button")
+    
+## Sort or filter the Stores list
+
+If you have a stores in your Stores list, you might want to sort or filter the list to find the store you're looking for. 
+
+To sort or filter the Stores list:
+
+- Select the **Sort/Filter** button on the **Stores** page.
  
 ## What's next?
 
