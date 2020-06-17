@@ -80,7 +80,7 @@ about a store, including the creation date, number of cameras, and zones:
     
 ## Sort or filter the Stores list
 
-If you have a stores in your Stores list, you might want to sort or filter the list to find the store you're looking for. 
+If you have a lot of stores in your Stores list, you might want to sort or filter the list to find the store you're looking for. 
 
 To sort or filter the Stores list:
 
