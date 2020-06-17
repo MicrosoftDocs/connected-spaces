@@ -9,11 +9,10 @@ title: Create a store with the Dynamics 365 Connected Store (public preview) mob
 ms.reviewer: v-brycho
 ---
 
-# Create a store with the Dynamics 365 Connected Store mobile app
+# Create a store with the Dynamics 365 Connected Store (public preview) mobile app
 
 After you [prepare your network and install Azure Stack Edge](ase-install.md), you’re ready to create a store with the 
-Dynamics 365 Connected Store mobile app. 
-
+Microsoft Dynamics 365 Connected Store (public preview) mobile app. 
 
 ## Create a store
 
