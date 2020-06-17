@@ -85,6 +85,8 @@ If you have a lot of stores in your Stores list, you might want to sort or filte
 To sort or filter the Stores list:
 
 - Select the **Sort/Filter** button on the **Stores** page.
+
+   ![Stores list](media/stores-list.PNG "Stores list") 
  
 ## What's next?
 
