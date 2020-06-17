@@ -1,7 +1,17 @@
+---
+author: alissapolucha
+description: Download the mobile app for Dynamics 365 Connected Store (public preview)
+ms.author: alissag
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Download the Dynamics 365 Connected Store (public preview) mobile app
+ms.reviewer: v-brycho
+---
 
-# Download the Dynamics 365 Connected Store mobile app
+# Download the Dynamics 365 Connected Store (public preview) mobile app
 
-Keep the following in mind before using the Microsoft Dynamics 365 Connected Store mobile app:
+Keep the following in mind before using the Microsoft Dynamics 365 Connected Store (public preview) mobile app:
 
 - Make sure that your cameras, network, and Azure Stack Edge have been installed for your store. 
 
