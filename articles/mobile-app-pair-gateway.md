@@ -1,3 +1,14 @@
+---
+author: alissapolucha
+description: Learn how to use the Dynamics 365 Connected Store (public preview) mobile app to pair a gateway so you can connect LP cameras.
+ms.author: alissag
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
+ms.reviewer: v-brycho
+---
+
 # Pair a gateway with the Dynamics 365 Connected Store mobile app
 
 Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store mobile app, you need to:
