@@ -91,6 +91,14 @@ The corners of this zone will capture data from the side aisles instead of the f
 > [!TIP]
 > For display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
+## Sort or filter the Skill zone list
+
+If you have a lot of skills in your Skill zone list, you might want to sort or filter the list to find the skill zone you're looking for. 
+
+To sort or filter the Skill zone list:
+
+- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
+
 ## What's next?
 
 [Get insights with the web app](web-app-get-insights.md)
