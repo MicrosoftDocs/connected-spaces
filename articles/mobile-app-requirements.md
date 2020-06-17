@@ -1,8 +1,17 @@
+---
+author: alissapolucha
+description: Learn about the requirements for using the Dynamics 365 Connected Store (public preview) mobile app
+ms.author: alissag
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Requirements for using the Dynamics 365 Connected Store (public preview) mobile app
+ms.reviewer: v-brycho
+---
 
+# Requirements for using the Dynamics 365 Connected Store (public preview) mobile app
 
-# Requirements for using the Dynamics 365 Connected Store mobile app
-
-You can use the mobile app on Android and iPhone phones. 
+You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile app on Android and iPhone phones. 
 
 > [!NOTE]
 > You can’t use the mobile app on an iPad or Android tablet at this time.
