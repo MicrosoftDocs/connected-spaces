@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Connected Store (public preview)
 
-Dynamics 365 Connected Store (public preview) brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Store delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
+Microsoft Dynamics 365 Connected Store (public preview) brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Store delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
 
 ![Woman at counter demonstrating queue management](media/overview.PNG "Woman at counter demonstrating queue management")
 
