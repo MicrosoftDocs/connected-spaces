@@ -98,6 +98,14 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 2.	Tap **Rename** at the bottom of the page.
 
     ![Rename button](media/gateway-rename.PNG "Rename button")
+    
+## Sort or filter the Gateways list
+
+If you have a lot of gateways in your Gateways list, you might want to sort or filter the list to find the gateway you're looking for. 
+
+To sort or filter the Gateways list:
+
+- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
 
 ## What's next?
 
