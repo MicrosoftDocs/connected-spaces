@@ -83,6 +83,14 @@ On the **Cameras** page, you can get quick information about the camera from the
 2. Select **Remove** at the bottom of the page.
 
     ![Remove command](media/camera-remove.PNG "Remove command")
+    
+## Sort or filter the Cameras list
+
+If you have a lot of cameras in your Cameras list, you might want to sort or filter the list to find the camera you're looking for. 
+
+To sort or filter the Cameras list:
+
+- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Cameras** page.
  
 ## What's next?
 
