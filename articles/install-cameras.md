@@ -1,7 +1,17 @@
+---
+author: krankc-ms
+description: Learn how to install LP cameras to use with Dynamics 365 Connected Store (public preview)
+ms.author: frch
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Install a camera to use with Dynamics 365 Connected Store (public preview)
+ms.reviewer: v-brycho
+---
 
-# Install a camera to use with Dynamics 365 Connected Store
+# Install a camera to use with Dynamics 365 Connected Store (public preview)
 
-This article describes how to install and configure a Loss Prevention (LP) camera to use with Dynamics 365 Connected Store.
+This article describes how to install and configure a Loss Prevention (LP) camera to use with Microsoft Dynamics 365 Connected Store (public preview).
 
 ## Supported cameras
 
