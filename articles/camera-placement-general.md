@@ -11,13 +11,13 @@ ms.reviewer: v-brycho
 
 # Scenarios for placing cameras to use with Dynamics 365 Connected Store (public preview)
 
-The main scenarios for camera placement include the following zones:
+The main scenarios for camera placement in Microsoft Dynamics 365 Connected Store (public preview) include the following zones:
 
-- End caps (to determine display effectiveness)
+- End caps (**Display effectiveness** skill)
 
-- Queues
+- Queues (**Queue management** skill)
 
-- Entrances
+- Entrances (**Shopper analytics** skill)
 
 To plan for the scenarios in your space, you need to understand each zone and the way customers and the environment interact with that zone.
 
