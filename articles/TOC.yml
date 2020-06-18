@@ -1,9 +1,7 @@
 - name: Dynamics 365 Connected Store
   items:
     - name: Overview of Dynamics 365 Connected Store
-      href: index.md
-    - name: Sign up for the public preview
-      href: sign-up.md
+      href: index.md    
     - name: Get started
       href: get-started.md
     - name: Camera plan and installation
