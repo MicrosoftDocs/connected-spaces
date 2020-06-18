@@ -99,13 +99,13 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 
     ![Rename button](media/gateway-rename.PNG "Rename button")
     
-## Sort or filter the Gateways list
+## Sort the Gateways list
 
-If you have a lot of gateways in your Gateways list, you might want to sort or filter the list to find the gateway you're looking for. 
+If you have a lot of gateways in your Gateways list, you might want to sort the list to find the gateway you're looking for. 
 
-To sort or filter the Gateways list:
+To sort the Gateways list:
 
-- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
+- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
 
 ## What's next?
 
