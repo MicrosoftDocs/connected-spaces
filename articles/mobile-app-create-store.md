@@ -78,13 +78,13 @@ about a store, including the creation date, number of cameras, and zones:
 
     ![Rename button](media/store-rename.PNG "Rename button")
     
-## Sort or filter the Stores list
+## Sort the Stores list
 
-If you have a lot of stores in your Stores list, you might want to sort or filter the list to find the store you're looking for. 
+If you have a lot of stores in your Stores list, you might want to sort the list to find the store you're looking for. 
 
 To sort or filter the Stores list:
 
-- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
+- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
 
  
 ## What's next?
