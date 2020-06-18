@@ -66,7 +66,7 @@ about a store, including the creation date, number of cameras, and zones:
     |**Name**|The friendly name of the store|Yes|
     |**Creation Date**|The date the store was added to the app|No|
     |**Location**|The location of the store|Yes|
-    |**Store Overview**|The number of available gateways, cameras, and skill zones installed in the store.<br><br>Learn more about:<br>- [Gateways](mobile-app-pair-gateway.md)<br>- [Cameras](mobile-app-add-cameras.md)<br>- [Skill zones](mobile-app-add-skills.md)|No|
+    |**Store Overview**|The number of available gateways, cameras, and skill zones installed in the store.<br><br>Learn more about:<br>- [Gateways](mobile-app-pair-gateway.md)<br>- [Cameras](mobile-app-add-cameras.md)<br>- [Skill zones](mobile-app-add-camera-skill-zones.md)|No|
 
 4. When you’re finished, tap the check mark in the upper-right corner of the page to go back to the **Stores** page.
 
