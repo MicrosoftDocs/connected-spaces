@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This article describes the steps required to acquire, install, configure, and use  Dynamics 365 Connected Store. 
 
-1. [Sign up for the public preview](sign-up.md). After you're accepted into the public preview program, we'll send you an Azure Stack Edge Gateway device. This is also the time to purchase other necessary equipment if you need it (LP cameras and network switch).
+1. Sign up for the public preview. After you're accepted into the public preview program, we'll send you an Azure Stack Edge Gateway device. This is also the time to purchase other necessary equipment if you need it (LP cameras and network switch).
 
    When you sign up for the public preview, you can also download the Dynamics 365 Connected Store mobile app. 
 
@@ -37,6 +37,4 @@ Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This ar
 
 11. [Use dashboards to gain insights](web-app-get-insights.md). You'll use the web app to do this step.
 
-## What's next?
 
-[Sign up for the public preview if you haven't already](sign-up.md)
