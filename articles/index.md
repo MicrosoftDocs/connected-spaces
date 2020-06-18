@@ -23,9 +23,6 @@ Dynamics 365 Connected Store enables you to:
 
 - **Empower long-term decision making.** Predict the ideal future behaviors as your environment status changes over time. Make your insights stronger with each passing day.
 
-## What's next?
-
-[Sign up for the public preview](sign-up.md)
 
 
 
