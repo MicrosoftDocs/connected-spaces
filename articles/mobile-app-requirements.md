@@ -35,7 +35,7 @@ If you have any problems with the app, make sure that your operating system is u
 
 [Create a store](mobile-app-create-store.md)
 
-[Pair a gateway](mobile-app-pair-gateway)
+[Pair a gateway](mobile-app-pair-gateway.md)
 
 [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
