@@ -37,7 +37,7 @@ To download the app for your device, go to your iOS or Google App Store or use t
 
 [Create a store](mobile-app-create-store.md)
 
-[Pair a gateway](mobile-app-pair-gateway)
+[Pair a gateway](mobile-app-pair-gateway.md)
 
 [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
