@@ -1,5 +1,5 @@
 ---
-author: krankc-ms
+author: kfrankc-ms
 description: Review a checklist for placing and installing LP cameras for use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
 ms.date: 07/01/2020
