@@ -1,5 +1,5 @@
 ---
-author: krankc-ms
+author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
 ms.date: 07/01/2020
