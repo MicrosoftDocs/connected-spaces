@@ -38,7 +38,7 @@ along with the people count.
 
 ![Least busy day card](media/analytics-19.PNG "Least busy day card")
 
-The subscript describes the absolute change in this value for the current time frame compared to average footfall across all 
+The subscript in the card describes the absolute change in this value for the current time frame compared to average footfall across all 
 displays during the selected time frame. The triangle to the left of the subscript indicates the difference in footfall for the 
 highlighted day, compared to the daily average footfall during the selected time frame. 
 
@@ -47,16 +47,14 @@ footfall for the selected time frame.
 
 ![Busest entrance card](media/analytics-20.PNG "Busiest entrance card")
 
-The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal 
-duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Least busy entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the least 
 footfall for the selected time frame. 
 
 ![Least busy entrance card](media/analytics-21.PNG "Least busy entrance card")
 
-The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal 
-duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Total footfall at all entrances.** This graph breaks down total store footfall according to Shopper analytics zone. 
 
@@ -93,8 +91,7 @@ displays, along with the time, in seconds, for dwell time.
 
 ![Least engaging display card](media/analytics-26.PNG "Least engaging display card")
 
-The subscript describes the absolute change in this value for the current time frame compared to average engagement (dwell time) across 
-all displays during the selected time frame. The downward triangle to the left of the subscript indicates that the change was negative. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to average engagement (dwell time) across all displays during the selected time frame. The downward triangle to the left of the subscript indicates that the change was negative. 
 
 **3 busiest displays.** This graph shows the people count trend data for the three display effectiveness zones that, on average, 
 received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall 
@@ -139,8 +136,7 @@ The banner at the top of the page provides a loose indication of a customer acqu
 
 ![Store footfall card](media/analytics-31.PNG "Store footfall card")
 
-The subscript describes the percent change in this value for the current time frame compared to the previous time frame of equal 
-duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Display passersby.** This card highlights the number of people that passed within the camera field of view that contains the 
 display effectiveness zone of interest. 
@@ -155,15 +151,13 @@ whether the change was positive or negative.
 
 ![Display footfall card](media/analytics-33.PNG "Display footfall card")
 
-The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal 
-duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Avg. engagement.** This card highlights average time people engaged (dwelled) in the selected display effectiveness zone. 
 
 ![Average engagement card](media/analytics-34.PNG "Average engagement card")
 
-The subscript describes the absolute change in this value for the current time frame compared to average engagement (dwell) time 
-across all displays during the selected time frame. The upward-facing triangle to the left of the subscript indicates the positive 
+The subscript in the card describes the absolute change in this value for the current time frame compared to average engagement (dwell) time across all displays during the selected time frame. The upward-facing triangle to the left of the subscript indicates the positive 
 direction. 
 
 **Busiest entrance.** This card highlights the side of the display effectiveness zone through which most people entered, 
@@ -171,14 +165,14 @@ using the friendly name assigned to the side.
 
 ![Busiest entrance card](media/analytics-35.PNG "Busiest entrance card")
 
-The subscript details how much of the total display footfall came through the illustrated side.
+The subscript in the card details how much of the total display footfall came through the illustrated side.
 
 **Busiest exit.** This card highlights the side of the display effectiveness zone through which most people exited, using the 
 friendly name assigned to the side. 
 
 ![Busiest exit card](media/analytics-36.PNG "Busiest exit card")
 
-The subscript details how much of total display footfall came through that side.
+The subscript in the card details how much of total display footfall came through that side.
 
 **[Display 1] display footfall.** This graph shows footfall into Display 1 for the selected time frame, compared to the average 
 footfall, represented by the dashed line for Display 1 during the selected time frame.
