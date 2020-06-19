@@ -83,7 +83,7 @@ frame, along with the people count.
 
 > [!NOTE]
 > Because there are several factors that can contribute to a change in value (for example, number of displays in the store or a change 
-in display configuration), the app does include a comparison subscript.
+in display configuration), the app does not include a comparison subscript.
 
 **Least engaging display.** This card highlights the name of the display where people engaged (dwelled)  shorter on average than other 
 displays, along with the time, in seconds, for dwell time. 
