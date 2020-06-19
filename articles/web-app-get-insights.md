@@ -75,7 +75,7 @@ The subscript in this card describes the absolute change in this value for the c
 > [!NOTE]
 > Because there are several factors that can contribute to a change in value (for example, the number of displays in the store or a change in display configuration), the application does not include a comparison subscript.
 
-**Most engaging display.** This card highlights the name of the display where people dwelled longer on average, along with the corresponding value. 
+**Most engaging display.** This card highlights the name of the display where people dwelled longer on average, along with the amount of time. 
 
 ![Most engaging display card](media/analytics-8.PNG "Most engaging display card")
 
