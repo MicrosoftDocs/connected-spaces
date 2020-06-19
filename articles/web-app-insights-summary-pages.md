@@ -138,13 +138,11 @@ The banner at the top of the page provides a loose indication of a customer acqu
 The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Display passersby.** This card highlights the number of people that passed within the camera field of view that contains the 
-display effectiveness zone of interest. 
+display effectiveness zone of interest. This gives you an indication of how much traffic passed by the display. 
 
 ![Display passersby card](media/analytics-32.PNG "Display passersby card")
 
-This gives you an indication of how much traffic passed by the display. The subscript describes the absolute change in this value 
-for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates 
-whether the change was positive or negative. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
 **Display footfall.** This card highlights the number of people who entered the display effectiveness zone. 
 
