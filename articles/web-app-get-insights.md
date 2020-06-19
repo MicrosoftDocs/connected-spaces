@@ -19,7 +19,7 @@ Connected Store supports the following camera skills:
 
 - Display effectiveness
 
- Queue management [Coming soon]. 
+- Queue management [Coming soon]. 
  
 For a quick overview of how to get insights using the web app, scan the screens in this article. For a more thorough understanding, read through each section and experiment!
 
