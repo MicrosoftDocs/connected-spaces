@@ -147,6 +147,29 @@ The banner at the top of the page highlights the key takeaways and comparisons. 
 
 SCREEN SHOT GOES HERE
 
+The subscript describes the absolute change in this value for the current time frame compared to average footfall across all displays during the selected time frame. The triangle to the left of the subscript indicates the difference in footfall for the highlighted day, compared to the daily average footfall during the selected time frame. 
+
+**Busiest entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the greatest footfall for the selected time frame. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+
+**Least busy entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the least footfall for the selected time frame. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+
+**Total footfall at all entrances.** This graph breaks down total store footfall according to Shopper analytics zone. 
+
+You can view trends for individual zones in the line graphs below (for example, **Footfall at Entrance 1**).
+
+SCREEN SHOT GOES HERE
+
+To see data for each individual entrance, hover over the desired data in the graph.
+
+SCREEN SHOT GOES HERE
 
 
 
