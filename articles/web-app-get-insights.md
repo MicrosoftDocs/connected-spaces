@@ -75,5 +75,28 @@ SCREEN SHOT GOES HERE
 
 **Most engaging display.** This card highlights the name of the display where people dwelled longer on average, along with the corresponding value. 
 
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to average dwell time for all displays during the selected time frame. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+
+**Longest queue.** This card highlights the queue that was occupied by the most number of people across all queues for the selected time frame, along with the name of the queue and the date on which the value was observed. 
+
+SCREEN SHOT GOES HERE
+
+**Slowest queue.** This card highlights the maximum wait (dwell) time for a queue across all queues for a selected time frame, along with the name of the queue and the date on which the value was observed. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
+
+Below the highlights banner, the Analytics page shows two data visualizations for each skill, starting with Shopper analytics.
+
+> [!TIP]
+> You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
+
+
+
+
+
 
 
