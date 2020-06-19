@@ -121,7 +121,6 @@ Below the highlights banner, the **Analytics** page shows two data visualization
 ![Shopper management visualizations section of Analytics page](media/analytics-15.PNG "Shopper management visualizations section of Analytics page")
 
 **Longest queue in store.** This graph shows the people count of the queue that had the most people for the selected time frame. 
-Note: The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
 
 > [!NOTE]
 > The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
