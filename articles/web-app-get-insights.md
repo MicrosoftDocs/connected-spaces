@@ -27,7 +27,7 @@ For a quick overview of how to get insights, scan the screens in this article. F
 
 After entering your credentials in the web app, you’ll see the **Analytics** page. This page provides a sense of the store’s overall performance across the skill-configured zones. 
 
-The page includes a banner at the top that highlights key takeaways from all skill-configured zones. Below the banner, the page displays two visualizations per skill that illustrate general trends for those skills.
+The **Analytics** page includes a banner at the top that highlights key takeaways from all skill-configured zones. Below the banner, the page displays two visualizations per skill that illustrate general trends for those skills.
 
 ![Analytics page](media/analytics-1.PNG "Analytics page")
 
