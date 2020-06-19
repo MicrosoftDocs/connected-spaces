@@ -25,21 +25,21 @@ For a quick overview of how to get insights using the web app, scan the screens 
 
 ## Analytics page
 
-After entering your credentials, you’ll see the Analytics page. This page provides a sense of the store’s overall performance across the skill-configured zones. 
+After entering your credentials, you’ll see the **Analytics** page. This page provides a sense of the store’s overall performance across the skill-configured zones. 
 
 The page includes a banner at the top that highlights key takeaways from all skill-configured zones. Below the banner, the page displays two visualizations per skill that illustrate general trends for those skills.
 
-![XXX](media/analytics-1.PNG "XXX")
+![Analytics page](media/analytics-1.PNG "Analytics page")
 
 By default, the **Analytics** page shows the last 30 days, but you can select a custom date range or choose from other pre-selected ranges by using the date picker in the upper-right corner of the page. 
 
-![XXX](media/analytics-2.PNG "XXX")
+![Date picker](media/analytics-2.PNG "Date picker")
 
 ### Highlights banner
 
 The highlights banner shows the general rhythm of the store. The banner includes two cards for each configured skill. 
 
-![XXX](media/analytics-3.PNG "XXX")
+![Highlights banner](media/analytics-3.PNG "Highlights banner")
 
 1.	Shopper analytics
 
