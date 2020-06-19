@@ -74,8 +74,8 @@ relative to each other. Use this page to answer this question: “How effective 
 ![Display effectiveness summary page](media/analytics-24.PNG "Display effectiveness summary page")
 
 The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall**, **Busiest display**, and 
-**Most engaging display** cards are carried over from the **Analytics Overview** page. See the **Analytics Overview** page section of this article to learn about those cards.
- 
+**Most engaging display** cards are carried over from the [**Analytics Overview** page](web-app-get-insights.md). 
+
 **Least busy display.** This card highlights the name of the display that had the least number of people for the selected time 
 frame, along with the people count. 
 
