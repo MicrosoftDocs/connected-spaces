@@ -129,4 +129,4 @@ Below the highlights banner, the **Analytics** page shows two data visualization
 
 ## What's next?
 
-[View summary pages on the Analytics page](web-app-insights-summary-pages.md)
+[View the summary pages on the Analytics page](web-app-insights-summary-pages.md)
