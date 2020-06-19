@@ -37,7 +37,7 @@ By default, the **Analytics** page shows the last 30 days, but you can select a 
 
 ## Highlights banner
 
-The highlights banner shows the general rhythm of the store. The banner includes two cards for each configured skill. 
+The highlights banner at the top of the **Analytics** page shows the general rhythm of the store. The banner includes two cards for each configured skill. 
 
 ![Highlights banner](media/analytics-3.PNG "Highlights banner")
 
