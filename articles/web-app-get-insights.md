@@ -94,6 +94,58 @@ Below the highlights banner, the Analytics page shows two data visualizations fo
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
+SCREEN SHOT GOES HERE
+
+### Shopper analytics visualizations
+
+SCREEN SHOT GOES HERE
+
+** Total footfall across store.** This graph shows the total number of people that have entered the store, across all Shopper analytics zones. The dotted line is the average footfall for the store during the selected time frame. 
+
+
+** Total occupancy across store.**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
+
+### Display effectiveness visualizations
+
+SCREEN SHOT GOES HERE
+
+**Total footfall across displays.** This graph shows the total number of people that entered the display effectiveness zones across the entire store. The dotted line is the average footfall across display effectiveness zones during the selected time frame.
+
+**Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all display effectiveness zones during the selected time frame.
+
+### Queue Management visualizations
+
+SCREEN SHOT GOES HERE
+
+**Longest queue in store.** This graph shows the people count of the queue that had the most people for the selected time frame. 
+Note: The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
+
+> [!NOTE]
+> The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
+
+**Average wait time across all queues.** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame The dotted line is the average wait time for all queue management zones during the selected time frame.
+
+### View summary pages
+
+To view the summary page with additional visualizations for any skill, select the blue arrow to the right of the skill. Shopper analytics.
+
+SCREEN SHOT GOES HERE
+
+To go back to the **Analytics** page from any summary page, select from the breadcrumb at the top of the page.
+
+SCREEN SHOT GOES HERE
+
+### Shopper analytics summary page
+
+The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, and anomalies at store entries/exits. This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited the store during a given timeframe, broken down by entrance.
+
+SCREEN SHOT GOES HERE
+
+The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the **Analytics Overview** page. For information on these cards, see the **Analytics** section in this article.
+
+**Least busy day**. This card highlights the day and date within the selected time frame that had the least number of people, along with the people count. 
+
+SCREEN SHOT GOES HERE
 
 
 
