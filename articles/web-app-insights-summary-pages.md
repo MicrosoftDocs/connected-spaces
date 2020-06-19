@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 You can [use the **Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store web app to get insights on your retail store. This article describes how to view summary pages (available from the **Analytics** page for any skill (Shopper analytics, Display effectiveness, or Queue management).
 
-## View the summary pages
+## View a summary page for a particular skill
 
 To view the summary page with additional visualizations for any skill, select the blue arrow to the right of the skill. 
 
