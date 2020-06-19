@@ -9,7 +9,7 @@ title: Use the Dynamics 365 Connected Store (public preview) web app to get insi
 ms.reviewer: v-brycho
 ---
 
-# Use the Dynamics 365 Connected Store web app to get insights on your store
+# Use the Analytics page in the Dynamics 365 Connected Store web app to get insights on your retail store
 
 Dynamics 365 Connected Store serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
