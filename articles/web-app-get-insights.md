@@ -55,7 +55,7 @@ Each card in the banner has an information icon that you can hover over to get a
 
 ![Store footfall card](media/analytics-5.PNG "Store footfall card")
 
-The subscript describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
+The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
 >[!NOTE]
 > If there’s insufficient data to draw a comparison, no information is displayed in the subscript area. This is true for all cards in the highlights banner.
@@ -64,7 +64,7 @@ The subscript describes the percent change in this value for the current time fr
 
 ![Busiest day card](media/analytics-6.PNG "Busiest day card")
 
-The subscript describes the absolute change in this value for the current time frame compared to average footfall across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater footfall for the highlighted day was compared to the daily average footfall during the selected time frame. 
+The subscript in this card describes the absolute change in this value for the current time frame compared to average footfall across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater footfall for the highlighted day was compared to the daily average footfall during the selected time frame. 
 
 **Busiest display.** This card highlights the name of the display that had the greatest number of people during the selected timeframe, along with the people count. 
 
@@ -77,7 +77,7 @@ The subscript describes the absolute change in this value for the current time f
 
 ![Most engaging display card](media/analytics-8.PNG "Most engaging display card")
 
-The subscript describes the absolute change in this value for the current time frame compared to average dwell time for all displays during the selected time frame. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+The subscript in this card describes the absolute change in this value for the current time frame compared to average dwell time for all displays during the selected time frame. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Longest queue.** This card highlights the queue that was occupied by the most number of people across all queues for the selected time frame, along with the name of the queue and the date on which the value was observed. 
 
@@ -87,9 +87,9 @@ The subscript describes the absolute change in this value for the current time f
 
 ![Slowest queue card](media/analytics-10.PNG "Slowest queue card")
 
-The subscript describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
+The subscript in this card describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
-Below the highlights banner, the Analytics page shows two data visualizations for each skill, starting with Shopper analytics.
+Below the highlights banner, the **Analytics** page shows two data visualizations for each skill, starting with Shopper analytics.
 
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
