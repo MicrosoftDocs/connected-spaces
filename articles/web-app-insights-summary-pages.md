@@ -56,7 +56,7 @@ footfall for the selected time frame.
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
-**Total footfall at all entrances.** This graph breaks down total store footfall according to Shopper analytics zone. 
+**Total footfall at all entrances.** This graph shows total store footfall according to Shopper analytics zone. 
 
 You can view trends for individual zones in the line graphs below (for example, **Footfall at Entrance 1**).
 
