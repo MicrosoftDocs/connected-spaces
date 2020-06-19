@@ -35,7 +35,7 @@ By default, the **Analytics** page shows the last 30 days, but you can select a 
 
 ![Date picker](media/analytics-2.PNG "Date picker")
 
-### Highlights banner
+## Highlights banner
 
 The highlights banner shows the general rhythm of the store. The banner includes two cards for each configured skill. 
 
@@ -98,7 +98,7 @@ Below the highlights banner, the Analytics page shows two data visualizations fo
 
 ![XXX](media/analytics-12.PNG "XXX")
 
-### Shopper analytics visualizations
+## Shopper analytics visualizations
 
 ![Shopper analytics visualizations section of Analytics page](media/analytics-13.PNG "Shopper analytics visualizations section of Analytics page")
 
@@ -106,7 +106,7 @@ Below the highlights banner, the Analytics page shows two data visualizations fo
 
 **Total occupancy across store.**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
-### Display effectiveness visualizations
+## Display effectiveness visualizations
 
 ![Display effectiveness visualizations section of Analytics page](media/analytics-14.PNG "Display effectiveness visualizations section of Analytics page")
 
@@ -114,7 +114,7 @@ Below the highlights banner, the Analytics page shows two data visualizations fo
 
 **Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all display effectiveness zones during the selected time frame.
 
-### Queue management visualizations
+## Queue management visualizations
 
 ![Shopper management visualizations section of Analytics page](media/analytics-15.PNG "Shopper management visualizations section of Analytics page")
 
