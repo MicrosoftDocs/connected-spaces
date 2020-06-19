@@ -27,7 +27,7 @@ To go back to the **Analytics** page from any summary page, select from the brea
 
 The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, and anomalies at store 
 entries/exits. This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited 
-the store during a given timeframe, broken down by entrance.
+the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
