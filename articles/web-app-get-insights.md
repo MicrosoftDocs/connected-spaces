@@ -47,6 +47,8 @@ The highlights banner at the top of the **Analytics** page shows the general rhy
 
 3.	Queue management
 
+<br>
+
 Each card in the banner has an information icon that you can hover over to get additional details.
 
 ![Information icon](media/analytics-4.PNG "Information icon")
