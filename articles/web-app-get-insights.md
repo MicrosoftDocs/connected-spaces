@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Use the Dynamics 365 Connected Store web app to get insights on your store
 
-Dynamics 365 Connected Store serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the web app. 
+Dynamics 365 Connected Store serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
 Connected Store supports the following camera skills: 
 
