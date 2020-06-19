@@ -94,13 +94,13 @@ Below the highlights banner, the Analytics page shows two data visualizations fo
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-![XXX](media/analytics-11.PNG "XXX")
+![Information icon and graph details](media/analytics-11.PNG "Information icon and graph details")
 
 ![XXX](media/analytics-12.PNG "XXX")
 
 ### Shopper analytics visualizations
 
-![XXX](media/analytics-13.PNG "XXX")
+![Shopper analytics visualizations section of Analytics page](media/analytics-13.PNG "Shopper analytics visualizations section of Analytics page")
 
 **Total footfall across store.** This graph shows the total number of people that have entered the store, across all Shopper analytics zones. The dotted line is the average footfall for the store during the selected time frame. 
 
@@ -108,15 +108,15 @@ Below the highlights banner, the Analytics page shows two data visualizations fo
 
 ### Display effectiveness visualizations
 
-![XXX](media/analytics-14.PNG "XXX")
+![Display effectiveness visualizations section of Analytics page](media/analytics-14.PNG "Display effectiveness visualizations section of Analytics page")
 
 **Total footfall across displays.** This graph shows the total number of people that entered the display effectiveness zones across the entire store. The dotted line is the average footfall across display effectiveness zones during the selected time frame.
 
 **Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all display effectiveness zones during the selected time frame.
 
-### Queue Management visualizations
+### Queue management visualizations
 
-![XXX](media/analytics-15.PNG "XXX")
+![Shopper management visualizations section of Analytics page](media/analytics-15.PNG "Shopper management visualizations section of Analytics page")
 
 **Longest queue in store.** This graph shows the people count of the queue that had the most people for the selected time frame. 
 Note: The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
@@ -130,35 +130,35 @@ Note: The solution can only capture people within the camera’s field of view. 
 
 To view the summary page with additional visualizations for any skill, select the blue arrow to the right of the skill. 
 
-![XXX](media/analytics-16.PNG "XXX")
+![Blue arrow to select to see a summary page](media/analytics-16.PNG "Blue arrow to select to see a summary page")
 
 To go back to the **Analytics** page from any summary page, select from the breadcrumb at the top of the page.
 
-![XXX](media/analytics-17.PNG "XXX")
+![Breadcrumb to select to go back to the Analytics page](media/analytics-17.PNG "Breadcrumb to select to go back to the Analytics page")
 
 ### Shopper analytics summary page
 
 The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, and anomalies at store entries/exits. This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited the store during a given timeframe, broken down by entrance.
 
-![XXX](media/analytics-18.PNG "XXX")
+![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
 The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the **Analytics Overview** page. For information on these cards, see the **Analytics** section in this article.
 
 **Least busy day**. This card highlights the day and date within the selected time frame that had the least number of people, along with the people count. 
 
-![XXX](media/analytics-19.PNG "XXX")
+![Least busy day card](media/analytics-19.PNG "Least busy day card")
 
 The subscript describes the absolute change in this value for the current time frame compared to average footfall across all displays during the selected time frame. The triangle to the left of the subscript indicates the difference in footfall for the highlighted day, compared to the daily average footfall during the selected time frame. 
 
 **Busiest entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the greatest footfall for the selected time frame. 
 
-![XXX](media/analytics-20.PNG "XXX")
+![Busest entrance card](media/analytics-20.PNG "Busiest entrance card")
 
 The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Least busy entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the least footfall for the selected time frame. 
 
-![XXX](media/analytics-21.PNG "XXX")
+![Least busy entrance card](media/analytics-21.PNG "Least busy entrance card")
 
 The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
@@ -166,36 +166,36 @@ The subscript describes the absolute change in this value for the current time f
 
 You can view trends for individual zones in the line graphs below (for example, **Footfall at Entrance 1**).
 
-![XXX](media/analytics-22.PNG "XXX")
+![Footfall and Entrance 1 example](media/analytics-22.PNG "Footfall at Entrance 1 example")
 
 To see data for each individual entrance, hover over the desired data in the graph.
 
-![XXX](media/analytics-23.PNG "XXX")
+![Data for individual entrance](media/analytics-23.PNG "Data for individual entrance")
 
 ### Display effectiveness summary page
 
 The **Display effectiveness summary** page shows a view of the performance of all display effectiveness zones and their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
 
-![XXX](media/analytics-24.PNG "XXX")
+![Display effectiveness summary page](media/analytics-24.PNG "Display effectiveness summary page")
 
 The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall**, **Busiest display**, and **Most engaging** cards are carried over from the **Analytics Overview** page. See the **Analytics Overview** page section of this article to learn about those cards.
  
 **Least busy display.** This card highlights the name of the display that had the least number of people for the selected time frame, along with the people count. 
 
-![XXX](media/analytics-25.PNG "XXX")
+![Least busy display card](media/analytics-25.PNG "Least busy display card")
 
 > [!NOTE]
 > Because there are several factors that can contribute to a change in value (for example, number of displays in the store or a change in display configuration), the app does include a comparison subscript.
 
 **Least engaging display.** This card highlights the name of the display where people engaged (dwelled)  shorter on average than other displays, along with the time, in seconds, for dwell time. 
 
-![XXX](media/analytics-26.PNG "XXX")
+![Least engaging display card](media/analytics-26.PNG "Least engaging display card")
 
 The subscript describes the absolute change in this value for the current time frame compared to average engagement (dwell time) across all displays during the selected time frame. The downward triangle to the left of the subscript indicates that the change was negative. 
 
 **3 busiest displays.** This graph shows the people count trend data for the three display effectiveness zones that, on average, received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall across all display effectiveness zones, illustrated by the dotted line.
 
-![XXX](media/analytics-27.PNG "XXX")
+![3 busiest displays graph](media/analytics-27.PNG "3 busiest displays graph")
 
 **3 most engaging displays.** This graph depicts the dwell time trend data for the three display effectiveness zones in which people, on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement (dwell) time across all display effectiveness zones, illustrated by the dotted line.
 
@@ -203,11 +203,11 @@ The subscript describes the absolute change in this value for the current time f
 
 To see data values for each display, hover over the graph. 
 
-![XXX](media/analytics-28.PNG "XXX")
+![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
 
 To see details for a specific display effectiveness zone, select the desired display name at the bottom of the page.
 
-![XXX](media/analytics-29.PNG "XXX")
+![Details for specific display effectiveness zone](media/analytics-29.PNG "Details for specific display effectiveness zone")
 
 ### Display effectiveness details page
 
