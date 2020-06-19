@@ -91,6 +91,8 @@ The subscript in this card describes the absolute change in this value for the c
 
 The subscript in this card describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
+## Visualizations on the Analytics page
+
 Below the highlights banner, the **Analytics** page shows two data visualizations for each skill, starting with Shopper analytics.
 
 > [!TIP]
@@ -98,7 +100,7 @@ Below the highlights banner, the **Analytics** page shows two data visualization
 
 ![Information icon and graph details](media/analytics-11.PNG "Information icon and graph details")
 
-## Shopper analytics visualizations
+### Shopper analytics visualizations
 
 ![Shopper analytics visualizations section of Analytics page](media/analytics-13.PNG "Shopper analytics visualizations section of Analytics page")
 
@@ -106,7 +108,7 @@ Below the highlights banner, the **Analytics** page shows two data visualization
 
 **Total occupancy across store.**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
-## Display effectiveness visualizations
+### Display effectiveness visualizations
 
 ![Display effectiveness visualizations section of Analytics page](media/analytics-14.PNG "Display effectiveness visualizations section of Analytics page")
 
@@ -114,7 +116,7 @@ Below the highlights banner, the **Analytics** page shows two data visualization
 
 **Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all display effectiveness zones during the selected time frame.
 
-## Queue management visualizations
+### Queue management visualizations
 
 ![Shopper management visualizations section of Analytics page](media/analytics-15.PNG "Shopper management visualizations section of Analytics page")
 
