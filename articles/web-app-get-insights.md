@@ -60,7 +60,7 @@ Each card in the banner has an information icon that you can hover over to get a
 The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
 >[!NOTE]
-> If there’s insufficient data to draw a comparison, no information is displayed in the subscript area. This is true for all cards in the highlights banner.
+> If there’s insufficient data to draw a comparison, no information is displayed in the subscript area. This is true for all cards on the **Analytics** page.
 
 **Busiest day.** This card highlights the day and date within the selected time frame that had the greatest number of people, along with the people count. 
 
