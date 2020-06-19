@@ -96,8 +96,6 @@ Below the highlights banner, the **Analytics** page shows two data visualization
 
 ![Information icon and graph details](media/analytics-11.PNG "Information icon and graph details")
 
-![XXX](media/analytics-12.PNG "XXX")
-
 ## Shopper analytics visualizations
 
 ![Shopper analytics visualizations section of Analytics page](media/analytics-13.PNG "Shopper analytics visualizations section of Analytics page")
