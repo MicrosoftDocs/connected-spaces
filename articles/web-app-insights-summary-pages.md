@@ -98,7 +98,7 @@ across all display effectiveness zones, illustrated by the dotted line.
 
 ![3 busiest displays graph](media/analytics-27.PNG "3 busiest displays graph")
 
-**3 most engaging displays.** This graph depicts the dwell time trend data for the three display effectiveness zones in which people, 
+**3 most engaging displays.** This graph shows the dwell time trend data for the three display effectiveness zones in which people, 
 on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement 
 (dwell) time across all display effectiveness zones, illustrated by the dotted line.
 
