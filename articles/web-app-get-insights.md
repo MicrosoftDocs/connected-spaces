@@ -23,7 +23,7 @@ Connected Store supports the following camera skills:
  
 For a quick overview of how to get insights using the web app, scan the screens in this article. For a more thorough understanding, read through each section and experiment!
 
-## Analytics page
+## Analytics page overview
 
 After entering your credentials, you’ll see the **Analytics** page. This page provides a sense of the store’s overall performance across the skill-configured zones. 
 
