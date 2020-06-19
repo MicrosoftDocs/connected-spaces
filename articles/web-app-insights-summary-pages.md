@@ -31,8 +31,7 @@ the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
-The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and *
-*Busiest day**, are carried over from the **Analytics Overview** page. For information on these cards, see the **Analytics** 
+The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the **Analytics Overview** page. For information on these cards, see the **Analytics** 
 section in this article.
 
 **Least busy day**. This card highlights the day and date within the selected time frame that had the least number of people, 
