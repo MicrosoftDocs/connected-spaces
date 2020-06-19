@@ -37,7 +37,7 @@
         - name: Add camera skill zones
           href: mobile-app-add-camera-skill-zones.md
     - name: Get insights with the web app
-      href: web-app-get-insights.md
+      items: 
         - name: Analytics page overview
           href: web-app-get-insights.md
         - name: Summary pages
