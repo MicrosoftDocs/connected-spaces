@@ -220,6 +220,68 @@ On this page, you can use the cards and graphs to understand:
 
 - *From what direction (side of display zone) did visitors enter/exit the display zone?*
 
+SCREEN SHOT GOES HERE
+
+The banner at the top of the page provides a loose indication of a customer acquisition funnel.
+
+**Store footfall.** This card highlights the sum of people that entered the store for the selected time frame. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+
+**Display passerby.** This card highlights the number of people that passed within the camera field of view that contains the display effectiveness zone of interest. 
+
+SCREEN SHOT GOES HERE
+
+This gives you an indication of how much traffic passed by the display. The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
+
+**Display footfall.** This card highlights the number of people who entered the display effectiveness zone. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+
+**Avg. engagement.** This card highlights average time people engaged (dwelled) in the selected display effectiveness zone. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to average engagement (dwell) time across all displays during the selected time frame. The upward-facing triangle to the left of the subscript indicates the positive direction. 
+
+**Busiest entrance.** This card highlights the side of the display effectiveness zone through which most people entered, using the friendly name assigned to the side. 
+
+SCREEN SHOT GOES HERE
+
+The subscript details how much of the total display footfall came through the illustrated side.
+
+**Busiest exit.** This card highlights the side of the display effectiveness zone through which most people exited, using the friendly name assigned to the side. 
+
+SCREEN SHOT GOES HERE
+
+The subscript details how much of total display footfall came through that side.
+
+**[Display 1] display footfall.** This graph shows footfall into Display 1 for the selected time frame, compared to the average footfall, represented by the dashed line for Display 1 during the selected time frame.
+
+SCREEN SHOT GOES HERE
+
+**[Display 1] display dwell time.** This graph shows the average time spent dwelling in the Display 1 zone for selected time frame, compared to the average engagement  (dwell) time represented by the dashed line for Display 1 during the selected time frame.
+
+**[Display 1] Enter/Exits sum.** This graph shows the break-down of footfall type by zone side, including how much traffic is coming/going from a specific direction into/out of the zone. Side names correspond to the friendly names created during skills/zone configuration. 
+
+> [!TIP]
+> You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
+
+SCREEN SHOT GOES HERE
+
+
+
+
+
+
+
+
+
+
 
 
 
