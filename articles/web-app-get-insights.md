@@ -128,4 +128,4 @@ Note: The solution can only capture people within the camera’s field of view. 
 
 ## What's next?
 
-[View summary pages on the Analytics page](web-app-get-insights-summary-pages.md)
+[View summary pages on the Analytics page](web-app-insights-summary-pages.md)
