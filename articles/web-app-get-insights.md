@@ -171,6 +171,59 @@ To see data for each individual entrance, hover over the desired data in the gra
 
 SCREEN SHOT GOES HERE
 
+### Display effectiveness summary page
+
+The **Display effectiveness summary** page shows a view of the performance of all display effectiveness zones and their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
+
+SCREEN SHOT GOES HERE
+
+The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall**, **Busiest display**, and **Most engaging** cards are carried over from the **Analytics Overview** page. See the **Analytics Overview** page section of this article to learn about those cards.
+ 
+**Least busy display.** This card highlights the name of the display that had the least number of people for the selected time frame, along with the people count. 
+
+SCREEN SHOT GOES HERE
+
+> [!NOTE]
+> Because there are several factors that can contribute to a change in value (for example, number of displays in the store or a change in display configuration), the app does include a comparison subscript.
+
+**Least engaging display.** This card highlights the name of the display where people engaged (dwelled)  shorter on average than other displays, along with the time, in seconds, for dwell time. 
+
+SCREEN SHOT GOES HERE
+
+The subscript describes the absolute change in this value for the current time frame compared to average engagement (dwell time) across all displays during the selected time frame. The downward triangle to the left of the subscript indicates that the change was negative. 
+
+**3 busiest displays.** This graph shows the people count trend data for the three display effectiveness zones that, on average, received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall across all display effectiveness zones, illustrated by the dotted line.
+
+SCREEN SHOT GOES HERE
+
+**3 most engaging displays.** This graph depicts the dwell time trend data for the three display effectiveness zones in which people, on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement (dwell) time across all display effectiveness zones, illustrated by the dotted line.
+
+**All store displays.** This table contains a sortable list of all display effectiveness zones by name, total people count, and average engagement time. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using the **Filter** button next to each column heading.
+
+To see data values for each display, hover over the graph. 
+
+SCREEN SHOT GOES HERE
+
+To see details for a specific display effectiveness zone, select the desired display name at the bottom of the page.
+
+SCREEN SHOT GOES HERE
+
+### Display effectiveness details page
+
+On this page, you can use the cards and graphs to understand:
+
+- Of total store visitors (assuming the store has been configured to capture footfall at store entry), *how many people passed by the display?*
+
+- Of display passersby, *how many people visited the display?*
+
+- Of total display visitors, *how long, on average, did they dwell?*
+
+- *From what direction (side of display zone) did visitors enter/exit the display zone?*
+
+
+
+
+
 
 
 
