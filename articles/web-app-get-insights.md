@@ -221,49 +221,49 @@ On this page, you can use the cards and graphs to understand:
 
 - *From what direction (side of display zone) did visitors enter/exit the display zone?*
 
-![XXX](media/analytics-30.PNG "XXX")
+![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
 
 The banner at the top of the page provides a loose indication of a customer acquisition funnel.
 
 **Store footfall.** This card highlights the sum of people that entered the store for the selected time frame. 
 
-![XXX](media/analytics-31.PNG "XXX")
+![Store footfall card](media/analytics-31.PNG "Store footfall card")
 
 The subscript describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
-**Display passerby.** This card highlights the number of people that passed within the camera field of view that contains the display effectiveness zone of interest. 
+**Display passersby.** This card highlights the number of people that passed within the camera field of view that contains the display effectiveness zone of interest. 
 
-![XXX](media/analytics-32.PNG "XXX")
+![Display passersby card](media/analytics-32.PNG "Display passersby card")
 
 This gives you an indication of how much traffic passed by the display. The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
 **Display footfall.** This card highlights the number of people who entered the display effectiveness zone. 
 
-![XXX](media/analytics-33.PNG "XXX")
+![Display footfall card](media/analytics-33.PNG "Display footfall card")
 
 The subscript describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Avg. engagement.** This card highlights average time people engaged (dwelled) in the selected display effectiveness zone. 
 
-![XXX](media/analytics-34.PNG "XXX")
+![Average engagement card](media/analytics-34.PNG "Average engagement card")
 
 The subscript describes the absolute change in this value for the current time frame compared to average engagement (dwell) time across all displays during the selected time frame. The upward-facing triangle to the left of the subscript indicates the positive direction. 
 
 **Busiest entrance.** This card highlights the side of the display effectiveness zone through which most people entered, using the friendly name assigned to the side. 
 
-![XXX](media/analytics-35.PNG "XXX")
+![Busiest entrance card](media/analytics-35.PNG "Busiest entrance card")
 
 The subscript details how much of the total display footfall came through the illustrated side.
 
 **Busiest exit.** This card highlights the side of the display effectiveness zone through which most people exited, using the friendly name assigned to the side. 
 
-![XXX](media/analytics-36.PNG "XXX")
+![Busiest exit card](media/analytics-36.PNG "Busiest exit card")
 
 The subscript details how much of total display footfall came through that side.
 
 **[Display 1] display footfall.** This graph shows footfall into Display 1 for the selected time frame, compared to the average footfall, represented by the dashed line for Display 1 during the selected time frame.
 
-![XXX](media/analytics-37.PNG "XXX")
+![Display 1 display footfall card](media/analytics-37.PNG "Display 1 display footfall card")
 
 **[Display 1] display dwell time.** This graph shows the average time spent dwelling in the Display 1 zone for selected time frame, compared to the average engagement  (dwell) time represented by the dashed line for Display 1 during the selected time frame.
 
@@ -272,4 +272,4 @@ The subscript details how much of total display footfall came through that side.
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-![XXX](media/analytics-38.PNG "XXX")
+![Example of graph details shown when hovering](media/analytics-38.PNG "Example of graph details shown when hovering")
