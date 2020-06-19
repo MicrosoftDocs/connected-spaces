@@ -110,11 +110,11 @@ To see data values for each display, hover over the graph.
 
 ![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
 
+## Display effectiveness details page
+
 To see details for a specific display effectiveness zone, select the desired display name at the bottom of the page.
 
 ![Details for specific display effectiveness zone](media/analytics-29.PNG "Details for specific display effectiveness zone")
-
-## Display effectiveness details page
 
 On this page, you can use the cards and graphs to understand:
 
