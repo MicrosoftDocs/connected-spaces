@@ -68,22 +68,6 @@ On the **Cameras** page, you can get quick information about the camera from the
 
 4.	When you’re finished, select the check mark in the upper-right corner of the page to go back to the **Cameras** page.
 
-## Rename a camera
-
-1. On the **Cameras** page, select the **Actions** button.
-
-2. Select **Rename** at the bottom of the page.
-
-    ![Rename command](media/camera-rename.PNG "Rename command")
-
-## Remove a camera
-
-1. On the **Cameras** page, select the **Actions** button.
-
-2. Select **Remove** at the bottom of the page.
-
-    ![Remove command](media/camera-remove.PNG "Remove command")
-    
 ## Sort the Cameras list
 
 If you have a lot of cameras in your Cameras list, you might want to sort the list to find the camera you're looking for. 
