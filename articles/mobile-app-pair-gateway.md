@@ -90,15 +90,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
     |**Device**|The firmware and model of the gateway|No|
    
 4.	When you’re finished, select the check mark in the upper-right corner of the screen.
-
-## Rename a gateway
-
-1.	On the **Gateways** page, tap the **Actions** button.
-
-2.	Tap **Rename** at the bottom of the page.
-
-    ![Rename button](media/gateway-rename.PNG "Rename button")
-    
+  
 ## Sort the Gateways list
 
 If you have a lot of gateways in your Gateways list, you might want to sort the list to find the gateway you're looking for. 
