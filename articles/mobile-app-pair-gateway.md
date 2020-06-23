@@ -80,7 +80,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
     > [!IMPORTANT]
     > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
    
-    The following table describes each field and specifies whether the field is editable from the **Gateway Info** page:
+    The following table describes each field:
 
     |Field|Description|
     |--------------|------------------------------------------------------------|
