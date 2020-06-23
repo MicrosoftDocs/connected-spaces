@@ -73,7 +73,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
 
     ![Info button](media/gateway-info.PNG "Info button")
  
-2.	Review or edit the info.
+2.	Review the info.
 
     ![Gateway fields](media/gateway-fields.PNG "Gateway fields")
  
@@ -82,13 +82,11 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
    
     The following table describes each field and specifies whether the field is editable from the **Gateway Info** page:
 
-    |Field|Description|Editable?|
-    |--------------|------------------------------------------------------------|------|
-    |**Name**|The friendly name of the gateway|Yes|
-    |**Status**|Whether the device is connected or not|No|
-    |**Network**|The IP Address, MAC Address, and Subnet Mask. For more information on these fields, see [prepare your network and Install Azure Stack Edge](ase-install.md).|No|
-    |**Device**|The firmware and model of the gateway|No|
-   
+    |Field|Description|
+    |--------------|------------------------------------------------------------|
+    |**Name**|The friendly name of the gateway|
+    |**IP Camera Range Scan**|- Enter the **IP Start Range** and the **IP End Range**. These are the IP addresses that you secured [when you prepared your network for Azure Stack Edge](ase-install.md)<br><br>The **Port** field shows which Port your network is connected to.|
+       
 4.	When you’re finished, select the check mark in the upper-right corner of the screen.
   
 ## Sort the Gateways list
