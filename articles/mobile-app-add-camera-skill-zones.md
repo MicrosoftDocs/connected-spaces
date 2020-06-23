@@ -91,6 +91,30 @@ The corners of this zone will capture data from the side aisles instead of the f
 > [!TIP]
 > For display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
+## Edit skill details
+
+1. Select the **Actions** button.
+
+2. Select **Edit Skill Details**.
+
+   ![Edit Skill Details command](media/edit-skill-zones.PNG "Edit Skill Details command")
+
+3. Make your changes.
+
+4. Select the check mark button in the upper-right corner of the page.
+
+## Edit zone views
+
+1. Select the **Actions** button.
+
+2. Select **Edit Zone Views**.
+
+   ![Edit Zone Views command](media/edit-zone-views.PNG "Edit Zone Views command")
+
+3. Make your changes.
+
+4. Select the check mark button in the upper-right corner of the page.
+
 ## Sort the Skills list
 
 If you have a lot of skills on your camera, you might want to sort the list to find the skill you're looking for. 
