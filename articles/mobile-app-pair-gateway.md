@@ -85,7 +85,7 @@ In the Gateway list on the **Gateways** page, you can see the name, IP address, 
     |Field|Description|
     |--------------|------------------------------------------------------------|
     |**Name**|The friendly name of the gateway|
-    |**IP Camera Range Scan**|- Enter the **IP Start Range** and the **IP End Range**. These are the IP addresses that you secured [when you prepared your network for Azure Stack Edge](ase-install.md)<br><br>The **Port** field shows which Port your network is connected to.|
+    |**IP Camera Range Scan**|- The **IP Start Range** and the **IP End Range** show the IP address range secured [when your network was prepared for Azure Stack Edge](ase-install.md)<br><br>- The **Port** field shows which Port your network is connected to.|
        
 4.	When you’re finished, select the check mark in the upper-right corner of the screen.
   
