@@ -55,7 +55,7 @@ about a store, including the creation date, number of cameras, and zones:
 
     ![Info button](media/store-info.PNG "Info button")
  
-3. Review and/or edit the info. 
+3. Review the info. 
 
     ![List of store fields](media/store-fields.PNG "List of store fields")
     
@@ -64,9 +64,9 @@ about a store, including the creation date, number of cameras, and zones:
     |Field|Description|
     |----------------------|--------------------------------------------|
     |**Store Name**|The friendly name of the store|
-    |**Allow Location Access**|The date the store was added to the app|
-    |**Set Time Zone**|The location of the store|
-    |**Store Overview**|The number of available gateways, cameras, and skill zones installed in the store.<br><br>Learn more about:<br>- [Gateways](mobile-app-pair-gateway.md)<br>- [Cameras](mobile-app-add-cameras.md)<br>- [Skill zones](mobile-app-add-camera-skill-zones.md)
+    |**Allow Location Access**|Allow your device to determine your location|
+    |**Set Time Zone**|Set the time zone for the store|
+    |**Add Store Image**|Select a photo from your files or take a picture with your phone camera|
 
 4. When you’re finished, tap the check mark in the upper-right corner of the page to go back to the **Stores** page.
 
