@@ -61,12 +61,12 @@ about a store, including the creation date, number of cameras, and zones:
     
     The following table describes each field and specifies whether the field is editable from the **Store Info** page:
 
-    |Field|Description|Editable?|
-    |----------------------|--------------------------------------------|--------|
-    |**Name**|The friendly name of the store|Yes|
-    |**Creation Date**|The date the store was added to the app|No|
-    |**Location**|The location of the store|Yes|
-    |**Store Overview**|The number of available gateways, cameras, and skill zones installed in the store.<br><br>Learn more about:<br>- [Gateways](mobile-app-pair-gateway.md)<br>- [Cameras](mobile-app-add-cameras.md)<br>- [Skill zones](mobile-app-add-camera-skill-zones.md)|No|
+    |Field|Description|
+    |----------------------|--------------------------------------------|
+    |**Store Name**|The friendly name of the store|
+    |**Creation Date**|The date the store was added to the app|
+    |**Location**|The location of the store|
+    |**Store Overview**|The number of available gateways, cameras, and skill zones installed in the store.<br><br>Learn more about:<br>- [Gateways](mobile-app-pair-gateway.md)<br>- [Cameras](mobile-app-add-cameras.md)<br>- [Skill zones](mobile-app-add-camera-skill-zones.md)
 
 4. When you’re finished, tap the check mark in the upper-right corner of the page to go back to the **Stores** page.
 
