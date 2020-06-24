@@ -2,7 +2,7 @@
 
 # Setup overview for Dynamics 365 Connected Store
 
-Setting up Dynamics 365 Connected Store includes the following steps:
+Setting up Microsoft Dynamics 365 Connected Store includes the following steps:
 
 1.	[Create a new Azure Active Directory tenant for the Connected Store public preview](admin-create-new-tenant.md).
 
