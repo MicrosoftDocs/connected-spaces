@@ -22,7 +22,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 
 2. Under **Let’s set up your account**, enter your company email address, and then select **Next**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 3. Select **Create a new account instead**.
 
@@ -30,7 +30,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
     > Important: Create a new account to test Connected Store instead of signing in with your company’s existing Azure Active Directory tenant admin account. 
     This simplifies management of Connected Store and ensures your testing doesn’t impact any of your company’s existing business processes.
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 4. Fill in your account information, and then select **Next** to verify your new account.
 
@@ -40,11 +40,11 @@ To set up a new test Azure Active Directory tenant, you’ll:
 
     This selection determines the country or region in which your Connected Store application will be installed and where your data will reside. 
     
-    SCREEN SHOT GOES HERE    
+    ![XXX](media/XXX.PNG "XXX")  
     
 5. Enter a phone number for verification purposes, and then select **Send Verification Code**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 6. Select **Create your business identity**, enter a temporary domain name (for example, "Contoso"), and then select **Check availability**. 
 
@@ -52,13 +52,13 @@ To set up a new test Azure Active Directory tenant, you’ll:
     > Connected Store uses the Azure Active Directory tenant to manage permissions for Connected Store. The user accounts you’ll create later will be in the domain 
     you create in this step. For example, if you choose “Contoso” as your domain, a user account for “someone” would be: someone@contoso.onmicrosoft.com.
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 7. When you have confirmed that the name is available to use, select **Next**.
 
 8. Enter a user account name and password for the global admin account.
   
-   SCREEN SHOT GOES HERE
+   ![XXX](media/XXX.PNG "XXX")
    
 9. Select Sign up to agree to the terms for the new test tenant. 
 
@@ -74,7 +74,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
     
     - Assign a client license for this trial to the admin user account
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 10. Under **You’re all set**, select **Let’s go**, and then go to the next step: Install the Connected Store web app.   
 
