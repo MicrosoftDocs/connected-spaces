@@ -35,8 +35,8 @@ To set up a new test Azure Active Directory tenant, you’ll:
 4. Fill in your account information, and then select **Next** to verify your new account.
 
     > [!IMPORTANT]
-    > In the **Country or region** field, select **United Kingdom** or **United States**. At this time, if you choose any other country or region, the sign-up process 
-    will fail. 
+    > In the **Country or region** field, select **United Kingdom** or **United States**. At this time, **if you choose any other country or region, the sign-up process 
+    will fail**. 
 
     This selection determines the country or region in which your Connected Store application will be installed and where your data will reside. 
     
