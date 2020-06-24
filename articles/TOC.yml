@@ -1,7 +1,21 @@
 - name: Dynamics 365 Connected Store
   items:
     - name: Overview of Dynamics 365 Connected Store
-      href: index.md    
+      href: index.md
+    - name: Sign up and installation
+      items:
+        - name: How Dynamics 365 Connected Store works
+          href: 
+        - name: Setup overview
+          href: 
+          - name: Create a new Azure Active Directory tenant
+            href: admin-create-new-tenant.md
+          - name: Install the web app
+            href: admin-install-web-app.md
+          - name: Request Azure Stack Edge hardware
+            href: admin-request-ase.md
+          - name: Add user accounts
+            href: admin-add-user-accounts.md 
     - name: Get started
       href: get-started.md
     - name: Camera plan and installation
