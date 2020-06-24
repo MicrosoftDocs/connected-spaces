@@ -9,7 +9,7 @@ install the Dynamics 365 Connected Store web app.
 
 2. Read through the [Terms of Use](https://go.microsoft.com/fwlink/?linkid=2128595), and then when you’re ready, select **Start install**.
 
-     ![XXX](media/XXX.PNG "XXX")
+     ![Start install button](media/start-install.PNG "Start install button")
     
     This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup:
     
@@ -19,17 +19,17 @@ install the Dynamics 365 Connected Store web app.
     
     - Installs the Connected Store solutions in the environment
     
-    ![XXX](media/XXX.PNG "XXX")
+    ![Screen showing that Connected Store is being installed](media/installing.PNG "Screen showing that Connected Store is being installed")
     
     If the setup process fails, you’ll see the following message:
    
-    ![XXX](media/XXX.PNG "XXX")
+    ![Installation failed message](media/install-failed-message.PNG "Installation failed message")
     
     If this happens, try installing again.
     
 3. While Connected Store is being installed, you can watch a demo and learn more about preparing for Connected Store by selecting **Welcome to Connected Store**.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Connected Store demo](media/connected-store-demo.PNG "Connected Store demo")
 
 ## What's next?
 
