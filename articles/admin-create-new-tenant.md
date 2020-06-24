@@ -27,7 +27,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 3. Select **Create a new account instead**.
 
     > [!IMPORTANT]
-    > Important: Create a new account to test Connected Store instead of signing in with your company’s existing Azure Active Directory tenant admin account. 
+    > Create a new account to test Connected Store instead of signing in with your company’s existing Azure Active Directory tenant admin account. 
     This simplifies management of Connected Store and ensures your testing doesn’t impact any of your company’s existing business processes.
     
     ![Create new account instead link](media/create-new-account.PNG "Create new account instead link")
