@@ -23,3 +23,7 @@ The Azure cloud service:
 The Power Platform environment:
 
 - Stores the incoming data and makes it available for the Connected Store web app. You’ll use the web app to view analytics reports about activity in your stores.
+
+## What's next?
+
+[Setup overview](admin-setup-overview.md)
