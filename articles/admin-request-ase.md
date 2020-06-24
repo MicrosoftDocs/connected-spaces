@@ -1,4 +1,13 @@
-
+---
+author: alwinv
+description: Learn how to request the Azure Stack Edge hardware to use with the Dynamics 365 Connected Store public preview.
+ms.author: alwinv
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Request the Azure Stack Edge hardware to use with Dynamics 365 Connected Store
+ms.reviewer: v-brycho
+---
 
 # Request the Azure Stack Edge hardware to use with Dynamics 365 Connected Store
 
