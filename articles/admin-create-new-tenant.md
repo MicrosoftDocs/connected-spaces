@@ -46,7 +46,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 
     ![Send Verification Code button](media/send-verification-code.PNG "Send Verification Code button")
     
-6. Select **Create your business identity**, enter a temporary domain name (for example, "Contoso"), and then select **Check availability**. 
+6. Under **Create your business identity**, enter a temporary domain name (for example, "Contoso"), and then select **Check availability**. 
 
     > [!NOTE]
     > Connected Store uses the Azure Active Directory tenant to manage permissions for Connected Store. The user accounts you’ll create later will be in the domain 
