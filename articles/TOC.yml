@@ -5,7 +5,7 @@
     - name: Sign up and installation
       items:
         - name: How Dynamics 365 Connected Store works
-          href: admin-how-cd-works.md
+          href: admin-how-cs-works.md
         - name: Setup overview
           href: admin-setup-overview.md
           - name: Create a new Azure Active Directory tenant
