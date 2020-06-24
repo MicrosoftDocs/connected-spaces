@@ -4,7 +4,7 @@
 
 Microsoft Dynamics 365 Connected Store consists of several interconnected web and mobile applications, an Azure cloud service, and hardware that you install at your store.
 
-SCREEN SHOT GOES HERE
+![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
  
 In each of your retail stores, you’ll:
 
