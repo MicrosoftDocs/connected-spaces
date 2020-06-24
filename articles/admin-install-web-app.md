@@ -27,7 +27,7 @@ install the Dynamics 365 Connected Store web app.
     
     If this happens, try installing again.
     
-3. While Connected Store is being installed, you can watch a demo and learn more about preparing for Connected Store by selecting **Welcome to Connected Store**.
+3. While the app is being installed, you can watch a demo and learn more about preparing for Connected Store by selecting **Welcome to Connected Store**.
 
     ![Connected Store demo](media/connected-store-demo.PNG "Connected Store demo")
 
