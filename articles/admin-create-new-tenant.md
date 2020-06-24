@@ -1,5 +1,13 @@
-
-
+---
+author: alwinv
+description: Learn how to create a new Azure Active Directory tenant to use with the Dynamics 365 Connected Store public preview
+ms.author: alwinv
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Create a new Azure Active Directory tenant for the Dynamics 365 Connected Store public preview release
+ms.reviewer: v-brycho
+---
 
 # Create a new Azure Active Directory tenant for the Dynamics 365 Connected Store public preview
 
