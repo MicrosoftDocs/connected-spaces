@@ -17,6 +17,6 @@ Stack Edge to make this happen. Use this procedure to request an Azure Stack Edg
 
 2. Fill out the form. 
 
-     SCREEN SHOT GOES HERE
+     ![Get gateway command and Azure Stack Edge procurement form](media/get-gateway.PNG "Get gateway command and Azure Stack Edge procurement form")
      
    The Connected Store team will contact you when the request is received.
