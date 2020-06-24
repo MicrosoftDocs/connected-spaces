@@ -1,0 +1,20 @@
+
+
+# Setup overview for Dynamics 365 Connected Store
+
+Setting up Dynamics 365 Connected Store includes the following steps:
+
+1.	[Create a new Azure Active Directory tenant for the Connected Store public preview](admin-create-new-tenant.md).
+
+2.	[Get a license to use Connected Store and assign it to the tenant](admin-get-license.md).
+
+3.	[Install the Connected Store web app](admin-install-web-app.md).
+
+4.	[Request an Azure Stack Edge appliance for your store](admin-request-ase.md).
+
+5.	[Set up user accounts with permissions to use Connected Store](admin-add-user-accounts.md).
+
+
+## What's next?
+
+[Create a new Azure Active Directory tenant](admin-create-new-tenant.md)
