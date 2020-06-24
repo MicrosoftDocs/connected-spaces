@@ -13,9 +13,7 @@
           - name: Install the web app
             href: admin-install-web-app.md
           - name: Request Azure Stack Edge hardware
-            href: admin-request-ase.md
-          - name: Add user accounts
-            href: admin-add-user-accounts.md 
+            href: admin-request-ase.md          
     - name: Get started
       href: get-started.md
     - name: Camera plan and installation
