@@ -1,8 +1,17 @@
+---
+author: alwinv
+description: Get an overview of the setup process for the Dynamics 365 Connected Store public preview.
+ms.author: alwinv
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Setup overview for the the Dynamics 365 Connected Store public preview release
+ms.reviewer: v-brycho
+---
 
+# Setup overview for Dynamics 365 Connected Store public preview
 
-# Setup overview for Dynamics 365 Connected Store
-
-Setting up Microsoft Dynamics 365 Connected Store includes the following steps:
+Setting up Microsoft Dynamics 365 Connected Store public preview includes the following steps:
 
 1.	[Create a new Azure Active Directory tenant for the Connected Store public preview](admin-create-new-tenant.md).
 
