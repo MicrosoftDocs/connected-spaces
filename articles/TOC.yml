@@ -10,6 +10,8 @@
           href: admin-setup-overview.md
           - name: Create a new Azure Active Directory tenant
             href: admin-create-new-tenant.md
+          - name: Get a Connected Store license
+            href: admin-get-license.md            
           - name: Install the web app
             href: admin-install-web-app.md
           - name: Request Azure Stack Edge hardware
