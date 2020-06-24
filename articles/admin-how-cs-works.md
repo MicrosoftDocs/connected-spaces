@@ -1,4 +1,13 @@
-
+---
+author: alwinv
+description: Learn about the software and hardware used in for Dynamics 365 Connected Store public preview
+ms.author: alwinv
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: How Dynamics 365 Connected Store works
+ms.reviewer: v-brycho
+---
 
 # How Dynamics 365 Connected Store works
 
