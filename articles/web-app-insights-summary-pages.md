@@ -154,8 +154,7 @@ The subscript in the card describes the absolute change in this value for the cu
 
 ![Average engagement card](media/analytics-34.PNG "Average engagement card")
 
-The subscript in the card describes the absolute change in this value for the current time frame compared to average engagement (dwell) time across all displays during the selected time frame. The upward-facing triangle to the left of the subscript indicates the positive 
-direction. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to average engagement (dwell) time across all displays during the selected time frame. The upward-facing triangle to the left of the subscript indicates the positive direction. 
 
 **Busiest entrance.** This card highlights the side of the display effectiveness zone through which most people entered, 
 using the friendly name assigned to the side. 
@@ -177,7 +176,7 @@ footfall, represented by the dashed line for Display 1 during the selected time 
 ![Display 1 display footfall card](media/analytics-37.PNG "Display 1 display footfall card")
 
 **[Display 1] display dwell time.** This graph shows the average time spent dwelling in the Display 1 zone for selected time frame, 
-compared to the average engagement  (dwell) time represented by the dashed line for Display 1 during the selected time frame.
+compared to the average engagement (dwell) time represented by the dashed line for Display 1 during the selected time frame.
 
 **[Display 1] Enter/Exits sum.** This graph shows the break-down of footfall type by zone side, including how much traffic is 
 coming/going from a specific direction into/out of the zone. Side names correspond to the friendly names created during skills/zone 
