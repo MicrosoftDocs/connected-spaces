@@ -2,6 +2,8 @@
   items:
     - name: Overview of Dynamics 365 Connected Store
       href: index.md
+    - name: Get started
+      href: get-started.md
     - name: Setup
       items:
         - name: How Dynamics 365 Connected Store works
@@ -13,9 +15,7 @@
         - name: Step 2. Install the web app
           href: admin-install-web-app.md
         - name: Step 3. Request Azure Stack Edge hardware
-          href: admin-request-ase.md          
-    - name: Get started
-      href: get-started.md
+          href: admin-request-ase.md 
     - name: Camera plan and installation
       items:
         - name: Checklist
