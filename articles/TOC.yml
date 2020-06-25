@@ -4,7 +4,7 @@
       href: index.md
     - name: Get started
       href: get-started.md
-    - name: Setup
+    - name: 1. Setup
       items:
         - name: How Dynamics 365 Connected Store works
           href: admin-how-cs-works.md
@@ -16,7 +16,7 @@
           href: admin-install-web-app.md
         - name: Step 3. Request Azure Stack Edge hardware
           href: admin-request-ase.md 
-    - name: Camera plan and installation
+    - name: 2. Camera plan and installation
       items:
         - name: Checklist
           href: camera-placement-checklist.md
@@ -26,13 +26,13 @@
           href: camera-placement-recommendations.md
         - name: Installation
           href: install-cameras.md
-    - name: Install and connect Azure Stack Edge
+    - name: 3. Install and connect Azure Stack Edge
       items:
         - name: Prepare network and install
           href: ase-install.md
         - name: Connect to the network
           href: ase-connect.md
-    - name: Add a store/connect cameras with the mobile app
+    - name: 4. Add a store/connect cameras with the mobile app
       items:
         - name: Overview
           href: mobile-app-overview.md
@@ -48,7 +48,7 @@
           href: mobile-app-add-cameras.md
         - name: Add camera skill zones
           href: mobile-app-add-camera-skill-zones.md
-    - name: Get insights with the web app
+    - name: 5. Get insights with the web app
       items: 
         - name: Analytics page overview
           href: web-app-get-insights.md
