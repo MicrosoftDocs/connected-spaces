@@ -6,7 +6,7 @@ You can [use the **Analytics** page](web-app-get-insights.md) in the Microsoft D
 
 ## View the Display effectiveness details page
 
-To see details for a specific display effectiveness zone, select the desired display name at the bottom of the [summary page](web-app-insights-summary-pages.md).
+To see details for a specific display effectiveness zone, select the desired display name at the bottom of the [Display effectiveness summary page](web-app-insights-summary-pages.md).
 
 ![Details for specific display effectiveness zone](media/analytics-29.PNG "Details for specific display effectiveness zone")
 
