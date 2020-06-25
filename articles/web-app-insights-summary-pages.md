@@ -31,7 +31,7 @@ the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
-The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the [**Analytics Overview** page](web-app-get-insights.md). 
+The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Least busy day**. This card highlights the day and date within the selected time frame that had the least number of people, 
 along with the people count. 
@@ -74,7 +74,7 @@ relative to each other. Use this page to answer this question: “How effective 
 ![Display effectiveness summary page](media/analytics-24.PNG "Display effectiveness summary page")
 
 The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall**, **Busiest display**, and 
-**Most engaging display** cards are carried over from the [**Analytics Overview** page](web-app-get-insights.md). 
+**Most engaging display** cards are carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Least busy display.** This card highlights the name of the display that had the least number of people for the selected time 
 frame, along with the people count. 
