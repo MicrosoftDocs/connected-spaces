@@ -15,13 +15,11 @@ Setting up Microsoft Dynamics 365 Connected Store public preview includes the fo
 
 1.	[Create a new Azure Active Directory tenant for the Connected Store public preview](admin-create-new-tenant.md).
 
-2.	[Get a license to use Connected Store and assign it to the tenant](admin-get-license.md).
+2.	[Install the Connected Store web app](admin-install-web-app.md).
 
-3.	[Install the Connected Store web app](admin-install-web-app.md).
+3.	[Request an Azure Stack Edge appliance for your store](admin-request-ase.md).
 
-4.	[Request an Azure Stack Edge appliance for your store](admin-request-ase.md).
-
-5.	[Set up user accounts with permissions to use Connected Store](admin-add-user-accounts.md).
+4.	[Set up user accounts with permissions to use Connected Store](admin-add-user-accounts.md).
 
 
 ## What's next?
