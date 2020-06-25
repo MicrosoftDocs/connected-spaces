@@ -8,11 +8,11 @@
           href: admin-how-cs-works.md
         - name: Setup overview
           href: admin-setup-overview.md
-        - name: Create a new Azure Active Directory tenant
+        - name: Step 1: Create a new Azure Active Directory tenant
           href: admin-create-new-tenant.md         
-        - name: Install the web app
+        - name: Step 2: Install the web app
           href: admin-install-web-app.md
-        - name: Request Azure Stack Edge hardware
+        - name: Step 3: Request Azure Stack Edge hardware
           href: admin-request-ase.md          
     - name: Get started
       href: get-started.md
