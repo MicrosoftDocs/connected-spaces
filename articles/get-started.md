@@ -11,8 +11,7 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Connected Store (public preview)
 
-Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This article describes the steps required to acquire, install, configure, and use  Dynamics 365 Connected Store. 
-
+Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This article describes how Connected Store works, and the overall process for acquiring, installing, configuring, and using Connected Store. 
 
 ## How Dynamics 365 Connected Store works
 
