@@ -135,13 +135,7 @@ display?*
 
 ![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
 
-The banner at the top of the page provides a loose indication of a customer acquisition funnel.
-
-**Store footfall.** This card highlights the sum of people that entered the store for the selected time frame. 
-
-![Store footfall card](media/analytics-31.PNG "Store footfall card")
-
-The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+The banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store footfall** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Display passersby.** This card highlights the number of people that passed within the camera field of view that contains the 
 display effectiveness zone of interest. This gives you an indication of how much traffic passed by the display. 
