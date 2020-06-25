@@ -14,8 +14,6 @@ ms.reviewer: v-brycho
 For the Microsoft Dynamics 365 Connected Store public preview, we recommend signing up with a new test Azure Active Directory tenant to simplify account management 
 during the preview.
 
-## Sign up with a new test Azure Active Directory tenant
-
 To set up a new test Azure Active Directory tenant, you’ll:
 
 - Create a test tenant under a new domain of onmicrosoft.com
@@ -24,7 +22,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 
 - Assign a 6-month trial license to Connected Store
 
-### Sign up by creating a new tenant
+## Sign up by creating a new tenant
 
 1. [Go to the Dynamics 365 Connected Store sign-up page](https://go.microsoft.com/fwlink/?linkid=2128173).
 
