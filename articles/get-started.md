@@ -39,9 +39,11 @@ The Power Platform environment:
 
 ## Ready to get started?
 
-The Connected Store table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the public preview and install the software, start with the first article in the Setup section:
+The Connected Store table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the public preview and install the software, start with the first article in the Setup section and then proceed through the articles in the table of contents:
 
 ![Screen shot of Connected Store table of contents with first setup step highlighted](media/setup-first-step.PNG "Screen shot of Connected Store table of contents with first setup step highlighted")
+
+At the end of each article, you'll see a **What's next?** reminder for the next step in the process.
 
 ## What's next?
 
