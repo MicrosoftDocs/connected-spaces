@@ -1,4 +1,13 @@
-
+---
+author: lkbryant-MSFT
+description: Learn how to view the details pages on the Analytics page in Dynamics 365 Connected Store to get further insights on your retail store
+ms.author: labryan
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: View the details pages on the Analytics page in Dynamics 365 Connected Store
+ms.reviewer: v-brycho
+---
 
 # View the details pages on the Analytics page in Dynamics 365 Connected Store
 
