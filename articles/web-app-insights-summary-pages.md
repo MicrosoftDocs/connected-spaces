@@ -116,6 +116,43 @@ To see data values for each display, hover over the graph.
 
 ![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
 
+## Queue management summary page
+
+The **Queue management summary** page shows a view of the performance of all queue management zones and their performance relative to each other. Use this page to answer this question: “How efficient are my queues?”
+
+SCREEN SHOT GOES HERE 
+
+On this page, you can use the highlight cards, data visualizations, and summary table to:
+
+- Identify the longest and shortest queue length
+
+- Identify the slowest and fastest queue times with respect to the average queue time for all queues
+
+- Visualize queue length and queue time trends for the longest and slowest queues
+
+- Sort through a list of all store queues configured for insights according to queue name, longest and shortest queue values, and fastest and slowest queue times for the selected time range
+
+## Highlights banner
+
+The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall**, **Longest queue**, and **Shortest queue** cards are carried over from the [**Analytics** page](web-app-get-insights.md).
+
+Shortest queue. This card highlights the shortest queue length along with the name of the queue and the date on which the value was observed. 
+
+
+	
+Note: Because there are several factors that can contribute to a change in value (for example, number of active queues in the store), the app does include a comparison subscript.
+Fastest queue. This card highlights the shortest average wait time of people along with the name of the queue and the date on which the value was observed. 
+ 
+The subscript describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
+3 longest queues. This graph shows the people count trend data for the three queue management zones that received the greatest footfall during the selected time frame. 
+3 slowest queues. This graph depicts the wait (dwell) time trend data for the three queue management zones in which people, on average, spent the most time during the selected time frame. 
+To see data values for each queue, hover over the graph. 
+ 
+All queues. This table contains a sortable list of all queue management zones by name, longest and shortest queue value, and fastest and slowest queue time for the selected time range. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using the Filter button next to each column heading.
+To see details for a specific queue management zone, select the desired queue name at the bottom of the page.
+ 
+
+
 ## What's next?
 
 [View details pages for Display effectiveness and Queue management skills](web-app-details-pages.md)
