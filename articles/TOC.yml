@@ -6,10 +6,6 @@
       href: get-started.md
     - name: 1. Setup
       items:
-        - name: How Dynamics 365 Connected Store works
-          href: admin-how-cs-works.md
-        - name: Setup overview
-          href: admin-setup-overview.md
         - name: Step 1. Create a new Azure Active Directory tenant
           href: admin-create-new-tenant.md         
         - name: Step 2. Install the web app
