@@ -94,4 +94,7 @@ in a graph to reveal details.
 ## View the Queue management details page
 
 **All queues.** This table contains a sortable list of all queue management zones by name, longest and shortest queue value, and fastest and slowest queue time for the selected time range. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using the Filter button next to each column heading.
+
 To see details for a specific queue management zone, select the desired queue name at the bottom of the page.
+
+SCREEN SHOT GOES HERE
