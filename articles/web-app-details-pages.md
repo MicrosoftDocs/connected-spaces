@@ -32,7 +32,9 @@ display?*
 
 ![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
 
-The banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store footfall** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
+### Hightlights banner
+
+The highlights banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store footfall** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Display passersby.** This card highlights the number of people that passed within the camera field of view that contains the 
 display effectiveness zone of interest. This gives you an indication of how much traffic passed by the display. 
@@ -66,6 +68,8 @@ friendly name assigned to the side.
 ![Busiest exit card](media/analytics-36.PNG "Busiest exit card")
 
 The subscript in the card details how much of total display footfall came through that side.
+
+### Graphs
 
 **[Display 1] display footfall.** This graph shows footfall into Display 1 for the selected time frame, compared to the average 
 footfall, represented by the dashed line for Display 1 during the selected time frame.
