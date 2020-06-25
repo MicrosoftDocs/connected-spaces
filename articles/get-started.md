@@ -37,6 +37,12 @@ The Power Platform environment:
 
 - Stores the incoming data and makes it available for the Connected Store web app. You’ll use the web app to view analytics reports about activity in your stores.
 
+## Ready to get started?
+
+The Connected Store table of contents is organized to make it easy to get up an running quickly with all the hardware and software described above. When you're ready to sign up for the public preview and install the software, start here:
+
+![Screen shot of Connected Store table of contents with first setup step highlighted](media/setup-first-step.PNG "Screen shot of Connected Store table of contents with first setup step highlighted")
+
 ## What's next?
 
 [Start the setup process by creating a new test Azure Active Directory tenant](admin-create-new-tenant.md)
