@@ -50,3 +50,5 @@
           href: web-app-get-insights.md
         - name: Summary pages
           href: web-app-insights-summary-pages.md
+        - name: Details pages
+          href: web-app-insights-details-pages.md
