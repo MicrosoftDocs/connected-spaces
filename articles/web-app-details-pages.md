@@ -71,7 +71,7 @@ The subscript in the card details how much of total display footfall came throug
 
 ### Graphs
 
-There are three graphs at the bottom of the details page: **[Display 1] display footfall**, **[Display 1] display dwell time**, and **[Display 1] Enter/Exits sum**.
+There are three graphs at the bottom of the details page: **Display 1 display footfall**, **Display 1 display dwell time**, and **Display 1 Enter/Exits sum**.
 
 ![Display 1 display footfall card](media/analytics-37.PNG "Display 1 display footfall card")
 
