@@ -96,19 +96,19 @@ The subscript in the card describes the absolute change in this value for the cu
 
 ### Graphs and table
 
-The Display effectiveness summary page also includes two graphs and a table.
+The **Display effectiveness summary** page also includes two graphs and a table.
 
 ![Graphs and table](media/analytics-27.PNG "Graphs and table")
 
-**3 busiest displays.** This graph shows the people count trend data for the three display effectiveness zones that, on average, 
+**3 busiest displays** graph. This graph shows the people count trend data for the three display effectiveness zones that, on average, 
 received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall 
 across all display effectiveness zones, illustrated by the dotted line.
 
-**3 most engaging displays.** This graph shows the dwell time trend data for the three display effectiveness zones in which people, 
+**3 most engaging displays** graph. This graph shows the dwell time trend data for the three display effectiveness zones in which people, 
 on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement 
 (dwell) time across all display effectiveness zones, illustrated by the dotted line.
 
-**All store displays.** This table contains a sortable list of all display effectiveness zones by name, total people count, and average 
+**All store displays** table. This table contains a sortable list of all display effectiveness zones by name, total people count, and average 
 engagement time. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using 
 the **Filter** button next to each column heading.
 
