@@ -96,7 +96,7 @@ The subscript in the card describes the absolute change in this value for the cu
 
 ### Graphs and table
 
-The **Display effectiveness summary** page also includes the **3 busiest diplays** graph, **3 most engaging displays** graph, and **All store displays** table.
+The **Display effectiveness summary** page also includes the **3 busiest displays** graph, **3 most engaging displays** graph, and **All store displays** table.
 
 ![Graphs and table](media/analytics-27.PNG "Graphs and table")
 
