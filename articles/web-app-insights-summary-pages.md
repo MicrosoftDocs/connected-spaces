@@ -120,7 +120,7 @@ To see data values for each display, hover over the graph.
 
 The **Queue management summary** page shows a view of the performance of all queue management zones and their performance relative to each other. Use this page to answer this question: “How efficient are my queues?”
 
-SCREEN SHOT GOES HERE 
+![XXX](media/XXX.PNG "XXX") 
 
 On this page, you can use the highlight cards, data visualizations, and summary table to:
 
@@ -138,14 +138,14 @@ The banner at the top of the page highlights the key takeaways and comparisons. 
 
 **Shortest queue.** This card highlights the shortest queue length along with the name of the queue and the date on which the value was observed. 
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 	
 > [!NOTE]
 > Because there are several factors that can contribute to a change in value (for example, number of active queues in the store), the app does include a comparison subscript.
 
 **Fastest queue.** This card highlights the shortest average wait time for people along with the name of the queue and the date on which the value was observed. 
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
  
 The subscript in this card describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
@@ -159,11 +159,7 @@ There are two graphs at the bottom of the page: **3 longest queues** and **3 slo
 
 To see data values for each queue, hover over the graph. 
 
-SCREEN SHOT GOES HERE
- 
-
- 
-
+![XXX](media/XXX.PNG "XXX")
 
 ## What's next?
 
