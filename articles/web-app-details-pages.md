@@ -4,7 +4,7 @@
 
 You can [use the **Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store web app to get insights on your retail store. This article describes how to view details pages (available from the **Analytics** page) for the Display effectiveness and Queue management skills.
 
-## Display effectiveness details page
+## View the Display effectiveness details page
 
 To see details for a specific display effectiveness zone, select the desired display name at the bottom of the page.
 
