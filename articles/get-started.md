@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This article describes the steps required to acquire, install, configure, and use  Dynamics 365 Connected Store. 
 
 
-# How Dynamics 365 Connected Store works
+## How Dynamics 365 Connected Store works
 
 Microsoft Dynamics 365 Connected Store consists of several interconnected web and mobile applications, an Azure cloud service, and hardware that you install at your store.
 
