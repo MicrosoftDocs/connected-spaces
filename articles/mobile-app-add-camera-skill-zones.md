@@ -40,7 +40,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
 
     ![Rotated screen showing camera view](media/skill-zone-rotate.PNG "Rotated screen showing camera view")
  
-4.	The new zone appears in the middle of the screen. Tap and drag the zone to move it where you want it.
+4.	The new zone appears in the middle of the screen. Tap and drag the zone endpoints to resize the zone and move it where you want it to go.
 
 5.	To change the size of the zone, tap and drag the corners.
 
