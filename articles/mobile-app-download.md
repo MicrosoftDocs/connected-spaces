@@ -20,10 +20,10 @@ Keep the following in mind before using the Microsoft Dynamics 365 Connected Sto
    
 - To sign in to the app, you’ll need the right permissions linked to your account. If you need help, check with your account admin.
 
-- You can install the app on multiple Apple iPhones. Whichever device you use, make sure to keep it up-to date-to get the 
+- You can install the app on multiple Apple iPhones. Whichever iPhone you use, make sure to keep it up-to date-to get the 
 latest experience, security, and bug fixes.
 
-To download the app for your device, go to the Apple App Store or use the following direct link: [Apple App store](!!!URL TO COME!!!)    
+To download the app for your device, go to the Apple App Store or use the following direct link: [Apple App store](http://aka.ms/ConnectedStoreAppleApp)    
 
 ## What's next?
 
