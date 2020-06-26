@@ -42,11 +42,9 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
  
 4.	The new zone appears in the middle of the screen. Tap and drag the zone endpoints to resize the zone and move it where you want it to go.
 
-5.	To change the size of the zone, tap and drag the corners.
+5.	When you’re done, tap the screen, and then tap **Edit Skills Details** at the bottom of the screen. 
 
-6.	When you’re done, tap the screen, and then tap **Edit Skills Details** at the bottom of the screen. 
-
-7.	Make changes to the fields to customize the skill for your store’s needs.
+6.	Make changes to the fields to customize the skill for your store’s needs.
 
     ![Skill zone fields](media/skill-zone-fields.PNG "Skill zone fields")
  
@@ -63,7 +61,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
     |**Direction**|Associates people count with the direction name of a zone side.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Shopper analytics|
 
-8.	When you’re finished editing the skills, tap the check mark in the upper-right corner of the page.
+7.	When you’re finished editing the skills, tap the check mark in the upper-right corner of the page.
 
     > [!TIP]
     > You can edit skills details or zone placement anytime by tapping the **Actions** button for the zone you want to update.
