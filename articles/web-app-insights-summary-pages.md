@@ -138,7 +138,7 @@ On this page, you can use the highlight cards, data visualizations, and summary 
 
 - Sort through a list of all store queues configured for insights according to queue name, longest and shortest queue values, and fastest and slowest queue times for the selected time range
 
-## Highlights banner
+### Highlights banner
 
 The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall** and  **Longest queue** cards are carried over from the [**Analytics** page](web-app-get-insights.md).
 
@@ -155,7 +155,7 @@ The banner at the top of the page highlights the key takeaways and comparisons. 
  
 The subscript in this card describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
-## Graphs
+### Graphs
 
 There are two graphs at the bottom of the page: **3 longest queues** and **3 slowest queues**.
 
