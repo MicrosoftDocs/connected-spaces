@@ -60,9 +60,9 @@ On the **Cameras** page, you can get quick information about the camera from the
 
     |Field|Description|
     |-------------------|----------------------------------------------------|
-    |Name|The friendly name of the camera|
-    |Network|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md).|
-    |Credentials|The username and password for the camera|
+    |**Name**|The friendly name of the camera|
+    |**Network**|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md).|
+    |**Credentials**|The username and password for the camera|
 
 4.	When you’re finished, select the check mark in the upper-right corner of the page to go back to the **Cameras** page.
 
