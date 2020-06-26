@@ -48,7 +48,7 @@
       items: 
         - name: Find your way around
           href: web-app-navigation.md
-        - name: Analytics page overview
+        - name: Analytics page
           href: web-app-get-insights.md
         - name: Summary pages
           href: web-app-insights-summary-pages.md
