@@ -53,7 +53,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
 7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
-    ![Venue ID box](media/venue-id.PNG "Venue ID box")
+    ![Select store name](media/select-store-name.PNG "Select store name")
  
 8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), paste it into the **Activation** key field in the **Activate** pane, and then select **Activate**.
 
