@@ -1,6 +1,15 @@
+---
+author: lkbryant-MSFT
+description: Learn about the left navigation pane in the Dynamics 365 Connected Store public preview web app
+ms.author: labryan
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Find your way around the Dynamics 365 Connected Store public preview web app
+ms.reviewer: v-brycho
+---
 
-
-# Find your way around the Dynamics 365 Connected Store web app
+# Find your way around the Dynamics 365 Connected Store public preview web app
 
 The Microsoft Dynamics 365 Connected Store public preview web app includes a left navigation pane that you can use to access the various pages in the app.
 
