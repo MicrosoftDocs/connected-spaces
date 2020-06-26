@@ -24,8 +24,8 @@ Microsoft Dynamics 365 Connected Store (public preview) mobile app.
 
    a. In the **Store Name** field, enter a friendly name for the store.
 
-   b. In the **Allow Location Access** field, move the slider to the On position if you would like to detect the location from your 
-mobile device.
+   b. In the **Allow Location Access** field, move the slider to the On position if you want to detect the location from your 
+mobile device. You can also enter your location manually. 
 
    c. Tap the **Add Store Image** field, and then do one of the following:
 
