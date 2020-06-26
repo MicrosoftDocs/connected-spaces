@@ -95,7 +95,7 @@ in a graph to reveal details.
 
 To see the details for a specific queue, select the desired queue in the **All queues** table at the bottom of the [Queue management summary page](web-app-insights-summary-pages.md).
 
-SCREEN SHOT GOES HERE
+![All queues table](media/analytics-29.PNG "All queues table")
 
 The **All queues** table contains a sortable list of all queue management zones by name, longest and shortest queue value, and fastest and slowest queue time for the selected time range. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using the Filter button next to each column heading.
 
@@ -105,7 +105,7 @@ To see details for a specific queue management zone, select the desired queue na
 
 On this page, you can use the cards and graphs to understand the rhythm and flow of a specific queue management zone.
 
-SCREEN SHOT GOES HERE
+![Queue Management details page](media/analytics-29A.PNG "Queue Management details page")
 
 #### Highlights banner
 
@@ -131,7 +131,7 @@ The **Longest queue at [Queue 1]** and **Average wait time at [Queue 1]** graphs
 
 To see data values for timepoint, hover over the graph. 
 
-SCREEN SHOT GOES HERE
+![Longest queue at Queue 1 graph with underlying data displayed](media/analytics-29B.PNG "Longest queue at Queue 1 graph with underlying data displayed")
  
 
 
