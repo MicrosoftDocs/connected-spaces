@@ -17,3 +17,7 @@ The following table describes each button in the left navigation pane.
 ||Skills|Measurement configuration comes with a set of zones that have been set up in your store. You can customize, and manage zones to populate data on the dashboard. Currently, Measurement configuration is available only in mobile.|
 ||Settings||
 ||Contact us|Use this page if you have questions or just want to give us feedback! You can also find a link to the legal notices document on this page.| 
+
+## What's next?
+
+[Learn about the Analytics page](web-app-get-insights.md)
