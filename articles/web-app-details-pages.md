@@ -111,13 +111,19 @@ The banner at the top of the page highlights the key takeaways and comparisons f
 
 **Longest queue.** This card highlights the value for the greatest number of people who occupied the specific Queue management zone along with the date when it occurred, for the selected time frame.
 
+![Longest queue card](media/analytics-39.PNG "Longest queue card")
+
 **Shortest queue.** This card highlights the value for the least number of people who occupied the specific Queue management zone along with the date when it occurred, for the selected time frame.
 
 **Slowest queue.** This card highlights the maximum wait (dwell) time for the specific Queue management zone during the selected time frame, along with the date on which the value was observed. 
 
+![Slowest queue card](media/analytics-40.PNG "Slowest queue card")
+
 The subscript describes the absolute change in this value for the current time frame compared to average wait (dwell) time for the specific Queue management zone during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
 **Fastest queue.** This card highlights the shortest average wait time for people for the specific Queue management zone, along with the date on which the value was observed.
+
+![Fastest queue card](media/analytics-41.PNG "Fastest queue card")
 
 ### Graphs
 
