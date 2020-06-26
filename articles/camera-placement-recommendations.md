@@ -187,6 +187,10 @@ Organic queue lines form organically from the point of sale. This style of queue
 beyond 2-3 people and the line forms within the zone definition. If the queue length is typically more than 2-3 people, we recommend 
 using a retractable belt barrier to help guide the queue direction and ensure the line forms and dwells within the zone definition.
 
+## Placement of in-store cameras and video storage
+
+Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer. Once a customer’s cameras are in place, Dynamics 365 Connected Store will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras and Microsoft Dynamics 365 Connected Store does not store video footage from the customer’s in-store cameras. 
+
 ## What's next?
 
 [Install your cameras](install-cameras.md)
