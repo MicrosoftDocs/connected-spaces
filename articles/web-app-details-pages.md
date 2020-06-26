@@ -101,13 +101,11 @@ The **All queues** table contains a sortable list of all queue management zones 
 
 To see details for a specific queue management zone, select the desired queue name at the bottom of the page.
 
-### Queue Management details page
-
-On this page, you can use the cards and graphs to understand the rhythm and flow of a specific queue management zone.
+On the **Queue Management details** page, you can use the cards and graphs to understand the rhythm and flow of a specific queue management zone.
 
 ![Queue Management details page](media/analytics-29A.PNG "Queue Management details page")
 
-#### Highlights banner
+### Highlights banner
 
 The banner at the top of the page highlights the key takeaways and comparisons for the specific queue. The **Store footfall** card is carried over from the [**Analytics page**](web-app-get-insights.md). 
 
@@ -121,7 +119,7 @@ The subscript describes the absolute change in this value for the current time f
 
 **Fastest queue.** This card highlights the shortest average wait time for people for the specific Queue management zone, along with the date on which the value was observed.
 
-#### Graphs
+### Graphs
 
 The **Longest queue at [Queue 1]** and **Average wait time at [Queue 1]** graphs appear at the bottom of the page.
 
