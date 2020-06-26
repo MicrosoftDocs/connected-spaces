@@ -51,7 +51,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
     ![Device serial number box](media/security-number.PNG "Device serial number box")
  
-7.	Select the venue ID you created earlier in the mobile app, and then select **Submit**.
+7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
     ![Venue ID box](media/venue-id.PNG "Venue ID box")
  
@@ -67,7 +67,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 ## Get more information about a gateway created in the mobile app
 
-In the Gateway list on the **Gateways** page, you can see the name, IP address, and status of the gateway at a glance. To get more information about the gateway, including network properties, firmware, and the device model:
+To get more information about a gateway, including network properties, firmware, and the device model:
 
 1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
