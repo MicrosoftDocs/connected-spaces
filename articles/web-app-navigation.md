@@ -14,7 +14,7 @@ The following table describes each button in the left navigation pane.
 ||Recent|This shows you the history of the pages you visited most recently.|
 ||Pinned|You can pin items from the list of most recently visited pages to access them more quickly.|
 ||Analytics|This button functions the same way as the **Home** button.|
-||Skills|Measurement configuration comes with a set of zones that have been set up in your store. You can customize, and manage zones to populate data on the dashboard. Currently, Measurement configuration is available only in mobile.|
+||Skills|You can configure measurements for a set of skill zones in your store. You can customize and manage these zones to populate data on the dashboards. Currently, measurement configuration is available [only in the mobile app](mobile-app-add-skill-zones.md).|
 ||Settings||
 ||Contact us|Use this page if you have questions or just want to give us feedback! You can also find a link to the legal notices document on this page.| 
 
