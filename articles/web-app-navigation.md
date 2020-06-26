@@ -4,7 +4,7 @@
 
 The web app includes a left navigation pane that you can use to access the various pages.
 
-
+![Left navigation pane](media/navigation.PNG "Left navigation pane")
 
 |Button|Item|Description|
 |-----|-----------------|-----------------------------------------------------------|
