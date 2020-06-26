@@ -60,11 +60,11 @@ The subscript in the card describes the absolute change in this value for the cu
 
 ### Graphs
 
-The **Total footfall at all entrances** and xxx graphs appear at the bottom of the page.
+The **Total footfall at all entrances** and **Footfall at Entrance x** graphs appear at the bottom of the page.
 
 **Total footfall at all entrances**. This graph shows total store footfall according to Shopper analytics zone. 
 
-You can view trends for individual zones in the line graphs below (for example, **Footfall at Entrance 1**).
+**Footfall at Entrance x**. You can view trends for individual zones in the line graphs below (for example, **Footfall at Entrance 1**).
 
 ![Footfall and Entrance 1 example](media/analytics-22.PNG "Footfall at Entrance 1 example")
 
