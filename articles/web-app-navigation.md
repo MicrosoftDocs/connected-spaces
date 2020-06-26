@@ -4,6 +4,8 @@
 
 The web app includes a left navigation pane that you can use to access the various pages.
 
+
+
 |Button|Item|Description|
 |-----|-----------------|-----------------------------------------------------------|
 ||Home|Selecting this button will take you to the **Analytics** page.<br><br>**Important:** This is not the preferred method of returning to the **Analytics** page. If you have more than one store you're monitoring, the app will reset to the store that is at the top of the list in the drop-down menu. Any changes made to the date picker will also be reset to the default. The preferred method of returning to the **Analytics** page is to use the breadcrumbs at the top of the page. Using this method will preserve your view preferences .|
