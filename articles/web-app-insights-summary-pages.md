@@ -31,7 +31,7 @@ the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
-### Hightlights banner
+### Highlights banner
 
 The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the [**Analytics** page](web-app-get-insights.md). 
 
