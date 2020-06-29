@@ -33,7 +33,7 @@ The public preview release enables the following scenarios to make retail store 
 
 - **Shopper analytics.** Understand traffic patterns into and around the store to allow retailers to plan for shift management and inventory. 
 
-Microsoft is committed to responsible AI. These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified.   
+Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified.   
 
 ## What's next?
 
