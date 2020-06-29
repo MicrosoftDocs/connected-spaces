@@ -44,7 +44,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
     
     ![Rotated screen showing camera view](media/add-shopper-analytics-zone.PNG "Rotated screen showing camera view")
     
-    - If you're adding a **Display effectiveness** or **Queue management** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go.
+    - If you're adding a **Display effectiveness** or **Queue management** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go. If you need to start over at any point, select **Reset**.
     
     ![Rotated screen showing camera view](media/add-display-effectiveness-zone.PNG "Rotated screen showing camera view")
 
