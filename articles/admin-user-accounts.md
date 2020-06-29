@@ -34,26 +34,26 @@ Use the Connected Store web app to:<br><br>
 
 1. In the Connected Store web app, select Settings, and then, select a store from the list.
 
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
 
     > [!NOTE]
     > If no store is available in the list, use the mobile app to create a store first.
     
 2. Switch to the **Users** tab and then select **Assign security roles**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 3. Select the check box next to the appropriate user account.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 4. Select **MANAGE ROLES**. 
 
-   SCREEN SHOT GOES HERE
+   ![XXX](media/XXX.PNG "XXX")
 
 5.Select the **Connected Store Admin** or **Connected Store Viewer** security role, and select **OK**. 
 
-   SCREEN SHOT GOES HERE
+   ![XXX](media/XXX.PNG "XXX")
 
 ## Learn more
 
