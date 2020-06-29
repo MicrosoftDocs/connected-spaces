@@ -41,7 +41,7 @@ Use the Connected Store web app to:<br><br>
     
 2. Switch to the **Users** tab and then select **Assign security roles**.
 
-    ![Assign security roles command selected](media/assign-security-role.PNG "Assign security roles command selected")
+    ![Assign security roles command selected](media/assign-security-roles.PNG "Assign security roles command selected")
     
 3. Select the check box next to the appropriate user account.
 
