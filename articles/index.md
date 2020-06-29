@@ -23,6 +23,19 @@ Dynamics 365 Connected Store enables you to:
 
 - **Empower long-term decision making.** Predict the ideal future behaviors as your environment status changes over time. Make your insights stronger with each passing day.
 
+## Scenarios
 
+The public preview release enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
+- **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandizers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.  
+
+- **Queue management.** Monitor queue wait time and queue lengths to improve shopper experience and provide informed insights for employee shift management. 
+
+- **Shopper analytics.** Understand traffic patterns into and around the store to allow retailers to plan for shift management and inventory. 
+
+Microsoft is committed to responsible AI. These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified.   
+
+## What's next?
+
+[Sign up for the public preview](admin-create-new-tenant.md)
 
