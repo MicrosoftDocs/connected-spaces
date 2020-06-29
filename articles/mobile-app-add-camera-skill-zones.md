@@ -36,11 +36,17 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
  
     The zone is added to the Zone list. It shows the skill zone name, type of skill zone, and whether it’s active or not.
 
-3.	Rotate your phone to Landscape mode so you have a larger screen to work with. (You may need to change your screen rotation setting to allow Landscape mode.)
-
-    ![Rotated screen showing camera view](media/skill-zone-rotate.PNG "Rotated screen showing camera view")
+3.	Rotate your phone to Landscape mode so you have a larger screen to work with. (You may need to change your screen rotation setting to allow Landscape mode.)    
  
-4.	The new zone appears in the middle of the screen. Tap and drag the zone endpoints to resize the zone and move it where you want it to go.
+4.	Do the following, depending on the type of skill zone you want to add:
+
+    - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip directions** to make sure that blue points to the entrance and white points to the exit. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
+    
+    ![Rotated screen showing camera view](media/add-shopper-analytics-zone.PNG "Rotated screen showing camera view")
+    
+    - If you're adding a **Display effectiveness** or **Queue management** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go.
+    
+    ![Rotated screen showing camera view](media/add-display-effectiveness-zone.PNG "Rotated screen showing camera view")
 
 5.	When you’re done, tap the screen, and then tap **Edit Skills Details** at the bottom of the screen. 
 
