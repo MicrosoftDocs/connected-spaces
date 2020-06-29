@@ -40,7 +40,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
  
 4.	Do the following, depending on the type of skill zone you want to add:
 
-    - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip directions** to make sure that blue points to the entrance and white points to the exit. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
+    - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that blue points to the entrance and white points to the exit. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
     
     ![Rotated screen showing camera view](media/add-shopper-analytics-zone.PNG "Rotated screen showing camera view")
     
