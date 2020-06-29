@@ -80,13 +80,13 @@ Remember that every store is different; you’ll need to update the position or 
 
 If you want to see a specific section of your camera view, create a small, selective zone for it. This increases the accuracy of the data collected and prevents false positives from areas you don’t want to track. Be careful placing the corners of your polygon to make sure they’re not outside the area you want to track.
  
-### Example of a well-shaped zone
+### Example of a well-shaped Display effectiveness skill zone
 
 This zone is small and focused on the area of interest:
 
 ![Well-shaped skill zone](media/skill-zone-good-example.PNG "Well-shaped skill zone")
  
-### Example of a zone that isn’t well-shaped
+### Example of a Display effectiveness skill zone that isn’t well-shaped
 
 The corners of this zone will capture data from the side aisles instead of the focus area—the display.
 
