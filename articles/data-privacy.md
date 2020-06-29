@@ -1,4 +1,13 @@
-
+---
+author: alwinv
+description: Data and Privacy
+ms.author: alwinv
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Data and Privacy
+ms.reviewer: v-brycho
+---
 
 # Data and Privacy
 
