@@ -27,10 +27,6 @@ To download the app for your device, go to the Apple App Store or use the follow
 
 ## What's next?
 
-[Overview of the mobile app](mobile-app-overview.md)
-
-[Requirements for using the app](mobile-app-requirements.md)
-
 [Create a store](mobile-app-create-store.md)
 
 [Pair a gateway](mobile-app-pair-gateway.md)
