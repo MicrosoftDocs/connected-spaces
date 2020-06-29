@@ -1,4 +1,13 @@
-
+---
+author: alwinv
+description: Compliance
+ms.author: alwinv
+ms.date: 07/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Compliance
+ms.reviewer: v-brycho
+---
 
 # Compliance and Responsible Use
 
