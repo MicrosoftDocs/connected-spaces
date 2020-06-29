@@ -56,3 +56,11 @@
           href: web-app-insights-summary-pages.md
         - name: Details pages
           href: web-app-details-pages.md
+    - name: AI and Insights
+      href: ai-insights.md
+    - name: Data and Privacy
+      href: data-privacy.md
+    - name: Compliance and Responsible Use
+      href: compliance.md
+    - name: Security
+      href: security.md
