@@ -12,6 +12,8 @@
           href: admin-install-web-app.md
         - name: Request Azure Stack Edge hardware
           href: admin-request-ase.md 
+        - name: Give users permissions
+          href: admin-user-accounts.md 
     - name: 2. Camera plan and installation
       items:
         - name: Checklist
