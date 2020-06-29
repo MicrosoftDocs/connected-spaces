@@ -42,9 +42,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
 
 5.	Enter your Dynamics 365 Connected Store credentials.
-
-    ![Sign-in dialog box](media/credentials.PNG "Sign-in dialog box")
- 
+     
 6.	Enter the serial number from the mobile app.
  
     ![Device serial number box](media/security-number.PNG "Device serial number box")
