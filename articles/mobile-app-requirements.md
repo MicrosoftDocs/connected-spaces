@@ -13,6 +13,8 @@ ms.reviewer: v-brycho
 
 You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile app on Apple iPhones running iOS 9.0 or later. [Find the software version of your iPhone](https://support.apple.com/en-us/HT201685). Using the app on an older iPhone may cause compatibility issues. If you have any problems with the app, make sure that your operating system is up-to-date.
 
+To use the mobile app, you also need to have the **Connected Store Admin** user role. For more information, see [Give permissions to users](admin-use-accounts.md).
+
 > [!NOTE]
 > You can’t use the mobile app on an iPad or Android devices at this time.
 
