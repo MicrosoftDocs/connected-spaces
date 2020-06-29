@@ -28,6 +28,10 @@ If you haven't already installed your cameras, see:
 2. On the **Cameras** page, tap the **+** button. 
 
     ![Plus sign button](media/add-camera.PNG "Plus sign button")
+    
+2. To get the list of available cameras, enter the starting and ending IP addresses, and the port that the network is connected to.
+
+    ![Camera IP range and port](media/camera-ip-range.PNG "Camera IP range and port")
  
 3. Select an available camera, and then tap the **+** sign  next to it. (You’ll see the camera feed after you sign in).
 
