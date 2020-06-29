@@ -61,4 +61,6 @@ Use the Connected Store web app to:<br><br>
 
 ## What's next?
 
+[Start planning camera placement](camera-placement-checklist.md)
+
 
