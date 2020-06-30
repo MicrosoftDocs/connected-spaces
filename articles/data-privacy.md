@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Microsoft Dynamic 365 Connected Store has three components, and each is designed with compliance, security, and privacy in mind. 
 
-SCREEN SHOT GOES HERE
+![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
 ￼
 - **Connected Store Edge Gateway** – A managed Azure Stack Edge gateway installed in the retail store that runs computer vision AI model(s) to convert camera streams from existing or new cameras into observational data sent to the cloud.
 
