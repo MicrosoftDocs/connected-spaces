@@ -2,7 +2,7 @@
 
 # View the Shopper analytics summary page in Dynamics 365 Connected Store public preview
 
-You can [use the **Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store web app to get insights on your retail store. The **Analytics** page includes insights for the **Shopper analytics**, **Display effectiveness**, and **Queue management** skill zones. This article focuses on the summary page for the **Shopper analytics** skill zone. 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store web app to get insights on your retail store. The **Analytics** page includes insights for the **Shopper analytics**, **Display effectiveness**, and **Queue management** skill zones. This article focuses on the summary page for the **Shopper analytics** skill zone. 
 
 The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, and anomalies at store 
 entries/exits. This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited 
