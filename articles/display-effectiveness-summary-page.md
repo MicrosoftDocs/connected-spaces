@@ -2,6 +2,20 @@
 
 # View the Display effectiveness summary page in Dynamics 365 Connected Store public preview
 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store public preview web app to get insights on your retail store. The **Analytics** page includes insights for the **Shopper analytics**, **Display effectiveness**, and **Queue management** camera skill zones. This article focuses on the summary page for the **Display effectiveness** skill zone. 
+
+## View the Display effectiveness summary page
+
+To view the **Display effectiveness summary** page, select the blue arrow to the right of the skill in the **Analytics** page. 
+
+![Blue arrow to select to see a summary page](media/analytics-16.PNG "Blue arrow to select to see a summary page")
+
+To go back to the **Analytics** page from the summary page, select from the breadcrumb at the top of the page.
+
+![Breadcrumb to select to go back to the Analytics page](media/analytics-17.PNG "Breadcrumb to select to go back to the Analytics page")
+
+## The Display effectiveness summary page
+
 The **Display effectiveness summary** page in Microsoft Dynamics 365 Connected Store public preview shows a view of the performance of all display effectiveness zones and 
 their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
 
