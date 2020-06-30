@@ -62,3 +62,7 @@ the **Filter** button next to each column heading.
 To see data values for each display, hover over the graph. 
 
 ![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
+
+## What's next?
+
+[Learn about the Queue management summary page](queue-management-summary-page.md)
