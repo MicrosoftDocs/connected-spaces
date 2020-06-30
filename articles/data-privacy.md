@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Data and Privacy
 
 Microsoft Dynamic 365 Connected Store has three components, and each is designed with compliance, security, and privacy in mind.
-￼
+
 - **Connected Store Edge Gateway** – A managed Azure Stack Edge gateway installed in the retail store that runs computer vision AI model(s) to convert camera streams from existing or new cameras into observational data sent to the cloud.
 
 - **Connected Store Cloud Service and Web application** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Store web application that correlates observational data from the Connected Store Edge  gateway with business data to provide insights and recommended actions for the retailer.
