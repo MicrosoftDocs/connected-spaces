@@ -37,10 +37,10 @@ Connected Store Cloud and Web application is a multi-tenant SaaS that processes 
 
 The following list shows the insights customers can retrieve from the above components of Connected Store. The insights are aggregated, and no individual shoppers are identified or tracked.
 
-   **1.	Shopper Analytics.** Includes insights around footfalls and occupancy such as total footfall across store or busiest day of the week. 
+>**1. Shopper Analytics.** Includes insights around footfalls and occupancy such as total footfall across store or busiest day of the week. 
 
-   **2.	Display Effectiveness.** Includes insights around shopper engagement for endcap or promotion display such as most engaging display, total footfall across displays. 
+>**2. Display Effectiveness.** Includes insights around shopper engagement for endcap or promotion display such as most engaging display, total footfall across displays. 
 
-   **3.	Queue Management.**  Includes insights around queue wait time and lengths such as longest queue across store, average wait time across all queues. 
+>**3. Queue Management.**  Includes insights around queue wait time and lengths such as longest queue across store, average wait time across all queues. 
 
 
