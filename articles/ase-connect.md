@@ -67,13 +67,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
 11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
 
-12. In the left pane, select **Get started**.
-
-13. In the **Get started with standalone device setup** screen, select **Activate**. 
-
-    ![Activate command](media/ase-activate.PNG "Activate command")
- 
-14. Open the Connected Store mobile application, and then do the following:
+12. Open the Connected Store mobile application, and then do the following:
 
     a. [Create a store](mobile-app-create-store.md).
     
