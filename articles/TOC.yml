@@ -56,22 +56,20 @@
           href: web-app-get-insights.md
         - name: Shopper analytics
           items: 
-             -name: Summary page
-              href: shopper-analytics-summary-page.md
-             -name: Details page
-              href: shopper-analytics-details-page.md
-         -name: Display effectiveness
+             - name: Summary page
+               href: shopper-analytics-summary-page.md
+        - name: Display effectiveness
           items: 
-             -name: Summary page
-              href: display-effectiveness-summary-page.md
-             -name: Details page
-              href: display-effectiveness-details-page.md
-         -name: Queue management
+             - name: Summary page
+               href: display-effectiveness-summary-page.md
+             - name: Details page
+               href: display-effectiveness-details-page.md
+        - name: Queue management
           items: 
-             -name: Summary page
-              href: queue-management-summary-page.md
-             -name: Details page
-              href: queue-management-details-page.md
+             - name: Summary page
+               href: queue-management-summary-page.md
+             - name: Details page
+               href: queue-management-details-page.md
     - name: AI and Insights
       href: ai-insights.md
     - name: Data and Privacy
