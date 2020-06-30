@@ -56,7 +56,7 @@ We recommend that you secure a range of static IP addresses on the same network 
 
 - Azure Stack Edge requires a range of 3 IP addresses. Initially, you might only need 3, but for future upgrades, additional addresses may be required.
 
-- To enable future expansion, such as additional cameras, we recommend securing an additional range of 25 IP addresses.
+- To enable future expansion, such as additional cameras, secure additional IP addresses, as needed.
 
 ### Check power and ventilation 
 
