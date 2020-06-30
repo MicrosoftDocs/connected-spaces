@@ -92,7 +92,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
        
       ii. [Pair a gateway](mobile-app-pair-gateway.md).
        
-      iii. [Add cameras](mobile-app-add-cameras.md).
+      iii. [Connect cameras](mobile-app-add-cameras.md).
       
       iv. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
 
