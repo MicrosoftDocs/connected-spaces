@@ -58,3 +58,7 @@ There are two graphs at the bottom of the page: **3 longest queues** and **3 slo
 To see data values for each queue, hover over the graph. 
 
 ![Graph of 3 longest queues with underlying data displayed](media/analytics-28D.PNG "Graph of 3 longest queues with underlying data displayed")
+
+## What's next?
+
+[Learn about the Queue management details page](queue-management-details.page.md)
