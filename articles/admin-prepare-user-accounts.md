@@ -27,7 +27,7 @@ user in the Microsoft 365 admin center. Then you'll configure the roles that the
 5. On the **Assign product licenses** page, select the location for the user, and then, under **Licenses**, select the **Dynamics 365 Connected Store Public Preview** check box. 
 When you've finished, select **Next**.
 
-    ![XXX](media/admin-center-assign-license.PNG "XXX")
+    ![XXX](media/admin-center-assign-licenses.PNG "XXX")
 
 6. On the **Optional settings** page, leave it as is, and select **Next**.
 
