@@ -37,7 +37,7 @@ The Power Platform environment:
 
 - Stores the incoming data and makes it available for the Connected Store web app. You’ll use the web app to view analytics reports about activity in your stores.
 
-## Ready to go?
+## How Connected Store documentation is organized
 
 The Connected Store table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the public preview and install the software, start with the first article in the Setup section and then proceed in order through the articles in the table of contents:
 
