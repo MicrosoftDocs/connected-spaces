@@ -62,3 +62,7 @@ The **Total footfall at all entrances** and **Footfall at Entrance x** graphs ap
 To see data for each individual entrance, hover over the desired data in the graph.
 
 ![Data for individual entrance](media/analytics-23.PNG "Data for individual entrance")
+
+## What's next?
+
+[Learn about the Display effectiveness summary page](display-effectiveness-summary-page.md)
