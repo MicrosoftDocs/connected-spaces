@@ -61,4 +61,4 @@ To see data values for each queue, hover over the graph.
 
 ## What's next?
 
-[Learn about the Queue management details page](queue-management-details.page.md)
+[Learn about the Queue management details page](queue-management-details-page.md)
