@@ -115,6 +115,8 @@ The banner at the top of the page highlights the key takeaways and comparisons f
 
 **Shortest queue.** This card highlights the value for the least number of people who occupied the specific Queue management zone along with the date when it occurred, for the selected time frame.
 
+![Shortest queue card](media/analytics-42.PNG "Shortest queue card")
+
 **Slowest queue.** This card highlights the maximum wait (dwell) time for the specific Queue management zone during the selected time frame, along with the date on which the value was observed. 
 
 ![Slowest queue card](media/analytics-40.PNG "Slowest queue card")
