@@ -2,8 +2,12 @@
 
 # View the Display effectiveness details page in Dynamics 365 Connected Store public preview
 
-To see details for a specific display effectiveness zonein Microsoft Dynamics 365 Connected Store public preview, select the desired display name at the bottom of the 
-[Display effectiveness summary page](web-app-insights-summary-pages.md).
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store web app to get insights on your retail store. The **Analytics** page includes insights for the **Shopper analytics**, **Display effectiveness**, and **Queue management** camera skill zones. This article focuses on the details page for the **Display effectiveness** skill zone, which is available from the [Display effectiveness summary page](display-effectiveness-summary-page.md). 
+
+## View the Display effectiveness details page
+
+To see details for a specific display effectiveness zone in Microsoft Dynamics 365 Connected Store public preview, select the desired display name at the bottom of the 
+[Display effectiveness summary page](display-effectiveness-summary-page.md).
 
 ![Details for specific display effectiveness zone](media/analytics-29.PNG "Details for specific display effectiveness zone")
 
@@ -20,7 +24,7 @@ display?*
 
 ![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
 
-### Hightlights banner
+## Hightlights banner
 
 The highlights banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store footfall** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
 
@@ -57,7 +61,7 @@ friendly name assigned to the side.
 
 The subscript in the card details how much of total display footfall came through that side.
 
-### Graphs
+## Graphs
 
 There are three graphs at the bottom of the details page: **[Display 1] display footfall**, **[Display 1] display dwell time**, and **[Display 1] Enter/Exits sum**.
 
