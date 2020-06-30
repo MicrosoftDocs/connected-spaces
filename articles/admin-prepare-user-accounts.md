@@ -13,11 +13,11 @@ user in the Microsoft 365 admin center. Then you'll configure the roles that the
 
 3. On the **Active users** page, select **Add a user**.
 
-    SCREEN SHOT GOES HERE
+   ![XXX](media/admin-center-add-user.PNG "XXX")
     
 4. On the **Set up the basics** page, fill in the information for the new user. When you've finished, select **Next**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/admin-center-basics.PNG "XXX")
     
     > [!NOTE]
     > By default, a password is automatically generated for new user accounts. Users must change this password the first time that they sign in by using their new account. 
@@ -27,19 +27,19 @@ user in the Microsoft 365 admin center. Then you'll configure the roles that the
 5. On the **Assign product licenses** page, select the location for the user, and then, under **Licenses**, select the **Dynamics 365 Connected Store Public Preview** check box. 
 When you've finished, select **Next**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/admin-center-assign-license.PNG "XXX")
 
 6. On the **Optional settings** page, leave it as is, and select **Next**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/admin-center-options.PNG "XXX")
     
 7. Review the information on the last page. To make changes, select the **Edit** button below the relevant sections. When you've finished, select **Finish adding**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/admin-center-review.PNG "XXX")
     
 8. If you selected the **Auto-generate password** option in step 4, make a note of the password. The user will need this password to sign in.
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/admin-center-user-details.PNG "XXX")
     
 9. Select **Close**.
     
