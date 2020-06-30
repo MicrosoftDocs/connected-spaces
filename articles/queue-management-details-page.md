@@ -2,7 +2,11 @@
 
 # View the Queue management details page in Dynamics 365 Connected Store public preview
 
-To see the details for a specific queue in Microsoft Dynamics 365 Connected Store public preview, select the desired queue in the **All queues** table at the bottom of the [Queue management summary page](web-app-insights-summary-pages.md).
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store web app to get insights on your retail store. The **Analytics** page includes insights for the **Shopper analytics**, **Display effectiveness**, and **Queue management** camera skill zones. This article focuses on the details page for the **Queue management** skill zone, which is available from the [Queue management summary page](queue-management-summary-page.md). 
+
+## View the Queue management details page
+
+To see the details for a specific queue in Microsoft Dynamics 365 Connected Store public preview, select the desired queue in the **All queues** table at the bottom of the [Queue management summary page](queue-management-summary-page.md).
 
 ![All queues table](media/analytics-29A.PNG "All queues table")
 
@@ -14,7 +18,7 @@ On the **Queue Management details** page, you can use the cards and graphs to un
 
 ![Queue Management details page](media/analytics-29B.PNG "Queue Management details page")
 
-### Highlights banner
+## Highlights banner
 
 The banner at the top of the page highlights the key takeaways and comparisons for the specific queue. The **Store footfall** card is carried over from the [**Analytics page**](web-app-get-insights.md). 
 
@@ -36,7 +40,7 @@ The subscript describes the absolute change in this value for the current time f
 
 ![Fastest queue card](media/analytics-41.PNG "Fastest queue card")
 
-### Graphs
+## Graphs
 
 The **Longest queue at [Queue 1]** and **Average wait time at [Queue 1]** graphs appear at the bottom of the page.
 
