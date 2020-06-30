@@ -6,7 +6,7 @@ You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft D
 
 ## View the Shopper analytics summary page
 
-To view the summary page, select the blue arrow to the right of the skill. 
+To view the Shopper analytics summary page, select the blue arrow to the right of the skill in the **Analytics** page. 
 
 ![Blue arrow to select to see a summary page](media/analytics-16.PNG "Blue arrow to select to see a summary page")
 
