@@ -16,8 +16,7 @@ To go back to the **Analytics** page from the summary page, select from the brea
 
 ## The Display effectiveness summary page
 
-The **Display effectiveness summary** page in Microsoft Dynamics 365 Connected Store public preview shows a view of the performance of all display effectiveness zones and 
-their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
+The **Display effectiveness summary** page shows a view of the performance of all display effectiveness zones and their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
 
 ![Display effectiveness summary page](media/analytics-24.PNG "Display effectiveness summary page")
 
