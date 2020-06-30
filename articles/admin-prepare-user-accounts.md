@@ -37,7 +37,7 @@ When you've finished, select **Next**.
 
     ![Assign product licenses page](media/admin-center-assign-licenses.PNG "Assign product licenses page")
 
-6. On the **Optional settings** page, leave it as is, and select **Next**.
+6. Leave the **Optional settings** page as is, and select **Next**.
 
     ![Optional settings page](media/admin-center-options.PNG "Optional settings page")
     
