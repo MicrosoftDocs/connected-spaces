@@ -65,4 +65,4 @@ To see data values for each display, hover over the graph.
 
 ## What's next?
 
-[Learn about the Queue management summary page](queue-management-summary-page.md)
+[Learn about the Display effectiveness details page](display-effectiveness-details-page.md)
