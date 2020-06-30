@@ -91,34 +91,34 @@ The subscript in this card describes the absolute change in this value for the c
 
 The subscript in this card describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
-## Visualizations on the Analytics page
+## Graphs on the Analytics page
 
-Below the highlights banner, the **Analytics** page shows two data visualizations for each skill, starting with Shopper analytics.
+Below the highlights banner, the **Analytics** page shows two data graphs for each skill, starting with Shopper analytics.
 
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
 ![Information icon and graph details](media/analytics-11.PNG "Information icon and graph details")
 
-### Shopper analytics visualizations
+### Shopper analytics graphs
 
-![Shopper analytics visualizations section of Analytics page](media/analytics-13.PNG "Shopper analytics visualizations section of Analytics page")
+![Shopper analytics graphs section of Analytics page](media/analytics-13.PNG "Shopper analytics graphs section of Analytics page")
 
 **Total footfall across store.** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average footfall for the store during the selected time frame. 
 
 **Total occupancy across store.**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
-### Display effectiveness visualizations
+### Display effectiveness graphs
 
-![Display effectiveness visualizations section of Analytics page](media/analytics-14.PNG "Display effectiveness visualizations section of Analytics page")
+![Display effectiveness graphs section of Analytics page](media/analytics-14.PNG "Display effectiveness graphs section of Analytics page")
 
 **Total footfall across displays.** This graph shows the total number of people that entered the display effectiveness zones across the entire store. The dotted line is the average footfall across display effectiveness zones during the selected time frame.
 
 **Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all display effectiveness zones during the selected time frame.
 
-### Queue management visualizations
+### Queue management graphs
 
-![Shopper management visualizations section of Analytics page](media/analytics-15.PNG "Shopper management visualizations section of Analytics page")
+![Shopper management graphs section of Analytics page](media/analytics-15.PNG "Shopper management graphs section of Analytics page")
 
 **Longest queue in store.** This graph shows the people count of the queue that had the most people for the selected time frame. 
 
