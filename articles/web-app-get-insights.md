@@ -95,14 +95,12 @@ The subscript in this card describes the absolute change in this value for the c
 
 Below the highlights banner, the **Analytics** page shows two data graphs for each skill, starting with Shopper analytics.
 
-> [!TIP]
-> You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
-
-![Information icon and graph details](media/analytics-11.PNG "Information icon and graph details")
-
 ### Shopper analytics graphs
 
 ![Shopper analytics graphs section of Analytics page](media/analytics-48.PNG "Shopper analytics graphs section of Analytics page")
+
+> [!TIP]
+> You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
 **Total footfall across store.** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average footfall for the store during the selected time frame. 
 
