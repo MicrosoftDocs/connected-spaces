@@ -59,8 +59,6 @@ We recommend that you secure a range of static IP addresses on the same network 
 
 - Azure Stack Edge requires 3 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. To enable future future camera expansion, we recommend securing additional IP addresses in sequence. 
 
-- To enable future expansion, such as additional cameras, secure additional IP addresses, as needed.
-
 ### Check power and ventilation 
 
 Make sure the site meets the power and ventilation requirements outlined in the requirements section of this article. 
