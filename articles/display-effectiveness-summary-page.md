@@ -8,7 +8,7 @@ You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft D
 
 To view the **Display effectiveness summary** page, select the blue arrow to the right of the skill in the **Analytics** page. 
 
-![Blue arrow to select to see a summary page](media/analytics-16.PNG "Blue arrow to select to see a summary page")
+![Blue arrow to select to see a summary page](media/analytics-43.PNG "Blue arrow to select to see a summary page")
 
 To go back to the **Analytics** page from the summary page, select from the breadcrumb at the top of the page.
 
