@@ -102,7 +102,7 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 ### Shopper analytics graphs
 
-![Shopper analytics graphs section of Analytics page](media/analytics-13.PNG "Shopper analytics graphs section of Analytics page")
+![Shopper analytics graphs section of Analytics page](media/analytics-48.PNG "Shopper analytics graphs section of Analytics page")
 
 **Total footfall across store.** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average footfall for the store during the selected time frame. 
 
