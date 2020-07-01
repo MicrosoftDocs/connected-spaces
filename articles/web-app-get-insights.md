@@ -129,4 +129,4 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 ## What's next?
 
-[View the summary pages on the Analytics page](web-app-insights-summary-pages.md)
+[View the Shopper analytics summary page](web-app-insights-summary-pages.md)
