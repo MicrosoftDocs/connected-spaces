@@ -50,7 +50,7 @@ Use the steps below in addition to your local standards and requirements for ins
 3. Install the CAT5e/CAT6 Ethernet cabling. Route the cable from the server/switch location to the planned camera placement location.
 
     > [!NOTE] 
-    > Leave a service loop of  about 10 extra feet to enable camera movement, as necessary.
+    > It's a good idea to leave a service loop of about 10 extra feet to enable camera movement, as necessary.
     
 4.	Remove the camera from the packaging.
 
