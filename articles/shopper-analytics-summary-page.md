@@ -12,7 +12,7 @@ To view the **Shopper analytics summary** page, select the blue arrow to the rig
 
 To go back to the **Analytics** page from the summary page, select from the breadcrumb at the top of the page.
 
-![Breadcrumb to select to go back to the Analytics page](media/analytics-17.PNG "Breadcrumb to select to go back to the Analytics page")
+![Breadcrumb to select to go back to the Analytics page](media/analytics-46.PNG "Breadcrumb to select to go back to the Analytics page")
 
 ## The Shopper analytics summary page
 
