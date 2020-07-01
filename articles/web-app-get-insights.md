@@ -33,7 +33,7 @@ The **Analytics** page includes a banner at the top that highlights key takeaway
 
 By default, the **Analytics** page shows the last 30 days, but you can select a custom date range or choose from other pre-selected ranges by using the date picker in the upper-right corner of the page. 
 
-![Date picker](media/analytics-2.PNG "Date picker")
+![Date picker](media/analytics-1A.PNG "Date picker")
 
 ## Highlights banner
 
