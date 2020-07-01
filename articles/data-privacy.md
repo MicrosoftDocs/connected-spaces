@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Data and Privacy
 
-Microsoft Dynamic 365 Connected Store has three components, and each is designed with compliance, security, and privacy in mind.
+Microsoft Dynamic 365 Connected Store has three components, and each is designed with compliance, security, and privacy in mind. 
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
 
