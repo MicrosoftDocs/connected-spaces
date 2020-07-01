@@ -55,9 +55,9 @@ You’ll need the following LAN information when you configure Azure Stack Edge:
 
 We recommend that you secure a range of static IP addresses on the same network for your edge hardware (cameras and gateway). A range of 13 IP addresses will provide room to add more cameras as your needs grow.
 
-- The IP cameras require a range of 10 IP addresses. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
+- The IP cameras require a range of 10 IP addresses. To enable future future camera expansion, we recommend securing additional IP addresses in sequence. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
-- Azure Stack Edge requires 3 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. To enable future future camera expansion, we recommend securing additional IP addresses in sequence. 
+- Azure Stack Edge requires 3 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
 ### Check power and ventilation 
 
