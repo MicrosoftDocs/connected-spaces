@@ -24,7 +24,7 @@ The following table shows the requirements for installing and connecting the Azu
 |----------------|--------------------------------------------------------------------------------------------|
 |Size|To mount Azure Stack Edge, you need a U1 slot in a standard 19” datacenter rack.<br><br>Device dimensions: 1.75" (height) x 17.09" (width) x 29.15" (length)|
 |Airflow|Azure Stack Edge requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
-|Power|The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of the Azure Stack Edge. You’ll need an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). [Learn more about power requirements](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
+|Power|Azure Stack Edge requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of the Azure Stack Edge. [Learn more about power requirements](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge where people perform daily operations which may be affected by prolonged noise exposure.|
 |Network|Azure Stack Edge requires a standard 20 MB internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge to the LAN.|
 |Operating temperatures|See the [Azure Stack Edge technical specifications](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
@@ -55,9 +55,9 @@ You’ll need the following LAN information when you configure Azure Stack Edge:
 
 We recommend that you secure a range of static IP addresses on the same network for your edge hardware (cameras and gateway). A range of 13 IP addresses will provide room to add more cameras as your needs grow.
 
-- The IP cameras require a range of 10 IP addresses. Keep these in sequence, if possible, for ease of troubleshooting.
+- The IP cameras require a range of 10 IP addresses. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
-- Azure Stack Edge requires a range of 3 IP addresses. Initially, you might only need 3, but for future upgrades, additional addresses may be required.
+- Azure Stack Edge requires 3 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. To enable future future camera expansion, we recommend securing additional IP addresses in sequence. 
 
 - To enable future expansion, such as additional cameras, secure additional IP addresses, as needed.
 
