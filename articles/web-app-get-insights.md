@@ -125,6 +125,6 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 **Average wait time across all queues.** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all queue management zones during the selected time frame.
 
-## What's next?
+## Next step
 
 [View the Shopper analytics summary page](shopper-analytics-summary-page.md)
