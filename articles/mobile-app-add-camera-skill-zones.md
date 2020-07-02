@@ -103,6 +103,6 @@ To sort or filter the Skills list:
 
 - Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the skills page.
 
-## What's next?
+## Next step
 
 [Get insights with the web app](web-app-get-insights.md)
