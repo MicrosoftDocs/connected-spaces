@@ -93,7 +93,7 @@ To sort the Gateways list:
 
 - Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
 
-## What's next?
+## Next steps
 
 [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
