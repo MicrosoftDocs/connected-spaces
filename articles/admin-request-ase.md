@@ -23,7 +23,7 @@ Connected Store transforms video streams from cameras in your retail stores into
 Stack Edge to make this happen. Use this procedure to request an Azure Stack Edge gateway.
 
 > [!IMPORTANT]
-> The Azure Stack Edge hardware that you order for Connected Store can only be used for Connected Store.
+> The Azure Stack Edge hardware that you order for Connected Store (public preview) can only be used for Connected Store (public preview). You can't deploy any other resources to Azure Stack Edge during the public preview of Connected Store. 
 
 1. In the [Connected Store Setup page](https://go.microsoft.com/fwlink/?linkid=2128110), select **Get gateway**.
 
