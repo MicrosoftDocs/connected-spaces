@@ -40,6 +40,6 @@ install the Dynamics 365 Connected Store web app.
 
     ![Connected Store demo](media/connected-store-demo.PNG "Connected Store demo")
 
-## What's next?
+## Next step
 
-[Request the Azure Stack Edge hardware](admin-request-ase.md)
+[Order the Azure Stack Edge gateway](admin-request-ase.md)
