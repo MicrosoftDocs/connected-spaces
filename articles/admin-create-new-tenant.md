@@ -81,7 +81,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 
     ![Let's go button](media/lets-go.PNG "Let's go button")
 
-## What's next?
+## Next step
 
 [Install the Connected Store web app](admin-install-web-app.md)
 
