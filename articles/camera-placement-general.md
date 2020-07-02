@@ -57,7 +57,7 @@ For entrance cameras, consider the following:
 
 - What are the local rules and regulations regarding privacy?
 
-## What's next?
+## Next step
 
 [Learn about placement recommendations](camera-placement-recommendations.md)
 
