@@ -77,6 +77,6 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
     
     d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md).
     
-## What's next?
+## Next step
 
 [Create a store using the Dynamics 365 Connected Store mobile app](mobile-app-create-store.md)
