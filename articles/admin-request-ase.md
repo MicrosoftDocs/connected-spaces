@@ -9,7 +9,7 @@ title: Request the Azure Stack Edge hardware to use with Dynamics 365 Connected 
 ms.reviewer: v-brycho
 ---
 
-# Request the Azure Stack Edge hardware to use with Dynamics 365 Connected Store
+# Order the Azure Stack Edge hardware to use with Dynamics 365 Connected Store
 
 This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Store. Before completing this procedure make sure to:
 
@@ -32,3 +32,7 @@ Stack Edge to make this happen. Use this procedure to request an Azure Stack Edg
      ![Get gateway command and Azure Stack Edge procurement form](media/get-gateway.PNG "Get gateway command and Azure Stack Edge procurement form")
      
    The Connected Store team will contact you when the request is received.
+ 
+## Next step
+
+[Prepare user accounts](admin-prepare-user-accounts.md)
