@@ -56,7 +56,7 @@ The following table describes the privileges that each role grants.
 
 [Learn more about creating users and assigning security roles](https://go.microsoft.com/fwlink/?linkid=2128632) for Dynamics 365 applications.
 
-## What's next?
+## Next step
 
 [Start planning camera placement](camera-placement-checklist.md)
 
