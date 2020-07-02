@@ -45,7 +45,7 @@ The Connected Store table of contents is organized to make it easy to get up and
 
 At the end of each article, you'll see a **What's next?** reminder for the next step in the process.
 
-## What's next?
+## Next step
 
 [Start the setup process by creating a new test Azure Active Directory tenant](admin-create-new-tenant.md)
 
