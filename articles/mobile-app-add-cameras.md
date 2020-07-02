@@ -78,7 +78,7 @@ To sort the Cameras list:
 
 - Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Cameras** page.
  
-## What's next?
+## Next step
 
 [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
 
