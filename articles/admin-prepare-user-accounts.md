@@ -50,4 +50,8 @@ When you've finished, select **Next**.
     ![User details such as user name and password](media/admin-center-user-details.PNG "User details such as user name and password")
     
 9. Select **Close**.
+
+## Next step
+
+[Give users permissions to use Connected Store](admin-give-users-permissions.md)
     
