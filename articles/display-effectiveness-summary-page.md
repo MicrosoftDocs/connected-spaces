@@ -63,6 +63,6 @@ To see data values for each display, hover over the graph.
 
 ![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
 
-## What's next?
+## Next step
 
 [Learn about the Display effectiveness details page](display-effectiveness-details-page.md)
