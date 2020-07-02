@@ -43,7 +43,7 @@ The Connected Store table of contents is organized to make it easy to get up and
 
 ![Screen shot of Connected Store table of contents with first setup step highlighted](media/setup-first-step.PNG "Screen shot of Connected Store table of contents with first setup step highlighted")
 
-At the end of each article, you'll see a **What's next?** reminder for the next step in the process.
+At the end of each article, you'll see a **Next step** heading that includes a link for the suggested next step in the process.
 
 ## Next step
 
