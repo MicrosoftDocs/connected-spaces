@@ -79,7 +79,7 @@ Use the steps below in addition to your local standards and requirements for ins
  
 When you’re finished mounting and setting up the camera per the manufacturer’s documentation, you’re ready to [install and configure Azure Stack Edge](ase-install.md).
 
-## What's next?
+## Next step
 
 [Prepare your network and install Azure Stack Edge](ase-install.md)
 
