@@ -53,5 +53,5 @@ When you've finished, select **Next**.
 
 ## Next step
 
-[Give users permissions to use Connected Store](admin-give-users-permissions.md)
+[Give users permissions to use Connected Store](admin-user-accounts.md)
     
