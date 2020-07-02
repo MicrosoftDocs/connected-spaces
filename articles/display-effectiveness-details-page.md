@@ -24,7 +24,7 @@ display?*
 
 ![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
 
-## Hightlights banner
+## Highlights banner
 
 The highlights banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store footfall** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
 
