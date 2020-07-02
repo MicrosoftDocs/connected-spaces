@@ -87,7 +87,7 @@ To sort or filter the Stores list:
 - Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
 
  
-## What's next?
+## Next steps
 
 [Pair a gateway](mobile-app-pair-gateway.md)
 
