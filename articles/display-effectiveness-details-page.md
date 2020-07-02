@@ -52,7 +52,7 @@ using the friendly name assigned to the side.
 
 ![Busiest entrance card](media/analytics-35.PNG "Busiest entrance card")
 
-The subscript in the card details how much of the total display footfall came through the illustrated side.
+The subscript in the card details how much of the total display footfall came through that side.
 
 **Busiest exit.** This card highlights the side of the display effectiveness zone through which most people exited, using the 
 friendly name assigned to the side. 
