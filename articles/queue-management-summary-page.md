@@ -59,6 +59,6 @@ To see data values for each queue, hover over the graph.
 
 ![Graph of 3 longest queues with underlying data displayed](media/analytics-28D.PNG "Graph of 3 longest queues with underlying data displayed")
 
-## What's next?
+## Next step
 
 [Learn about the Queue management details page](queue-management-details-page.md)
