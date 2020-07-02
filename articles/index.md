@@ -35,7 +35,7 @@ The public preview release enables the following scenarios to make retail store 
 
 Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified.   
 
-## What's next?
+## Next step
 
 [Sign up for the public preview](admin-create-new-tenant.md)
 
