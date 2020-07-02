@@ -37,5 +37,5 @@ Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/re
 
 ## Next step
 
-[Sign up for the public preview](admin-create-new-tenant.md)
+[Learn how to get started with Dynamics 365 Connected Store](admin-create-new-tenant.md)
 
