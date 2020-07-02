@@ -83,6 +83,6 @@ in a graph to reveal details.
 
 ![Example of graph details shown when hovering](media/analytics-38.PNG "Example of graph details shown when hovering")
 
-## What's next?
+## Next step
 
 [Learn about the Queue management summary page](queue-management-summary-page.md)
