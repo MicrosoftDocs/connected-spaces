@@ -97,6 +97,6 @@ Verify that the server rack is accessible and is ready for you to load the Azure
       
       iv. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
 
-## What's next?
+## Next step
 
 [Connect Azure Stack Edge to your network](ase-connect.md)
