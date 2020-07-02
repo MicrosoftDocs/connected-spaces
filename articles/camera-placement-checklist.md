@@ -27,6 +27,6 @@ When determining where to place your cameras, we recommend using this checklist:
 
 6. [Install the cameras](install-cameras.md).
 
-## What's next?
+## Next step
 
 [Understand the scenarios](camera-placement-general.md)
