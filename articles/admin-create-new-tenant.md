@@ -83,7 +83,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 
 ## What's next?
 
-[Learn how to get started with Dynamics 365 Connected Store](get-started.md)
+[Install the Connected Store web app](admin-install-web-app.md)
 
 
 
