@@ -19,7 +19,7 @@ The following table describes each button in the left navigation pane.
 
 |Item|Description|
 |-----------------|-----------------------------------------------------------|
-|Home|Go to the [**Analytics** page](web-app-get-insights.md).<br><br>**Important:** This is not the preferred method for going to the **Analytics** page. If you have more than one store that you're monitoring, the app will reset to the store that's at the top of the list in the **Store selector** menu.<br>![Store selector menu](media/analytics-50.PNG "Store selector menu")<br>Any changes made to the date picker will also reset the view to the default. The preferred method of returning to the **Analytics** page is to use the breadcrumb, to preserve your view preferences.<br>![Breadcrumb example](media/analytics-49.PNG "Breadcrumb example")|
+|Home|Go to the [**Analytics** page](web-app-get-insights.md).<br><br>**Important:** This is not the preferred method for going to the **Analytics** page. If you have more than one store that you're monitoring, the app will reset to the store that's at the top of the list in the **Store selector** menu.<br>![Store selector menu](media/analytics-50.PNG "Store selector menu")<br>Any changes made to the date picker will also reset the view to the default. The preferred method of returning to the **Analytics** page is to use the breadcrumb to preserve your view preferences.<br>![Breadcrumb example](media/analytics-49.PNG "Breadcrumb example")|
 |Recent|Show the history of the pages you visited most recently.|
 |Pinned|Pin items from the list of most recently visited pages to access them more quickly.|
 |Analytics|This button functions the same way as the **Home** button.|
