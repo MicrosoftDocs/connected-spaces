@@ -24,7 +24,7 @@ The following table shows the requirements for installing and connecting the Azu
 |----------------|--------------------------------------------------------------------------------------------|
 |Size|To mount Azure Stack Edge, you need a 1U slot in a standard 19” datacenter rack.<br><br>Device dimensions: 1.75" (height) x 17.09" (width) x 29.15" (length)|
 |Airflow|Azure Stack Edge requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
-|Power|Azure Stack Edge requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of the Azure Stack Edge. [Learn more about power requirements](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
+|Power|Azure Stack Edge requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of Azure Stack Edge. [Learn more about power requirements](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge where people perform daily operations which may be affected by prolonged noise exposure.|
 |Network|Azure Stack Edge requires a standard 20 MB internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge to the LAN.|
 |Operating temperatures|See the [Azure Stack Edge technical specifications](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
@@ -70,7 +70,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 ## Install and connect Azure Stack Edge	
 
 > [!NOTE]
-> Download and install the Dynamics 365 Connected Store mobile app before you start.
+> [Download and install the Dynamics 365 Connected Store mobile app](mobile-app-download.md) before you start.
 
 1. Unpack and install Azure Stack Edge using the following instructions: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-install
 
