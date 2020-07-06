@@ -77,7 +77,7 @@ Use the steps below in addition to your local standards and requirements for ins
    
     ![ONVIF media profile](media/ONVIF.PNG "ONVIF media profile")
  
-When you’re finished mounting and setting up the camera per the manufacturer’s documentation, and if you have already installed Azure Stack Edge and connected it to the network, you’re ready to [add a store with the mobile app, and then pair a gateway](mobile-app-create-store.md)
+When you’re finished mounting and installing the camera per the manufacturer’s documentation, and if you have already installed Azure Stack Edge and connected it to the network, you’re ready to [add a store with the mobile app, and then pair a gateway](mobile-app-create-store.md)
 
 ## Next step
 
