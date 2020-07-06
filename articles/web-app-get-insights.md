@@ -123,7 +123,7 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 > [!NOTE]
 > The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
 
-**Average wait time across all queues.** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all queue management zones during the selected time frame.
+**Average wait time across all queues.** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all Queue management zones during the selected time frame.
 
 ## Next step
 
