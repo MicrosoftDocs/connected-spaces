@@ -48,7 +48,7 @@ After connecting a camera to a gateway, you can [add a camera skill zone](mobile
 
 ## Get more information about a camera
 
-On the **Cameras** page, you can get quick information about the camera from the Camera View list. For example, you can see the name of the camera, the IP address, a still image, the date the image was last updated, and whether the camera is connected or not. To get more information about a camera, including the camera description, camera credentials, network properties, firmware, and device model:
+To get more information about a camera:
 
 1. On the **Cameras** page, tap the **Actions** button.
 
