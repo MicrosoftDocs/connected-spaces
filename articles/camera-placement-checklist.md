@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Checklist for placing and installing cameras for use with Dynamics 365 Connected Store (public preview)
 
-Microsoft Dynamics 365 Connected Store (public preview) requires Loss Prevention (LP) cameras installed within your space to process customer actions as they move and interact within your store.
+Microsoft Dynamics 365 Connected Store (public preview) requires Loss Prevention (LP) cameras installed within your retail space to process customer actions as customers move and interact within your store.
 
 When determining where to place your cameras, we recommend using this checklist:
 
@@ -19,13 +19,9 @@ When determining where to place your cameras, we recommend using this checklist:
 
 2. Select up to 10 locations for the cameras (focused on the **Display effectiveness**, **Queue management**, and **Shopper analytics** zones) and mark them on your site floorplan.
 
-3. [Review the general placement guidelines](camera-placement-recommendations.md).
+3. [Review the general placement guidelines and determine camera placement details for the different zones, including height, angle, and focal-point distance from the target](camera-placement-recommendations.md).
 
-4. [Determine camera placement details](camera-placement-recommendations.md) for the different zones.
-
-5. [Determine height, angle, and focal-point distance from the target](camera-placement-recommendations.md)  for each camera to help prepare for installation and cable routing.
-
-6. [Install the cameras](install-cameras.md).
+4. [Install the cameras](install-cameras.md).
 
 ## Next step
 
