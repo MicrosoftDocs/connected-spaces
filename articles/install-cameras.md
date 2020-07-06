@@ -34,16 +34,16 @@ Dynamics 365 Connected Store supports the following LP cameras:
    - LNZ32P4B
 
 > [!IMPORTANT]
-> Lorex cameras are currently banned by the US government. We don’t recommended using these cameras unless they have already been installed in your environment.
+> Lorex cameras are currently banned by the US government. We don’t recommend using these cameras unless they have already been installed in your environment.
 
 ## Install a camera	
 
 Use the steps below in addition to your local standards and requirements for installing ethernet.
 
 > [!NOTE]
-> If you’re using Axis cameras, create your ONVIF user profile if you haven’t already done so before installing the cameras.
+> If you’re using Axis cameras, create your ONVIF user profile before installing the cameras.
 
-1. Review the [camera placement checklist](camera-placement-checklist.md) to plan your installation, if you haven’t already done so.
+1. Review the [camera placement checklist](camera-placement-checklist.md) to plan your installation.
 
 2. To make camera installation easier, use tape to mark the camera locations on the floor.
 
@@ -59,7 +59,7 @@ Use the steps below in addition to your local standards and requirements for ins
 6.	Change the default username/password as instructed by the camera manufacturer documentation, to align with your corporate security guidelines.
 
     > [!NOTE] 
-    > Make sure to set the date/time correctly according to your local time zone.
+    > Make sure to set the date/time correctly, according to your local time zone.
   
 7.	Mount the camera to the ceiling or drop structure (pole or truss structure used to lower the camera height) as outlined in the [camera height, angle, and focal-point recommendations](camera-placement-recommendations.md) article.
 
