@@ -52,7 +52,6 @@ The following table describes the privileges that each role grants.
 
    ![Two Connected Store security roles highlighted](media/manage-user-roles.PNG "Two Connected Store security roles highlighted")
 
-## Learn more about Dynamics 365 security
 
 [Learn more about creating users and assigning security roles](https://go.microsoft.com/fwlink/?linkid=2128632) for Dynamics 365 applications.
 
