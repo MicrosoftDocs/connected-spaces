@@ -193,4 +193,4 @@ Images in this guide are intended to represent a potential placement of a custom
 
 ## Next step
 
-[Prepare your network and install Azure Stack Edge](ase-install.md)
+After you receive your Azure Stack Edge device, you can [prepare your network and install it](ase-install.md)
