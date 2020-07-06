@@ -30,7 +30,7 @@ Connected Store uses the Azure Stack Edge gateway to transform video streams fro
 
      ![Get gateway command and Azure Stack Edge procurement form](media/get-gateway.PNG "Get gateway command and Azure Stack Edge procurement form")
      
-   The Connected Store team will contact you when the request is received.
+   The Connected Store team will contact you when the request is received. After you receive your Azure Stack Edge device, you can [Prepare your network and install it](ase-install.md).
  
 ## Next step
 
