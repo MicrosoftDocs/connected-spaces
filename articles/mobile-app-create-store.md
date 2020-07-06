@@ -47,7 +47,7 @@ If this is the first store that you're creating a store in the mobile app, the n
  ## Get more information about a store
  
 In the Stores list, you can see at a glance how many gateways each store has and the location of the store. To get more information 
-about a store, including the creation date, number of cameras, and zones:
+about a store, use this procedure.
 
 1. Tap the **Actions** button in the upper-right corner of the page.
 
