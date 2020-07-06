@@ -9,9 +9,9 @@ title: Use the Dynamics 365 Connected Store (public preview) web app to get insi
 ms.reviewer: v-brycho
 ---
 
-# Use the Analytics page in the Dynamics 365 Connected Store web app to get insights on your retail store
+# Use the Analytics page in the Dynamics 365 Connected Store (public preview) web app to get insights on your retail store
 
-Dynamics 365 Connected Store serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
+Microsoft Dynamics 365 Connected Store (public preview) serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
 Connected Store supports the following camera skills: 
 
@@ -21,7 +21,7 @@ Connected Store supports the following camera skills:
 
 - Queue management
  
-For a quick overview of how to get insights, scan the screens in this article. For a more thorough understanding, read through each section and experiment!
+For a quick overview of how to get insights, scan the screens in this and other web app articles. For a more thorough understanding, read through each section and experiment!
 
 ## Analytics page overview
 
@@ -60,7 +60,7 @@ Each card in the banner has an information icon that you can hover over to get a
 The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
 >[!NOTE]
-> If there’s insufficient data to draw a comparison, no information is displayed in the subscript area. This is true for all cards on the **Analytics** page.
+> If there’s insufficient data to draw a comparison, no information is displayed in the subscript area. This is true for all cards on the **Analytics** and other pages.
 
 **Busiest day.** This card highlights the day and date within the selected time frame that had the greatest number of people, along with the people count. 
 
