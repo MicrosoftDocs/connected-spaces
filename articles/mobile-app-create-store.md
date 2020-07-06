@@ -59,7 +59,7 @@ about a store, use this procedure.
 
     ![List of store fields](media/store-fields.PNG "List of store fields")
     
-    The following table describes each field and specifies whether the field is editable from the **Store Info** page:
+    The following table describes each field:
 
     |Field|Description|
     |----------------------|--------------------------------------------|
