@@ -33,9 +33,9 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Add gateway](media/add-gateway.PNG "Add gateway")
 
-3.	Select the gateway you want to pair with, and then tap the **Add** button next to it. You’ll see the following message: 
+3.	Select the gateway you want to pair with, and then tap the **Add** button next to it. You’ll see the **Add Gateway** screen and the following message: 
 
-    “Go to aka.ms/activategateway on your laptop and enter the following <serial number> to get the activation key of your gateway.”
+    “Go to aka.ms/activategateway on your laptop and enter the following serial number to get the activation key of your gateway.”
 
     ![Pairing instructions](media/pairing-instructions.PNG "Pairing instructions")
 
