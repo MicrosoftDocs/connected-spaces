@@ -30,7 +30,7 @@ install Dynamics 365 Connected Store.
     
     While Connected Store is being installed, you can watch a video demo and learn more about preparing for Connected Store.
     
-    ![Welcome to Connected Store screen with video demo](media/demo-screen.PNG "Welcome to Connected Store screen with video demo")
+    ![Welcome to Connected Store screen with video demo](media/demo-connected-store.PNG "Welcome to Connected Store screen with video demo")
     
     If the setup process fails, you’ll see the following message:
    
