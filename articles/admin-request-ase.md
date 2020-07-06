@@ -11,11 +11,11 @@ ms.reviewer: v-brycho
 
 # Order the Azure Stack Edge gateway to use with Dynamics 365 Connected Store (public preview)
 
-This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Store (public preview). Before completing this procedure make sure to:
+This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Store (public preview). Before completing this procedure, make sure to:
 
 1. [Create a new Azure Active Directory tenant for the public preview](admin-create-new-tenant.md)
 
-2. [Install the Dynamics 365 Connected Store web app](admin-install-web-app.md)
+2. [Install Dynamics 365 Connected Store](admin-install-web-app.md)
 
 ## Request Azure Stack Edge
 
