@@ -15,7 +15,7 @@ This article provides camera placement recommendations for Microsoft Dynamics 36
 
 ## General guidelines
 
-Consider the following general guidelines when positioning cameras for Microsoft Dynamics 365 Connected Store:
+Consider the following general guidelines when positioning cameras for Connected Store:
 
 - **Lighting height.** Place cameras below lighting fixtures so the fixtures don’t block the cameras.
 
@@ -47,7 +47,7 @@ You need to consider three things when deciding how to install a camera for Dyna
 
 - The angle of the camera relative to the floor plane
 
-It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
+It's also important to know the direction that the majority of people walk (person walking direction) in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
 ![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
 
