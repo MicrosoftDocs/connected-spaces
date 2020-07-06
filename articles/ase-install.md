@@ -18,7 +18,7 @@ This article covers the steps to prepare and install Azure Stack Edge for use wi
 
 ## Azure Stack Edge installation requirements	
 
-The following table shows the requirements for installing and connecting the Azure Stack Edge hardware for Dynamics 365 Connected Store.
+The following table shows the requirements for installing and connecting the Azure Stack Edge gateway for Dynamics 365 Connected Store.
 
 |Requirement|Description|
 |----------------|--------------------------------------------------------------------------------------------|
