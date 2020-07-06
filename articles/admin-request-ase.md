@@ -17,7 +17,7 @@ This procedure describes step 3 of the setup process for Microsoft Dynamics 365 
 
 2. [Install Dynamics 365 Connected Store](admin-install-web-app.md)
 
-## Request Azure Stack Edge
+## Order Azure Stack Edge
 
 Connected Store transforms video streams from cameras in your retail stores into data that depicts aggregated traffic patterns in your store. Connected Store uses Azure 
 Stack Edge to make this happen. Use this procedure to request an Azure Stack Edge gateway.
