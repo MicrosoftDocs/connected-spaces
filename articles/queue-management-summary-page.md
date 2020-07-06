@@ -25,7 +25,7 @@ To go back to the **Analytics** page from the summary page, select from the brea
 
 ## The Queue management summary page
 
-The **Queue management summary** page shows a view of the performance of all queue management zones and their performance relative to each other. Use this page to answer this question: “How efficient are my queues?”
+The **Queue management summary** page shows a view of the performance of all Queue management zones and their performance relative to each other. Use this page to answer this question: “How efficient are my queues?”
 
 ![Queue management summary page](media/analytics-28A.PNG "Queue management summary page") 
 
