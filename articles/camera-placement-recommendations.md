@@ -193,4 +193,4 @@ Images in this guide are intended to represent a potential placement of a custom
 
 ## Next step
 
-[Install your cameras](install-cameras.md)
+[Prepare your network and install Azure Stack Edge](install-cameras.md)
