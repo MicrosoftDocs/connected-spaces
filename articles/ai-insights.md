@@ -15,7 +15,7 @@ Microsoft Dynamics 365 Connected Store leverages the industry-leading computer v
 
 ## How AI works to produce insights
 
-The Connected Store Edge  Gateway includes a computer vision AI skills (models) that detect human presence and movement from in-store camera video footage to derive data such as people count and dwell time. The derived data is sent to the Connected Store Cloud to generate observational data and insights. Connected Store Cloud service and Web application is a multi-tenant SaaS that processes the observational data from Connected Store Edge gateway, correlates with other business data to generate aggregate and actionable insights for each tenant.
+The Connected Store Edge  Gateway includes computer vision AI skills (models) that detect human presence and movement from in-store camera video footage to derive data such as people count and dwell time. The derived data is sent to the Connected Store Cloud to generate observational data and insights. Connected Store Cloud service and Web application is a multi-tenant SaaS that processes the observational data from Connected Store Edge gateway, correlates with other business data to generate aggregate and actionable insights for each tenant.
 
 - The computer vision AI skills’ goal is exclusively to detect and locate human presence in video footage and outputs a bounding box around a human body. Connected Store AI skills do not attempt to detect faces or discover the identities or demographics of shoppers and other individuals at your retail location. 
 
