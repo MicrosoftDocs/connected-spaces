@@ -25,7 +25,7 @@ To go back to the **Analytics** page from the summary page, select from the brea
 
 ## The Display effectiveness summary page
 
-The **Display effectiveness summary** page shows a view of the performance of all display effectiveness zones and their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
+The **Display effectiveness summary** page shows a view of the performance of all Display effectiveness zones and their performance relative to each other. Use this page to answer this question: “How effective are my displays?”
 
 ![Display effectiveness summary page](media/analytics-24.PNG "Display effectiveness summary page")
 
@@ -56,15 +56,15 @@ The **Display effectiveness summary** page also includes the **3 busiest display
 
 ![Graphs and table](media/analytics-27.PNG "Graphs and table")
 
-**3 busiest displays.** This graph shows the people count trend data for the three display effectiveness zones that, on average, 
+**3 busiest displays.** This graph shows the people count trend data for the three Display effectiveness zones that, on average, 
 received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall 
-across all display effectiveness zones, illustrated by the dotted line.
+across all Display effectiveness zones, illustrated by the dotted line.
 
-**3 most engaging displays.** This graph shows the dwell time trend data for the three display effectiveness zones in which people, 
+**3 most engaging displays.** This graph shows the dwell time trend data for the three Display effectiveness zones in which people, 
 on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement 
-(dwell) time across all display effectiveness zones, illustrated by the dotted line.
+(dwell) time across all Display effectiveness zones, illustrated by the dotted line.
 
-**All store displays.** This table contains a sortable list of all display effectiveness zones by name, total people count, and average 
+**All store displays.** This table contains a sortable list of all Display effectiveness zones by name, total people count, and average 
 engagement time. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using 
 the **Filter** button next to each column heading.
 
