@@ -19,8 +19,7 @@ This procedure describes step 3 of the setup process for Microsoft Dynamics 365 
 
 ## Order Azure Stack Edge
 
-Connected Store transforms video streams from cameras in your retail stores into data that depicts aggregated traffic patterns in your store. Connected Store uses Azure 
-Stack Edge to make this happen. Use this procedure to request an Azure Stack Edge gateway.
+Connected Store uses the Azure Stack Edge gateway to transform video streams from cameras in your retail stores into data that depicts aggregated traffic patterns in your store. 
 
 > [!IMPORTANT]
 > The Azure Stack Edge hardware that you order for Connected Store (public preview) can only be used for Connected Store (public preview). You can't deploy any other resources to Azure Stack Edge during the public preview of Connected Store. 
