@@ -15,7 +15,7 @@ You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft D
 
 ## View the Queue management details page
 
-To see the details for a specific queue in Microsoft Dynamics 365 Connected Store public preview, select the desired queue in the **All queues** table at the bottom of the [Queue management summary page](queue-management-summary-page.md).
+To see the details for a specific queue, select the desired queue in the **All queues** table at the bottom of the [Queue management summary page](queue-management-summary-page.md).
 
 ![All queues table](media/analytics-29A.PNG "All queues table")
 
