@@ -11,7 +11,9 @@ ms.reviewer: v-brycho
 
 # Add camera skill zones to a store by using the Dynamics 365 Connected Store (public preview) mobile app
 
-You can use customizable skill zones in Microsoft Dynamics 365 Connected Store (public preview) to have your camera collect physical data based on the needs of your store. You can use the mobile app to set up custom zones with one of three available skills:
+You can use customizable skill zones in Microsoft Dynamics 365 Connected Store (public preview) to have your camera collect physical data based on the needs of your store. 
+
+You can use the mobile app to set up custom zones with one of three available skills:
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
