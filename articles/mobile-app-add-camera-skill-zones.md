@@ -50,7 +50,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
     
     ![Rotated screen showing camera view](media/add-display-effectiveness-zone.PNG "Rotated screen showing camera view")
 
-5.	When you’re done, tap **Done** at the bottom of the screen. When you see a pop-up message saying that your zone as been set, select **Continue** .
+5.	When you’re done, tap **Done** at the bottom of the screen. When you see a pop-up message saying that your zone as been set, select **Continue**.
 
 6.	In the next screen, make any changes to the fields to customize the skill for your store’s needs.
 
