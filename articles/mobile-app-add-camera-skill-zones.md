@@ -95,13 +95,13 @@ The corners of this zone will capture data from the side aisles instead of the f
 ![Poorly shaped skill zone](media/skill-zone-bad-example.PNG "Poorly shaped skill zone")
  
 > [!TIP]
-> For **Display effectiveness** zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
+> For Display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
 ## Sort the Skills list
 
 If you have a lot of skills on your camera, you might want to sort the list to find the skill you're looking for. 
 
-To sort or filter the Skills list:
+To sort the Skills list:
 
 - Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the skills page.
 
