@@ -1,11 +1,11 @@
 ---
 author: alwinv
-description: Overview of the Dynamics 365 Connected Store app for public preview
+description: Introduction to Dynamics 365 Connected Store (public preview)
 ms.author: alwinv
 ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of Dynamics 365 Connected Store
+title: Overview of Dynamics 365 Connected Store (public preview)
 ms.reviewer: v-brycho
 ---
 
@@ -19,7 +19,7 @@ Dynamics 365 Connected Store enables you to:
 
 - **React to environmental triggers.** Ensure that customer needs are met effectively and quickly by equipping store managers and employees with actionable alerts triggered by store activity, such as long checkout lines. Access to automated, sensor-driven reporting is standardized and available in-the-moment for immediate action.
 
-- **Understand and optimize your space.** Take advantage of reports that inform you on the status of your space and the change that occurs within it. Optimize staffing and merchandising decisions using AI-driven insights around the shoppers visiting a store on any given day and time. Reports are accessible to employees, managers, and even stakeholders outside of the immediate environment such as a regional store manager.
+- **Understand and optimize your space.** Take advantage of reports that inform you on the status of your space and the change that occurs within it. Optimize staffing and merchandising decisions using AI-driven insights around the shoppers visiting a store on any given day and time. Reports are accessible to employees, managers, and even stakeholders outside of the immediate environment, such as a regional store manager.
 
 - **Empower long-term decision making.** Predict the ideal future behaviors as your environment status changes over time. Make your insights stronger with each passing day.
 
@@ -37,5 +37,5 @@ Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/re
 
 ## Next step
 
-[Learn how to get started with Dynamics 365 Connected Store](get-started.md)
+[Learn how to get started with Dynamics 365 Connected Store (public preview)](get-started.md)
 
