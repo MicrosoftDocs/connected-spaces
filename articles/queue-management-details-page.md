@@ -33,11 +33,11 @@ On the **Queue management details** page, you can use the cards and graphs to un
 
 The banner at the top of the page highlights the key takeaways and comparisons for the specific queue. The **Store footfall** card is carried over from the [**Analytics page**](web-app-get-insights.md). 
 
-**Longest queue.** This card highlights the value for the greatest number of people who occupied the specific Queue management zone along with the date when it occurred, for the selected time frame.
+**Longest queue.** This card highlights the value for the greatest number of people who occupied the specific Queue management zone, along with the date when it occurred, for the selected time frame.
 
 ![Longest queue card](media/analytics-39.PNG "Longest queue card")
 
-**Shortest queue.** This card highlights the value for the least number of people who occupied the specific Queue management zone along with the date when it occurred, for the selected time frame.
+**Shortest queue.** This card highlights the value for the least number of people who occupied the specific Queue management zone, along with the date when it occurred, for the selected time frame.
 
 ![Shortest queue card](media/analytics-42.PNG "Shortest queue card")
 
