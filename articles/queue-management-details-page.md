@@ -19,11 +19,13 @@ To see the details for a specific queue, select the desired queue in the **All q
 
 ![All queues table](media/analytics-29A.PNG "All queues table")
 
-The **All queues** table contains a sortable list of all queue management zones by name, longest and shortest queue value, and fastest and slowest queue time for the selected time range. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using the Filter button next to each column heading.
+The **All queues** table contains a sortable list of all Queue management zones by name, longest and shortest queue value, and fastest and slowest queue time for the selected time range. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using the **Filter** button next to each column heading.
 
-To see details for a specific queue management zone, select the desired queue name at the bottom of the page.
+To see details for a specific Queue management zone, select the desired queue name at the bottom of the page.
 
-On the **Queue Management details** page, you can use the cards and graphs to understand the rhythm and flow of a specific queue management zone.
+## Queue management details page
+
+On the **Queue management details** page, you can use the cards and graphs to understand the rhythm and flow of a specific Queue management zone.
 
 ![Queue Management details page](media/analytics-29B.PNG "Queue Management details page")
 
