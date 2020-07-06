@@ -110,9 +110,9 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 ![Display effectiveness graphs section of Analytics page](media/analytics-14.PNG "Display effectiveness graphs section of Analytics page")
 
-**Total footfall across displays.** This graph shows the total number of people that entered the display effectiveness zones across the entire store. The dotted line is the average footfall across display effectiveness zones during the selected time frame.
+**Total footfall across displays.** This graph shows the total number of people that entered the Display effectiveness zones across the entire store. The dotted line is the average footfall across Display effectiveness zones during the selected time frame.
 
-**Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all display effectiveness zones during the selected time frame.
+**Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within Display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all Display effectiveness zones during the selected time frame.
 
 ### Queue management graphs
 
