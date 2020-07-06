@@ -61,7 +61,7 @@ You can add one skill zone per camera view. Your skill zones can have custom nam
     |Field|	Description|	Applies to (skills)|
     |----------------|------------------------------------------------|-------------------------------------------------------|
     |**Zone Name**|Give your zone a name to easily identify it in the dashboard (for example, Holiday promotion).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
-    |**Active Date Range**|Set the time frame for collecting data in the selected zone.<br><br>For the display effectiveness skill, this is especially useful for zones where the physical location of the zone may not change but the product changes.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
+    |**Active Date Range**|Set the time frame for collecting data in the selected zone.<br><br>For the **Display effectiveness** skill, this is especially useful for zones where the physical location of the zone may not change but the product changes.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**Engagement Threshold**|Set a dwell time threshold over which you consider people engaged in the zone.|- Display effectiveness|
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
