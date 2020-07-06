@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This article covers the steps to prepare and install Azure Stack Edge for use with Microsoft Dynamics 365 Connected Store (public preview). 
 
 > [!IMPORTANT]
-> The Azure Stack Edge hardware that you order for Connected Store (public preview) can only be used for Connected Store (public preview). You can't deploy any other resources to Azure Stack Edge during the public preview of Connected Store. 
+> The Azure Stack Edge gateway that you order for Connected Store (public preview) can only be used for Connected Store (public preview). You can't deploy any other resources to Azure Stack Edge during the public preview. 
 
 ## Azure Stack Edge installation requirements	
 
