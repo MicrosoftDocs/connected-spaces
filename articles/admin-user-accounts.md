@@ -29,7 +29,7 @@ The following table describes the privileges that each role grants.
 
 ## Assign a Connected Store security role to a user account
 
-1. In the Connected Store web app, select **Settings**, and then, select a store from the list.
+1. In the Connected Store web app, select **Settings**, and then select a store from the list.
 
      ![Store in list selected](media/select-store-add-users.PNG "Store in list selected")
 
