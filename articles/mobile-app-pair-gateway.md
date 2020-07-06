@@ -63,7 +63,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 ## Get more information about a gateway created in the mobile app
 
-To get more information about a gateway, including network properties, firmware, and the device model:
+To get more information about a gateway:
 
 1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
