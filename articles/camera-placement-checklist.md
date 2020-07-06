@@ -21,8 +21,6 @@ When determining where to place your cameras, we recommend using this checklist:
 
 3. [Review the general placement guidelines and determine camera placement details for the different zones, including height, angle, and focal-point distance from the target](camera-placement-recommendations.md).
 
-4. [Install the cameras](install-cameras.md).
-
 ## Next step
 
 [Understand the scenarios](camera-placement-general.md)
