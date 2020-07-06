@@ -16,7 +16,7 @@ You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile a
 To use the mobile app, you also need to have the **Connected Store Admin** user role. For more information, see [Give permissions to users](admin-user-accounts.md).
 
 > [!NOTE]
-> You can’t use the mobile app on an iPad or Android devices at this time.
+> You can’t use the mobile app on an iPad or on Android devices at this time.
 
 ## What's next?
 
