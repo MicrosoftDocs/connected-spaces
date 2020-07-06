@@ -19,9 +19,9 @@ You can use the mobile app to set up custom zones with one of three available sk
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
 |**Display effectiveness**|	Track how your displays perform	|End caps, displays, promotions|
 |**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
-|**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit, aisles|
+|**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
 
-You can add one skill zone per camera view. Your skill zones can have custom names and shapes (limited to four sides).
+You can add one skill zone per camera view, with a limit of 10 zones per gateway device for the public preview. Your skill zones can have custom names and shapes (limited to four sides).
 
 > [!NOTE]
 > Skill zones don’t change what your camera sees at any time. After you create a skill zone, the camera will continue to see the entire field of view but will only track and collect data from the zones that you add. You can add or update your skill zones at any time using the mobile app.
