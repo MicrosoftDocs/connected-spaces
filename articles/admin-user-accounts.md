@@ -36,7 +36,7 @@ The following table describes the privileges that each role grants.
     > [!NOTE]
     > If no store is available in the list, use the mobile app to create a store first.
     
-2. Switch to the **Users** tab and then select **Assign security roles**.
+2. Switch to the **Users** tab, and then select **Assign security roles**.
 
     ![Assign security roles command selected](media/assign-security-roles.PNG "Assign security roles command selected")
     
