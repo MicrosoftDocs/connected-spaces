@@ -1,17 +1,17 @@
 ---
 author: alwinv
-description: Learn how to request the Azure Stack Edge hardware to use with the Dynamics 365 Connected Store public preview.
+description: Learn how to order the Azure Stack Edge gateway to use with Dynamics 365 Connected Store (public preview).
 ms.author: alwinv
 ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Request the Azure Stack Edge hardware to use with Dynamics 365 Connected Store
+title: Order the Azure Stack Edge gateway to use with Dynamics 365 Connected Store (public preview)
 ms.reviewer: v-brycho
 ---
 
-# Order the Azure Stack Edge hardware to use with Dynamics 365 Connected Store
+# Order the Azure Stack Edge gateway to use with Dynamics 365 Connected Store (public preview)
 
-This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Store. Before completing this procedure make sure to:
+This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Store (public preview). Before completing this procedure make sure to:
 
 1. [Create a new Azure Active Directory tenant for the public preview](admin-create-new-tenant.md)
 
