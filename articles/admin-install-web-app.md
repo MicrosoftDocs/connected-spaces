@@ -16,9 +16,9 @@ install Dynamics 365 Connected Store.
 
 1. [Go to the Connected Store setup page](https://go.microsoft.com/fwlink/?linkid=2128110).
 
-2. Read through the [Terms of Use](https://go.microsoft.com/fwlink/?linkid=2128595), and then when you’re ready, select **Start install**.
+2. Read through the [Terms of Use](https://go.microsoft.com/fwlink/?linkid=2128595), and then when you’re ready, select **Install**.
 
-     ![Start install button](media/start-install.PNG "Start install button")
+     ![Install button](media/install-connected-store.PNG "Install button")
     
     This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup:
     
@@ -28,7 +28,9 @@ install Dynamics 365 Connected Store.
     
     - Installs the Connected Store solutions in the environment
     
-    ![Screen showing that Connected Store is being installed](media/installing.PNG "Screen showing that Connected Store is being installed")
+    While Connected Store is being installed, you can watch a video demo and learn more about preparing for Connected Store.
+    
+    ![Welcome to Connected Store screen with video demo](media/demo-screen.PNG "Welcome to Connected Store screen with video demo")
     
     If the setup process fails, you’ll see the following message:
    
@@ -36,10 +38,6 @@ install Dynamics 365 Connected Store.
     
     If this happens, try installing again.
     
-3. While Connected Store is being installed, you can watch a demo and learn more about preparing for Connected Store by selecting **Welcome to Connected Store**.
-
-    ![Connected Store demo](media/connected-store-demo.PNG "Connected Store demo")
-
 ## Next step
 
 [Order the Azure Stack Edge gateway](admin-request-ase.md)
