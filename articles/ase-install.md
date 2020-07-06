@@ -87,7 +87,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
     > [!NOTE]
     > Configure the Ethernet adapter on your computer to connect to the Azure Stack Edge device with a static IP address of 192.168.100.5 and subnet 255.255.255.0. In addition, confirm that Azure Stack Edge has connectivity to the NTP server.
     
-    e. When your laptop is connected to PORT 1 and your ethernet adapter or port is configured on your laptop, go to the Dynamics 365 Mobile App guide to
+    e. When your laptop is connected to PORT 1 and your ethernet adapter or port is configured on your laptop, go to the mobile app to:
 
       i. [Set up a store](mobile-app-create-store.md).
        
