@@ -82,7 +82,7 @@ about a store, use this procedure.
 
 If you have a lot of stores in your Stores list, you might want to sort the list to find the store you're looking for. 
 
-To sort or filter the Stores list:
+To sort the Stores list:
 
 - Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
 
