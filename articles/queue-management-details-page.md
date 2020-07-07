@@ -62,3 +62,13 @@ The **Longest queue at [Queue 1]** and **Average wait time at [Queue 1]** graphs
 To see data values for timepoint, hover over the graph. 
 
 ![Longest queue at Queue 1 graph with underlying data displayed](media/analytics-29C.PNG "Longest queue at Queue 1 graph with underlying data displayed")
+
+## Next steps
+
+Learn about these web app pages:
+
+[Analytics page](web-app-get-insights.md)<br>
+[Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
+[Display effectiveness details page](display-effectiveness-details-page.md)<br>
+[Queue management summary page](queue-management-summary-page.md)<br>
