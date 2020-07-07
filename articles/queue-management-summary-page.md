@@ -73,7 +73,7 @@ To see data values for each queue, hover over the graph.
 Learn about these web app pages:
 
 [Analytics page](web-app-get-insights.md)<br>
-[Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
 [Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
 [Display effectiveness details page](display-effectiveness-details-page.md)<br>
 [Queue management details page](queue-management-details-page.md)
