@@ -22,8 +22,6 @@ To see details for a specific Display effectiveness zone in Microsoft Dynamics 3
 
 ## Display effectiveness details page
 
-![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
-
 On this page, you can use the cards and graphs to understand:
 
 - Of total store visitors (assuming the store has been configured to capture footfall at store entry), *how many people passed by the 
@@ -34,6 +32,8 @@ display?*
 - Of total display visitors, *how long, on average, did they dwell?*
 
 - *From what direction (side of display zone) did visitors enter/exit the display zone?*
+
+![Display effectiveness details page](media/analytics-30.PNG "Display effectiveness details page")
 
 ## Highlights banner
 
