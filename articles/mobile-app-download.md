@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Download the mobile app for Dynamics 365 Connected Store (public preview)
 ms.author: alissag
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Download the Dynamics 365 Connected Store (public preview) mobile app
@@ -25,7 +25,7 @@ latest experience, security, and bug fixes.
 
 To download the app for your device, go to the Apple App Store or use the following direct link: [Apple App store](https://aka.ms/ConnectedStoreAppleApp)    
 
-## What's next?
+## Next steps
 
 [Create a store](mobile-app-create-store.md)
 
