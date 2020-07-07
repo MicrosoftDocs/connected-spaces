@@ -94,6 +94,12 @@ in a graph to reveal details.
 
 ![Example of graph details shown when hovering](media/analytics-38.PNG "Example of graph details shown when hovering")
 
-## Next step
+## Next steps
 
-[Learn about the Queue management summary page](queue-management-summary-page.md)
+Learn about these web app pages:
+
+[Analytics page](web-app-get-insights.md)<br>
+[Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
+[Queue management summary page](queue-management-summary-page.md)<br>
+[Queue management details page](queue-management-details-page.md)
