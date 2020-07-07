@@ -29,9 +29,9 @@ The following table describes each button in the left navigation pane.
 
 ## Next steps
 
-[Learn about the Analytics page](web-app-get-insights.md)
-[Learn about the Shopper Analytics summary page](shopper-analytics-summary-page.md)
-[Learn about the Display effectivness summary page](display-effectiveness-summary-page.md)
-[Learn about the Display effectivness details page](display-effectiveness-details-page.md)
-[Learn about the Queue management summary page](queue-management-summary-page.md)
+[Learn about the Analytics page](web-app-get-insights.md)<br>
+[Learn about the Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Learn about the Display effectivness summary page](display-effectiveness-summary-page.md)<br>
+[Learn about the Display effectivness details page](display-effectiveness-details-page.md)<br>
+[Learn about the Queue management summary page](queue-management-summary-page.md)<br>
 [Learn about the Queue management details page](queue-management-details-page.md)
