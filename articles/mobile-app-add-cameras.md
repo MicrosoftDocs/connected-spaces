@@ -29,7 +29,7 @@ If you haven't already installed your cameras, see:
 
     ![Plus sign button](media/add-camera.PNG "Plus sign button")
     
-2. To get the list of available cameras, enter the starting and ending IP addresses, and the RTSP port that the network is connected to. For more information on IP range and port, see [Prepare your network for Azure Stack Edge](ase-install.md).
+2. To get the list of available cameras, enter the starting and ending IP addresses, and the RTSP port for the cameras. For more information on IP range and port, see [Prepare your network for Azure Stack Edge](ase-install.md).
 
     ![Camera IP range and port](media/camera-ip-range.PNG "Camera IP range and port")
  
