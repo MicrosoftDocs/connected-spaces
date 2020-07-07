@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn about the left navigation pane in the Dynamics 365 Connected Store (public preview) web app
 ms.author: labryan
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Find your way around the Dynamics 365 Connected Store (public preview) web app
