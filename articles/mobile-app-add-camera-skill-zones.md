@@ -90,7 +90,7 @@ This zone is small, focused on the area of interest, and doesn't overlap with th
  
 ### Example of a Display effectiveness skill zone that isn’t well-shaped
 
-This zone overlaps with the end cap and it will also capture data from the side aisles instead of the focus area—the display.
+This zone overlaps with the end cap and it will also capture data from the side aisle instead of the focus area—the display.
 
 ![Poorly shaped skill zone](media/skill-zone-bad-example.PNG "Poorly shaped skill zone")
  
