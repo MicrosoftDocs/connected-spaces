@@ -32,7 +32,7 @@ The following table describes each button in the left navigation pane.
 Learn about these web app pages:
 
 [Analytics page](web-app-get-insights.md)<br>
-[Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
 [Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
 [Display effectiveness details page](display-effectiveness-details-page.md)<br>
 [Queue management summary page](queue-management-summary-page.md)<br>
