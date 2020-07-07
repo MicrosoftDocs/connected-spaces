@@ -129,7 +129,7 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 Learn about these web app pages:
 
-[Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
 [Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
 [Display effectiveness details page](display-effectiveness-details-page.md)<br>
 [Queue management summary page](queue-management-summary-page.md)<br>
