@@ -27,6 +27,11 @@ The following table describes each button in the left navigation pane.
 |**Settings**|Change settings for stores, users, and devices.|
 |**Contact Us**|Use this page if you have questions or just want to provide feedback to the Connected Store team! You can also find a link to the legal notices document on this page.| 
 
-## What's next?
+## Next steps
 
 [Learn about the Analytics page](web-app-get-insights.md)
+[Learn about the Shopper Analytics summary page](shopper-analytics-summary-page.md)
+[Learn about the Display effectivness summary page](display-effectiveness-summary-page.md)
+[Learn about the Display effectivness details page](display-effectiveness-details-page.md)
+[Learn about the Queue management summary page](queue-management-summary-page.md)
+[Learn about the Queue management details page](queue-management-details-page.md)
