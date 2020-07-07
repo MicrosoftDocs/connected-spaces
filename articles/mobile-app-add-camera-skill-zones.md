@@ -84,7 +84,7 @@ If you want to see a specific section of your camera view, create a small, selec
  
 ### Example of a well-shaped Display effectiveness skill zone
 
-This zone is small, focused on the area of interest, and doesn't overlap with the end cap.
+This zone is big enough to accommodate 2-3 people, focused on the area of interest, and doesn't overlap with the end cap. When drawing zones on the 2D image, imagine you are drawing them as if they lie on the store floor.
 
 ![Well-shaped skill zone](media/skill-zone-good-example.PNG "Well-shaped skill zone")
  
