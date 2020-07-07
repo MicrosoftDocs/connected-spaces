@@ -72,6 +72,12 @@ To see data values for each display, hover over the graph.
 
 ![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
 
-## Next step
+## Next steps
 
-[Learn about the Display effectiveness details page](display-effectiveness-details-page.md)
+Learn about these web app pages:
+
+[Analytics page](web-app-get-insights.md)<br>
+[Shopper Analytics summary page](shopper-analytics-summary-page.md)<br>
+[Display effectiveness details page](display-effectiveness-details-page.md)<br>
+[Queue management summary page](queue-management-summary-page.md)<br>
+[Queue management details page](queue-management-details-page.md)
