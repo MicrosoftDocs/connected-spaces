@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Store (public preview) 
 ms.author: alissag
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Connect a camera to a gateway in Dynamics 365 Connected Store (public preview) 
