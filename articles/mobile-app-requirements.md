@@ -18,7 +18,7 @@ To use the mobile app, you also need to have the **Connected Store Admin** user 
 > [!NOTE]
 > You can’t use the mobile app on an iPad or on Android devices at this time.
 
-## What's next?
+## Next steps
 
 [Overview of the mobile app](mobile-app-overview.md)
 
