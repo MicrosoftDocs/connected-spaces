@@ -1,15 +1,15 @@
 ---
 author: alwinv
-description: Data and Privacy
+description: How Dynamics 365 Connected Store (public preview) protects data and privacy
 ms.author: alwinv
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Data and Privacy
+title: Data and Privacy for Dynamics 365 Connected Store (public preview)
 ms.reviewer: v-brycho
 ---
 
-# Data and Privacy
+# Data and privacy for Dynamics 365 Connected Store (public preview)
 
 Microsoft Dynamics 365 Connected Store has three components, and each is designed with compliance, security, and privacy in mind. 
 
