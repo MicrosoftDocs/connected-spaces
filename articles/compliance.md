@@ -1,15 +1,15 @@
 ---
 author: alwinv
-description: Compliance
+description: Customer responsibilities for complianace and responsible use regarding Dynamics 365 Connected Store (public preview)
 ms.author: alwinv
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Compliance
+title: Compliance and responsible use for Dynamics 365 Connected Store (public preview)
 ms.reviewer: v-brycho
 ---
 
-# Compliance and Responsible Use
+# Compliance and responsible use for Dynamics 365 Connected Store (public preview)
 
 Microsoft Dynamics 365 Connected Store was designed with compliance, privacy, security, and confidentiality in mind, but some responsibilities are fully within our customers’ control. It is your responsibility to:
 
