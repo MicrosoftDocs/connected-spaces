@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn about the requirements for using the Dynamics 365 Connected Store (public preview) mobile app
 ms.author: alissag
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for using the Dynamics 365 Connected Store (public preview) mobile app
