@@ -66,17 +66,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 10. In the left pane, select **Time**.
 
 11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
-
-12. Open the Connected Store mobile application, and then do the following:
-
-    a. [Create a store](mobile-app-create-store.md)
-    
-    b. [Pair a gateway](mobile-app-pair-gateway.md)
-    
-    c. [Connect cameras to the gateway](mobile-app-add-cameras.md)
-    
-    d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
-    
+   
 ## Next step
 
-[Create a store using the Dynamics 365 Connected Store mobile app](mobile-app-create-store.md)
+[Install your cameras](install-cameras.md)
