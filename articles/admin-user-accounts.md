@@ -29,29 +29,41 @@ The following table describes the privileges that each role grants.
 
 ## Assign a Connected Store security role to a user account
 
-1. In the Connected Store web app, select **Settings**, and then select a store from the list.
+1. Open the [Power Platform admin center](https://admin.powerplatform.com/). 
+        
+2. Select the default environment.
 
-     ![Store in list selected](media/select-store-add-users.PNG "Store in list selected")
+    ![XXX](media/XXX.PNG "XXX")
+    
+3. Select **Settings**.
 
+    ![XXX](media/XXX.PNG "XXX")
+    
+4. Expand the **Users and Permissions** heading, and then select **Users**.
+
+    ![XXX](media/XXX.PNG "XXX")
+
+5. Review the list of users. If the users are already in the list, select **Manage users in Dynamics 365**.
+
+    ![XXX](media/XXX.PNG "XXX")
+   
     > [!NOTE]
-    > If no store is available in the list, use the mobile app to create a store first.
+    > It may take a few minutes for the list to refresh with new users. To update the list immediately, select **Add user**, type the account name or email address, and then select **Add**.<br>![XXX](media/XXX.PNG "XXX")
     
-2. Switch to the **Users** tab, and then select **Assign security roles**.
+6. Select the check box next to the appropriate user account.    
 
-    ![Assign security roles command selected](media/assign-security-roles.PNG "Assign security roles command selected")
-    
-3. Select the check box next to the appropriate user account.
+    ![XXX](media/XXX.PNG "XXX")
+   
+    >[!NOTE]
+    > If you recently added a new user account to your Azure Active Directory tenant, it may take a few minutes for it to appear in this list. Select the **Refresh** button to refresh the list.
+   
+7. Select **MANAGE ROLES**. 
 
-    ![Check box next to use account highlighted](media/select-user-add-users.PNG "Check box next to use account highlighted")
-    
-4. Select **MANAGE ROLES**. 
+    ![XXX](media/XXX.PNG "XXX")
 
-   ![Manage roles command selected](media/manage-roles.PNG "Manage roles command selected")
+8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and then select **OK**. 
 
-5. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and then select **OK**. 
-
-   ![Two Connected Store security roles highlighted](media/manage-user-roles.PNG "Two Connected Store security roles highlighted")
-
+    ![XXX](media/XXX.PNG "XXX")
 
 [Learn more about creating users and assigning security roles](https://go.microsoft.com/fwlink/?linkid=2128632) for Dynamics 365 applications.
 
