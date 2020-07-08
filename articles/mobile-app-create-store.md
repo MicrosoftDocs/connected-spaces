@@ -15,7 +15,7 @@ After you [prepare your network and install Azure Stack Edge](ase-install.md), y
 Microsoft Dynamics 365 Connected Store (public preview) mobile app. 
 
 >[!NOTE]
->[Download the mobile app if you haven't already](mobile-app-download.md)
+>[Download the mobile app if you haven't already](mobile-app-download.md).
 
 ## Create a store
 
