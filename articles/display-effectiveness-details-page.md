@@ -61,7 +61,7 @@ The subscript in the card describes the absolute change in this value for the cu
 **Busiest entrance.** This card highlights the side of the Display effectiveness zone through which most people entered, 
 using the friendly name assigned to the side. 
 
-![Busiest entrance card](media/analytics-35.PNG "Busiest entrance card")
+![Busiest entrance card](media/analytics-20.PNG "Busiest entrance card")
 
 The subscript in the card details how much of the total display footfall came through that side.
 
