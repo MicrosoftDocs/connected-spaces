@@ -15,7 +15,7 @@ As an Azure Active Directory global admin, you can assign security roles to user
 
 ## Connected Store security roles
 
-To give users permissions to use the Connected Store, you must first assign either the **Connected Store Viewer** or **Connected Store Admin** role to any user accounts. 
+To give users permissions to use Connected Store, you must first assign either the **Connected Store Viewer** or **Connected Store Admin** role to any user accounts. 
 
 > [!NOTE]
 > The **Connected Store Admin** role is a superset of the **Connected Store Viewer** role.
