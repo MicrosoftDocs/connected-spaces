@@ -30,7 +30,7 @@ In the retail store(s), the Connected Store Edge Gateway is used to process the 
 
 - **Inference data** – This is the event data output by AI skills (models) running on the Edge Gateway that describe an inferred event. Event data includes data such as a time stamp, notation about the type of event (e.g. "entry" or "exit" crossing line or zones), a rectangle “bounding box” that coordinates the area tracked within the camera frame, a confidence score that indicates confidence of the “bounding box” being a person, and a pseudonymous identifier associated with the “bounding box”. 
 
-- **Camera snapshot image** – During set up and configuration, a snapshot image from an in-store camera is passed through to the Connected Store Mobile app  via [IoT Hub direct invoke method](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-direct-methods) on Connected Store Cloud service. No image(s) are cached on the mobile app or Edge Gateway or sent to the cloud. 
+- **Camera snapshot image** – During set up and configuration, a snapshot image from an in-store camera is encoded and passed through to the Connected Store mobile app via the Connected Store cloud service. The base64 encoded image is only temporarily cached in memory (less than 2 minutes) on the Connected Store cloud so it can pass through to the Connected Store mobile app for zone configuration.
  
 In the Connected Store Cloud service on Azure, the following types of data are processed to provide the service:
 
