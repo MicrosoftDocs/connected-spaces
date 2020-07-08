@@ -39,7 +39,7 @@ The following table describes the privileges that each role grants.
 
     ![XXX](media/XXX.PNG "XXX")
     
-4. Expand the **Users and Permissions** heading, and then select **Users**.
+4. Expand the **Users + permissions** heading, and then select **Users**.
 
     ![XXX](media/XXX.PNG "XXX")
 
