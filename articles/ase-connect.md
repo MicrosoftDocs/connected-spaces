@@ -69,13 +69,13 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
 12. Open the Connected Store mobile application, and then do the following:
 
-    a. [Create a store](mobile-app-create-store.md).
+    a. [Create a store](mobile-app-create-store.md)
     
-    b. [Pair a gateway](mobile-app-pair-gateway.md).
+    b. [Pair a gateway](mobile-app-pair-gateway.md)
     
-    c. [Connect cameras to the gateway](mobile-app-add-cameras.md).
+    c. [Connect cameras to the gateway](mobile-app-add-cameras.md)
     
-    d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md).
+    d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
     
 ## Next step
 
