@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store (public preview)
@@ -66,23 +66,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 10. In the left pane, select **Time**.
 
 11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
+   
+## Next step
 
-12. In the left pane, select **Get started**.
-
-13. In the **Get started with standalone device setup** screen, select **Activate**. 
-
-    ![Activate command](media/ase-activate.PNG "Activate command")
- 
-14. Open the Connected Store mobile application, and then do the following:
-
-    a. [Create a store](mobile-app-create-store.md).
-    
-    b. [Pair a gateway](mobile-app-pair-gateway.md).
-    
-    c. [Add cameras to the gateway](mobile-app-add-cameras.md).
-    
-    d. [Add camera skill zones](mobile-app-add-camera-skill-zones.md).
-    
-## What's next?
-
-[Create a store using the Dynamics 365 Connected Store mobile app](mobile-app-create-store.md)
+[Install your cameras](install-cameras.md)

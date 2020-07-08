@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to get started with Dynamics 365 Connected Store (public preview) by signing up for the preview, installing the software, and ordering Azure Stack Edge
 ms.author: alwinv
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Connected Store (public preview)
@@ -11,30 +11,43 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Connected Store (public preview)
 
-Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This article describes the steps required to acquire, install, configure, and use  Dynamics 365 Connected Store. 
+Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This article describes how Connected Store works, and the overall process for acquiring, installing, configuring, and using Connected Store. 
 
-1. Sign up for the public preview. After you're accepted into the public preview program, we'll send you an Azure Stack Edge Gateway device. This is also the time to purchase other necessary equipment if you need it (LP cameras and network switch).
+## How Dynamics 365 Connected Store works
 
-   When you sign up for the public preview, you can also download the Dynamics 365 Connected Store mobile app. 
+Connected Store consists of several interconnected web and mobile applications, an Azure cloud service, and hardware that you install at your store.
 
-2. [Determine your business interests](camera-placement-general.md). These are the insights you want to gain from the app for the different zones in your store. 
+![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
+ 
+In each of your retail stores, you’ll:
 
-3. [Create a plan for placing your cameras](camera-placement-recommendations.md).
+- Install and activate an Azure Stack Edge gateway. The gateway will receive video from the cameras connected to it and transform your customer activity into datapoints.
 
-4. [Install the cameras](install-cameras.md) and route the ethernet cable.
+- Use the mobile app to create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 
-5. [Prepare and configure the network and install Azure Stack Edge](ase-install.md).
+The Azure cloud service:
 
-6. [Connect Azure Stack Edge to the network](ase-connect.md).
+- Receives and stores the stream of datapoints.
 
-7. [Create a store](mobile-app-create-store.md). You'll use the mobile app on your Android phone or iPhone to do this step.
+- Processes the datapoints into aggregated observational data.
 
-8. [Pair a gateway](mobile-app-pair-gateway.md). You'll start with the mobile app, switch to your laptop, and then go back to the mobile app to finish pairing the gateway.
+- Sends the processed data on a regular basis to Common Data Service in your Microsoft Power Platform environment.
 
-9. [Connect cameras to the gateway](mobile-app-add-cameras.md). You'll use the mobile app to do this step.
+The Power Platform environment:
 
-10. [Add skill zones to the cameras](mobile-app-add-camera-skill-zones.md) You'll use the mobile app to do this step.
+- Stores the incoming data and makes it available for the Connected Store web app. You’ll use the web app to view analytics reports about activity in your stores.
 
-11. [Use dashboards to gain insights](web-app-get-insights.md). You'll use the web app to do this step.
+## How Connected Store documentation is organized
+
+The Connected Store table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the public preview and install the software, start with the first article in the Setup section and then proceed in order through the articles in the table of contents.
+
+![Screen shot of Connected Store table of contents with first setup step highlighted](media/setup-first-step.PNG "Screen shot of Connected Store table of contents with first setup step highlighted")
+
+At the end of each article, you'll see a **Next step** heading that includes a link for the suggested next step to take.
+
+## Next step
+
+[Start the setup process by creating a new Azure Active Directory tenant](admin-create-new-tenant.md)
+
 
 

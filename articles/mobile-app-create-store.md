@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to create a store by using the Dynamics 365 Connected Store (public preview) mobile app
 ms.author: alissag
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a store with the Dynamics 365 Connected Store (public preview) mobile app 
@@ -14,6 +14,9 @@ ms.reviewer: v-brycho
 After you [prepare your network and install Azure Stack Edge](ase-install.md), you’re ready to create a store with the 
 Microsoft Dynamics 365 Connected Store (public preview) mobile app. 
 
+>[!NOTE]
+>[Download the mobile app if you haven't already](mobile-app-download.md).
+
 ## Create a store
 
 1. On the **Stores** page, tap the **+** sign.
@@ -24,8 +27,8 @@ Microsoft Dynamics 365 Connected Store (public preview) mobile app.
 
    a. In the **Store Name** field, enter a friendly name for the store.
 
-   b. In the **Allow Location Access** field, move the slide to the On position if you would like to detect the location from your 
-mobile device.
+   b. In the **Allow Location Access** field, move the slider to the On position if you want to detect the location from your 
+mobile device. You can also enter your location manually, but make sure to enter the information carefully since this field doesn't autofill.
 
    c. Tap the **Add Store Image** field, and then do one of the following:
 
@@ -42,12 +45,12 @@ mobile device.
     
     ![Stores list](media/stores-list.PNG "Stores list")
     
-If this is the first store that you're creating in the mobile app, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
+If this is the first store that you're creating a store in the mobile app, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
     
  ## Get more information about a store
  
 In the Stores list, you can see at a glance how many gateways each store has and the location of the store. To get more information 
-about a store, including the creation date, number of cameras, and zones:
+about a store, use this procedure.
 
 1. Tap the **Actions** button in the upper-right corner of the page.
 
@@ -55,18 +58,18 @@ about a store, including the creation date, number of cameras, and zones:
 
     ![Info button](media/store-info.PNG "Info button")
  
-3. Review and/or edit the info. 
+3. Review the info. 
 
     ![List of store fields](media/store-fields.PNG "List of store fields")
     
-    The following table describes each field and specifies whether the field is editable from the **Store Info** page:
+    The following table describes each field:
 
-    |Field|Description|Editable?|
-    |----------------------|--------------------------------------------|--------|
-    |**Name**|The friendly name of the store|Yes|
-    |**Creation Date**|The date the store was added to the app|No|
-    |**Location**|The location of the store|Yes|
-    |**Store Overview**|The number of available gateways, cameras, and skill zones installed in the store.<br><br>Learn more about:<br>- [Gateways](mobile-app-pair-gateway.md)<br>- [Cameras](mobile-app-add-cameras.md)<br>- [Skill zones](mobile-app-add-camera-skill-zones.md)|No|
+    |Field|Description|
+    |----------------------|--------------------------------------------|
+    |**Store Name**|The friendly name of the store|
+    |**Allow Location Access**|Allow your device to determine your location|
+    |**Set Time Zone**|Set the time zone for the store|
+    |**Add Store Image**|Select a photo from your files or take a picture with your phone camera|
 
 4. When you’re finished, tap the check mark in the upper-right corner of the page to go back to the **Stores** page.
 
@@ -78,16 +81,16 @@ about a store, including the creation date, number of cameras, and zones:
 
     ![Rename button](media/store-rename.PNG "Rename button")
     
-## Sort or filter the Stores list
+## Sort the Stores list
 
-If you have a lot of stores in your Stores list, you might want to sort or filter the list to find the store you're looking for. 
+If you have a lot of stores in your Stores list, you might want to sort the list to find the store you're looking for. 
 
-To sort or filter the Stores list:
+To sort the Stores list:
 
-- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
+- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
 
  
-## What's next?
+## Next steps
 
 [Pair a gateway](mobile-app-pair-gateway.md)
 

@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store (public preview)
@@ -11,19 +11,22 @@ ms.reviewer: v-brycho
 
 # Prepare your network and install Azure Stack Edge to use with Dynamics 365 Connected Store (public preview)
 
-This article covers the steps to prepare and install Azure Stack Edge for use with Microsoft Dynamics 365 Connected Store (public preview). After installing Azure Stack Edge using these instructions, you'll use the Dynamics 365 Connected Store mobile app to create a store and pair a gateway.
+After you receive your Azure Stack Edge gateway for Microsoft Dynamics 365 Connected Store (public preview), you'll need to prepare your network and install the device. If you haven't already ordered the gateway, see [Order the Azure Stack Edge gateway](admin-request-ase.md). 
+
+> [!IMPORTANT]
+> The Azure Stack Edge gateway that you order for Connected Store (public preview) can only be used for Connected Store (public preview). You can't deploy any other resources to Azure Stack Edge during the public preview. 
 
 ## Azure Stack Edge installation requirements	
 
-The following table shows the requirements for installing and connecting the Azure Stack Edge hardware for Dynamics 365 Connected Store.
+The following table shows the requirements for installing and connecting the Azure Stack Edge gateway for Dynamics 365 Connected Store.
 
 |Requirement|Description|
 |----------------|--------------------------------------------------------------------------------------------|
-|Size|To mount Azure Stack Edge, you need a U1 slot in a standard 19” datacenter rack.<br><br>Device dimensions: 1.75" (height) x 17.09" (width) x 29.15" (length)|
+|Size|To mount Azure Stack Edge, you need a 1U slot in a standard 19” datacenter rack.<br><br>Device dimensions: 1.75" (height) x 17.09" (width) x 29.15" (length)|
 |Airflow|Azure Stack Edge requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
-|Power|You’ll need standard AC power from an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS).|
+|Power|Azure Stack Edge requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of Azure Stack Edge. [Learn more about power requirements](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge where people perform daily operations which may be affected by prolonged noise exposure.|
-|Network|Azure Stack Edge requires a standard 20 MB internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge to the LAN.|
+|Network|Azure Stack Edge requires a 5 megabits-per-second internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge to the LAN.|
 |Operating temperatures|See the [Azure Stack Edge technical specifications](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
 
 ## Site preparation	
@@ -50,13 +53,11 @@ You’ll need the following LAN information when you configure Azure Stack Edge:
 
 ### Secure the IP addresses
 
-We recommend that you secure a range of static IP addresses on the same network for your edge hardware (cameras and gateway). A range of 100 IP addresses will provide room to add more cameras as your needs grow.
+You'll need to secure a range of static IP addresses for your edge hardware (cameras and gateway). 
 
-- The IP cameras require a range of 50 IP addresses. Keep these in sequence, if possible, for ease of troubleshooting.
+- The IP cameras require a range of 10 IP addresses. To enable future camera expansion, we recommend securing additional IP addresses. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
-- Azure Stack Edge requires a range of 25 IP addresses. Initially, you might only need 3, but for future upgrades, additional addresses may be required.
-
-- To enable future expansion, such as additional cameras, we recommend securing an additional range of 25 IP addresses.
+- Azure Stack Edge requires 3 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
 ### Check power and ventilation 
 
@@ -69,13 +70,13 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 ## Install and connect Azure Stack Edge	
 
 > [!NOTE]
-> Download and install the Dynamics 365 Connected Store mobile app before you start.
+> [Download and install the Dynamics 365 Connected Store mobile app](mobile-app-download.md) before you start.
 
 1. Unpack and install Azure Stack Edge using the following instructions: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-install
 
 2. To connect Azure Stack Edge to the network switch:
 
-    a. Install your network PoE switch if it’s not already installed. We recommend installing it in close proximity to Azure Stack Edge.
+    a. Install your network PoE switch in close proximity to Azure Stack Edge.
     
     b. Use the following tutorial to connect Azure Stack Edge to the network switch: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-connect-setup-activate
     
@@ -84,18 +85,8 @@ Verify that the server rack is accessible and is ready for you to load the Azure
     d. Connect the laptop you’re using to configure Azure Stack Edge to PORT 1.
     
     > [!NOTE]
-    > You must configure your ethernet adapter to have a static IP address on the same network as the Azure Stack Edge local network. The Azure Stack Edge local IP address is 192.168.100.10 so configure your ethernet adapter static IP address to be on the same network as the Azure Stack Edge by using the 192.168.100.9 IP address. In addition, confirm that Azure Stack Edge has connectivity to the NTP server.
+    > Configure the Ethernet adapter on your computer to connect to the Azure Stack Edge device with a static IP address of 192.168.100.5 and subnet 255.255.255.0. In addition, confirm that Azure Stack Edge has connectivity to the NTP server.
     
-    e. When your laptop is connected to PORT 1 and your ethernet adapter or port is configured on your laptop, go to the Dynamics 365 Mobile App guide to
-
-      i. [Set up a store](mobile-app-create-store.md).
-       
-      ii. [Pair a gateway](mobile-app-pair-gateway.md).
-       
-      iii. [Add cameras](mobile-app-add-cameras.md).
-      
-      iv. [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
-
-## What's next?
+## Next step
 
 [Connect Azure Stack Edge to your network](ase-connect.md)

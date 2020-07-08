@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to place LP cameras for use with Dynamics 365 Connected Store (public preview), including height, mounting angle, and camera-to-focal-point distance
 ms.author: frch
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Camera placement recommendations for Dynamics 365 Connected Store (public preview)
@@ -11,11 +11,11 @@ ms.reviewer: v-brycho
 
 # Camera placement recommendations for Dynamics 365 Connected Store (public preview)
 
-This article provides camera placement recommendations for Microsoft Dynamics 365 Connected Store (public preview). It includes general guidelines as well as specific recommendations for height, angle, and camera-to-focal-point-distance for the three different zones (**Display effectiveness**, **Queue management**, and **Shopper analytics**).
+This article provides camera placement recommendations for Microsoft Dynamics 365 Connected Store (public preview). It includes general guidelines as well as specific recommendations for height, angle, and camera-to-focal-point-distance for the three different zones (Display effectiveness, Queue management, and Shopper analytics).
 
 ## General guidelines
 
-Consider the following general guidelines when positioning cameras for Microsoft Dynamics 365 Connected Store:
+Consider the following general guidelines when positioning cameras for Connected Store:
 
 - **Lighting height.** Place cameras below lighting fixtures so the fixtures don’t block the cameras.
 
@@ -47,7 +47,7 @@ You need to consider three things when deciding how to install a camera for Dyna
 
 - The angle of the camera relative to the floor plane
 
-It's also important to know the direction that the majority of people walk in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
+It's also important to know the direction that the majority of people walk (person walking direction) in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
 ![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
 
@@ -187,6 +187,10 @@ Organic queue lines form organically from the point of sale. This style of queue
 beyond 2-3 people and the line forms within the zone definition. If the queue length is typically more than 2-3 people, we recommend 
 using a retractable belt barrier to help guide the queue direction and ensure the line forms and dwells within the zone definition.
 
-## What's next?
+## Placement of in-store cameras and video storage
 
-[Install your cameras](install-cameras.md)
+Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer. Once a customer’s cameras are in place, Dynamics 365 Connected Store will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras and Microsoft Dynamics 365 Connected Store does not store video footage from the customer’s in-store cameras. 
+
+## Next step
+
+After you receive your Azure Stack Edge device, you can [prepare your network and install it](ase-install.md).
