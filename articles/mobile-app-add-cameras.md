@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Store (public preview) 
 ms.author: alissag
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Connect a camera to a gateway in Dynamics 365 Connected Store (public preview) 
@@ -11,9 +11,9 @@ ms.reviewer: v-brycho
 
 # Connect a camera to a gateway in the Dynamics 365 Connected Store (public preview) mobile app
 
-After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Store (public preview) mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any camera on the same network as your gateway.
+After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Store (public preview) mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Store-approved camera on the same network as your gateway.
 
-If your store has multiple gateways, you’ll need to access them one by one to see all the connected or available cameras. You can pair up to 10 cameras per gateway. If you need more cameras for your store, contact your account manager to request an additional gateway.
+If your store has multiple gateways, you’ll need to access them one-by-one to see all the connected or available cameras. You can pair up to 10 cameras per gateway. If you need more cameras for your store, contact your account manager to request an additional gateway.
 
 If you haven't already installed your cameras, see: 
 
@@ -28,6 +28,10 @@ If you haven't already installed your cameras, see:
 2. On the **Cameras** page, tap the **+** button. 
 
     ![Plus sign button](media/add-camera.PNG "Plus sign button")
+    
+2. To get the list of available cameras, enter the starting and ending IP addresses, and the RTSP port. For more information on IP range and port, see [Prepare your network for Azure Stack Edge](ase-install.md).
+
+    ![Camera IP range and port](media/camera-ip-range.PNG "Camera IP range and port")
  
 3. Select an available camera, and then tap the **+** sign  next to it. (You’ll see the camera feed after you sign in).
 
@@ -44,7 +48,7 @@ After connecting a camera to a gateway, you can [add a camera skill zone](mobile
 
 ## Get more information about a camera
 
-On the **Cameras** page, you can get quick information about the camera from the Camera View list. For example, you can see the name of the camera, the IP address, a still image, the date the image was last updated, and whether the camera is connected or not. To get more information about a camera, including the camera description, camera credentials, network properties, firmware, and device model:
+To get more information about a camera:
 
 1. On the **Cameras** page, tap the **Actions** button.
 
@@ -56,43 +60,25 @@ On the **Cameras** page, you can get quick information about the camera from the
 
     ![Camera fields](media/camera-fields.PNG "Camera fields")
  
-    The following table describes each field and specifies whether the field is editable from the **Camera Info** page:
+    The following table describes each field:
 
-    |Field|Description|Editable?|
-    |-------------------|----------------------------------------------------|------|
-    |Name|The friendly name of the camera|Yes|
-    |Description|Brief description about the camera|Yes|
-    |Network Details|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md).|No|
-    |Credentials|The username and password for the camera|Yes|
-    |Device info|The firmware and camera model|No|
+    |Field|Description|
+    |-------------------|----------------------------------------------------|
+    |**Name**|The friendly name of the camera|
+    |**Network**|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md).|
+    |**Credentials**|The username and password for the camera|
 
 4.	When you’re finished, select the check mark in the upper-right corner of the page to go back to the **Cameras** page.
 
-## Rename a camera
+## Sort the Cameras list
 
-1. On the **Cameras** page, select the **Actions** button.
+If you have a lot of cameras in your Cameras list, you might want to sort the list to find the camera you're looking for. 
 
-2. Select **Rename** at the bottom of the page.
+To sort the Cameras list:
 
-    ![Rename command](media/camera-rename.PNG "Rename command")
-
-## Remove a camera
-
-1. On the **Cameras** page, select the **Actions** button.
-
-2. Select **Remove** at the bottom of the page.
-
-    ![Remove command](media/camera-remove.PNG "Remove command")
-    
-## Sort or filter the Cameras list
-
-If you have a lot of cameras in your Cameras list, you might want to sort or filter the list to find the camera you're looking for. 
-
-To sort or filter the Cameras list:
-
-- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Cameras** page.
+- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Cameras** page.
  
-## What's next?
+## Next step
 
 [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
 

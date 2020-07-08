@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to use the Dynamics 365 Connected Store (public preview) mobile app to pair a gateway so you can connect LP cameras.
 ms.author: alissag
-ms.date: 07/01/2020
+ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store (public preview) mobile app, you need to:
 
-1. [Install Azure Stack Edge](ase-install.md).
+1. [Install Azure Stack Edge](ase-install.md)
 
-2. [Connect Azure Stack Edge to your network](ase-connect.md).
+2. [Connect Azure Stack Edge to your network](ase-connect.md)
 
-3. [Create a store with the mobile app](mobile-app-create-store.md).
+3. [Create a store with the mobile app](mobile-app-create-store.md)
 
 ## Pair a gateway
 
@@ -33,27 +33,23 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Add gateway](media/add-gateway.PNG "Add gateway")
 
-3.	Select the gateway you want to pair with, and then tap the **Add** button next to it. You’ll see the following message: 
+3.	Select the gateway you want to pair with, and then tap the **Add** button next to it. You’ll see the **Add Gateway** screen and the following message: 
 
-    “Go to aka.ms/ConnectedStore on your laptop and enter the following <serial number> to get the activation key of your gateway.”
+    “Go to aka.ms/activategateway on your laptop and enter the following serial number to get the activation key of your gateway.”
 
     ![Pairing instructions](media/pairing-instructions.PNG "Pairing instructions")
 
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
 
-    ![Sign-in button](media/sign-in.PNG "Sign-in button")
- 
 5.	Enter your Dynamics 365 Connected Store credentials.
-
-    ![Sign-in dialog box](media/credentials.PNG "Sign-in dialog box")
- 
+     
 6.	Enter the serial number from the mobile app.
  
     ![Device serial number box](media/security-number.PNG "Device serial number box")
  
-7.	Select the venue ID you created earlier in the mobile app, and then select **Submit**.
+7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
-    ![Venue ID box](media/venue-id.PNG "Venue ID box")
+    ![Select store name](media/select-store-name.PNG "Select store name")
  
 8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), paste it into the **Activation** key field in the **Activate** pane, and then select **Activate**.
 
@@ -67,47 +63,37 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 ## Get more information about a gateway created in the mobile app
 
-In the Gateway list on the **Gateways** page, you can see the name, IP address, and status of the gateway at a glance. To get more information about the gateway, including network properties, firmware, and the device model:
+To get more information about a gateway:
 
 1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
     ![Info button](media/gateway-info.PNG "Info button")
  
-2.	Review or edit the info.
+2.	Review the info.
 
     ![Gateway fields](media/gateway-fields.PNG "Gateway fields")
  
     > [!IMPORTANT]
     > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
    
-    The following table describes each field and specifies whether the field is editable from the **Gateway Info** page:
+    The following table describes each field:
 
-    |Field|Description|Editable?|
-    |--------------|------------------------------------------------------------|------|
-    |**Name**|The friendly name of the gateway|Yes|
-    |**Status**|Whether the device is connected or not|No|
-    |**Network**|The IP Address, MAC Address, and Subnet Mask. For more information on these fields, see [prepare your network and Install Azure Stack Edge](ase-install.md).|No|
-    |**Device**|The firmware and model of the gateway|No|
-   
+    |Field|Description|
+    |--------------|------------------------------------------------------------|
+    |**Name**|The friendly name of the gateway|
+    |**IP Camera Range Scan**|- The **IP Start Range** and the **IP End Range** show the IP address range secured [when your network was prepared for Azure Stack Edge](ase-install.md)<br><br>- The **Port** field shows which Port your network is connected to.|
+       
 4.	When you’re finished, select the check mark in the upper-right corner of the screen.
+  
+## Sort the Gateways list
 
-## Rename a gateway
+If you have a lot of gateways in your Gateways list, you might want to sort the list to find the gateway you're looking for. 
 
-1.	On the **Gateways** page, tap the **Actions** button.
+To sort the Gateways list:
 
-2.	Tap **Rename** at the bottom of the page.
+- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
 
-    ![Rename button](media/gateway-rename.PNG "Rename button")
-    
-## Sort or filter the Gateways list
-
-If you have a lot of gateways in your Gateways list, you might want to sort or filter the list to find the gateway you're looking for. 
-
-To sort or filter the Gateways list:
-
-- Select the **Filter** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
-
-## What's next?
+## Next steps
 
 [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
