@@ -33,7 +33,7 @@ The following table describes the privileges that each role grants.
         
 2. Select the default environment.
 
-    ![Select default environment](media/select-default-envionment-placeholder.PNG "Select default environment")
+    ![Select default environment](media/select-default-environment-placeholder.PNG "Select default environment")
     
 3. Select **Settings**.
 
