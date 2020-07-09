@@ -43,16 +43,17 @@ The following table describes the privileges that each role grants.
 
     ![XXX](media/XXX.PNG "XXX")
 
-5. Review the list of users. If the users are already in the list, select **Manage users in Dynamics 365**.
+5. Do one of the following:
 
-    ![XXX](media/XXX.PNG "XXX")
+   - If the users are already in the list, skip to step 6 to assign user roles.       
    
-    > [!NOTE]
-    > It may take a few minutes for the list to refresh with new users. To update the list immediately, select **Add user**, type the account name or email address, and then select **Add**.<br>![XXX](media/XXX.PNG "XXX")
-    
-6. Select the check box next to the appropriate user account.    
+   - If you need to add one or more users, select **Add user**, enter the account details, and then select **Add*. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![XXX](media/XXX.PNG "XXX")    
+    
+6. In the **Enable Users** screen, select the check box next to the appropriate user account.    
+
+   ![XXX](media/XXX.PNG "XXX")
    
     >[!NOTE]
     > If you recently added a new user account to your Azure Active Directory tenant, it may take a few minutes for it to appear in this list. Select the **Refresh** button to refresh the list.
