@@ -47,7 +47,7 @@ The following table describes the privileges that each role grants.
 
    - If the users are already in the list, skip to step 6 to assign user roles.       
    
-   - If you need to add one or more users, select **Add user**, enter the account details, and then select **Add**. 
+   - If you need to add one or more users, select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. 
 
       ![Select Add user command](media/select-add-user-placeholder.PNG "Selected Add user command")    
     
