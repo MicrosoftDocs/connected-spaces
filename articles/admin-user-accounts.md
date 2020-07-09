@@ -49,7 +49,7 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details, and then select **Add**. 
 
-    ![Select Add user command](media/select-add-user-placeholder.PNG "Selected Add user command")    
+      ![Select Add user command](media/select-add-user-placeholder.PNG "Selected Add user command")    
     
 6. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
 
