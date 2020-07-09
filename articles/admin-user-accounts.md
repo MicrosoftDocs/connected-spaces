@@ -51,7 +51,7 @@ The following table describes the privileges that each role grants.
 
     ![Select Add user command](media/select-add-user-placeholder.PNG "Selected Add user command")    
     
-6. In the **Enable Users** screen, select the check box next to the appropriate user account.    
+6. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
 
    ![Select check box for user account](media/select-user-placeholder.PNG "Select check box for user account")
    
