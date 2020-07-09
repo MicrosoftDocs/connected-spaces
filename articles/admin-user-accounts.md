@@ -33,15 +33,15 @@ The following table describes the privileges that each role grants.
         
 2. Select the default environment.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Select default environment](media/select-default-envionment-placeholder.PNG "Select default environment")
     
 3. Select **Settings**.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Select Settings command](media/select-settings-placeholder.PNG "Select Settings command")
     
 4. Expand the **Users + permissions** heading, and then select **Users**.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Select Users command](media/select-users-placeholder.PNG "Select Users command")
 
 5. Do one of the following:
 
@@ -49,22 +49,22 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details, and then select **Add**. 
 
-    ![XXX](media/XXX.PNG "XXX")    
+    ![Select Add user command](media/select-add-user-placeholder.PNG "Selected Add user command")    
     
 6. In the **Enable Users** screen, select the check box next to the appropriate user account.    
 
-   ![XXX](media/XXX.PNG "XXX")
+   ![Select check box for user account](media/select-user-placeholder.PNG "Select check box for user account")
    
     >[!NOTE]
     > If you recently added a new user account to your Azure Active Directory tenant, it may take a few minutes for it to appear in this list. Select the **Refresh** button to refresh the list.
    
 7. Select **MANAGE ROLES**. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Select Manage Roles command](media/select-manage-roles-placeholder.PNG "Select Manage Roles command")
 
 8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and then select **OK**. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Select specific role check box](media/select-role-placeholder.PNG "Select specific role check box")
 
 [Learn more about creating users and assigning security roles](https://go.microsoft.com/fwlink/?linkid=2128632) for Dynamics 365 applications.
 
