@@ -70,6 +70,10 @@ camera.
 
 This distance is measured on the floor plane.
 
+![How camera-to-focal-point-distance is measured](media/camera-to-focal-point-1.PNG "How camera-to-focal-point-distance is measured")
+
+From above, it looks like this:
+
 ![How camera-to-focal-point-distance is measured](media/camera-to-focal-point-2.PNG "How camera-to-focal-point-distance is measured")
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
