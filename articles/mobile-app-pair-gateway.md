@@ -63,7 +63,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Device activated notification](media/device-activated.PNG "Device activated notification")
  
-    The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You can verify that the gateway is connected when it appears in the **Gateways** page in the mobile app. 
+    The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You'll know that the gateway is connected when it appears in the **Gateways** page in the mobile app. 
     
     ![Gateways page in mobile app showing gateway is paired](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
     
