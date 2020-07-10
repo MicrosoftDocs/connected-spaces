@@ -15,7 +15,7 @@ After you have [created an Azure Active Directory tenant](admin-create-new-tenan
 install Dynamics 365 Connected Store.
 
 >[!NOTE]
->To install Connected Store, you must sign in with the global adminstrator account for your [Azure Active Directory tenant](admin-create-tenant.md), or with the System Administrator security role.
+>To install Connected Store, you must sign in with the global adminstrator account for your [Azure Active Directory tenant](admin-create-new-tenant.md), or with the System Administrator security role.
 
 1. [Go to the Connected Store setup page](https://go.microsoft.com/fwlink/?linkid=2128110).
 
