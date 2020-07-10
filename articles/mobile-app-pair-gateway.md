@@ -57,7 +57,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
     The activation process can take from one to ten minutes. 
     
-    >[!TIP] You can select the **Bell** button in the upper-right corner of the Azure Stack Edge screen to monitor status. 
+    >[!TIP] You can select the **Bell** button in the upper-right corner of the **Azure Stack Edge** screen to monitor status. 
     
     When the device is activated, a notification will appear in the Azure Stack Edge screen to let you know that activation is complete. 
 
