@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to use the Dynamics 365 Connected Store (public preview) mobile app to pair a gateway so you can connect LP cameras.
 ms.author: alissag
-ms.date: 07/08/2020
+ms.date: 07/10/2020
 ms.service: crm-online
 ms.topic: article
 title: Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
@@ -51,14 +51,23 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Select store name](media/select-store-name.PNG "Select store name")
  
-8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), paste it into the **Activation** key field in the **Activate** pane, and then select **Activate**.
+8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
     ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
-    The activation process can take from one to ten minutes. When the device is activated, a notification will appear on your laptop to inform you that activation is complete. The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You’ll see a notification in the mobile app when downloading is complete.
+    The activation process can take from one to ten minutes. 
+    
+    >[!TIP] 
+    >You can select the **Bell** button in the upper-right corner of the **Azure Stack Edge** page to monitor activation status. 
+    
+    When the device is activated, a notification will appear in the **Azure Stack Edge** page to let you know that the activation is complete. 
 
     ![Device activated notification](media/device-activated.PNG "Device activated notification")
  
+    The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You'll know that the gateway is connected when it appears in the **Gateways** page in the mobile app. 
+    
+    ![Gateways page in mobile app showing gateway is paired](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
+    
     After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
 
 ## Get more information about a gateway created in the mobile app

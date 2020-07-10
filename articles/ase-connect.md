@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 07/08/2020
+ms.date: 07/10/2020
 ms.service: crm-online
 ms.topic: article
 title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store (public preview)
@@ -63,9 +63,11 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
    ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
-10. In the left pane, select **Time**.
+10. In the left pane, select **Time**.    
 
 11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
+
+    ![Time screen](media/ase-select-time-zone.PNG "Time screen")
    
 ## Next step
 
