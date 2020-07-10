@@ -57,10 +57,7 @@ The following table describes the privileges that each role grants.
 
 7. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
 
-   ![Select check box for user account](media/select-user-1.PNG "Select check box for user account")
-   
-    >[!NOTE]
-    > If you recently added a new user account to your Azure Active Directory tenant, it may take a few minutes for it to appear in this list. Select the **Refresh** button to refresh the list.
+   ![Select check box for user account](media/select-user-1.PNG "Select check box for user account")       
    
 7. Select **MANAGE ROLES**. 
 
