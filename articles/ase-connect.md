@@ -63,11 +63,11 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
    ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
-10. In the left pane, select **Time**.
-
-    ![Time screen](media/ase-select-time-zone.PNG "Time screen")
+10. In the left pane, select **Time**.    
 
 11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
+
+    ![Time screen](media/ase-select-time-zone.PNG "Time screen")
    
 ## Next step
 
