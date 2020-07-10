@@ -51,7 +51,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Select store name](media/select-store-name.PNG "Select store name")
  
-8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate** in the **Activation** pane, paste the key into the **Activation key** field, and then select **Activate**. 
+8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
     ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
