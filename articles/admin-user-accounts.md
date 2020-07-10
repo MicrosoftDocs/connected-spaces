@@ -33,15 +33,15 @@ The following table describes the privileges that each role grants.
         
 2. Select the default environment.
 
-    ![Select default environment](media/select-default-environment-placeholder.PNG "Select default environment")
+    ![Select default environment](media/select-default-environment-1.PNG "Select default environment")
     
 3. Select **Settings**.
 
-    ![Select Settings command](media/select-settings-placeholder.PNG "Select Settings command")
+    ![Select Settings command](media/select-settings-1.PNG "Select Settings command")
     
 4. Expand the **Users + permissions** heading, and then select **Users**.
 
-    ![Select Users command](media/select-users-placeholder.PNG "Select Users command")
+    ![Select Users command](media/select-users-1.PNG "Select Users command")
 
 5. Do one of the following:
 
@@ -49,22 +49,26 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. 
 
-      ![Select Add user command](media/select-add-user-placeholder.PNG "Selected Add user command")    
+      ![Select Add user command](media/select-add-user-1.PNG "Selected Add user command")    
     
-6. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
+6. Select **Manage users in Dynamics 365**.
 
-   ![Select check box for user account](media/select-user-placeholder.PNG "Select check box for user account")
+    ![Select Add user command](media/select-manage-users-1.PNG "Selected Add user command")   
+
+7. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
+
+   ![Select check box for user account](media/select-user-1.PNG "Select check box for user account")
    
     >[!NOTE]
     > If you recently added a new user account to your Azure Active Directory tenant, it may take a few minutes for it to appear in this list. Select the **Refresh** button to refresh the list.
    
 7. Select **MANAGE ROLES**. 
 
-    ![Select Manage Roles command](media/select-manage-roles-placeholder.PNG "Select Manage Roles command")
+    ![Select Manage Roles command](media/select-manage-roles-1.PNG "Select Manage Roles command")
 
 8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and then select **OK**. 
 
-    ![Select specific role check box](media/select-role-placeholder.PNG "Select specific role check box")
+    ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
 
 [Learn more about creating users and assigning security roles](https://go.microsoft.com/fwlink/?linkid=2128632) for Dynamics 365 applications.
 
