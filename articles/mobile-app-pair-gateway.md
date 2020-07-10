@@ -55,10 +55,14 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
-    The activation process can take from one to ten minutes. When the device is activated, a notification will appear on your laptop to inform you that activation is complete. The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You’ll see a notification in the mobile app when downloading is complete.
+    The activation process can take from one to ten minutes. Select the bell icon in the top right right to monitor status. When the device is activated, a notification will appear in the Azure Stack Edge screen to let you know that activation is complete. 
 
     ![Device activated notification](media/device-activated.PNG "Device activated notification")
  
+    The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You can verify that the gateway is connected when you see it show up on your **Gateways** page in the mobile app. 
+    
+    SCREEN SHOT GOES HERE    
+    
     After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
 
 ## Get more information about a gateway created in the mobile app
