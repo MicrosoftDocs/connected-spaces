@@ -23,7 +23,9 @@ Microsoft Dynamics 365 Connected Store was designed with compliance, privacy, se
 
 Before using Dynamics 365 Connected Store, you must have all the proper rights to use your cameras and video images, including, where required, the necessary consent from individuals for the use of processing images to generate insights.  Each of Microsoft’s customers has a different environment and clientele, so the particular method of notice you choose to post in your store should be informed by any legal requirements applicable to you and your understanding of your own customers’ expectations.
 
-Microsoft is committed to six core principles for the responsible development and deployment of AI technologies: fairness, reliability and safety, privacy and security, inclusiveness, transparency and accountability. The principles are described here: [https://www.microsoft.com/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai?rtc=1&activetab=pivot1%3aprimaryr6). Consistent with these responsible AI principles, you should communicate with your customers about the purposes, strengths and limitations, and intended uses of Microsoft Dynamics 365 Connected Store.  
+Microsoft is committed to six core principles for the responsible development and deployment of AI technologies: fairness, reliability and safety, privacy and security, inclusiveness, transparency and accountability. The principles are described at [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?rtc=1&activetab=pivot1%3aprimaryr6). 
+
+Consistent with these responsible AI principles, you should communicate with your customers about the purposes, strengths and limitations, and intended uses of Microsoft Dynamics 365 Connected Store.  
 
 If you have concerns, questions, or would like to learn more, we’d love to work with you. Contact us [here](mailto:respinnovfeedback@microsoft.com).
 
