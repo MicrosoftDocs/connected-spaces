@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 07/08/2020
+ms.date: 07/13/2020
 ms.service: crm-online
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Store (public preview)
@@ -28,13 +28,6 @@ Dynamics 365 Connected Store supports the following LP cameras:
 - Bosch:
 
    - NUC-51022-F2
-   
-- Lorex:
-
-   - LNZ32P4B
-
-> [!IMPORTANT]
-> Lorex cameras are currently banned by the US government. We don’t recommend using these cameras unless they have already been installed in your environment.
 
 ## Install a camera	
 
