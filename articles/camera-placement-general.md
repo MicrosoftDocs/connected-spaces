@@ -19,6 +19,14 @@ The main scenarios for camera placement in Microsoft Dynamics 365 Connected Stor
 
 - Entrances (Shopper analytics skill zone)
 
+The following table provides more detail on the three available skills:
+
+|Skill|Description|Examples|
+|-------------------------|-------------------------------------------------|-------------------------------------------------|
+|**Display effectiveness**|	Track how your displays perform	|End caps, displays, promotions|
+|**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
+|**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
+
 To plan for the scenarios in your space, you need to understand each zone and the way customers interact with the zone and how environmental factors impact that zone.
 
 ## End caps
