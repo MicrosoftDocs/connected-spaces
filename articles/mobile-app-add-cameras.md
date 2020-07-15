@@ -67,6 +67,9 @@ To get more information about a camera:
     |**Name**|The friendly name of the camera|
     |**Network**|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md).|
     |**Credentials**|The username and password for the camera|
+    
+    >[!IMPORTANT]
+    >If you rename a camera by changing the name in the **Name** field, make sure to enter a user name and password. If you don't enter a user name and password, the new name will be saved, but the camera will be disconnected.
 
 4.	When you’re finished, select the check mark in the upper-right corner of the page to go back to the **Cameras** page.
 
