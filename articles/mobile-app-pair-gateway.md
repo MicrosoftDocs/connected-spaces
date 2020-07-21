@@ -50,11 +50,11 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
     ![Select store name](media/select-store-name.PNG "Select store name")
- 
-8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
     >[!IMPORTANT]
-    >You must activate the key within 24 hours. 
+    >You must activate Azure Stack Edge within 24 hours of generating the activation key. 
+ 
+8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
     ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
