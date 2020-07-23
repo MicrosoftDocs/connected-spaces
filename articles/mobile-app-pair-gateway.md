@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to use the Dynamics 365 Connected Store (public preview) mobile app to pair a gateway so you can connect LP cameras.
 ms.author: alissag
-ms.date: 07/10/2020
+ms.date: 07/23/2020
 ms.service: crm-online
 ms.topic: article
 title: Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
@@ -50,6 +50,9 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
     ![Select store name](media/select-store-name.PNG "Select store name")
+
+    > [!IMPORTANT]
+    > You must activate Azure Stack Edge within 24 hours after the activation key is generated. 
  
 8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
