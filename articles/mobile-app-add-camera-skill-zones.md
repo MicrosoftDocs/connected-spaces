@@ -135,7 +135,7 @@ Line too high and not covering entirety of the door
 ### Example of well-shaped Queue Management skill zone
 The zone should be big enough to accommodate 3 people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you are drawing them as if they lie on the store floor.
 
-![Well-shaped Queue Management skill zone](media/Skill-zone-qm-good-example.png "Well-shaped Queue Management skill zone")
+![Well-shaped Queue Management skill zone](media/skill-zone-qm-good-example.png "Well-shaped Queue Management skill zone")
 
 ### Examples of Queue Management skill zones that isn’t well-shaped
 The following are some examples of poorly defined Queue Management skill zones.
