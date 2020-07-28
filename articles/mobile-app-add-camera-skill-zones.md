@@ -78,7 +78,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     > [!TIP]
     > You can edit skills details or zone placement anytime by tapping the **Actions** button for the zone you want to update.
     
-    ![Actions button](media/skill-zone-actions-button.png "Actions button")
+    ![Actions button](media/skill-zone-action-button.png "Actions button")
  
 ## Sort the Skills list
 
@@ -96,28 +96,28 @@ If you want to see a specific section of your camera view, create the largest zo
 
 The zone should be big enough to accommodate 3 people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you are drawing them as if they lie on the store floor.
 
-![Well-shaped Display Effectiveness skill zone](media/skill-zone-good-example.png "Well-shaped Display Effectiveness skill zone")
+![Well-shaped Display Effectiveness skill zone](media/skill-zone-de-good-example.png "Well-shaped Display Effectiveness skill zone")
  
 ### Examples of Display effectiveness skill zones that aren't well-shaped
 
 The following are some examples of poorly defined Display Effectiveness skill zones as reference. In these examples, the display of interest is the ‘It’s Game Time’ display.
 
-![Poorly shaped Display effectiveness skill zone](media/skill-zone-de-bad-example1.png "Poorly shaped Display effectiveness skill zone")
+![Poorly shaped Display effectiveness skill zone](media/skill-zone-de-bad-example-1.png "Poorly shaped Display effectiveness skill zone")
  
 > [!TIP]
 > For Display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
 Skill zone is too small
-![Skill zone](media/skill-zone-de-bad-example2.png "Skill zone is too small")
+!Skill zone is too small](media/skill-zone-de-bad-example-2.png "Skill zone is too small")
 
 Skill zone doesn’t fully capture area around endcap
-![Skill zone doesn’t fully capture area around endcap](media/skill-zone-de-bad-example3.png "Skill zone doesn’t fully capture area around endcap")
+![Skill zone doesn’t fully capture area around endcap](media/skill-zone-de-bad-example-3.png "Skill zone doesn’t fully capture area around endcap")
 
 Skill zone too close to the edge of the camera image, doesn’t capture the right display
-![Skill zone too close to the edge of the camera image, doesn’t capture the right display](media/skill-zone-de-bad-example4.png "Skill zone too close to the edge of the camera image, doesn’t capture the right display")
+![Skill zone too close to the edge of the camera image, doesn’t capture the right display](media/skill-zone-de-bad-example-4.png "Skill zone too close to the edge of the camera image, doesn’t capture the right display")
 
 Skill zone is partially blocked so people aren’t fully visible
-![Skill zone is partially blocked so people aren’t fully visible](media/skill-zone-de-bad-example5.png "Skill zone is partially blocked so people aren’t fully visible")
+![Skill zone is partially blocked so people aren’t fully visible](media/skill-zone-de-bad-example-5.png "Skill zone is partially blocked so people aren’t fully visible")
 
 ### Example of well-shaped Shopper Analytics skill line
 The line should be long enough to accommodate entire entrance. When drawing lines on the 2D image, imagine you are drawing them as if they lie on the store floor.
@@ -127,10 +127,10 @@ The line should be long enough to accommodate entire entrance. When drawing line
 The following are some examples of poorly defined Shopper Analytics skill line.
 
 Line not covering entire entryway on the floor
-![Line not covering entire entryway on the floor](media/skill-zone-sa-bad-example1.png "Line not covering entire entryway on the floor")
+![Line not covering entire entryway on the floor](media/skill-zone-sa-bad-example-1.png "Line not covering entire entryway on the floor")
 
 Line too high and not covering entirety of the door
-![Line too high and not covering entirety of the door](media/skill-zone-sa-bad-example2.png "Line too high and not covering entirety of the door")
+![Line too high and not covering entirety of the door](media/skill-zone-sa-bad-example-2.png "Line too high and not covering entirety of the door")
 
 ### Example of well-shaped Queue Management skill zone
 The zone should be big enough to accommodate 3 people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you are drawing them as if they lie on the store floor.
