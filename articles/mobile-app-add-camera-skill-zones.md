@@ -30,7 +30,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
 1.	On the **Cameras** page, select the camera you want to add a skill zone to by tapping it, and then tap the + button.
 
-    ![Plus sign](media/skill-zone-add.PNG "Plus sign")
+    ![Plus sign](media/skill-zone-add.png "Plus sign")
  
 2.	Select one of the three available skills.
 
@@ -44,15 +44,17 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
     - If you're adding a **Shopper Analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when they are entering the store, and white arrow points in the direction people walk when exiting the store. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
     
-    ![Rotated screen showing camera view](media/add-shopper-analytics-zone.PNG "Rotated screen showing camera view")
+    ![Rotated screen showing camera view](media/add-shopper-analytics-zone.png "Rotated screen showing camera view")
     
     - If you're adding a **Display Effectiveness** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go. If you need to start over at any point, select **Reset**. Visit <link to another section> for tips on defining an optimal display effectiveness skill zone.
     
-    ![Rotated screen showing camera view](media/add-display-effectiveness-zone.PNG "Rotated screen showing camera view")
+    ![Rotated screen showing camera view](media/add-display-effectiveness-zone.png "Rotated screen showing camera view")
     
-    - If you're adding a **Queue Management** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go, similar to what you would do for Display Effectiveness. If you need to start over at any point, select **Reset**. Visit <link to another section> for tips on defining an optimal Queue Management skill zone.
+    - If you're adding a **Queue Management** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go, similar to what you would do for Display Effectiveness. If you need to start over at any point, select **Reset**. Visit (example-of-well-shaped-queue-management-skill-zone) for tips on defining an optimal Queue Management skill zone.
+    
+    ![Rotated screen showing camera view](media/add-queue-management-zone.png "Rotated screen showing camera view")
 
-5.	When you’re done, tap **Done** at the bottom of the screen. When you see a pop-up message saying that your zone as been set, select **Continue**.
+5.	When you’re done, tap **Done** at the bottom of the screen. When you see a pop-up message saying that your zone has been set, select **Continue**.
 
 6.	In the next screen, make any changes to the fields to customize the skill for your store’s needs.
 
@@ -76,7 +78,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     > [!TIP]
     > You can edit skills details or zone placement anytime by tapping the **Actions** button for the zone you want to update.
     
-    ![Actions button](media/skill-zone-actions-button.PNG "Actions button")
+    ![Actions button](media/skill-zone-actions-button.png "Actions button")
  
 ## Sort the Skills list
 
@@ -94,44 +96,55 @@ If you want to see a specific section of your camera view, create the largest zo
 
 The zone should be big enough to accommodate 3 people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you are drawing them as if they lie on the store floor.
 
-![Well-shaped skill zone](media/skill-zone-good-example.PNG "Well-shaped skill zone")
+![Well-shaped Display Effectiveness skill zone](media/skill-zone-good-example.png "Well-shaped Display Effectiveness skill zone")
  
 ### Examples of Display effectiveness skill zones that aren't well-shaped
 
-The following are some examples of poorly-defined Display Effectiveness skill zones as reference. In these examples, the display of interest is the ‘It’s Game Time’ display.
+The following are some examples of poorly defined Display Effectiveness skill zones as reference. In these examples, the display of interest is the ‘It’s Game Time’ display.
 
-![Poorly shaped skill zone](media/skill-zone-bad-example.PNG "Poorly shaped skill zone")
+![Poorly shaped Display effectiveness skill zone](media/skill-zone-de-bad-example1.png "Poorly shaped Display effectiveness skill zone")
  
 > [!TIP]
 > For Display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
 Skill zone is too small
+![Skill zone](media/skill-zone-de-bad-example2.png "Skill zone is too small")
 
 Skill zone doesn’t fully capture area around endcap
+![Skill zone doesn’t fully capture area around endcap](media/skill-zone-de-bad-example3.png "Skill zone doesn’t fully capture area around endcap")
 
 Skill zone too close to the edge of the camera image, doesn’t capture the right display
+![Skill zone too close to the edge of the camera image, doesn’t capture the right display](media/skill-zone-de-bad-example4.png "Skill zone too close to the edge of the camera image, doesn’t capture the right display")
 
 Skill zone is partially blocked so people aren’t fully visible
+![Skill zone is partially blocked so people aren’t fully visible](media/skill-zone-de-bad-example5.png "Skill zone is partially blocked so people aren’t fully visible")
 
 ### Example of well-shaped Shopper Analytics skill line
 The line should be long enough to accommodate entire entrance. When drawing lines on the 2D image, imagine you are drawing them as if they lie on the store floor.
+![Well-shaped Shopper Analytics skill line](media/skill-zone-sa-good-example.png "Well-shaped Shopper Analytics skill line")
 
 ### Examples of Shopper Analytics skill line that isn’t well-shaped
-The following are some examples of poorly-defined Shopper Analytics skill line.
+The following are some examples of poorly defined Shopper Analytics skill line.
 
 Line not covering entire entryway on the floor
+![Line not covering entire entryway on the floor](media/skill-zone-sa-bad-example1.png "Line not covering entire entryway on the floor")
 
 Line too high and not covering entirety of the door
+![Line too high and not covering entirety of the door](media/skill-zone-sa-bad-example2.png "Line too high and not covering entirety of the door")
 
 ### Example of well-shaped Queue Management skill zone
 The zone should be big enough to accommodate 3 people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you are drawing them as if they lie on the store floor.
+
+![Well-shaped Queue Management skill zone](media/Skill-zone-qm-good-example.png "Well-shaped Queue Management skill zone")
 
 ### Examples of Queue Management skill zones that isn’t well-shaped
 The following are some examples of poorly defined Queue Management skill zones.
 
 Queue defined too thin
+![Queue defined too thin](media/skill-zone-qm-bad-example-1.png "Queue defined too thin")
 
 Queue extended too long
+![Queue extended too long](media/skill-zone-qm-bad-example-2.png "Queue extended too long")
 
 ## Next step
 
