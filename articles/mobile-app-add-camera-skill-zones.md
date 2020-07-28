@@ -108,7 +108,7 @@ The following are some examples of poorly defined Display Effectiveness skill zo
 > For Display effectiveness zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
 Skill zone is too small
-!Skill zone is too small](media/skill-zone-de-bad-example-2.png "Skill zone is too small")
+![Skill zone is too small](media/skill-zone-de-bad-example-2.png "Skill zone is too small")
 
 Skill zone doesn’t fully capture area around endcap
 ![Skill zone doesn’t fully capture area around endcap](media/skill-zone-de-bad-example-3.png "Skill zone doesn’t fully capture area around endcap")
