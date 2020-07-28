@@ -2,7 +2,7 @@
 author: acmsft
 description: How Microsoft Dynamics 365 Connected Store (public preview) uses artificial intelligence technology to provide insights.
 ms.author: adocho
-ms.date: 07/08/2020
+ms.date: 07/28/2020
 ms.service: crm-online
 ms.topic: article
 title: AI and Insights for Dynamics 365 Connected Store (public preview)
@@ -17,11 +17,11 @@ Microsoft Dynamics 365 Connected Store leverages the industry-leading computer v
 
 The Connected Store edge gateway includes computer vision AI skills (models) that detect human presence and movement from in-store camera video footage to derive data such as people count and dwell time. The derived data is sent to the Connected Store cloud to generate observational data and insights. The Connected Store cloud service and web app is a multi-tenant software as a service (SaaS) that processes the observational data from Connected Store edge gateway, and correlates with other business data to generate aggregate and actionable insights for each tenant.
 
-- The computer vision AI skills goal is exclusively to detect and locate human presence in video footage and outputs a bounding box around a human body or head. Connected Store AI skills that detect people and their dwell or wait times in certain zones of the store do not attempt to detect faces or discover the identities or demographics of shoppers and other individuals at your retail location. 
+- The computer vision AI skills goal is exclusively to detect and locate human presence in video footage and outputs a bounding box around a human body. Connected Store AI skills that detect people and their dwell or wait times in certain zones of the store do not attempt to detect faces or discover the identities or demographics of shoppers and other individuals at your retail location. 
 
 - For each bounding box movement detected in a camera zone, the AI model outputs event data, including the following:
 
-   - Bounding box coordinates of a person’s body or head
+   - Bounding box coordinates of a person’s body
 
    - Event type (for example, zone entry or exit and directional line crossing) 
 
