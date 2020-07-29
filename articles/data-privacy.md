@@ -2,7 +2,7 @@
 author: alwinv
 description: How Dynamics 365 Connected Store (public preview) protects data and privacy
 ms.author: alwinv
-ms.date: 07/08/2020
+ms.date: 07/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Data and Privacy for Dynamics 365 Connected Store (public preview)
@@ -60,9 +60,9 @@ Dynamics 365 Connected Store processes data as instructed by the customer to pro
 
 During setup, customers instruct the Connected Store mobile app to pair video streams from the customer’s in-store cameras to the Connected Store edge gateway for zone configuration of their store. After the configuration is completed, customers can stream video data from the paired cameras directly to the Connected Store edge gateway on the customers’ premises for AI inferencing using AI skills. The AI skills (models) running on customers’ premises are not trained with the video data unless a customer specifically instructs Microsoft to do so and grants Microsoft the right to access its video feed to enhance the underlying AI skill models.
 
-The AI skills detect and track people’s movements in the video feed based on algorithms that identify the presence of one or more humans. The algorithms generate events when a person moves in or out of designated zones in the camera’s field of view and outputs the coordinates of the person’s body or head into a bounding box. For each bounding box movement detected in a camera zone, the AI skill output inference data includes the following:
+The AI skills detect and track people’s movements in the video feed based on algorithms that identify the presence of one or more humans. The algorithms generate events when a person moves in or out of designated zones in the camera’s field of view and outputs the coordinates of the person’s body into a bounding box. For each bounding box movement detected in a camera zone, the AI skill output inference data includes the following:
 
-- Bounding box coordinates of person’s body or head
+- Bounding box coordinates of person’s body
 
 - Event type (for example, zone entry or exit, directional line crossing)
 
