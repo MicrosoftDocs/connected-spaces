@@ -44,7 +44,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
     - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when they are entering the store, and white arrow points in the direction people walk when exiting the store. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
     
-    ![Rotated screen showing camera view](media/add-shopper-analytics-zone.png "Rotated screen showing camera view")
+    ![Rotated screen showing camera view](media/add-shopper-analytics-skill.png "Rotated screen showing camera view")
     
     - If you're adding a **Display effectiveness** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it to go. If you need to start over at any point, select **Reset**. Visit <link to another section> for tips on defining an optimal display effectiveness skill zone.
     
