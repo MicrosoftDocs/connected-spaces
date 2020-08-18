@@ -23,3 +23,30 @@ Make sure to create the largest skill zone that you can, covering the specific f
 
 [See tips for drawing skill zones](mobile-app-add-camera-skill-zones.md#tips-for-drawing-skill-zones).
 
+## How do I change the IP range that the gateway uses to scan for cameras?
+
+To modify the IP range used to get the list of available cameras:
+
+1. On the **Gateways** page, tap the **Actions** (three dots) button for the gateway you want to modify. 
+
+2. Tap **Info** at the bottom of the page.
+
+3. Update the IP ranges. 
+
+    SCREEN SHOT GOES HERE
+
+## How do I sign up for Connected Store with my existing Azure Active Directory tenant? 
+
+To sign up using your company’s existing Azure Active Directory tenant, the global admin on your team needs to:
+
+- Complete the sign-up using their user account, which has Azure Active Directory tenant administrator permissions.
+
+- Assign a 6-month trial license to Connected Store.
+
+- Assign client licenses to Azure Active Directory user accounts.
+
+At this time, you must use an Azure Active Directory tenant that is in the United Kingdom or United States. If your company’s tenant is registered in another country or region, the sign-up will fail. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant instead](). 
+
+1. Go to the Connected Store setup page..
+2. Under Let’s set up your account, enter your company email address, and then select Next.
+
