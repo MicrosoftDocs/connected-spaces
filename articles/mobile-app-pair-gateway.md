@@ -73,6 +73,19 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     
     After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
 
+## How do I change the IP range that the gateway uses to scan for cameras?
+
+To modify the IP range used to get the list of available cameras:
+
+1. On the **Gateways** page, tap the **Actions** (three dots) button for the gateway you want to modify. 
+
+2. Tap **Info** at the bottom of the page.
+
+3. Update the IP ranges. 
+
+    ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
+
+
 ## Get more information about a gateway created in the mobile app
 
 To get more information about a gateway:
