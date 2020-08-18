@@ -49,7 +49,7 @@ At this time, you must use an Azure Active Directory tenant that is in the Unite
 
 1. Go to the Connected Store setup page.
 
-2. Under Let’s set up your account, enter your company email address, and then select Next.
+2. Under **Let’s set up your account**, enter your company email address, and then select **Next**.
 
    ![Let's set up your account section](media/faq-setup-account.PNG "Let's set up your account section")
 
