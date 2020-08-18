@@ -41,13 +41,13 @@ When sign-in fails for any reason, the camera will show “Disconnected” statu
 When completing the sign-up form for a new Azure Active Directory account, the form will not accept a business phone number with a “+” prefix, such as: +44 1234 123456. To 
 work around this issue, enter the number without the "+” prefix. For example: 44 1234 123456
 
-SCREEN SHOT GOES HERE
+![Phone number field](media/known-issues-phone-prefix.PNG "Phone number field")
  
 ## Selecting the “Users” link in the order receipt page returns an error
 
 When you sign up for Connected Store using an existing Azure Active Directory tenant admin account, the order receipt page includes a “Users” link that doesn’t work. 
 
-SCREEN SHOT GOES HERE
+![User's link](media/known-issues-users-link.PNG "User's link")
  
 To work around this, select **Continue**, and then [Install Connected Store](admin-install-web-app.md).
 
@@ -59,4 +59,4 @@ will cause the mobile app to fail to connect. It will also prevent new data from
 If this happens, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection refresh. The Connected Store service will 
 start using the new URL within an hour.
 
-SCREEN SHOT GOES HERE
+![Environment url](media/known-issues-environment-url.PNG "Environment url")
