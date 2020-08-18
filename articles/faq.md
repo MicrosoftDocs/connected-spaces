@@ -1,4 +1,13 @@
-
+---
+author: kfrankc-ms
+description: Learn about frequently asked questions related to Dynamics 365 Connected Store
+ms.author: frch
+ms.date: 07/10/2020
+ms.service: crm-online
+ms.topic: article
+title: Frequently asked questions about Dynamics 365 Connected Store
+ms.reviewer: v-brycho
+---
 
 # Frequently asked questions about Dynamics 365 Connected Store
 
