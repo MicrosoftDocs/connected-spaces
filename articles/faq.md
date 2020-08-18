@@ -8,4 +8,4 @@
 
 ## Can I use my existing analog CCTV cameras?
 
-[See the list of supported cameras](install-cameras#supported-cameras).
+[See the list of supported cameras](install-cameras.md#supported-cameras).
