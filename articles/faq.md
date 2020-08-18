@@ -47,6 +47,34 @@ To sign up using your company’s existing Azure Active Directory tenant, the gl
 
 At this time, you must use an Azure Active Directory tenant that is in the United Kingdom or United States. If your company’s tenant is registered in another country or region, the sign-up will fail. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant instead](admin-create-new-tenant.md). 
 
-1. Go to the Connected Store setup page..
+1. Go to the Connected Store setup page.
+
 2. Under Let’s set up your account, enter your company email address, and then select Next.
 
+    SCREEN SHOT GOES HERE
+
+3. Select **Sign in** to authenticate.
+
+    SCREEN SHOT GOES HERE
+
+4. Select **Sign in** to authenticate.
+
+    SCREEN SHOT GOES HERE
+    
+    The web page will verify that you have permissions to sign up on behalf of your company and redirect you to portal.office.com where you can acquire the license for Connected Store.
+    
+5. In the Office **Check out** screen, select **Try now** to get the trial license for your company.
+
+    SCREEN SHOT GOES HERE
+    
+    You’ll see the following confirmation page:    
+    
+    SCREEN SHOT GOES HERE
+
+    At this point, Setup:
+    
+    - Assigns the Dynamics 365 Connected Store Public Preview trial license to your company’s Azure Active Directory tenant.
+    
+    - Assigns a client license for this trial to your admin user account.
+
+6. [Install Connected Store](admin-install-web-app.md). 
