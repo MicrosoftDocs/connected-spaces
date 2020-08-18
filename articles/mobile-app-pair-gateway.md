@@ -77,11 +77,11 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 To modify the IP range used to get the list of available cameras:
 
-1. On the **Gateways** page, tap the **Actions** (three dots) button for the gateway you want to modify. 
+1. On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
-2. Tap **Info** at the bottom of the page.
+    ![Info button](media/gateway-info.PNG "Info button")
 
-3. Update the IP ranges. 
+2. Update the IP range values. 
 
     ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
 
