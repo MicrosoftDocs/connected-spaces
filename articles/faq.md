@@ -45,7 +45,7 @@ To sign up using your company’s existing Azure Active Directory tenant, the gl
 
 - Assign client licenses to Azure Active Directory user accounts.
 
-At this time, you must use an Azure Active Directory tenant that is in the United Kingdom or United States. If your company’s tenant is registered in another country or region, the sign-up will fail. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant instead](). 
+At this time, you must use an Azure Active Directory tenant that is in the United Kingdom or United States. If your company’s tenant is registered in another country or region, the sign-up will fail. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant instead](admin-create-new-tenant.md). 
 
 1. Go to the Connected Store setup page..
 2. Under Let’s set up your account, enter your company email address, and then select Next.
