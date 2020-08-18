@@ -51,25 +51,25 @@ At this time, you must use an Azure Active Directory tenant that is in the Unite
 
 2. Under Let’s set up your account, enter your company email address, and then select Next.
 
-     ![XXX](media/faq-setup-account.PNG "XXX")
+   ![Let's set up your account section](media/faq-setup-account.PNG "Let's set up your account section")
 
 3. Select **Sign in** to authenticate.
 
-   ![XXX](media/faq-sign-in.PNG "XXX")
+   ![Sign-in button](media/faq-sign-in.PNG "Sign-in button")
 
-4. Select **Sign in** to authenticate.
+4. After authenticating, select **Continue**.
 
-   ![XXX](media/faq-xxx.PNG "XXX")
+   ![Continue button](media/faq-continue.PNG "Continue button")
     
     The web page will verify that you have permissions to sign up on behalf of your company and redirect you to portal.office.com where you can acquire the license for Connected Store.
     
 5. In the Office **Check out** screen, select **Try now** to get the trial license for your company.
 
-    ![XXX](media/faq-check-out.PNG "XXX")
+    ![Try now button](media/faq-check-out.PNG "Try now button")
     
     You’ll see the following confirmation page:    
     
-    ![XXX](media/faq-order-receipt.PNG "XXX")
+    ![Order receipt page](media/faq-order-receipt.PNG "Order receipt page")
 
     At this point, Setup:
     
