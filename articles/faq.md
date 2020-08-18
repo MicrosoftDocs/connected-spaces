@@ -34,6 +34,8 @@ To modify the IP range used to get the list of available cameras:
 3. Update the IP ranges. 
 
     ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
+    
+4. When you’re finished, select the check mark in the upper-right corner of the screen.
 
 ## How do I sign up for Connected Store with my existing Azure Active Directory tenant? 
 
