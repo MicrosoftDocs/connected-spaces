@@ -4,7 +4,7 @@
 
 ## Are all IP cameras supported?
 
-[See the list of supported cameras](install-cameras#supported-cameras).
+[See the list of supported cameras](install-cameras).
 
 ## Can I use my existing analog CCTV cameras?
 
