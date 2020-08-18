@@ -22,6 +22,7 @@ To use the mobile app, you must have the Connected Store Admin role. [Learn how 
 ## Activating Azure Stack Edge within 24 hours of generating the activation key
 
 After receiving your activation key, you have 24 hours to use the key. If you try to use an activation key after the 24 hours has passed, Azure Stack Edge will be activated but will not be paired to the store in the mobile app. 
+
 To work around this issue, generate the activation key again to unblock the store/gateway pairing.
 
 >[!NOTE]
@@ -39,11 +40,11 @@ Azure Stack Edge.
 ## To rename a camera in the mobile app, you must re-enter your ONVIF camera profile credentials
 
 After you add a camera, if you change the camera name without entering a username and password, the new name will be saved, but the camera will be disconnected. Make sure to 
-enter your user name and password when renaming a camera. (Frank)
+enter your user name and password when renaming a camera. 
 
 ## Camera shows “Disconnected” status for all camera issues, including credentials, network connection, timing, or missing profile
 
-When sign-in fails for any reason, the camera will show “Disconnected” status.
+When sign-in fails for any reason, the camera will show “Disconnected” status. [Make sure that cameras are set up correctly](install-cameras.md). 
 
 ## The sign-up form doesn’t accept phone numbers with the “+” prefix
 
