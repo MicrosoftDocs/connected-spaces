@@ -59,4 +59,4 @@ will cause the mobile app to fail to connect. It will also prevent new data from
 If this happens, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection refresh. The Connected Store service will 
 start using the new URL within an hour.
 
-![Environment url](media/known-issues-environment-url.PNG "Environment url")
+![Environment url](media/known-issues-environmental-url.PNG "Environment url")
