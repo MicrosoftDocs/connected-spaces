@@ -48,8 +48,8 @@ When sign-in fails for any reason, the camera will show “Disconnected” statu
 
 ## The sign-up form doesn’t accept phone numbers with the “+” prefix
 
-When completing the sign-up form for a new Azure Active Directory account, the form will not accept a business phone number with a “+” prefix, such as: +44 1234 123456. To 
-work around this issue, enter the number without the "+” prefix. For example: 44 1234 123456
+When completing the sign-up form for a new Azure Active Directory account, the form will not accept a business phone number with a “+” prefix, such as: **+44 1234 123456**. To 
+work around this issue, enter the number without the "+” prefix. For example: **44 1234 123456**
 
 ![Phone number field](media/known-issues-phone-prefix.PNG "Phone number field")
  
