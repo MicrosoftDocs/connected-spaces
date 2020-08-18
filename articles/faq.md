@@ -33,7 +33,7 @@ To modify the IP range used to get the list of available cameras:
 
 3. Update the IP ranges. 
 
-    SCREEN SHOT GOES HERE
+    ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
 
 ## How do I sign up for Connected Store with my existing Azure Active Directory tenant? 
 
@@ -51,25 +51,25 @@ At this time, you must use an Azure Active Directory tenant that is in the Unite
 
 2. Under Let’s set up your account, enter your company email address, and then select Next.
 
-    SCREEN SHOT GOES HERE
+     ![XXX](media/faq-setup-account.PNG "XXX")
 
 3. Select **Sign in** to authenticate.
 
-    SCREEN SHOT GOES HERE
+   ![XXX](media/faq-sign-in.PNG "XXX")
 
 4. Select **Sign in** to authenticate.
 
-    SCREEN SHOT GOES HERE
+   ![XXX](media/faq-xxx.PNG "XXX")
     
     The web page will verify that you have permissions to sign up on behalf of your company and redirect you to portal.office.com where you can acquire the license for Connected Store.
     
 5. In the Office **Check out** screen, select **Try now** to get the trial license for your company.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/faq-check-out.PNG "XXX")
     
     You’ll see the following confirmation page:    
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/faq-order-receipt.PNG "XXX")
 
     At this point, Setup:
     
