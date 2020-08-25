@@ -30,7 +30,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
 1.	On the **Cameras** page, select the camera you want to add a skill zone to by tapping it, and then tap the + button.
 
-    ![Plus sign](media/skill-zone-add.PNG "Plus sign")
+    ![Plus sign](media/skill-zone-add.png "Plus sign")
  
 2.	Select one of the three available skills.
 
@@ -58,7 +58,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
 6.	In the next screen, make any changes to the fields to customize the skill for your store's needs.
 
-    ![Skill zone fields](media/skill-zone-fields.PNG "Skill zone fields")
+    ![Skill zone fields](media/skill-zone-fields.png "Skill zone fields")
  
     The fields change depending on which skill you choose in step 2. The following table describes the fields for each skill zone.
 
@@ -77,7 +77,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     > [!TIP]
     > You can edit skills details or zone placement at any time by tapping the **Actions** button for the zone you want to update.
     
-    ![Actions button](media/skill-zone-action-button.PNG "Actions button")
+    ![Actions button](media/skill-zone-action-button.png "Actions button")
  
 ## Sort the Skills list
 
