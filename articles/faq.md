@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn about frequently asked questions related to Dynamics 365 Connected Store
 ms.author: frch
-ms.date: 08/21/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Frequently asked questions about Dynamics 365 Connected Store
@@ -56,7 +56,7 @@ To sign up using your company’s existing Azure Active Directory tenant, the gl
 
 - Assign client licenses to Azure Active Directory user accounts.
 
-At this time, you must use an Azure Active Directory tenant that is in the United Kingdom or United States. If your company’s tenant is registered in another country or region, the sign-up will fail. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant instead](admin-create-new-tenant.md). 
+At this time, you must use an Azure Active Directory tenant in the United Kingdom or United States. If your company’s tenant is registered in another country or region, **the sign-up will fail**. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant](admin-create-new-tenant.md) in the US or UK to try out Connected Store. 
 
 1. Go to the Connected Store setup page.
 
