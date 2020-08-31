@@ -15,10 +15,6 @@ ms.reviewer: v-brycho
 
 At this time, stores, gateways, cameras, and skills can’t be deleted in the mobile app. 
 
-## Can’t retrieve stores/gateways in mobile app if you don’t have the Connected Store Admin role
-
-To use the mobile app, you must have the Connected Store Admin role. [Learn how to assign a user role](admin-user-accounts.md).
-
 ## Activating Azure Stack Edge within 24 hours of generating the activation key
 
 After receiving your activation key, you have 24 hours to use the key. If you try to use an activation key after the 24 hours has passed, Azure Stack Edge will be activated but will not be paired to the store in the mobile app. 
