@@ -46,6 +46,10 @@ To modify the IP range used to get the list of available cameras:
     
 4. When you’re finished, select the check mark in the upper-right corner of the screen.
 
+## Can’t view a gateway in the mobile app if you don’t have the Connected Store Admin role
+
+To use the mobile app, you must have the **Connected Store Admin** role. If you sign in with the **Connected Store Viewers** role, you can see the list of stores, but you can’t view any gateways within that store. [Learn how to assign a user role](admin-user-accounts.md).
+
 ## How do I sign up for Connected Store with my existing Azure Active Directory tenant? 
 
 To sign up using your company’s existing Azure Active Directory tenant, the global admin on your team needs to:
