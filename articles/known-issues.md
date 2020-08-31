@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn about known issues related to Dynamics 365 Connected Store
 ms.author: frch
-ms.date: 08/21/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Store
@@ -63,7 +63,7 @@ To work around this, select **Continue**, and then [Install Connected Store](adm
 
 ## Changing the Environment URL for your Power Platform environment breaks the flow of data from Connected Store
 
-If you change the **Environment URL** for your Power Platform environment, you’ll break the connection to Connected Store. The old URL will expire after 24 hours, which 
+If you change the **Environment URL** for your Power Platform environment (for example, to make the URL easier to remember), you’ll break the connection to Connected Store. The original URL will expire after 24 hours, which 
 will cause the mobile app to fail to connect. It will also prevent new data from appearing in the Connected Store web app reports. 
 
 If this happens, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection refresh. The Connected Store service will 
