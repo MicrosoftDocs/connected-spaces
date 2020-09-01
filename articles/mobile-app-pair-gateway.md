@@ -72,30 +72,26 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     ![Gateways page in mobile app showing gateway is paired](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
     
     After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
+    
+> [!NOTE]
+> The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
 
-## Get more information about a gateway created in the mobile app
+## How do I change the IP range that the gateway uses to scan for cameras?
 
-To get more information about a gateway:
+To modify the IP range used to get the list of available cameras:
 
-1.	On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
+1. On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
     ![Info button](media/gateway-info.PNG "Info button")
- 
-2.	Review the info.
 
-    ![Gateway fields](media/gateway-fields.PNG "Gateway fields")
- 
-    > [!IMPORTANT]
-    > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
-   
-    The following table describes each field:
+2. Update the IP range values. 
 
-    |Field|Description|
-    |--------------|------------------------------------------------------------|
-    |**Name**|The friendly name of the gateway|
-    |**IP Camera Range Scan**|- The **IP Start Range** and the **IP End Range** show the IP address range secured [when your network was prepared for Azure Stack Edge](ase-install.md)<br><br>- The **Port** field shows which Port your network is connected to.|
-       
-4.	When you’re finished, select the check mark in the upper-right corner of the screen.
+    ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
+    
+3. When you’re finished, select the check mark in the upper-right corner of the screen.
+
+>[!NOTE]
+>The **Port** field shows which Port your network is connected to.
   
 ## Sort the Gateways list
 

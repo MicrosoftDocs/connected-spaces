@@ -27,7 +27,7 @@ Dynamics 365 Connected Store enables you to:
 
 The public preview release enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
-- **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandizers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.  
+- **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.  
 
 - **Queue management.** Monitor queue wait time and queue lengths to improve shopper experience and provide informed insights for employee shift management. 
 
