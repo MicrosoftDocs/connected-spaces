@@ -70,6 +70,10 @@
                href: queue-management-summary-page.md
              - name: Details page
                href: queue-management-details-page.md
+    - name: FAQ
+      href: faq.md
+    - name: Known issues
+      href: known-issues.md
     - name: AI and insights
       href: ai-insights.md
     - name: Data and privacy
