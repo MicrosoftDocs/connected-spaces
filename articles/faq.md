@@ -54,11 +54,11 @@ To use the mobile app, you must have the **Connected Store Admin** role. If you 
 
 If you want to use your company's existing Microsoft Azure Active Directory (Azure AD) tenant to sign up, the global admin on your team must complete these steps:
 
-- Complete the sign-up by using their user account, which has Azure AD tenant administrator permissions.
+1. Complete the sign-up by using their user account, which has Azure AD tenant administrator permissions.
 
-- Assign a six-month trial license to Microsoft Dynamics 365 Connected Store.
+2. Assign a six-month trial license to Microsoft Dynamics 365 Connected Store.
 
-- Assign client licenses to Azure AD user accounts.
+3. Assign client licenses to Azure AD user accounts.
 
 Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Store, you can [sign up by using a new test Azure AD tenant](admin-create-new-tenant.md) in the UK or US.
 
@@ -88,7 +88,8 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
     At this point, Setup completes the following actions:
 
-    - Assign the Dynamics 365 Connected Store Public Preview trial license to your company's Azure AD tenant.
-    - Assign a client license for this trial to your admin user account.
+    - Assigns the Dynamics 365 Connected Store Public Preview trial license to your company's Azure AD tenant.
+    
+    - Assigns a client license for this trial to your admin user account.
 
 6. [Install Connected Store](admin-install-web-app.md).
