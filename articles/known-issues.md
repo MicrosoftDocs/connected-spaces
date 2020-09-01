@@ -1,6 +1,6 @@
 ---
 author: kfrankc-ms
-description: Learn about known issues related to Dynamics 365 Connected Store
+description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store.
 ms.author: frch
 ms.date: 09/01/2020
 ms.service: crm-online
@@ -9,60 +9,55 @@ title: Known issues with Dynamics 365 Connected Store
 ms.reviewer: v-brycho
 ---
 
-# Known Issues with Dynamics 365 Connected Store
+# Known issues with Dynamics 365 Connected Store
 
-## Can’t delete stores, gateways, cameras, or skills in mobile app
+## You can't delete stores, gateways, cameras, or skills in the mobile app
 
-At this time, stores, gateways, cameras, and skills can’t be deleted in the mobile app. 
+Currently, stores, gateways, cameras, and skills can't be deleted in the mobile app.
 
-## Activating Azure Stack Edge within 24 hours of generating the activation key
+## You must activate Azure Stack Edge within 24 hours after the activation key is generated
 
-After receiving your activation key, you have 24 hours to use the key. If you try to use an activation key after the 24 hours has passed, Azure Stack Edge will be activated but will not be paired to the store in the mobile app. 
+After you receive your activation key, you have 24 hours to use it. If you try to use an activation key after 24 hours have passed, Microsoft Azure Stack Edge will be activated, but it won't be paired to the store in the mobile app.
 
 To work around this issue, generate the activation key again to unblock the store/gateway pairing.
 
->[!NOTE]
-<Re-generating the activation key will create a duplicate gateway with the same name. 
+> [!NOTE]
+> If you regenerate the activation key, you create a duplicate gateway that has the same name.
 
-## Once a gateway is activated and assigned to a store, the store information can’t be changed
+## After a gateway is activated and assigned to a store, the store information can't be changed
 
-Store details can’t be updated or edited after the store is connected to a gateway.
+Store details can't be updated or edited after the store is connected to a gateway.
 
-## A gateway can’t support more than 10 zones
+## A gateway can't support more than 10 zones
 
-Adding more than 10 zones to a gateway can cause performance degradation because of the concurrent number of people being tracked, which exceeds the performance threshold of 
-Azure Stack Edge.  
+If you add more than 10 zones to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge.
 
 ## To rename a camera in the mobile app, you must re-enter your ONVIF camera profile credentials
 
-After you add a camera, if you change the camera name without entering a username and password, the new name will be saved, but the camera will be disconnected. Make sure to 
-enter your user name and password when renaming a camera. 
+After you add a camera, if you change its name without entering a user name and password, the new name will be saved, but the camera will be disconnected. Be sure to enter your user name and password when you rename a camera.
 
-## Camera shows “Disconnected” status for all camera issues, including credentials, network connection, timing, or missing profile
+## A camera shows Disconnected status for all camera issues, including issues that are related to credentials, network connection, timing, or a missing profile
 
-When sign-in fails for any reason, the camera will show “Disconnected” status. [Make sure that cameras are set up correctly](install-cameras.md). 
+If sign-in fails for any reason, the camera will show **Disconnected** status. [Make sure that cameras are set up correctly](install-cameras.md).
 
-## The sign-up form doesn’t accept phone numbers with the “+” prefix
+## The sign-up form doesn't accept phone numbers that have a plus sign (+) prefix
 
-When completing the sign-up form for a new Azure Active Directory account, the form will not accept a business phone number with a “+” prefix, such as: **+44 1234 123456**. To 
-work around this issue, enter the number without the "+” prefix. For example: **44 1234 123456**
+The sign-up form for a new Azure Active Directory (Azure AD) account doesn't accept a business phone number that has a plus sign (+) prefix, such as `+44 1234 123456`. To work around this issue, enter the number without the prefix. For example, enter `44 1234 123456`.
 
-![Phone number field](media/known-issues-phone-prefix.PNG "Phone number field")
- 
-## Selecting the “Users” link in the order receipt page returns an error
+![Sign-up form](media/known-issues-phone-prefix.PNG "Sign-up form")
 
-When you sign up for Connected Store using an existing Azure Active Directory tenant admin account, the order receipt page includes a “Users” link that doesn’t work. 
+## You receive an error when you select the Users link on the order receipt page
 
-![User's link](media/known-issues-users-link.PNG "User's link")
- 
-To work around this, select **Continue**, and then [Install Connected Store](admin-install-web-app.md).
+When you sign up for Connected Store by using an existing Azure AD tenant admin account, the **Users** link on the order receipt page might not work.
 
-## Changing the Environment URL for your Power Platform environment breaks the flow of data from Connected Store
+![Users link on the order receipt page](media/known-issues-users-link.PNG "Users link on the order receipt page")
 
-If you change the **Environment URL** for your Power Platform environment (for example, to make the URL easier to remember), you’ll break the connection to Connected Store. The original URL will expire after 24 hours, which 
-will cause the mobile app to fail to connect. It will also prevent new data from appearing in the Connected Store web app reports. 
+To work around this issue, select **Continue**, and then [install Connected Store](admin-install-web-app.md).
 
-If this happens, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection refresh. The Connected Store service will 
-start using the new URL within an hour.
+## If you change the environment URL for your Microsoft Power Platform environment, the flow of data from Connected Store is broken
 
-![Environment url](media/known-issues-environmental-url.PNG "Environment url")
+If you change the environment URL for your Microsoft Power Platform environment (for example, to make the URL easier to remember), you will break the connection to Connected Store. After 24 hours, the original URL will expire, and the mobile app will fail to connect. Additionally, new data won't appear in the Connected Store web app reports.
+
+If this issue occurs, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection update. The Connected Store service will start to use the new URL within an hour.
+
+![Environment URL](media/known-issues-environmental-url.PNG "Environment URL")
