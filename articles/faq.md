@@ -1,15 +1,15 @@
 ---
 author: kfrankc-ms
-description: Learn about frequently asked questions related to Dynamics 365 Connected Store
+description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Store.
 ms.author: frch
 ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Frequently asked questions about Dynamics 365 Connected Store
+title: Dynamics 365 Connected Store FAQ
 ms.reviewer: v-brycho
 ---
 
-# Frequently asked questions about Dynamics 365 Connected Store
+# Dynamics 365 Connected Store FAQ
 
 ## Are all IP cameras supported?
 
@@ -21,75 +21,74 @@ ms.reviewer: v-brycho
 
 ## Can I reconfigure an existing skill zone if I have already reached the 10-zone limit?
 
-Yes, if you need a new skill zone, you can reconfigure an existing zone. Zones can only be reconfigured for the same skill category, however. For example, you can reconfigure an existing Display Effectiveness zone as a new Display Effectiveness zone but not as a new Shopper Analytics or Queue Management zone. You can’t add more than 10 zones. 
+Yes, if you need a new skill zone, you can reconfigure an existing zone. However, zones can be reconfigured only for the same skill category. For example, you can reconfigure an existing Display Effectiveness zone as a new Display Effectiveness zone, but not as a new Shopper Analytics or Queue Management zone. You can't add more than 10 zones.
 
->[!NOTE]
->When you rename a skill zone, all data associated with the previous zone name will be associated with the new zone name. 
+> [!NOTE]
+> When you rename a skill zone, all data that is associated with the previous zone name will be associated with the new zone name.
 
-## My Display Effectiveness skill zone has lower average dwell time than expected
+## Why is the average dwell time of my Display Effectiveness skill zone less than expected?
 
-Make sure to create the largest skill zone that you can, covering the specific floor area that you’re interested in, but **excluding** areas that you’re not interested in. This increases the accuracy of the data collected and prevents false positives from areas you don’t want to track. Be careful placing the corners of your polygon to make sure they’re not outside the area you want to track. 
+Be sure to create the largest skill zone that you can, so that it covers the specific floor area that you're interested in but **excludes** areas that you aren't interested in. In this way, you help increase the accuracy of the data that is collected and prevent false positives from areas that you don't want to track. Be careful when you place the corners of your polygon. Make sure that they aren't outside the area that you want to track.
 
 [See tips for drawing skill zones](mobile-app-add-camera-skill-zones.md#tips-for-drawing-skill-zones).
 
 ## How do I change the IP range that the gateway uses to scan for cameras?
 
-To modify the IP range used to get the list of available cameras:
+To change the Internet Protocol (IP) range that is used to get the list of available cameras, follow these steps.
 
-1. On the **Gateways** page, tap the **Actions** (three dots) button for the gateway you want to modify. 
+1. On the **Gateways** page, tap the **Actions** (three dots) button for the gateway that you want to change.
 
 2. Tap **Info** at the bottom of the page.
 
 3. Update the IP ranges. 
 
-    ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
-    
-4. When you’re finished, select the check mark in the upper-right corner of the screen.
+    ![IP Camera Range field on the Gateway Info page](media/faq-ip-range.PNG "IP Camera Range field on the Gateway Info page")
 
-## Can’t view a gateway in the mobile app if you don’t have the Connected Store Admin role
+4. When you've finished, select the check mark in the upper-right corner of the page.
 
-To use the mobile app, you must have the **Connected Store Admin** role. If you sign in with the **Connected Store Viewers** role, you can see the list of stores, but you can’t view any gateways within that store. [Learn how to assign a user role](admin-user-accounts.md).
+## I don't have the Connected Store Admin role. How can I view a gateway in the mobile app?
 
-## How do I sign up for Connected Store with my existing Azure Active Directory tenant? 
+To use the mobile app, you must have the **Connected Store Admin** role. If you sign in by using the **Connected Store Viewers** role, you can view the list of stores, but you can't view any gateways in those stores. [Learn how to assign a user role](admin-user-accounts.md).
 
-To sign up using your company’s existing Azure Active Directory tenant, the global admin on your team needs to:
+## How do I use my existing Azure Active Directory tenant to sign up for Connected Store? 
 
-- Complete the sign-up using their user account, which has Azure Active Directory tenant administrator permissions.
+If you want to use your company's existing Microsoft Azure Active Directory (Azure AD) tenant to sign up, the global admin on your team must complete these steps:
 
-- Assign a 6-month trial license to Connected Store.
+- Complete the sign-up by using their user account, which has Azure AD tenant administrator permissions.
 
-- Assign client licenses to Azure Active Directory user accounts.
+- Assign a six-month trial license to Microsoft Dynamics 365 Connected Store.
 
-At this time, you must use an Azure Active Directory tenant in the United Kingdom or United States. If your company’s tenant is registered in another country or region, **the sign-up will fail**. If you’re the global admin for your organization, you can [sign up with a new test Azure Active Directory tenant](admin-create-new-tenant.md) in the US or UK to try out Connected Store. 
+- Assign client licenses to Azure AD user accounts.
+
+Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Store, you can [sign up by using a new test Azure AD tenant](admin-create-new-tenant.md) in the UK or US.
 
 1. Go to the Connected Store setup page.
 
-2. Under **Let’s set up your account**, enter your company email address, and then select **Next**.
+2. In the **Let's set up your account** step, enter your company email address, and then select **Next**.
 
-   ![Let's set up your account section](media/faq-setup-account.PNG "Let's set up your account section")
+    ![Let's set up your account step](media/faq-setup-account.PNG "Let's set up your account step")
 
 3. Select **Sign in** to authenticate.
 
-   ![Sign-in button](media/faq-sign-in.PNG "Sign-in button")
+    ![Sign in button](media/faq-sign-in.PNG "Sign in button")
 
-4. After authenticating, select **Continue**.
+4. After authentication is completed, select **Continue**.
 
-   ![Continue button](media/faq-continue.PNG "Continue button")
-    
-    The web page will verify that you have permissions to sign up on behalf of your company and redirect you to portal.office.com where you can acquire the license for Connected Store.
-    
-5. In the Office **Check out** screen, select **Try now** to get the trial license for your company.
+    ![Continue button](media/faq-continue.PNG "Continue button")
+
+    The web page verifies that you have permissions to sign up on behalf of your company. If you do, it redirects you to portal.office.com, where you can get the license for Connected Store.
+
+5. On the Office **Check out** page, select **Try now** to get the trial license for your company.
 
     ![Try now button](media/faq-check-out.PNG "Try now button")
-    
-    You’ll see the following confirmation page:    
-    
+
+    An order receipt page appears.
+
     ![Order receipt page](media/faq-order-receipt.PNG "Order receipt page")
 
-    At this point, Setup:
-    
-    - Assigns the Dynamics 365 Connected Store Public Preview trial license to your company’s Azure Active Directory tenant.
-    
-    - Assigns a client license for this trial to your admin user account.
+    At this point, Setup completes the following actions:
 
-6. [Install Connected Store](admin-install-web-app.md). 
+    - Assign the Dynamics 365 Connected Store Public Preview trial license to your company's Azure AD tenant.
+    - Assign a client license for this trial to your admin user account.
+
+6. [Install Connected Store](admin-install-web-app.md).
