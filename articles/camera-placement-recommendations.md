@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Camera placement recommendations for Dynamics 365 Connected Store (public preview)
 
-This article provides camera placement recommendations for Microsoft Dynamics 365 Connected Store (public preview). It includes general guidelines as well as specific recommendations for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals]().
+This article provides camera placement recommendations for Microsoft Dynamics 365 Connected Store (public preview). It includes general guidelines as well as specific recommendations for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
 
 ## General guidelines
 
