@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Review a checklist for placing and installing LP cameras for use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 07/08/2020
+ms.date: 09/10/2020
 ms.service: crm-online
 ms.topic: article
 title: Checklist for placing and installing cameras for use with Dynamics 365 Connected Store (public preview)
