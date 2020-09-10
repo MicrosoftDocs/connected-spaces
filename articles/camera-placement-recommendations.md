@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to place LP cameras for use with Dynamics 365 Connected Store (public preview), including height, mounting angle, and camera-to-focal-point distance
 ms.author: frch
-ms.date: 07/08/2020
+ms.date: 09/10/2020
 ms.service: crm-online
 ms.topic: article
 title: Camera placement recommendations for Dynamics 365 Connected Store (public preview)
