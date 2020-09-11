@@ -1,7 +1,7 @@
 ---
-author: acmsft
+author: alwinv
 description: How Microsoft Dynamics 365 Connected Store (public preview) uses artificial intelligence technology to provide insights.
-ms.author: adocho
+ms.author: alwinv
 ms.date: 07/28/2020
 ms.service: crm-online
 ms.topic: article
