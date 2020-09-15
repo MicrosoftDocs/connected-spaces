@@ -23,7 +23,11 @@ Keep the following in mind before using the Microsoft Dynamics 365 Connected Sto
 - You can install the app on multiple Apple iPhones. Whichever iPhone you use, make sure to keep it up-to date-to get the 
 latest experience, security, and bug fixes.
 
-To download the app for your device, go to the Apple App Store or use the following direct link: [Apple App store](https://aka.ms/ConnectedStoreAppleApp)    
+To download the app for your device, go to the Apple App Store or Google Play Store, or use the following direct links: 
+
+- [Apple App Store](https://aka.ms/ConnectedStoreAppleApp)  
+
+- [Google Play Store](https://aka.ms/ConnectedStoreGoogleApp)
 
 ## Next steps
 
