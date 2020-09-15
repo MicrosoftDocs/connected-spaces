@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Requirements for using the Dynamics 365 Connected Store (public preview) mobile app
 
-You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile app on Apple iPhones and iPads, and Android phones and tablets. The following table shows which operating systems are supported and how to determine the version you're using.
+You can use Microsoft Dynamics 365 Connected Store (public preview) on the devices/operating systems shown in the following table.
 
 |Device|Operating system|
 |----------------|-----------------|
