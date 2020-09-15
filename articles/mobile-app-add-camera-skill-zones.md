@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Store (public preview) by using the mobile app
 ms.author: alissag
-ms.date: 07/28/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Add skill zones to a camera using the Dynamics 365 Connected Store (public preview) mobile app
@@ -65,17 +65,16 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     |Field|	Description|	Applies to (skills)|
     |----------------|------------------------------------------------|-------------------------------------------------------|
     |**Zone Name**|Give your zone a name to easily identify it in the dashboard (for example, **Holiday promotion**).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
-    |**Active Date Range**|Set the time frame for collecting data in the selected zone.<br><br> For the Display effectiveness skill, this is especially useful for zones where the physical location of the zone may not change but the product changes.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
-    |**Engagement Threshold**|Set a dwell time threshold over which you consider people engaged in the zone.|- Display effectiveness|
+    |**Active**/**Inactive** slider|Use the **Active**/**Inactive** slider to turn the skill on or off. The skill will only collect data when the slider is in the **Active** position. |- Display effectiveness<br>- Queue management<br>- Shopper analytics|    
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
-    |**Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|    
+    |**Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness|    
 
 7.	When you're finished editing the skills, tap the check mark in the upper-right corner of the page.
 
     > [!TIP]
-    > You can edit skills details or zone placement at any time by tapping the **Actions** button for the zone you want to update.
+    > You can edit, duplicate, or delete a skill at any time by tapping the **Actions** button for the skill you want to update.<br>**Duplicating** a skill will make an exact copy of the skill type, drawing, andf all details to a new recrod. You can then make edits and save.<br>**Deleting** a skill will permanently remove it from Azure Stack Edge, the mobile app, and all collected dtata. This informataion cannot be recovered. If yo're unsure, turn the skill status to **Inactive** instead.
     
     ![Actions button](media/skill-zone-action-button.png "Actions button")
  
