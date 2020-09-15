@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn about the requirements for using the Dynamics 365 Connected Store (public preview) mobile app
 ms.author: alissag
-ms.date: 07/08/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for using the Dynamics 365 Connected Store (public preview) mobile app
@@ -11,12 +11,17 @@ ms.reviewer: v-brycho
 
 # Requirements for using the Dynamics 365 Connected Store (public preview) mobile app
 
-You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile app on Apple iPhones running iOS 9.0 or later. [Learn how to find the software version of your iPhone](https://support.apple.com/en-us/HT201685). Using the app on an older iPhone may cause compatibility issues. If you have any problems with the app, make sure that your operating system is up-to-date.
+You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile app on Apple iPhones and iPads, and Android phones and tablets. The following table shows which operating systems are supported and how to determine the version you're using.
 
-To use the mobile app, you also need to have the **Connected Store Admin** user role. For more information, see [Give permissions to users](admin-user-accounts.md).
+|Device|Operating system|
+|----------------|-----------------|
+|Apple iPhone or iPad|iOS 9.0 or later [Find the version for your device](https://support.apple.com/en-us/HT201685)|
+|Android phone or tablet|Android 4.1 or later|[Find the version for your device](https://support.google.com/android/answer/7680439?hl=en)
 
-> [!NOTE]
-> You can’t use the mobile app on an iPad or on Android devices at this time.
+Using the app on an older operating system may cause compatibility issues. If you have any problems with the app, make sure that your operating system is up-to-date.
+
+> [!IMPORTANT]
+> To use the mobile app, you also need to have the **Connected Store Admin** user role. For more information, see [Give permissions to users](admin-user-accounts.md).
 
 ## Next steps
 
