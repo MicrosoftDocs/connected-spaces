@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Download the mobile app for Dynamics 365 Connected Store (public preview)
 ms.author: alissag
-ms.date: 07/08/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Download the Dynamics 365 Connected Store (public preview) mobile app
