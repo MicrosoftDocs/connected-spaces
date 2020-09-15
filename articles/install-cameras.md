@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 07/13/2020
+ms.date: 09/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Store (public preview)
@@ -25,10 +25,6 @@ Dynamics 365 Connected Store supports the following LP cameras:
    
    - M5065 PTZ
    
-- Bosch:
-
-   - NUC-51022-F2
-
 ## Install a camera	
 
 Use the steps below in addition to your local standards and requirements for installing ethernet.
