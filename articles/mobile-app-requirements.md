@@ -15,8 +15,8 @@ You can use the Microsoft Dynamics 365 Connected Store (public preview) mobile a
 
 |Device|Operating system|
 |----------------|-----------------|
-|Apple iPhone or iPad|iOS 9.0 or later [Find the version for your device](https://support.apple.com/en-us/HT201685)|
-|Android phone or tablet|Android 4.1 or later [Find the version for your device](https://support.google.com/android/answer/7680439?hl=en)
+|Apple iPhone or iPad|iOS 9.0 or later. [Find the version for your device](https://support.apple.com/en-us/HT201685).|
+|Android phone or tablet|Android 4.1 or later. [Find the version for your device](https://support.google.com/android/answer/7680439?hl=en).|
 
 Using the app on an older operating system may cause compatibility issues. If you have any problems with the app, make sure that your operating system is up-to-date.
 
