@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to create a store by using the Dynamics 365 Connected Store (public preview) mobile app
 ms.author: alissag
-ms.date: 07/08/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a store with the Dynamics 365 Connected Store (public preview) mobile app 
@@ -29,6 +29,8 @@ Microsoft Dynamics 365 Connected Store (public preview) mobile app.
 
    b. In the **Allow Location Access** field, move the slider to the On position if you want to detect the location from your 
 mobile device. You can also enter your location manually, but make sure to enter the information carefully since this field doesn't autofill.
+
+   c. In the **Maxium Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
 
    c. Tap the **Add Store Image** field, and then do one of the following:
 
@@ -69,6 +71,7 @@ about a store, use this procedure.
     |**Store Name**|The friendly name of the store|
     |**Allow Location Access**|Allow your device to determine your location|
     |**Set Time Zone**|Set the time zone for the store|
+    |**Maximum Occupancy**|Set the total store capacity across all store entrances|
     |**Add Store Image**|Select a photo from your files or take a picture with your phone camera|
 
 4. When you’re finished, tap the check mark in the upper-right corner of the page to go back to the **Stores** page.
