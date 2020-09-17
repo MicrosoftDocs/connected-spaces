@@ -70,7 +70,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 
 ### Example: FAQ
 
-SCREEN SHOT GOES HERE
+![Example FAQ](media/faq-example.PNG "Example FAQ")
             
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
@@ -79,7 +79,7 @@ SCREEN SHOT GOES HERE
 |✔ **DO** offer a way to learn more|	Shoppers appreciate being able to ask additional questions, for example via email or a phone number.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your,” (for example “your shopping experience” or “your data”.|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
                 
-SCREEN SHOT GOES HERE
+![Example disclosure](media/disclosure-example.PNG "Example disclosure")
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
@@ -88,7 +88,7 @@ SCREEN SHOT GOES HERE
 |✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are visible to humans and are stored) helps customers understand how data is protected.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** technical terms such as “AI,” “data,” and  “the cloud”|Technical terms can be difficult for shoppers to understand and may trigger discomfort or concern. Also, when a term is more abstract, shoppers may tend to assume the worst (for example, “data” means “my data”). | 
 
-SCREEN SHOT GOES HERE      
+![Example of what to share](media/what-to-share-example.PNG "Example of what to share")    
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
