@@ -50,7 +50,7 @@ For information on how Dynamics 365 Connected Store works and how personal data 
 
 - [AI and insights](ai-insights.md)
 
-- [Data and privacy for Dynamics 365 Connected Store](data-privacy.md)
+- [Data and privacy](data-privacy.md)
 
 You can use a unifying concept such as a “learning store” to explain how your store uses technology to “learn” how to provide better customer service. Our research shows increased understanding when users view disclosure materials through this lens.
 
