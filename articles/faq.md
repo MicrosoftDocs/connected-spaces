@@ -93,3 +93,7 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
     - Assigns a client license for this trial to your admin user account.
 
 6. [Install Connected Store](admin-install-web-app.md).
+
+## What should I commmunicate with shoppers about the use of Dynamics 365 Connected Store in my store?
+
+While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise concerns about how personal data is protected, potentially impacting trust in your brand. To help shoppers understand your store’s approach to data privacy, refer to best practices for [Communicating with shoppers](communication-plan.md).
