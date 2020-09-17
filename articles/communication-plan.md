@@ -88,7 +88,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 |-------------------------------------------|-------------------------------------------------------|
 |✔ **DO** refer to  the **What to disclose** section of this article when deciding what information to include.|Shoppers tend to have a common set of questions and concerns about how personal data is used and protected.|
 |✔ **DO** consider introducing a concept such as “learning store”. |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
-|✔ **DO** offer a way to learn more|	Shoppers appreciate being able to ask additional questions, for example via email or a phone number.|
+|✔ **DO** offer a way to learn more|	Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your,” (for example “your shopping experience” or “your data”.|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
                 
 ![Example disclosure](media/disclosure-example.PNG "Example disclosure")
