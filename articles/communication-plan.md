@@ -24,7 +24,7 @@ This article offers best practices for creating and implementing a disclosure st
 
 What you choose to disclose to shoppers will depend on the unique context of your store and the range of technologies that you use.
 
-Dynamics 365 Connected Store as a standalone technology is considered low sensitivity in part because it does not store personally identifiable information. For low-sensitivity scenarios, a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected
+Dynamics 365 Connected Store as a standalone technology is considered low sensitivity in part because it does not store personally identifiable information. For low-sensitivity scenarios, a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
 
 Specifically, we recommend providing shoppers with answers to the following questions:
 
