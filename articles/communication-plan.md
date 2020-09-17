@@ -64,7 +64,7 @@ The best practices in this guide do not consider how your store may use personal
 
 For a low-sensitivity scenario, we recommend adding an FAQ to your website as the primary point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build understanding. 
 
-FAQ content can also be shared in a printed brochure available in stores. This makes the content accessible to people who may have limited Internet access, and can help store associates be prepared to answer shopper questions.
+FAQ content can also be shared in a printed brochure available in stores. This makes the content accessible to people who may have limited internet access, and can help store associates be prepared to answer shopper questions.
 
 Examples and tips for structuring an FAQ are included below.  
 
