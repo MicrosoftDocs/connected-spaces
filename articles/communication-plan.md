@@ -77,7 +77,7 @@ SCREEN SHOT GOES HERE
 |✔ **DO** refer to “What to disclose”  when deciding what information to include.|Shoppers tend to have a common set of questions and concerns about how personal data is used and protected.|
 |✔ **DO** consider introducing a concept such as “learning store”. |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** offer a way to learn more|	Shoppers appreciate being able to ask additional questions, for example via email or a phone number.|
-|X **AVOID** “you” or “your,” (for example “your shopping experience” or “your data”.|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
+|![Company email address field](media/avoid.PNG "Company email address field") **AVOID** “you” or “your,” (for example “your shopping experience” or “your data”.|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
                 
 SCREEN SHOT GOES HERE
 
