@@ -86,24 +86,24 @@ These recommendations are based on Microsoft research studies conducted on Dynam
             
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
-|✔ **DO** refer to  the **What to disclose** section of this article when deciding what information to include.|Shoppers tend to have a common set of questions and concerns about how personal data is used and protected.|
-|✔ **DO** consider introducing a concept such as “learning store.” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
-|✔ **DO** offer a way to learn more.|	Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
+|✔ **DO** refer to  the **What to disclose** section of this article when deciding what information to include|Shoppers tend to have a common set of questions and concerns about how personal data is used and protected.|
+|✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
+|✔ **DO** offer a way to learn more|	Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your” (for example “your shopping experience” or “your data”).|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
                 
 ![Example disclosure](media/disclosure-example.PNG "Example disclosure")
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
-|✔ **DO** explain how insights are used to improve customer service.|If you’re able to provide a clear value proposition to shoppers, they understand the concept of insights better when they can see clearly how insights translate to their experience.|
-|✔ **DO** use graphics to help explain unfamiliar concepts.|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
-|✔ **DO** differentiate between “video footage” and “insights”. |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are visible to humans and are stored) helps customers understand how data is protected.|
-|![Red "X"](media/avoid.PNG "Red X") **AVOID** technical terms such as “AI,” “data,” and  “the cloud”.|Technical terms can be difficult for shoppers to understand and may trigger discomfort or concern. Also, when a term is more abstract, shoppers may tend to assume the worst (for example, “data” means “my data”). | 
+|✔ **DO** explain how insights are used to improve customer service|If you’re able to provide a clear value proposition to shoppers, they understand the concept of insights better when they can see clearly how insights translate to their experience.|
+|✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
+|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are visible to humans and are stored) helps customers understand how data is protected.|
+|![Red "X"](media/avoid.PNG "Red X") **AVOID** technical terms such as “AI,” “data,” and  “the cloud”|Technical terms can be difficult for shoppers to understand and may trigger discomfort or concern. Also, when a term is more abstract, shoppers may tend to assume the worst (for example, “data” means “my data”). | 
 
 ![Example of what to share](media/what-to-share-example.PNG "Example of what to share")    
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
-|✔ **DO** clearly state whether personally identifiable information is stored.|Shoppers’ primary concern around data privacy is the collection of personally identifiable information without their consent.|
-|✔ **DO** provide examples of what you do and do not do with information.|Especially when it comes to topics of higher privacy concern, shoppers show better understanding when examples are highlighted.|
-|![Red "X"](media/avoid.PNG "Red X") **AVOID** words that suggest no changes will be made in the future (for example, “never”). |Shoppers may find terms like “never” or “not ever” unrealistic or dishonest.|
+|✔ **DO** clearly state whether personally identifiable information is stored|Shoppers’ primary concern around data privacy is the collection of personally identifiable information without their consent.|
+|✔ **DO** provide examples of what you do and do not do with information|Especially when it comes to topics of higher privacy concern, shoppers show better understanding when examples are highlighted.|
+|![Red "X"](media/avoid.PNG "Red X") **AVOID** words that suggest no changes will be made in the future (for example, “never”) |Shoppers may find terms like “never” or “not ever” unrealistic or dishonest.|
