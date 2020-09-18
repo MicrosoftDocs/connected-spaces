@@ -9,7 +9,7 @@ title: Communicate with your shoppers about the use of Dynamics 365 Connected St
 ms.reviewer: v-brycho
 ---
 
-# Communicating with your shoppers about the use of Dynamics 365 Connected Store in your store
+# Communicating with your shoppers about the use of Dynamics 365 Connected Store 
 
 While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise concerns about how personal data is protected, potentially impacting trust in your brand. 
 
