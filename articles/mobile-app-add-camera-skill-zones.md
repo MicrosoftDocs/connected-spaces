@@ -76,7 +76,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     > [!TIP]
     > You can edit, duplicate, or delete a skill at any time by tapping the **Actions** button for the skill you want to update.<br><br>**Duplicating** a skill copies the skill type, drawing, and details to a new record. You can then make edits to the skill and save.<br><br>**Deleting** a skill will permanently remove it from Azure Stack Edge, the mobile app, and all collected data. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
     
-    ![Actions button](media/skill-zone-action-button.png "Actions button")
+    ![Actions button](media/skill-zone-action-button-2.PNG "Actions button")
  
 ## Sort the Skills list
 
