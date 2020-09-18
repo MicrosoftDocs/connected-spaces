@@ -13,12 +13,12 @@ ms.reviewer: v-brycho
 
 While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise concerns about how personal data is protected, potentially impacting trust in your brand. 
 
-To help shoppers understand your store’s approach to data privacy, you can create a disclosure strategy. A disclosure strategy will help you decide what information to communicate to shoppers as well as when and where to share it. 
+To help shoppers understand your store’s approach to data privacy, you can create a **disclosure strategy**. A disclosure strategy will help you decide what information to communicate to shoppers as well as when and where to share it. 
 
 This article offers best practices for creating and implementing a disclosure strategy for Microosft Dynamics 365 Connected Store based on insights from user research and Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). It also includes design tips and examples for disclosure materials, which you can adapt to your context.  
 
 > [!NOTE]
-> This guide includes best practices that may not align with laws and notice and disclosure regulations applicable to your store. It is your responsibility to align your disclosure strategy with applicable legal requirements in your jurisdiction. See [Compliance and responsible use for details](compliance.md).  
+> This article includes best practices that may not align with laws and notice and disclosure regulations applicable to your store. It also does not consider your other data processing practices beyond your use of Connected Store. It is your responsibility to align your disclosure strategy with applicable legal requirements in your jurisdiction and accurately reflect all of your data collection and processing practices. See [Compliance and responsible use](compliance.md) for details.  
 
 ## What to disclose
 
@@ -52,9 +52,7 @@ For information on how Dynamics 365 Connected Store works and how personal data 
 
 - [Data and privacy](data-privacy.md)
 
-You can use a unifying concept such as a “learning store” to explain how your store uses technology to “learn” how to provide better customer service. Our research shows increased understanding when users view disclosure materials through this lens.
-
-The best practices in this guide do not consider how your store may use personal data outside of the data provided to Microsoft through Dynamics 365 Connected Store. Therefore, consider your store’s unique context: 
+The best practices in this guide do not consider how your store may use personal data outside of the data provided to Microsoft through your use of Dynamics 365 Connected Store. Therefore, consider your store’s unique context: 
 
 - **Do you use other technology during the shopping experience that does collect or store personal data?** If so, answers to the previous questions will be different than if your store only uses Dynamics 365 Connected Store. In this case, consider a unified disclosure strategy that covers all parts of your technology ecosystem that may affect shopper trust.    
 
@@ -62,7 +60,7 @@ The best practices in this guide do not consider how your store may use personal
 
 ## When and where to disclose  
 
-For a low-sensitivity scenario, we recommend adding an FAQ to your website as the primary point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build understanding. 
+For a low-sensitivity scenario, we recommend an **FAQ on your website** as the primary point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build understanding. 
 
 FAQ content can also be shared in a printed brochure available in stores. This makes the content accessible to people who may have limited internet access, and can help store associates be prepared to answer shopper questions.
 
