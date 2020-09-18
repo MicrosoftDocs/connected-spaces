@@ -88,7 +88,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 |✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** consider the local context|Some terms or concepts may have different cultural or language connotations in your local area.|
 |✔ **DO** offer a way to learn more|Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
-|![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your” (for example “your shopping experience” or “your data”)|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
+|![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your” (for example, “your shopping experience” or “your data”)|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
 
 ### Example: Explaining what technology is in use and how it works
                 
