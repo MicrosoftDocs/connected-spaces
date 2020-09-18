@@ -80,7 +80,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 
 ### Example: FAQ
 
-![Example FAQ](media/faq-example.PNG "Example FAQ")
+![Screenshot of an example FAQ web page, with a page heading, short intro text, and a list of sample questions addressing common shopper concerns](media/faq-example.PNG "Screenshot of an example FAQ web page, with a page heading, short intro text, and a list of sample questions addressing common shopper concerns")
             
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
@@ -92,7 +92,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 
 ### Example: Explaining what technology is in use and how it works
                 
-![Example disclosure](media/disclosure-example.PNG "Example disclosure")
+![Screenshot of an example answer on an FAQ webpage, with a graphic illustrating how the technology works, a short text explanation of the technology, and a graphic showing how technology insights are translated into customer outcomes](media/disclosure-example.PNG "Screenshot of an example answer on an FAQ webpage, with a graphic illustrating how the technology works, a short text explanation of the technology, and a graphic showing how technology insights are translated into customer outcomes")
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
@@ -103,7 +103,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 
 ### Example: Explaining what information might be shared with other companies
 
-![Example of what to share](media/what-to-share-example.PNG "Example of what to share")    
+![Screenshot of a second example answer on an FAQ webpage, with text and a visual outlining what information a store does or does not share with other companies](media/what-to-share-example.PNG "Screenshot of a second example answer on an FAQ webpage, with text and a visual outlining what information a store does or does not share with other companies")    
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
