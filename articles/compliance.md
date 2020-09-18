@@ -15,7 +15,7 @@ Microsoft Dynamics 365 Connected Store was designed with compliance, privacy, se
 
 - Install and position cameras in your retail locations, and in doing so take care to avoid sensitive areas and limit collection of data not needed by Dynamics 365 Connected Store.
 
-- Inform people in your retail locations with conspicuous notices about use of video data and use of AI. [Learn about best practices for communicating with shoppers](communication-plan.md).
+- Inform people in your retail locations with conspicuous notices about use of video data and use of AI. [Learn about best practices for communicating with shoppers](communication-plan.md) for tips to consider for your notice and disclosure strategy.
 
 - Comply with all applicable laws and regulations in your jurisdiction when using Dynamics 365 Connected Store.
 
