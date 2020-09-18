@@ -96,7 +96,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
-|✔ **DO** explain how insights are used to improve customer service|If you’re able to provide a clear value proposition to shoppers, they understand the concept of insights better when they can see clearly how insights translate to their experience.|
+|✔ **DO** explain how insights are used to improve customer service|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to their experience.|
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
 |✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are visible to humans and are stored) helps customers understand how data is protected.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** technical terms such as “AI,” “data,” and  “the cloud”|Technical terms can be difficult for shoppers to understand and may trigger discomfort or concern. Also, when a term is more abstract, shoppers may tend to assume the worst (for example, “data” means “my data”). | 
