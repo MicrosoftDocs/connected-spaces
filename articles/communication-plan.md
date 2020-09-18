@@ -90,6 +90,8 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 |✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** offer a way to learn more|	Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your” (for example “your shopping experience” or “your data”)|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
+
+### Example: Explaining what technology is in use and how it works
                 
 ![Example disclosure](media/disclosure-example.PNG "Example disclosure")
 
@@ -99,6 +101,8 @@ These recommendations are based on Microsoft research studies conducted on Dynam
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
 |✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are visible to humans and are stored) helps customers understand how data is protected.|
 |![Red "X"](media/avoid.PNG "Red X") **AVOID** technical terms such as “AI,” “data,” and  “the cloud”|Technical terms can be difficult for shoppers to understand and may trigger discomfort or concern. Also, when a term is more abstract, shoppers may tend to assume the worst (for example, “data” means “my data”). | 
+
+### Example: Explaining what information might be shared with other companies
 
 ![Example of what to share](media/what-to-share-example.PNG "Example of what to share")    
 
