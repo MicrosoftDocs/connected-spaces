@@ -32,7 +32,7 @@ mobile device. You can also enter your location manually, but make sure to enter
 
    c. In the **Maxium Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
 
-   c. Tap the **Add Store Image** field, and then do one of the following:
+   d. Tap the **Add Store Image** field, and then do one of the following:
 
       - Select a photo from your phone files.
 
