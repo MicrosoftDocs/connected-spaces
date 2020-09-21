@@ -32,7 +32,7 @@ mobile device. You can also enter your location manually, but make sure to enter
 
    c. In the **Time Zone** field, set the time zone for your store.
 
-   d. In the **Maxium Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
+   d. In the **Maximum Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
 
    e. Tap the **Store Image** field, and then do one of the following:
 
