@@ -64,8 +64,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
     |Field|	Description|	Applies to (skills)|
     |----------------|------------------------------------------------|-------------------------------------------------------|
-    |**Skill Name**|Give your zone a name to easily identify it in the dashboard (for example, **Holiday promotion**).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
-    |**Active**/**Inactive** slider|Use the **Active**/**Inactive** slider to turn the skill on or off. The skill will only collect data when the slider is in the **Active** position. |- Display effectiveness<br>- Queue management<br>- Shopper analytics|    
+    |**Active**/**Inactive** slider|Use the **Active**/**Inactive** slider to turn the skill on or off. The skill will only collect data when the slider is in the **Active** position. |- Display effectiveness<br>- Queue management<br>- Shopper analytics| |**Skill Name**|Give your zone a name to easily identify it in the dashboard (for example, **Holiday promotion**).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|       
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
