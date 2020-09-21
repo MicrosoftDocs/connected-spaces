@@ -30,9 +30,11 @@ Microsoft Dynamics 365 Connected Store (public preview) mobile app.
    b. In the **Location Access** field, move the slider to the On position if you want to detect the location from your 
 mobile device. You can also enter your location manually, but make sure to enter the information carefully since this field doesn't autofill.
 
-   c. In the **Maxium Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
+   c. In the **Time Zone** field, set the time zone for your store.
 
-   d. Tap the **Store Image** field, and then do one of the following:
+   d. In the **Maxium Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
+
+   e. Tap the **Store Image** field, and then do one of the following:
 
       - Select a photo from your phone files.
 
