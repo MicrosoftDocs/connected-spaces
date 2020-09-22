@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Store (public preview) by using the mobile app
 ms.author: alissag
-ms.date: 10/01/2020
+ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Add skill zones to a camera using the Dynamics 365 Connected Store (public preview) mobile app
