@@ -96,4 +96,4 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
 ## How do I notify shoppers about the use of Dynamics 365 Connected Store in my store?
 
-While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns about the purposes and use of camera and video technology, potentially impacting trust in your brand. To help shoppers understand your store’s approach to data privacy, refer to the best practices for [Communicating with shoppers](communication-plan.md).
+While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns about the purposes and use of camera and video technology, potentially impacting trust in your brand. To help shoppers understand your store’s approach to data privacy, refer to the [best practices for communicating with shoppers](communication-plan.md).
