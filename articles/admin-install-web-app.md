@@ -23,18 +23,8 @@ install Dynamics 365 Connected Store.
 
      ![Install button](media/install-connected-store.PNG "Install button")
     
-    This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup:
-    
-    - Creates a Microsoft Power Platform default environment for your Azure Active Directory tenant
-    
-    - Creates a Common Data Service instance and sets up a database
-    
-    - Installs the Connected Store solutions in the environment
-    
-    While Connected Store is being installed, you can watch a video demo and learn more about preparing for Connected Store.
-    
-    ![Welcome to Connected Store screen with video demo](media/demo-connected-store.PNG "Welcome to Connected Store screen with video demo")
-    
+    This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup installs the Connected Store solutions in the selected environment. By default, setup creates a new trial (subscription-based) environment. If you want to install Connected Store in a different environment, select an environment from the **Choose environment** list. The list only shows envirnoments that are enabled for installing Dynamics 365 applications. [Learn more about environments]().
+        
     If the setup process fails, you’ll see the following message:
    
     ![Installation failed message](media/install-failed-message.PNG "Installation failed message")
