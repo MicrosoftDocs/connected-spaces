@@ -23,7 +23,9 @@ install Dynamics 365 Connected Store.
 
      ![Install button](media/install-connected-store.PNG "Install button")
     
-    This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup installs the Connected Store solutions in the selected environment. By default, setup creates a new trial (subscription-based) environment. If you want to install Connected Store in a different environment, select an environment from the **Choose environment** list. The list only shows environments that are enabled for installing Dynamics 365 applications. [Learn more about environments]().
+    This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup installs the Connected Store solutions in the selected environment. 
+    
+    By default, setup creates a new trial (subscription-based) environment. If you want to install Connected Store in a different environment, select an environment from the **Choose environment** list. The list only shows environments that are enabled for installing Dynamics 365 applications. [Learn more about environments]().
     
     ![Drop-down list of enabled environments](media/enabled-environments.PNG "Drop-down list of enabled environments")
         
