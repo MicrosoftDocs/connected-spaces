@@ -2,7 +2,7 @@
 author: alwinv
 description: Customer responsibilities for complianace and responsible use regarding Dynamics 365 Connected Store (public preview)
 ms.author: alwinv
-ms.date: 07/14/2020
+ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Compliance and responsible use for Dynamics 365 Connected Store (public preview)
@@ -15,7 +15,7 @@ Microsoft Dynamics 365 Connected Store was designed with compliance, privacy, se
 
 - Install and position cameras in your retail locations, and in doing so take care to avoid sensitive areas and limit collection of data not needed by Dynamics 365 Connected Store.
 
-- Inform people in your retail locations with conspicuous notices about use of video data and use of AI. Learn about best practices for [communicating with shoppers](communication-plan.md) for tips to consider for your notice and disclosure strategy.
+- Inform people in your retail locations with conspicuous notices about use of video data and use of AI. See [Communicating with shoppers](communication-plan.md) for tips to consider for your notice and disclosure strategy.
 
 - Comply with all applicable laws and regulations in your jurisdiction when using Dynamics 365 Connected Store.
 
