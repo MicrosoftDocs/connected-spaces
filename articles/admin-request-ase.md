@@ -24,11 +24,11 @@ Connected Store uses the Azure Stack Edge gateway to transform video streams fro
 > [!IMPORTANT]
 > The Azure Stack Edge hardware that you order for Connected Store (public preview) can only be used for Connected Store (public preview). You can't deploy any other resources to Azure Stack Edge during the public preview. 
 
-1. In the [Connected Store Setup page](https://go.microsoft.com/fwlink/?linkid=2128110), select **Get gateway**.
+1. In the [Connected Store Setup page](https://go.microsoft.com/fwlink/?linkid=2128110), select **Order gateway**.
 
 2. Fill out the form. 
 
-     ![Get gateway command and Azure Stack Edge procurement form](media/get-gateway.PNG "Get gateway command and Azure Stack Edge procurement form")
+     ![Order gateway command and Azure Stack Edge procurement form](media/get-gateway.PNG "Order gateway command and Azure Stack Edge procurement form")
      
    The Connected Store team will contact you when the request is received. After you receive your Azure Stack Edge gateway, you can [prepare your network and install it](ase-install.md).
  
