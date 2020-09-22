@@ -2,7 +2,7 @@
 author: alwinv
 description: How Dynamics 365 Connected Store (public preview) protects data and privacy
 ms.author: alwinv
-ms.date: 07/28/2020
+ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Data and Privacy for Dynamics 365 Connected Store (public preview)
