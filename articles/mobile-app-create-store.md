@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to create a store by using the Dynamics 365 Connected Store (public preview) mobile app
 ms.author: alissag
-ms.date: 10/01/2020
+ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a store with the Dynamics 365 Connected Store (public preview) mobile app 
