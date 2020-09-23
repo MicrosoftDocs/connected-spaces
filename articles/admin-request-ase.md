@@ -26,7 +26,7 @@ Connected Store uses the Azure Stack Edge gateway to transform video streams fro
 
 1. In the [Connected Store Setup page](https://go.microsoft.com/fwlink/?linkid=2128110), select **Order gateway**.
 
-2. Fill out the form. 
+2. Fill out the form, and then select **Next**. 
 
      ![Order gateway command and Azure Stack Edge procurement form](media/get-gateway.PNG "Order gateway command and Azure Stack Edge procurement form")
      
