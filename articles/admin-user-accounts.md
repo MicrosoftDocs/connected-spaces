@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to give users permissions to use Dynamics 365 Connected Store (public preview).
 ms.author: alwinv
-ms.date: 07/10/2020
+ms.date: 09/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Give users permissions to use Dynamics 365 Connected Store (public preview)
@@ -63,7 +63,7 @@ The following table describes the privileges that each role grants.
 
     ![Select Manage Roles command](media/select-manage-roles-1.PNG "Select Manage Roles command")
 
-8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and then select **OK**. 
+8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and the **Common Data Service User** role, and then select **OK**. 
 
     ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
 
