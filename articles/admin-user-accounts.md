@@ -63,7 +63,7 @@ The following table describes the privileges that each role grants.
 
     ![Select Manage Roles command](media/select-manage-roles-1.PNG "Select Manage Roles command")
 
-8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and then select **OK**. 
+8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, as well as the **Common Data Service User** role, and then select **OK**. 
 
     ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
 
