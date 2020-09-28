@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store.
 ms.author: frch
-ms.date: 09/01/2020
+ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Store
