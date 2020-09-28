@@ -11,9 +11,9 @@ ms.reviewer: v-brycho
 
 # Known issues with Dynamics 365 Connected Store
 
-## You can't delete stores, gateways, cameras, or skills in the mobile app
+## You can't delete stores, gateways, or cameras in the mobile app
 
-Currently, stores, gateways, cameras, and skills can't be deleted in the mobile app.
+Currently, stores, gateways, and cameras can't be deleted in the mobile app. Skills can be deleted, however once deleted, data cannot be recovered. If you're unsure about deleting a skill, you can make it inactive instead.
 
 ## You must activate Azure Stack Edge within 24 hours after the activation key is generated
 
@@ -28,13 +28,9 @@ To work around this issue, generate the activation key again to unblock the stor
 
 Store details can't be updated or edited after the store is connected to a gateway.
 
-## A gateway can't support more than 10 zones
+## A gateway can't support more than 10 skills
 
-If you add more than 10 zones to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge.
-
-## To rename a camera in the mobile app, you must re-enter your ONVIF camera profile credentials
-
-After you add a camera, if you change its name without entering a user name and password, the new name will be saved, but the camera will be disconnected. Be sure to enter your user name and password when you rename a camera.
+If you add more than 10 skills to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge. To add an additional skill, delete an existing skill, or make it inactive.
 
 ## A camera shows Disconnected status for all camera issues, including issues that are related to credentials, network connection, timing, or a missing profile
 
