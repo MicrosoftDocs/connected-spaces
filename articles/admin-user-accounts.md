@@ -31,9 +31,9 @@ The following table describes the privileges that each role grants.
 
 1. Open the [Power Platform admin center](https://admin.powerplatform.com/). 
         
-2. Select the default environment.
+2. Select the environment that Connected Store is installed in.
 
-    ![Select default environment](media/select-default-environment-1.PNG "Select default environment")
+    ![Screeen shot of selected environment](media/select-environment.PNG "Screen shot of selected environment")
     
 3. Select **Settings**.
 
