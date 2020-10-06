@@ -49,11 +49,11 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. 
 
-      ![Select Add user command](media/select-add-user-1.PNG "Selected Add user command")    
+      ![Screen shot of selected Add user command](media/select-add-user-1.PNG "Screen shot of selected Add user command")    
     
 6. Select **Manage users in Dynamics 365**.
 
-    ![Select Add user command](media/select-manage-users-1.PNG "Selected Add user command")   
+    ![Manage users in Dynamics 365 command](media/select-manage-users-1.PNG "Manage users in Dynamics 365 command")   
 
 7. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
 
