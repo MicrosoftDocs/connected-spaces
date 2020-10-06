@@ -25,7 +25,7 @@ install Dynamics 365 Connected Store.
     
     This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup:
     
-    - Creates a Microsoft Power Platform default environment for your Azure Active Directory tenant
+    - Creates a Microsoft Power Platform environment for your Azure Active Directory tenant
     
     - Creates a Common Data Service instance and sets up a database
     
