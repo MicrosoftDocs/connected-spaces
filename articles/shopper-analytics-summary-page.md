@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn how to view the Shopper analytics summary page in the Dynamics 365 Connected Store (public preview) web app to get insights on your store
 ms.author: labryan
-ms.date: 07/08/2020
+ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
 title: View the Shopper analytics summary page in the Dynamics 365 Connected Store (public preview) web app
@@ -58,15 +58,33 @@ footfall for the selected time frame.
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
+**Over capacity.** This card highlights the number of instances for which the store occupancy exceeds the **Maximum occupancy** value. The **Maximum occupancy** value is set in the mobile app during store configuration. For example, if the **Maximum occupancy** for the store is set to 320 people (shown in the subscript in the card), the card reports the number of instances during the selected time frame for which the store occupancy was greater than 320 people. In the following example, there were 18 such instances.
+
+![Over capacity card](media/analytics-over-capacity-card.PNG "Over capacity card")
+
 ## Graphs
 
-The **Total footfall at all entrances** and **Footfall at Entrance x** graphs appear at the bottom of the page.
+There are several graphs on this page:
 
-**Total footfall at all entrances**. This graph shows total store footfall according to Shopper analytics zone. 
+- **Total footfall at all entrances**. This graph shows total store footfall according to the Shopper analytics zone. 
 
-**Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 1**).
+![Total footfall at all entrances graph](media/analytics-total-footfall-entrances.PNG "Total footfall at all entrances graph")
 
-![Footfall and Entrance 1 example](media/analytics-22.PNG "Footfall at Entrance 1 example")
+- **Over capacity instances**. This graph shows trends in instances of over capacity across time for the selected time frame. In the example show in the screen shot, most instances of over capacity occurred on Friday. The gray dotted line reflects the average number of over capacity instances for the selected time frame. 
+
+![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
+
+You can hover over data to reveal more details.
+
+![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
+
+- **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view, you can identify which hours during the wekk store occupancy exceeded the maximum occupancy threshold and plan for any adjustments to schedule, staffing, or other adjustments.
+
+![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
+
+- **Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 1**).
+
+![Footfall at Entrance 1 example](media/analytics-footfall-entrance-x.PNG "Footfall at Entrance 1 example")
 
 To see data for each individual entrance, hover over the desired data in the graph.
 
