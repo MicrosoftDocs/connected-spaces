@@ -33,7 +33,7 @@ The following table describes the privileges that each role grants.
         
 2. Select the environment that Connected Store is installed in.
 
-    ![Screeen shot of selected environment](media/select-environment.PNG "Screen shot of selected environment")
+    ![Screenshot of the selected environment](media/select-environment.PNG "Screenshot of the selected environment")
     
 3. Select **Settings**.
 
@@ -49,7 +49,7 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. 
 
-      ![Screen shot of selected Add user command](media/select-add-user-1.PNG "Screen shot of selected Add user command")    
+      ![Screenshot of the selected Add user command](media/select-add-user-1.PNG "Screenshot of the selected Add user command")    
     
 6. Select **Manage users in Dynamics 365**.
 
