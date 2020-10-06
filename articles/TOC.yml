@@ -70,6 +70,8 @@
                href: queue-management-summary-page.md
              - name: Details page
                href: queue-management-details-page.md
+        - name: Use the Command Center to set up notifications
+          href: web-app-command-center.md
     - name: 6. Communicate with shoppers
       href: communication-plan.md
     - name: FAQ
