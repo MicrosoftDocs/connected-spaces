@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to install Dynamics 365 Connected Store (public preview)
 ms.author: alwinv
-ms.date: 07/08/2020
+ms.date: 10/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Install Dynamics 365 Connected Store (public preview)
@@ -25,7 +25,7 @@ install Dynamics 365 Connected Store.
     
     This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup:
     
-    - Creates a Microsoft Power Platform default environment for your Azure Active Directory tenant
+    - Creates a Microsoft Power Platform environment for your Azure Active Directory tenant
     
     - Creates a Common Data Service instance and sets up a database
     
