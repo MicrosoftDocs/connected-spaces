@@ -62,6 +62,9 @@ The subscript in the card describes the absolute change in this value for the cu
 
 ![Over capacity card](media/analytics-over-capacity-card.PNG "Over capacity card")
 
+> [!NOTE]
+> If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. 
+
 ## Graphs
 
 There are several graphs on this page:
@@ -74,6 +77,9 @@ There are several graphs on this page:
 
 ![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
 
+> [!NOTE]
+> If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. 
+
 You can hover over data to reveal more details.
 
 ![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
@@ -81,6 +87,9 @@ You can hover over data to reveal more details.
 - **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view, you can identify which hours during the wekk store occupancy exceeded the maximum occupancy threshold and plan for any adjustments to schedule, staffing, or other adjustments.
 
 ![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
+
+> [!NOTE]
+> If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. 
 
 - **Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 1**).
 
