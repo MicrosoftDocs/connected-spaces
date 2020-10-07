@@ -25,9 +25,8 @@ To go back to the **Analytics** page from the summary page, select from the brea
 
 ## The Shopper analytics summary page
 
-The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, and anomalies at store 
-entries/exits. This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited 
-the store during a given timeframe, categorized by entrance.
+The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, anomalies at store 
+entries/exits, and over capacity (determined by the **Maximum occupancy** setting in the mobile app). This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
