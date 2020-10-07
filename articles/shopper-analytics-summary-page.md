@@ -70,33 +70,33 @@ There are several graphs on this page:
 
 - **Total footfall at all entrances**. This graph shows total store footfall according to the Shopper analytics zone. 
 
-![Total footfall at all entrances graph](media/analytics-total-footfall-entrances.PNG "Total footfall at all entrances graph")
+    ![Total footfall at all entrances graph](media/analytics-total-footfall-entrances.PNG "Total footfall at all entrances graph")
 
 - **Over capacity instances**. This graph shows trends in instances of over capacity across time for the selected time frame. In the example show in the screen shot, most instances of over capacity occurred on Friday. The gray dotted line reflects the average number of over capacity instances for the selected time frame. 
 
-![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
+    ![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
 
 > [!NOTE]
 > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
 You can hover over data to reveal more details.
 
-![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
+    ![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
 
 - **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view, you can identify which hours during the wekk store occupancy exceeded the maximum occupancy threshold and plan for any adjustments to schedule, staffing, or other adjustments.
 
-![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
+    ![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
 
 > [!NOTE]
 > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
 - **Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 1**).
 
-![Footfall at Entrance 1 example](media/analytics-footfall-entrance-x.PNG "Footfall at Entrance 1 example")
+    ![Footfall at Entrance 1 example](media/analytics-footfall-entrance-x.PNG "Footfall at Entrance 1 example")
 
 To see data for each individual entrance, hover over the desired data in the graph.
 
-![Data for individual entrance](media/analytics-23.PNG "Data for individual entrance")
+    ![Data for individual entrance](media/analytics-23.PNG "Data for individual entrance")
 
 ## Next steps
 
