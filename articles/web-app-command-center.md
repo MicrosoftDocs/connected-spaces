@@ -38,7 +38,7 @@ remains above the maximum occupancy threshold.
 
     ![See more templates button in the Command Center](media/command-center-see-more-templates.PNG "See more templates button in the Command Center")
     
-    If there are issues loading the template in the web page, and pop-up blockers for your web browser are already disabled, select the **Trouble loading** link to go to an external Power Automate website. You may also have to enter your credentials again.
+    If there are issues loading the template in the web page, and pop-up blockers for your web browser are already disabled, select the **Trouble loading** link to go to the external Power Automate website. You may also have to enter your credentials again.
     
     ![Trouble loading link in the Command Center](media/command-center-trouble-loading-link.PNG "Trouble loading link in the Command Center")
     
