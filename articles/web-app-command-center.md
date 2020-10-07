@@ -42,6 +42,10 @@ remains above the maximum occupancy threshold.
     
     ![Trouble loading link in the Command Center](media/command-center-trouble-loading-link.PNG "Trouble loading link in the Command Center")
     
+    At this point, you'll see the Connected Store widget in the Power Automate website page.
+    
+    ![Power Automate website page with Connected Store widget](media/command-center-power-automate-website.PNG "Power Automate website page with Connected Store widget")
+    
 4. Select the Connected Store widget to load the template.
 
 5. Select **Continue**.
