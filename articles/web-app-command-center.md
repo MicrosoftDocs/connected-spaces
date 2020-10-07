@@ -52,7 +52,7 @@ remains above the maximum occupancy threshold.
 
     ![Continue button for Connected Store flow](media/command-center-continue-button.PNG "Continue button for Connected Store flow")
 
-6. There are many components to the **Send alert** flow, but you only need to set the following two items:
+6. At this point, you'll see all the components included in the **Send alert** flow. There are many components, but you only need to set the following two items:
 
     - In the **Set Email Address** section, in the **Value** field, enter an email address. If you want the email to be sent to more than one recipient, separate each email address with a semi-colon. 
 
