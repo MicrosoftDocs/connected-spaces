@@ -61,7 +61,7 @@ remains above the maximum occupancy threshold.
     > [!IMPORTANT]
     > Do not edit the **Name** and **Type** fields in this section.
     
-    - In the **Set Reminder Frequency** section, in the **Value** field, enter how often you want to send email. For example, enter **15** if you want to send an email notification every 15 minutes while the maximum occupancy threshold is exceeded.
+    - In the **Set Reminder Frequency** section, in the **Value** field, enter how often you want to send the email notification. For example, enter **15** if you want to send an email notification every 15 minutes while the maximum occupancy threshold is exceeded.
 
     ![Set Reminder Frequency section of Send alert flow](media/command-center-set-reminder-frequency.PNG "Set Reminder Frequency section of Send alert flow")
     
