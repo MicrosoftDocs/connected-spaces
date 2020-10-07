@@ -48,7 +48,7 @@ list.
 
 ## What's next?
 
-[Learn how to set up the Azure Stack Edge gateway](admin-ase-setup.md)<br>
+[Learn how to set up the Azure Stack Edge gateway](ase-install.md)<br>
 [Create a store with the mobile app](mobile-app-create-store.md)<br>
 [Learn about the Analytics page](web-app-get-insights.md)
 
