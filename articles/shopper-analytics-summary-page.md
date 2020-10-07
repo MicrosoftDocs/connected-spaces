@@ -90,7 +90,7 @@ There are several graphs on this page:
     > [!NOTE]
     > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
-- **Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 1**).
+- **Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 6th Ave**).
 
     ![Footfall at Entrance 1 example](media/analytics-footfall-entrance-x.PNG "Footfall at Entrance 1 example")
 
