@@ -72,7 +72,7 @@ There are several graphs on this page:
 
     ![Total footfall at all entrances graph](media/analytics-total-footfall-entrances.PNG "Total footfall at all entrances graph")
 
-- **Over capacity instances**. This graph shows trends in instances of over capacity across time for the selected time frame. In the example shown in the screen shot below, most instances of over capacity occurred on Friday. The gray dotted line reflects the average number of over capacity instances for the selected time frame. 
+- **Over capacity instances**. This graph shows trends in instances of over capacity across time for the selected time frame. In the example shown in the screen shot below, most instances of over capacity occurred on Friday. The gray dotted line reflects the average number of over-capacity instances for the selected time frame. 
 
     ![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
 
