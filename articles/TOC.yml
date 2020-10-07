@@ -12,6 +12,8 @@
           href: admin-install-web-app.md
         - name: Order the gateway
           href: admin-request-ase.md 
+        - name: Launch the app and get started
+          href: launch-app.md         
         - name: Prepare user accounts
           href: admin-prepare-user-accounts.md 
         - name: Give users permissions
