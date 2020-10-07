@@ -83,18 +83,18 @@ There are several graphs on this page:
 
     ![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
 
-- **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view, you can identify which hours during the wekk store occupancy exceeded the maximum occupancy threshold and plan for any adjustments to schedule, staffing, or other adjustments.
+- **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view (set in the date picker), you can identify which hours exceeded the maximum occupancy threshold, and plan then make any necessary adjustmens to schedule and staffing.
 
     ![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
 
-> [!NOTE]
-> If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+    > [!NOTE]
+    > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
 - **Footfall at Entrance x**. You can view trends for individual zones in these line graphs (for example, **Footfall at Entrance 1**).
 
     ![Footfall at Entrance 1 example](media/analytics-footfall-entrance-x.PNG "Footfall at Entrance 1 example")
 
-To see data for each individual entrance, hover over the desired data in the graph.
+    To see data for each individual entrance, hover over the desired data in the graph.
 
     ![Data for individual entrance](media/analytics-23.PNG "Data for individual entrance")
 
