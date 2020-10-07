@@ -76,12 +76,12 @@ There are several graphs on this page:
 
     ![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
 
-> [!NOTE]
-> If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+    > [!NOTE]
+    > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
-You can hover over data to reveal more details.
+    You can hover over data to reveal more details.
 
-   ![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
+    ![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
 
 - **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view, you can identify which hours during the wekk store occupancy exceeded the maximum occupancy threshold and plan for any adjustments to schedule, staffing, or other adjustments.
 
