@@ -68,9 +68,11 @@ remains above the maximum occupancy threshold.
     > [!IMPORTANT]
     > Do not edit the **Name** and **Type** fields in this section.
     
-8. Select ** Save** in the upper-right corner of the page.
+8. Select **Save** in the upper-right corner of the page.
 
     ![Save button in the Command Center](media/command-center-save-button.PNG "Save button in the Command Center")
+    
+That's all you need to do to set up alerts for maximum occupancy. 
     
 ## See also
 
