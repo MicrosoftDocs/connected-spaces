@@ -66,7 +66,7 @@ remains above the maximum occupancy threshold.
     
 ## See also
 
-[Configure your store with the mobile app]()<br>
+[Create a store with the mobile app](mobile-app-create-store.md)<br>
 [Shopper Analytics Summary page](shopper-analytics-summary-page.md)
     
     
