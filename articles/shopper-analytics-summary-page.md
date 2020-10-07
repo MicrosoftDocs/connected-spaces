@@ -83,7 +83,7 @@ There are several graphs on this page:
 
     ![Over capacity instances details](media/analytics-over-capacity-instances-details.PNG "Over capacity instances details")
 
-- **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view (set in the date picker), you can identify which hours exceeded the maximum occupancy threshold, and plan then make any necessary adjustmens to schedule and staffing.
+- **Footfall power hours**. This heat map identifies patterns in over-capacity instances across day and time. In the following example, using a weekly time frame view (set in the date picker), you can identify which hours exceeded the maximum occupancy threshold, and then make any necessary adjustmens to schedule and staffing.
 
     ![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
 
