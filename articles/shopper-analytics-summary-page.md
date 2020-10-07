@@ -26,7 +26,7 @@ To go back to the **Analytics** page from the summary page, select from the brea
 ## The Shopper analytics summary page
 
 The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, anomalies at store 
-entries/exits, and over capacity (determined by the **Maximum occupancy** setting in the mobile app). This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited the store during a given timeframe, categorized by entrance.
+entries/exits, and over capacity (determined by the [**Maximum occupancy** setting in the mobile app](mobile-app-create-store.md)). This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
@@ -62,7 +62,7 @@ The subscript in the card describes the absolute change in this value for the cu
 ![Over capacity card](media/analytics-over-capacity-card.PNG "Over capacity card")
 
 > [!NOTE]
-> If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+> If you haven't [set a **Maximum occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
 ## Graphs
 
@@ -77,7 +77,7 @@ There are several graphs on this page:
     ![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
 
     > [!NOTE]
-    > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+    > If you haven't [set a **Maximum occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
     You can hover over data to reveal more details.
 
@@ -88,7 +88,7 @@ There are several graphs on this page:
     ![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
 
     > [!NOTE]
-    > If you haven't set a **Maximum occupancy** value in the mobile app, you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+    > If you haven't [set a **Maximum occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
     
     You can hover over data to reveal more details.
 
