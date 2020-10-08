@@ -12,7 +12,7 @@ After you have [installed the Microsoft Dynamics 365 Connected Store web app](ad
 
     ![Launch app button on Setup page](media/first-run-launch-app.PNG "Launch app button on Setup page")
 
-2. Select **Get started**.
+2. In the next screen, select **Get started**.
 
     ![Get started button on Setup page](media/first-run-get-started.PNG "Get started button on Setup page")       
         
