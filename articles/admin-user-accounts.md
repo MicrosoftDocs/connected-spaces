@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to give users permissions to use Dynamics 365 Connected Store (public preview).
 ms.author: alwinv
-ms.date: 09/24/2020
+ms.date: 10/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Give users permissions to use Dynamics 365 Connected Store (public preview)
@@ -31,9 +31,9 @@ The following table describes the privileges that each role grants.
 
 1. Open the [Power Platform admin center](https://admin.powerplatform.com/). 
         
-2. Select the default environment.
+2. Select the environment that Connected Store is installed in.
 
-    ![Select default environment](media/select-default-environment-1.PNG "Select default environment")
+    ![Screenshot of the selected environment](media/select-environment.PNG "Screenshot of the selected environment")
     
 3. Select **Settings**.
 
@@ -49,11 +49,11 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. 
 
-      ![Select Add user command](media/select-add-user-1.PNG "Selected Add user command")    
+      ![Screenshot of the selected Add user command](media/select-add-user-1.PNG "Screenshot of the selected Add user command")    
     
 6. Select **Manage users in Dynamics 365**.
 
-    ![Select Add user command](media/select-manage-users-1.PNG "Selected Add user command")   
+    ![Manage users in Dynamics 365 command](media/select-manage-users-1.PNG "Manage users in Dynamics 365 command")   
 
 7. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
 
@@ -72,5 +72,6 @@ The following table describes the privileges that each role grants.
 ## Next step
 
 [Start planning camera placement](camera-placement-checklist.md)
+
 
 
