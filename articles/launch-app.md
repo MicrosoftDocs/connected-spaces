@@ -38,7 +38,7 @@ To switch from the Contoso Sample Store to your own store, select the down arrow
 ![Contoso sample store list dropped down](media/first-run-sample-store-list.PNG "Contoso sample store list dropped down")
 
 > [!NOTE]
-> Your store won't appear in the list if you haven't already [set up the Azure Stack Edge gateway](ase-install.md) (required for installing cameras) and [created a store with the Connected Store mobile app](mobile-app-create-store.md). In this case, select **My store** in the list. You'll see the following 
+> Your store won't appear in the list if you haven't already [set up the Azure Stack Edge gateway](ase-install.md) (required for installing cameras) and [created a store with the Connected Store mobile app](mobile-app-create-store.md). If you select **My store** in the list, you'll see the following 
 page with links to articles that can help you with these tasks. 
 
 ![Screen shot that shows links to creating a store with the mobile app and setting up Azure Stack Edge gateway](media/first-run-setup-prompts.PNG "Screen shot that shows links to creating a store with the mobile app and setting up Azure Stack Edge gateway")
