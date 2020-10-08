@@ -48,7 +48,7 @@ list.
 
 ![Dropped-down list showing how to go back to Contoso Sample Store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso Sample Store")
 
-## What's next?
+## Next steps
 
 [Learn how to set up the Azure Stack Edge gateway](ase-install.md)<br>
 [Create a store with the mobile app](mobile-app-create-store.md)<br>
