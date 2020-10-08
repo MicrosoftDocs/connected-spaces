@@ -8,7 +8,7 @@ After you have [installed the Microsoft Dynamics 365 Connected Store web app](ad
 
 ## Launch the web app and explore the Contoso Sample Store
 
-1. Select **Launch app**.
+1. Select **Launch App**.
 
     ![Launch app button on Setup page](media/first-run-launch-app.PNG "Launch app button on Setup page")
 
