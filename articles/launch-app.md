@@ -2,7 +2,7 @@
 
 # Launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store
 
-After you have [installed the Microsoft Dynamics 365 Connected Store web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Store dashboards and analytics by exploring the Contoso Sample Store. You can switch back and forth between the Contoso Sample Store and your own store as you explore the different dashboards. 
+After you have [installed the Microsoft Dynamics 365 Connected Store web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Store dashboards and analytics by exploring the Contoso Sample Store. You can switch back and forth between the Contoso Sample Store and your own store as you explore the different dashboards that provide insights into your store's performance. 
 
 ![Contoso Sample Store screen](media/first-run-contoso-sample-store.PNG "Contoso Sample Store screen")
 
