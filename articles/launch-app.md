@@ -29,7 +29,7 @@ When you open the Contoso Sample Store, you'll see the **Analytics** page, which
 ![Contoso Sample Store screen](media/first-run-contoso-sample-store.PNG "Contoso Sample Store screen")
 
 To learn about the **Analytics** page and
-other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner.
+other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner of the page.
 
 ![Analytics overview button in Constoso Sample Store](media/first-run-analytics-overview-button.PNG "Analytics overview button in Constoso Sample Store")
 
