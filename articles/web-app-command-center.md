@@ -74,10 +74,9 @@ remains above the maximum occupancy threshold.
     
 That's all you need to do to set up alerts for maximum occupancy. 
     
-## Next steps
+## Next step
 
-[Create a store with the mobile app](mobile-app-create-store.md)<br>
-[Shopper Analytics Summary page](shopper-analytics-summary-page.md)
+[Learn about the Shopper Analytics Summary page](shopper-analytics-summary-page.md)
     
     
 
