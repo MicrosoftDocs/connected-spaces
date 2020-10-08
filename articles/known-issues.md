@@ -15,6 +15,10 @@ ms.reviewer: v-brycho
 
 Currently, stores, gateways, and cameras can't be deleted in the mobile app. Skills can be deleted, however once deleted, data cannot be recovered. If you're unsure about deleting a skill, you can make it inactive instead.
 
+## Changing the time zone for a store only affects the data collected after making the change
+
+If the time zone for a store is changed, it does not change the time zone for the data already collected. Future data collected for the store will be recorded using the new time zone.
+
 ## You must activate Azure Stack Edge within 24 hours after the activation key is generated
 
 After you receive your activation key, you have 24 hours to use it. If you try to use an activation key after 24 hours have passed, Microsoft Azure Stack Edge will be activated, but it won't be paired to the store in the mobile app.
