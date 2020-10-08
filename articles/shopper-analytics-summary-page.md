@@ -57,12 +57,12 @@ footfall for the selected time frame.
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
-**Over capacity.** This card highlights the number of instances for which the store occupancy exceeds the **Maximum occupancy** value. The **Maximum occupancy** value is set in the mobile app during store configuration. For example, if the **Maximum occupancy** for the store is set to 320 people (shown in the subscript in the card), the card reports the number of instances during the selected time frame for which the store occupancy was greater than 320 people. In the following example, there were 18 such instances.
+**Over capacity.** This card highlights the number of instances for which the store occupancy exceeds the **Maximum Occupancy** value. The **Maximum Occupancy** value is set in the mobile app during store configuration. For example, if the **Maximum occupancy** value for the store is set to 320 people (shown in the subscript in the card), the card reports the number of instances during the selected time frame for which the store occupancy was greater than 320 people. In the following example, there were 18 such instances.
 
 ![Over capacity card](media/analytics-over-capacity-card.PNG "Over capacity card")
 
 > [!NOTE]
-> If you haven't [set a **Maximum occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+> If you haven't [set a **Maximum Occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder instead of the **Over capacity** card. The placeholder prompts you to download or go to the mobile app to set a **Maximum Occupancy** value. After you configure the **Maximum Occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
 ## Graphs
 
@@ -77,7 +77,7 @@ There are several graphs on this page:
     ![Over capacity instances graph](media/analytics-over-capacity-instances.PNG "Over capacity instances graph")
 
     > [!NOTE]
-    > If you haven't [set a **Maximum occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+    > If you haven't [set a **Maximum Occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder instead of the **Over capacity instances** graph. The placeholder prompts you to download or go to the mobile app to set a value. After you configure the **Maximum Occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
 
     You can hover over data to reveal more details.
 
@@ -88,7 +88,7 @@ There are several graphs on this page:
     ![Footfall power hours](media/analytics-footfall-power-hours.PNG "Footfall power hours")
 
     > [!NOTE]
-    > If you haven't [set a **Maximum occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder that prompts you to download or go to the mobile app to set a value. After you configure the **Maximum occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
+    > If you haven't [set a **Maximum Occupancy** value in the mobile app](mobile-app-create-store.md), you'll see a placeholder instead of the **Footfall power hours** heatmap. The placeholder prompts you to download or go to the mobile app to set a value. After you configure the **Maximum Occupancy** value, you'll see a tool tip in the web app that prompts you to [set up alerts and notifications in the Command Center](web-app-command-center.md). 
     
     You can hover over data to reveal more details.
 
