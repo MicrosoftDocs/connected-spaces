@@ -1,4 +1,13 @@
-
+---
+author: lkbryant-MSFT
+description: Learn how to use the Command Center in Dynamics 365 Connected Store to set up an email notification when maximum store occupancy thresholds are exceeded.
+ms.author: labryan
+ms.date: 10/15/2020
+ms.service: crm-online
+ms.topic: article
+title: Use the Command Center in the Dynamics 365 Connected Store web app to set up a maximum store occupancy notification
+ms.reviewer: v-brycho
+---
 
 # Use the Command Center in the Dynamics 365 Connected Store web app to set up a maximum store occupancy notification 
 
