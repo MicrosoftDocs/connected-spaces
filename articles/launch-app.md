@@ -1,4 +1,13 @@
-
+---
+author: lkbryant-MSFT
+description: Learn how to launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store.
+ms.author: labryan
+ms.date: 10/15/2020
+ms.service: crm-online
+ms.topic: article
+title: Launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store to learn about Connected Store dashboards and analytics
+ms.reviewer: v-brycho
+---
 
 # Launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store
 
