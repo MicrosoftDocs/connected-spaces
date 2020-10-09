@@ -19,6 +19,10 @@ Currently, stores, gateways, and cameras can't be deleted in the mobile app. Ski
 
 If the time zone for a store is changed, it does not change the time zone for the data already collected. Future data collected for the store will be recorded using the new time zone.
 
+## Password not required to sign in to the Android mobile app after authenticating in a different session
+
+If you sign in to the Android mobile app and enter your password, Microsoft AAD automatically saves your sign-in information. If you subsequently sign out and then sign back in, you don't have to enter your password again. 
+
 ## You must activate Azure Stack Edge within 24 hours after the activation key is generated
 
 After you receive your activation key, you have 24 hours to use it. If you try to use an activation key after 24 hours have passed, Microsoft Azure Stack Edge will be activated, but it won't be paired to the store in the mobile app.
