@@ -10,13 +10,9 @@ After you have [installed the Microsoft Dynamics 365 Connected Store web app](ad
 
 1. Select **Launch App**.
 
-    ![Launch app button on Setup page](media/first-run-launch-app.PNG "Launch app button on Setup page")
-
-2. In the next screen, select **Get started**.
-
-    ![Get started button on Setup page](media/first-run-get-started.PNG "Get started button on Setup page")       
+    ![Launch app button on Setup page](media/first-run-launch-app.PNG "Launch app button on Setup page") 
         
-3. In the **Welcome to Connected Store** page, select **Go to sample store**.
+2. In the **Welcome to Connected Store** page, select **Go to sample store**.
 
     ![Welcome to Connected Store page](media/first-run-welcome-page.PNG "Welcome to Connected Store page")
     
