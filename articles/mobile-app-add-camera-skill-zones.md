@@ -69,7 +69,7 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>|
     |**Advanced Features > People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**Advanced Features > Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
-    |**Advanced Features > Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness|- Queue management<br>|    
+    |**Advanced Features > Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness<br>- Queue management|    
 
 7.	When you're finished editing the skills, tap the check mark in the upper-right corner of the page.
 
