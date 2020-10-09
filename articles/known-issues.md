@@ -19,7 +19,7 @@ Currently, stores, gateways, and cameras can't be deleted in the mobile app. Ski
 
 If the time zone for a store is changed, it does not change the time zone for the data already collected. Future data collected for the store will be recorded using the new time zone.
 
-## Issue signing in and out with the Android mobile app
+## Issue signing in and out of the Android mobile app
 
 If you sign out of the Android mobile app, to successfully sign in again using the same credentials, you have to select **Sign out**, and then enter your password again. 
 
