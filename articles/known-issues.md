@@ -19,9 +19,11 @@ Currently, stores, gateways, and cameras can't be deleted in the mobile app. Ski
 
 If the time zone for a store is changed, it does not change the time zone for the data already collected. Future data collected for the store will be recorded using the new time zone.
 
-## Password not required to sign in to the Android mobile app after authenticating in a different session
+## After signing out of the Android mobile app, you need to enter your password to successfully sign back in with the same credentials
 
-If you sign in to the Android mobile app and enter your password, Microsoft AAD automatically saves your sign-in information. If you subsequently sign out and then sign back in, you don't have to enter your password again. 
+If you sign out of the Android mobile app, to successfully sign in again using the same credentials, you have to select **Sign out** and then enter your password again. 
+
+![Sign out command in Android mobile app](media/known-issues-mobile-app-sign-out.PNG "Sign out command in Android mobile app")
 
 ## You must activate Azure Stack Edge within 24 hours after the activation key is generated
 
