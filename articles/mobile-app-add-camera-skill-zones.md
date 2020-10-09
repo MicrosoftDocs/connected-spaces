@@ -44,15 +44,15 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
     - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when they are entering the store, and white arrow points in the direction people walk when exiting the store. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
     
-    ![Rotated screen showing camera view](media/add-shopper-analytics-skill.png "Rotated screen showing camera view")
+    ![Rotated screen showing Shopper analytics camera view](media/add-shopper-analytics-skill.png "Rotated screen showing Shopper analytics camera view")
     
     - If you're adding a **Display effectiveness** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it. If you need to start over at any point, select **Reset**. See [Tips for drawing skill zones](mobile-app-add-camera-skill-zones.md#tips-for-drawing-skill-zones).
     
-    ![Rotated screen showing camera view](media/add-display-effectiveness-zone.png "Rotated screen showing camera view")
+    ![Rotated screen showing Display effectiveness camera view](media/add-display-effectiveness-zone.png "Rotated screen showing Display effectiveness camera view")
     
     - If you're adding a **Queue management** skill zone, tap and drag the zone endpoints to resize the zone and move it where you want it. If you need to start over at any point, select **Reset**. See [Tips for drawing skill zones](mobile-app-add-camera-skill-zones.md#tips-for-drawing-skill-zones).
     
-    ![Rotated screen showing camera view](media/add-queue-management-zone.png "Rotated screen showing camera view")
+    ![Rotated screen showing Queue management camera view](media/add-queue-management-zone.png "Rotated screen showing Queue management camera view")
 
 5.	When you're done, tap **Done** at the bottom of the screen. When you see a pop-up message saying that your zone has been set, select **Continue**.
 
