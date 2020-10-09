@@ -21,7 +21,7 @@ If the time zone for a store is changed, it does not change the time zone for th
 
 ## Issue signing in and out of the Android mobile app
 
-If you sign out of the Android mobile app, to successfully sign in again using the same credentials, you have to select **Sign out**, and then enter your password again. 
+If you sign out of the Android mobile app, to successfully sign in again using the same credentials you were previously signed in with, you have to select **Sign out**, and then enter your password again. 
 
 ![Sign out command in Android mobile app](media/known-issues-mobile-app-sign-out.PNG "Sign out command in Android mobile app")
 
