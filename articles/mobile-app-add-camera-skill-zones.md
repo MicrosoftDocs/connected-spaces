@@ -66,15 +66,15 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
     |----------------|------------------------------------------------|-------------------------------------------------------|
     |**Active**/**Inactive** slider|Use the **Active**/**Inactive** slider to turn the skill on or off. The skill will only collect data when the slider is in the **Active** position. |- Display effectiveness<br>- Queue management<br>- Shopper analytics| 
     |**Skill Name**|Give your zone a name to easily identify it in the dashboard (for example, **Holiday promotion**).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|       
-    |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
+    |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>|
     |**Advanced Features > People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
     |**Advanced Features > Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
-    |**Advanced Features > Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness|    
+    |**Advanced Features > Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness|- Queue management<br>|    
 
 7.	When you're finished editing the skills, tap the check mark in the upper-right corner of the page.
 
     > [!TIP]
-    > You can edit, duplicate, or delete a skill at any time by tapping the **Actions** button for the skill you want to update.<br><br>**Duplicating** a skill copies the skill type, drawing, and details to a new record. You can then make edits to the skill and save.<br><br>**Deleting** a skill will permanently remove it from Azure Stack Edge, the mobile app, and all collected data. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
+    > You can edit, duplicate, or delete a skill at any time by tapping the **Actions** button for the skill you want to update.<br><br>**Duplicating** a skill copies the skill type, drawing, and details to a new record. You can then make edits to the skill and save.<br><br>**Deleting** a skill will permanently remove it from Azure Stack Edge, the mobile app, and all collected data in the dashboards. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
     
     ![Actions button](media/skill-zone-action-button-2.PNG "Actions button")
  
