@@ -25,6 +25,14 @@ If you sign out of the Android mobile app, to successfully sign in again using t
 
 ![Sign out command in Android mobile app](media/known-issues-mobile-app-sign-out.PNG "Sign out command in Android mobile app")
 
+## I see the following message when I install Connected Store: "It's taking longer than usual to validate your license. Please contact your administrator or sign up here."
+
+If you see this message, the account that you used to sign in doesn't have a valid Connected Store license. This issue can occur when the browser automatically signs you in by using your work account. 
+
+To work around this issue, start a new Guest browser session, and then [go to the Connected Store setup page](https://ppe.connectedstore.dynamics.com/). Sign in by using the account that you created when you signed up for Connected Store.
+
+![You're browsing as a Guest message](media/known-issues-guest-browser.PNG "You're browsing as a Guest message")
+
 ## You must activate Azure Stack Edge within 24 hours after the activation key is generated
 
 After you receive your activation key, you have 24 hours to use it. If you try to use an activation key after 24 hours have passed, Microsoft Azure Stack Edge will be activated, but it won't be paired to the store in the mobile app.
