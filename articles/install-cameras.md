@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Store (public preview)
 ms.author: frch
-ms.date: 10/15/2020
+ms.date: 09/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Store (public preview)
@@ -19,17 +19,11 @@ Dynamics 365 Connected Store supports the following LP cameras:
 
 - Axis:
 
-   - M3045-V (must have 9.60.1 or later firmware)
+   - M3045V (must have 9.60.1 or later firmware)
    
-   - M3065-V
+   - M5055 PTZ
    
-   - M5065 
-   
-   - P3224-V Mk II
-   
-   - P3225-V Mk II
-   
-   - M3047-P
+   - M5065 PTZ
    
 ## Install a camera	
 

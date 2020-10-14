@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Store (public preview) by using the mobile app
 ms.author: alissag
-ms.date: 10/15/2020
+ms.date: 07/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Add skill zones to a camera using the Dynamics 365 Connected Store (public preview) mobile app
@@ -58,25 +58,26 @@ For public preview, each gateway supports up to 10 zones with a maximum of 1 ski
 
 6.	In the next screen, make any changes to the fields to customize the skill for your store's needs.
 
-    ![Skill zone fields](media/skill-zone-fields1.PNG "Skill zone fields")
+    ![Skill zone fields](media/skill-zone-fields.png "Skill zone fields")
  
     The fields change depending on which skill you choose in step 2. The following table describes the fields for each skill zone.
 
     |Field|	Description|	Applies to (skills)|
     |----------------|------------------------------------------------|-------------------------------------------------------|
-    |**Active**/**Inactive** slider|Use the **Active**/**Inactive** slider to turn the skill on or off. The skill will only collect data when the slider is in the **Active** position. |- Display effectiveness<br>- Queue management<br>- Shopper analytics| 
-    |**Skill Name**|Give your zone a name to easily identify it in the dashboard (for example, **Holiday promotion**).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|       
+    |**Zone Name**|Give your zone a name to easily identify it in the dashboard (for example, **Holiday promotion**).|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
+    |**Active Date Range**|Set the time frame for collecting data in the selected zone.<br><br> For the Display effectiveness skill, this is especially useful for zones where the physical location of the zone may not change but the product changes.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
+    |**Engagement Threshold**|Set a dwell time threshold over which you consider people engaged in the zone.|- Display effectiveness|
     |**Direction Names**|Personalize the names of the sides of your zone to give context to the people count data.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
-    |**Advanced Features > People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
-    |**Advanced Features > Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
-    |**Advanced Features > Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness|    
+    |**People Count**|The number of people crossing into and/or out of a zone.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|
+    |**Dwell Time**|The average time spent by people in a selected zone.|- Display effectiveness|
+    |**Direction**|Associate the people count with the direction name of a zone side.|- Display effectiveness<br>- Queue management<br>- Shopper analytics|    
 
 7.	When you're finished editing the skills, tap the check mark in the upper-right corner of the page.
 
     > [!TIP]
-    > You can edit, duplicate, or delete a skill at any time by tapping the **Actions** button for the skill you want to update.<br><br>**Duplicating** a skill copies the skill type, drawing, and details to a new record. You can then make edits to the skill and save.<br><br>**Deleting** a skill will permanently remove it from Azure Stack Edge, the mobile app, and all collected data. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
+    > You can edit skills details or zone placement at any time by tapping the **Actions** button for the zone you want to update.
     
-    ![Actions button](media/skill-zone-action-button-2.PNG "Actions button")
+    ![Actions button](media/skill-zone-action-button.png "Actions button")
  
 ## Sort the Skills list
 
