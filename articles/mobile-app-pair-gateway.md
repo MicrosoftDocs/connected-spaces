@@ -47,7 +47,10 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
     ![Device serial number box](media/security-number.PNG "Device serial number box")
  
-7.	Select the store you created earlier in the mobile app, and then select **Submit**.
+7.	Select the store you created earlier in the mobile app, and then select 
+
+    > [!IMPORTANT]
+    > Make sure to press the **Submit** button just once. When you press **Submit**, Connected Store starts processing the activation key generation. 
 
     ![Select store name](media/select-store-name.PNG "Select store name")
 
