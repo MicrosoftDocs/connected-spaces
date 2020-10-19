@@ -30,7 +30,7 @@ To download the app for your device, go to the Apple App Store or Google Play St
 - [Google Play Store](https://aka.ms/ConnectedStoreGoogleApp)
 
 > [!IMPORTANT]
-> Make sure to use the latest version of the mobile app. If you use an older version of the app, you may experience limited functionality. To ensure your app is up-to-date, go to the app store links above. 
+> Make sure to use the latest version of the mobile app. If you use an older version of the app, you might experience limited functionality. To ensure your app is up-to-date, go to the app store links above. 
 
 ## Next steps
 
