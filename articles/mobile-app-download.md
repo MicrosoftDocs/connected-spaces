@@ -29,6 +29,9 @@ To download the app for your device, go to the Apple App Store or Google Play St
 
 - [Google Play Store](https://aka.ms/ConnectedStoreGoogleApp)
 
+> [!IMPORTANT]
+> Make sure to use the latest version of the mobile app. To ensure your app is up to date, go to the app store links above. If you use an older version of the app, you may experience limited functionality.
+
 ## Next steps
 
 [Create a store](mobile-app-create-store.md)
