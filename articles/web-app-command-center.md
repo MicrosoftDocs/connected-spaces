@@ -68,7 +68,7 @@ remains above the maximum occupancy threshold.
     ![Set Email Address section of Send alert flow](media/command-center-set-email-address.PNG "Set Email Address section of Send alert flow")
 
     > [TIP]
-    > You can also choose to have alerts sent to a specific Microsoft Teams channel. To do this, locate the desired channel in Teams, select the **More information** (...) button to the right of the channel name, and then select **Get email address**.
+    > You can also choose to have alerts sent to a specific Microsoft Teams channel. To do this, locate the desired channel in Teams, select the **More information** (...) button to the right of the channel name, select **Get email address**, copy the email address, and then paste it into the **Value** field. 
     >
     > SCREEN SHOT GOES HERE
     
