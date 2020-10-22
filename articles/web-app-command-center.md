@@ -37,7 +37,7 @@ remains above the maximum occupancy threshold.
     
 3. In the pop-up dialog box, enter your credentials so you can access Power Automate.
     
-4. Look for the Connected Store widget. 
+4. Look for the Connected Store widget that looks like this. 
 
     ![Connected Store widget](media/command-center-connected-store-widget.PNG "Connected Store widget")
 
