@@ -68,7 +68,7 @@ remains above the maximum occupancy threshold.
     > [TIP]
     > You can also choose to have alerts sent to a specific Microsoft Teams channel. To do this, locate the desired channel in Teams, select the **More information** (...) button to the right of the channel name, select **Get email address**, copy the email address, and then paste it into the **Value** field. 
     >
-    > !Get email address command in Microsoft Teams](media/command-center-teams-email-link.PNG "Get email address command in Microsoft Teams")
+    > ![Get email address command in Microsoft Teams](media/command-center-teams-email-link.PNG "Get email address command in Microsoft Teams")
     
     - In the **Set Reminder Frequency** section, in the **Value** field, enter how often you want to send the email notification. For example, enter **15** if you want to send an email notification every 15 minutes while the maximum occupancy threshold is exceeded. **Do not edit the Name and Type fields in this section.**
 
