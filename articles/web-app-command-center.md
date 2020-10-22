@@ -81,6 +81,28 @@ remains above the maximum occupancy threshold.
     ![Save button in the Command Center](media/command-center-save-button.PNG "Save button in the Command Center")
     
 That's all you need to do to set up alerts for maximum occupancy. 
+
+## Edit an existing Power Automate flow
+
+1. In the Command Center, under **Manage flows**, select **My flows**.
+
+    SCREEN SHOT GOES HERE
+    
+2. Select the flow you want to edit, and then select **Edit**.
+
+    SCREEN SHOT GOES HERE
+    
+    The flow appears in a collapsed format.
+    
+    SCREEN SHOT GOES HERE
+    
+3. Select the module you want to edit to expand it, and then make your edits.
+
+    SCREEN SHOT GOES HERE
+    
+4. Select **Save** in the upper-right corner when you're done.
+    
+
     
 ## Next step
 
