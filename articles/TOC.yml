@@ -55,7 +55,7 @@
         - name: Find your way around
           href: web-app-navigation.md
         - name: Set your store's operating hours
-          href: set-store-hours.md
+          href: web-app-set-operating-hours.md
         - name: Analytics page
           href: web-app-get-insights.md
         - name: Shopper analytics
