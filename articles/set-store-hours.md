@@ -9,4 +9,7 @@ You can use the Microsoft Dynamics 365 Connected Store (public preview) web app 
 2. On the **Store** tab, in the **Operating Hours** field, enter your hours of operation.
 
     ![Operating hours field in web app Settings](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
+    
+    > [!IMPORTANT]
+    > Do not change settings for the Contoso Sample Store, 
 
