@@ -32,8 +32,8 @@ mobile device. You can also enter your location manually, but make sure to enter
 
    c. In the **Time Zone** field, set the time zone for your store.
    
-       > [!NOTE]
-       > You can also set the time zone through the **Settings** command in the web app. 
+   > [!NOTE]
+   > You can also set the time zone through the **Settings** command in the web app. 
 
    d. In the **Maximum Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
 
