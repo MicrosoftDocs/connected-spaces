@@ -38,6 +38,9 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     “Go to aka.ms/activategateway on your laptop and enter the following serial number to get the activation key of your gateway.”
 
     ![Pairing instructions](media/pairing-instructions.PNG "Pairing instructions")
+    
+    > [!NOTE]
+    > If you don't see the serial number in the mobile app, you can also find it in the Azure Stack Edge user interface, or on the Azure Stack Edge gateway itself. The pull-out tab on the front of the gateway (behind the faceplate) contains the serial number.
 
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
 
