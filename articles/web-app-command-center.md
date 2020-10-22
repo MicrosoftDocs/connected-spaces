@@ -33,13 +33,13 @@ remains above the maximum occupancy threshold.
 
     ![Flow Templates button in Command Center](media/command-center-set-new-flow.PNG "Flow Templates button in Command Center")
     
-2. In the pop-up dialog box, enter your credentials so you can access Power Automate.
-
-    After entering your credentials, you'll see the Power Automate flow widgets.
+2. If this is the first flow that you've created, you'll see the **Welcome to Power Automate** dialog box. Select the appropriate country in the list, and then select **Get started**.
+    
+3. In the pop-up dialog box, enter your credentials so you can access Power Automate.
    
     ![Power Automate flow widgets in the Command Center](media/command-center-widgets.PNG "Power Automate flow widgets in the Command Center")
     
-3. Look for the Connected Store widget. 
+4. Look for the Connected Store widget. 
 
     ![Connected Store widget](media/command-center-connected-store-widget.PNG "Connected Store widget")
 
@@ -55,13 +55,13 @@ remains above the maximum occupancy threshold.
     
     ![Power Automate website page with Connected Store widget](media/command-center-power-automate-website.PNG "Power Automate website page with Connected Store widget")
     
-4. Select the Connected Store widget to load the template.
+5. Select the Connected Store widget to load the template.
 
-5. Select **Continue**.
+6. Select **Continue**.
 
     ![Continue button for Connected Store flow](media/command-center-continue-button.PNG "Continue button for Connected Store flow")
 
-6. At this point, you'll see all the components included in the **Send alert** flow. There are many components, but you only need to set the following two items:
+7. At this point, you'll see all the components included in the **Send alert** flow. There are many components, but you only need to set the following two items:
 
     - In the **Set Email Address** section, in the **Value** field, enter an email address. **Do not edit the Name and Type fields in this section.** If you want the email to be sent to more than one recipient, separate each email address with a semi-colon. 
 
