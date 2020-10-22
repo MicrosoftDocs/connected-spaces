@@ -9,5 +9,5 @@ will show 24/7 data, which would include after hours time when you're cleaning a
 
 2. On the **Store** tab, select **Operating Hours**, and then enter your hours of operation.
 
-    [Operating hours field in web app Settings](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
+    ![Operating hours field in web app Settings](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
 
