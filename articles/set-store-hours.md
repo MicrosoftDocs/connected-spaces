@@ -6,7 +6,7 @@ You can use the Microsoft Dynamics 365 Connected Store (public preview) web app 
 
 1. In the web app, in the left navigation pane, select **Settings**.
 
-2. On the **Store** tab, select **Operating Hours**, and then enter your hours of operation.
+2. On the **Store** tab, in the **Operating Hours** field, enter your hours of operation.
 
     ![Operating hours field in web app Settings](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
 
