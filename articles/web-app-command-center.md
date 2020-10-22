@@ -63,19 +63,18 @@ remains above the maximum occupancy threshold.
 
 6. At this point, you'll see all the components included in the **Send alert** flow. There are many components, but you only need to set the following two items:
 
-    - In the **Set Email Address** section, in the **Value** field, enter an email address. If you want the email to be sent to more than one recipient, separate each email address with a semi-colon. 
+    - In the **Set Email Address** section, in the **Value** field, enter an email address. **Do not edit the Name and Type fields in this section.** If you want the email to be sent to more than one recipient, separate each email address with a semi-colon. 
 
     ![Set Email Address section of Send alert flow](media/command-center-set-email-address.PNG "Set Email Address section of Send alert flow")
 
-    > [!IMPORTANT]
-    > Do not edit the **Name** and **Type** fields in this section.
+    > [TIP]
+    > You can also choose to have alerts sent to a specific Microsoft Teams channel. To do this, locate the desired channel in Teams, select the **More information** (...) button to the right of the channel name, and then select **Get email address**.
+    >
+    > SCREEN SHOT GOES HERE
     
-    - In the **Set Reminder Frequency** section, in the **Value** field, enter how often you want to send the email notification. For example, enter **15** if you want to send an email notification every 15 minutes while the maximum occupancy threshold is exceeded.
+    - In the **Set Reminder Frequency** section, in the **Value** field, enter how often you want to send the email notification. For example, enter **15** if you want to send an email notification every 15 minutes while the maximum occupancy threshold is exceeded. **Do not edit the Name and Type fields in this section.**
 
     ![Set Reminder Frequency section of Send alert flow](media/command-center-set-reminder-frequency.PNG "Set Reminder Frequency section of Send alert flow")
-    
-    > [!IMPORTANT]
-    > Do not edit the **Name** and **Type** fields in this section.
     
 8. Select **Save** in the upper-right corner of the page.
 
