@@ -36,8 +36,6 @@ remains above the maximum occupancy threshold.
 2. If this is the first flow that you've created, you'll see the **Welcome to Power Automate** dialog box. Select the appropriate country in the list, and then select **Get started**.
     
 3. In the pop-up dialog box, enter your credentials so you can access Power Automate.
-   
-    ![Power Automate flow widgets in the Command Center](media/command-center-widgets.PNG "Power Automate flow widgets in the Command Center")
     
 4. Look for the Connected Store widget. 
 
