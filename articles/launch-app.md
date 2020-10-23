@@ -53,6 +53,9 @@ list.
 
 ![Dropped-down list showing how to go back to Contoso Sample Store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso Sample Store")
 
+> [!NOTE]
+> The Contoso Sample Store includes data from 4/20/2020 through 6/30/2020, UTC. If you choose a custom time range, you won't see any data outside of this time range.
+
 ## Next steps
 
 [Learn how to set up the Azure Stack Edge gateway](ase-install.md)<br>
