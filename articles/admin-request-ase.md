@@ -32,6 +32,7 @@ Connected Store uses the Azure Stack Edge gateway to transform video streams fro
      
    The Connected Store team will contact you when the request is received. After you receive your Azure Stack Edge gateway, you can [prepare your network and install it](ase-install.md).
  
-## Next step
+## Next steps
 
+[Launch the app and explore the Contoso sample store](launch-app.md)
 [Prepare user accounts](admin-prepare-user-accounts.md)
