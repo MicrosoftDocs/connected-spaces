@@ -1,21 +1,21 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store.
+description: Learn how to launch the Dynamics 365 Connected Store app and explore the Contoso sample store.
 ms.author: labryan
 ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
-title: Launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store to learn about Connected Store dashboards and analytics
+title: Launch the Dynamics 365 Connected Store app and explore the Contoso sample store to learn about Connected Store dashboards and analytics
 ms.reviewer: v-brycho
 ---
 
-# Launch the Dynamics 365 Connected Store app and explore the Contoso Sample Store
+# Launch the Dynamics 365 Connected Store app and explore the Contoso sample store
 
-After you have [installed the Microsoft Dynamics 365 Connected Store web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Store dashboards and analytics by exploring the Contoso Sample Store. You can switch back and forth between the Contoso Sample Store and your own store as you explore the different dashboards that provide insights into your store's performance. 
+After you have [installed the Microsoft Dynamics 365 Connected Store web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Store dashboards and analytics by exploring the Contoso sample store. You can switch back and forth between the Contoso sample store and your own store as you explore the different dashboards that provide insights into your store's performance. 
 
-![Contoso Sample Store screen](media/first-run-contoso-sample-store.PNG "Contoso Sample Store screen")
+![Contoso sample store screen](media/first-run-contoso-sample-store.PNG "Contoso Sample Store screen")
 
-## Launch the web app and explore the Contoso Sample Store
+## Launch the web app and explore the Contoso sample store
 
 1. Select **Launch App**.
 
@@ -25,20 +25,19 @@ After you have [installed the Microsoft Dynamics 365 Connected Store web app](ad
 
     ![Welcome to Connected Store page](media/first-run-welcome-page.PNG "Welcome to Connected Store page")
     
-    This opens the Contoso Sample Store.     
+    This opens the Contoso sample store.     
        
-## Overview of the Contoso Sample Store
+## Overview of the Contoso sample store
 
-When you open the Contoso Sample Store, you'll see the **Analytics** page, which is one of several dashboards included in Connected Store. 
+When you open the Contoso sample store, you'll see the **Analytics** page, which is one of several dashboards included in Connected Store. 
 
-![Contoso Sample Store screen](media/first-run-contoso-sample-store.PNG "Contoso Sample Store screen")
+![Contoso sample store screen](media/first-run-contoso-sample-store.PNG "Contoso sample store screen")
 
-To learn about the **Analytics** page and
-other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner of the page.
+To learn about the **Analytics** page and other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner of the page.
 
-![Analytics overview button in Constoso Sample Store](media/first-run-analytics-overview-button.PNG "Analytics overview button in Constoso Sample Store")
+![Analytics overview button in Constoso Sample Store](media/first-run-analytics-overview-button.PNG "Analytics overview button in Constoso sample store")
 
-To switch from the Contoso Sample Store to your own store, select the down arrow next to **Contoso sample store**, and then select your store from the list. 
+To switch from the Contoso sample store to your own store, select the down arrow next to **Contoso sample store**, and then select your store from the list. 
 
 ![Contoso sample store list dropped down](media/first-run-sample-store-list.PNG "Contoso sample store list dropped down")
 
@@ -48,13 +47,13 @@ page with links to articles that can help you with these tasks.
 
 ![Screen shot that shows links to creating a store with the mobile app and setting up Azure Stack Edge gateway](media/first-run-setup-prompts.PNG "Screen shot that shows links to creating a store with the mobile app and setting up Azure Stack Edge gateway")
 
-To go back to the Contoso Sample Store from your store page, select the down arrow next to your store name, and then select **Contoso sample store** from the 
+To go back to the Contoso sample store from your store page, select the down arrow next to your store name, and then select **Contoso sample store** from the 
 list.
 
-![Dropped-down list showing how to go back to Contoso Sample Store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso Sample Store")
+![Dropped-down list showing how to go back to Contoso sample store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso sample store")
 
 > [!NOTE]
-> The Contoso Sample Store includes data from 4/20/2020 through 6/30/2020, UTC. If you choose a custom time range, you won't see any data outside of this time range.
+> The Contoso sample store includes data from 4/20/2020 through 6/30/2020, UTC. If you choose a custom time range, you won't see any data outside of this time range.
 
 ## Next steps
 
