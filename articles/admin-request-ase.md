@@ -34,5 +34,5 @@ Connected Store uses the Azure Stack Edge gateway to transform video streams fro
  
 ## Next steps
 
-[Launch the app and explore the Contoso sample store](launch-app.md)
+[Launch the app and explore the Contoso sample store](launch-app.md)<br>
 [Prepare user accounts](admin-prepare-user-accounts.md)
