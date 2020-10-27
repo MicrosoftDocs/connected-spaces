@@ -84,19 +84,19 @@ That's all you need to do to set up alerts for maximum occupancy.
 
 1. In the Command Center, under **Manage flows**, select **My flows**.
 
-    SCREEN SHOT GOES HERE
+    ![Command Center window showing Manage flows and My flows button](media/command-center-edit-flow.PNG "Command Center window showing Manage flows and My flows button")
     
 2. Select the flow you want to edit, and then select **Edit**.
 
-    SCREEN SHOT GOES HERE
+    ![Edit button to edit a specific flow in Command Center](media/command-center-edit-button.PNG "Edit button to edit a specific flow in Command Center")
     
     The flow appears in a collapsed format.
     
-    SCREEN SHOT GOES HERE
+    ![Command Center window showing a collapsed flow](media/command-center-collapsed-flow.PNG "Command Center window showing a collapsed flow")
     
 3. Select the module you want to edit to expand it, and then make your edits.
 
-    SCREEN SHOT GOES HERE
+    ![Command Center window showing an expanded flow](media/command-center-expanded-flow.PNG "Command Center window showing an expanded flow")
     
 4. Select **Save** in the upper-right corner when you're done.
     
