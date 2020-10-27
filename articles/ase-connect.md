@@ -9,15 +9,15 @@ title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connec
 ms.reviewer: v-brycho
 ---
 
-# Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store (public preview)
+# Connect Azure Stack Edge Pro to your network for use with Dynamics 365 Connected Store (public preview)
 
-After you've [installed Azure Stack Edge](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Store (public preview). If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
+After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Store (public preview). If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
 
 ## Connect Azure Stack Edge and configure the network
 
-1. Use your laptop and the following documentation to connect Azure Stack Edge and configure the network: https://docs.microsoft.com/azure/databox-online/azure-stack-edge-deploy-connect-setup-activate
+1. Use your laptop and the following documentation to connect Azure Stack Edge Pro and configure the network: https://docs.microsoft.com/azure/databox-online/azure-stack-edge-deploy-connect-setup-activate
 
-    After signing in to Azure Stack Edge, next to **Network**, select **Not configured** to start the configuration process.
+    After signing in to Azure Stack Edge Pro, next to **Network**, select **Not configured** to start the configuration process.
     
    ![Configure command](media/ase-configure-network.PNG "Configure command")
  
@@ -32,7 +32,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
    ![Network settings pane](media/ase-network-settings.PNG "Network settings pane")
  
    > [!NOTE]
-   > This is the information you recorded when you [installed Azure Stack Edge](ase-install.md). 
+   > This is the information you recorded when you [installed Azure Stack Edge Pro](ase-install.md). 
     
 3. In the left pane, select **Device**.
 
