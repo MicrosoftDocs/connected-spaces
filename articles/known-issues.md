@@ -33,9 +33,9 @@ To work around this issue, start a new Guest browser session, and then [go to th
 
 ![You're browsing as a Guest message](media/known-issues-guest-browser.PNG "You're browsing as a Guest message")
 
-## You must activate Azure Stack Edge within 24 hours after the activation key is generated
+## You must activate Azure Stack Edge Pro (2 GPU) within 24 hours after the activation key is generated
 
-After you receive your activation key, you have 24 hours to use it. If you try to use an activation key after 24 hours have passed, Microsoft Azure Stack Edge will be activated, but it won't be paired to the store in the mobile app.
+After you receive your activation key, you have 24 hours to use it. If you try to use an activation key after 24 hours have passed, Azure Stack Edge Pro will be activated, but it won't be paired to the store in the mobile app.
 
 To work around this issue, generate the activation key again to unblock the store/gateway pairing.
 
@@ -48,7 +48,7 @@ Store details can't be updated or edited after the store is connected to a gatew
 
 ## A gateway can't support more than 10 skills
 
-If you add more than 10 skills to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge. To add an additional skill, delete an existing skill, or make it inactive.
+If you add more than 10 skills to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge Pro. To add an additional skill, delete an existing skill, or make it inactive.
 
 ## A camera shows Disconnected status for all camera issues, including issues that are related to credentials, network connection, timing, or a missing profile
 
@@ -75,3 +75,7 @@ If you change the environment URL for your Microsoft Power Platform environment 
 If this issue occurs, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection update. The Connected Store service will start to use the new URL within an hour.
 
 ![Environment URL](media/known-issues-environmental-url.PNG "Environment URL")
+
+## See also
+
+[FAQ](faq.md)
