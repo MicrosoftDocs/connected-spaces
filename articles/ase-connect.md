@@ -17,7 +17,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
 
 1. Use your laptop and the following documentation to connect Azure Stack Edge and configure the network: https://docs.microsoft.com/azure/databox-online/azure-stack-edge-deploy-connect-setup-activate
 
-    After signing in to Azure Stack Edge, select **Network to be configured**.
+    After signing in to Azure Stack Edge, next to **Network**, select **Not configured** to start the configuration process.
     
    ![Configure command](media/ase-configure-network.PNG "Configure command")
  
