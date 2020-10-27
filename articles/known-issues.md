@@ -78,4 +78,4 @@ If this issue occurs, sign in to the [Connected Store Setup page](https://ppe.co
 
 ## See also
 
-[FAQ](faq.md)
+[Connected Store FAQ](faq.md)
