@@ -9,7 +9,7 @@ title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connec
 ms.reviewer: v-brycho
 ---
 
-# Connect Azure Stack Edge Pro to your network for use with Dynamics 365 Connected Store (public preview)
+# Connect Azure Stack Edge Pro (2 GPU) to your network for use with Dynamics 365 Connected Store (public preview)
 
 After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Store (public preview). If you’re working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
 
