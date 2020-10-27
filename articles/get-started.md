@@ -21,7 +21,7 @@ Connected Store consists of several interconnected web and mobile applications, 
  
 In each of your retail stores, you’ll:
 
-- Install and activate an Azure Stack Edge gateway. The gateway will receive video from the cameras connected to it and transform your customer activity into datapoints.
+- Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway will receive video from the cameras connected to it and transform your customer activity into datapoints.
 
 - Use the mobile app to create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 
