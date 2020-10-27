@@ -21,7 +21,7 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
     
    ![Configure command](media/ase-configure-network.PNG "Configure command")
  
-4. In the **Network** screen:
+2. In the **Network** screen:
 
    a. Select the port that you connected your network to when you [installed Azure Stack Edge](ase-install.md) (Port 2 if you have an RJ45 cable or Port 3 if you have an SFP cable).
     
@@ -34,32 +34,26 @@ After you've [installed Azure Stack Edge](ase-install.md), you're ready to conne
    > [!NOTE]
    > This is the information you recorded when you [installed Azure Stack Edge](ase-install.md). 
     
-   c. In the **Network** screen, under **Virtual IP settings**, select **Azure Consistent Services**.
-
-   ![Azure consistent services command](media/ase-azure-consistent-services.PNG "Azure consistent services command")
- 
-5. In the **Virtual IP settings** pane, in the **Azure Consistent Services network** field, select the network (same as the static port configured earlier), select the **Static** tab, enter the IP address in the **Azure Consistent Services Virtual IP** field, and then select **Apply**.
-
-6. In the left pane, select **Device**.
+3. In the left pane, select **Device**.
 
    ![Device command](media/ase-device-left-nav.PNG "Device command")
  
-7. In the **Device** screen, select the **Apply** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won’t work.
+4. In the **Device** screen, select the **Apply** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won’t work.
 
    ![Device screen](media/ase-device.PNG "Device screen")
  
    > [!NOTE]
    > At this time, you can’t change the device name. 
 
-8. In the left pane, select **Update server**.
+5. In the left pane, select **Update server**.
 
-9. In the **Update server** screen, select **Apply** (you don’t need to make any changes in this screen).
+6. In the **Update server** screen, select **Apply** (you don’t need to make any changes in this screen).
 
    ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
-10. In the left pane, select **Time**.    
+7. In the left pane, select **Time**.    
 
-11. In the **Time** screen, select the correct time zone, and then select **Apply**. 
+8. In the **Time** screen, select the correct time zone, and then select **Apply**. 
 
     ![Time screen](media/ase-select-time-zone.PNG "Time screen")
    
