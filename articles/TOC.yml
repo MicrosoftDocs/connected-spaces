@@ -26,11 +26,11 @@
           href: camera-placement-general.md
         - name: Placement
           href: camera-placement-recommendations.md        
-    - name: 3. Install Azure Stack Edge and cameras
+    - name: 3. Install Azure Stack Edge Pro and cameras
       items:
-        - name: Prepare network and install Azure Stack Edge
+        - name: Prepare network and install Azure Stack Edge Pro
           href: ase-install.md
-        - name: Connect Azure Stack to the network
+        - name: Connect Azure Stack Edge Pro to the network
           href: ase-connect.md
         - name: Install cameras
           href: install-cameras.md
