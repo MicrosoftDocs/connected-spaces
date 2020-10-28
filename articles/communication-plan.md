@@ -11,11 +11,11 @@ ms.reviewer: v-brycho
 
 # Communicating with your shoppers about the use of Dynamics 365 Connected Store 
 
-While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns about the purposes and use of camera and video technology, potentially impacting trust in your brand.      
+While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns, potentially impacting trust in your brand.      
 
 To help build trust, you can use a **disclosure strategy** to help you decide what information to communicate to shoppers as well as when and where to share it. A disclosure strategy can be incorporated in an existing communications strategy (for example, how you communicate with your customers about privacy) with the goal of making the information **easy to discover and understand**.
 
-This article offers best practices for creating and implementing a disclosure strategy for Microosft Dynamics 365 Connected Store based on insights from user research and Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). It also includes design tips and examples for disclosure materials, which you can adapt to your context.  
+This article offers best practices for creating and implementing a disclosure strategy for Microsoft Dynamics 365 Connected Store based on insights from user research and Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). It also includes design tips and examples for disclosure materials, which you can adapt to your context.  
 
 > [!NOTE]
 > It is your responsibility to align your disclosure strategy with applicable legal requirements in your jurisdiction and accurately reflect all of your data collection and processing practices. This article includes best practices for transparency and to build shoppers’ trust that may not align with laws and notice and disclosure regulations applicable to your store. It also does not consider data processing practices within your control or beyond your use of Connected Store. See [Compliance and responsible use](compliance.md) for details.  
@@ -24,9 +24,9 @@ This article offers best practices for creating and implementing a disclosure st
 
 What you choose to disclose to shoppers will depend on the unique context of your store and the range of technologies that you use.
 
-Dynamics 365 Connected Store as a standalone technology is considered low sensitivity in part because it does not store personally identifiable information. For Dynamics 365 Connected Store, a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
+Our research shows that for Dynamics 365 Connected Store, a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
 
-Specifically, we recommend providing shoppers with answers to the following questions:
+Specifically, our research shows that shoppers are more comfortable with technology such as Dynamics 365 Connected Store when they understand the following:
 
 - What technology is in use, when is it in use, and how does it work?   
 
@@ -58,7 +58,7 @@ The best practices in this guide do not consider how your store may use or proce
 
 ## When and where to disclose  
 
-For a low-sensitivity scenario, our research shows that shoppers repond well to an **FAQ on your website** as the primary point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build trust and understanding. 
+Our research shows that shoppers respond well to an **FAQ on your website** as a primary point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build trust and understanding. 
 
 Making the content easily printable or providing it in a brochure format helps ensure that the content is accessible to people who may have limited internet access. It can also help store associates be better prepared to answer shopper questions.  
 
@@ -70,11 +70,13 @@ Additionally, you may consider different ways of raising awareness among shopper
 
 - Including a link to the FAQ in other communication materials
 
-Again, if your store uses other technologies that may require additional notice and consent, your disclosure strategy will incorporate additional touchpoints.   
+- In-store signage with a QR code linking to the FAQ
+
+Again, you are responsible for ensuring that your specific disclosure strategy meets the legal and regulatory requirements applicable in your jurisdiction for the use of Connected Store and any other other technologies your store may use. These may require additional notice and consent and additional disclosure touchpoints.
 
 ## Design tips and examples
 
-These recommendations are based on Microsoft research studies conducted on Dynamics 365 Connected Store disclosure materials. Visual examples are for explanatory purposes only and should be adapted to your unique context.
+These recommendations are based on Microsoft research studies conducted on sample Dynamics 365 Connected Store disclosure materials. Visual examples are for explanatory purposes only and should be adapted to your unique context, jurisdiction, and use of Connected Store.
 
 ### Example: FAQ
 
@@ -82,7 +84,7 @@ These recommendations are based on Microsoft research studies conducted on Dynam
             
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
-|✔ **DO** refer to [What to disclose](#what-to-disclose) when deciding what information to include|Shoppers tend to have a common set of questions and concerns about how personal data is used and protected.|
+|✔ **DO** refer to [What to disclose](#what-to-disclose) when deciding what information to include|Shoppers tend to have a common set of questions and concerns about how data is used and protected.|
 |✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** consider the local context|Some terms or concepts may have different cultural or language connotations in your local area.|
 |✔ **DO** offer a way to learn more|Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
