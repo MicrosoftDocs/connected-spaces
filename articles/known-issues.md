@@ -21,15 +21,15 @@ To work around this:
 
 1. Select the **Settings** button, and then select **Personalization Settings**.
 
-    SCREEN SHOT GOES HERE
+    ![Settings list with Personalization Settings command](media/known-issues-personalization-settings.PNG "Settings list with Personalization Settings command")
     
 2. Select the **Formats** tab, and then select the appropriate region from the **Current Format** list.
 
-    SCREEN SHOT GOES HERE
+    ![Current Format list showing selections to choose from](media/known-issues-current-format-list.PNG "Current Format list showing selections to choose from")
     
-## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000 action per day limit for a preview SKU
+## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000-action-per-day limit for a preview SKU
 
-[Learn more about Power Automate limitations](https://docs.microsoft.com/en-us/power-automate/limits-and-config#daily-limits).
+[Learn more about Power Automate limitations](https://docs.microsoft.com/power-automate/limits-and-config#daily-limits).
 
 ## You can't delete stores, gateways, or cameras in the mobile app
 
