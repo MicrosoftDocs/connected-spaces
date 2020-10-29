@@ -11,6 +11,24 @@ ms.reviewer: v-brycho
 
 # Known issues with Dynamics 365 Connected Store
 
+## In the Contoso sample store, hourly data breakdown in the Daily view is unavailable
+
+If you select a single day to view, there will be a single data point. Higher temporal resolution data will be made available in a future product update.
+
+## Time/Date formatting in the web app **Analytics** page does not auto adjust based on region
+
+To work around this:
+
+1. Select the **Settings** button, and then select **Personalization Settings**.
+
+    SCREEN SHOT GOES HERE
+    
+2. Select the **Formats** tab, and then select the appropriate region from the **Current Format** list.
+
+    SCREEN SHOT GOES HERE
+    
+## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000 action per day limit for a preview SKU. [Learn more about Power Automate limitations](https://docs.microsoft.com/en-us/power-automate/limits-and-config#daily-limits).
+
 ## You can't delete stores, gateways, or cameras in the mobile app
 
 Currently, stores, gateways, and cameras can't be deleted in the mobile app. Skills can be deleted, however once deleted, data cannot be recovered. If you're unsure about deleting a skill, you can make it inactive instead.
