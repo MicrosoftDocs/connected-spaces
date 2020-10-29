@@ -27,7 +27,9 @@ To work around this:
 
     SCREEN SHOT GOES HERE
     
-## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000 action per day limit for a preview SKU. [Learn more about Power Automate limitations](https://docs.microsoft.com/en-us/power-automate/limits-and-config#daily-limits).
+## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000 action per day limit for a preview SKU
+
+[Learn more about Power Automate limitations](https://docs.microsoft.com/en-us/power-automate/limits-and-config#daily-limits).
 
 ## You can't delete stores, gateways, or cameras in the mobile app
 
