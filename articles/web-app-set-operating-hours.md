@@ -22,7 +22,7 @@ You can use the web app in Microsoft Dynamics 365 Connected Store (public previe
     ![Operating hours field in web app Settings](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
     
     > [!IMPORTANT]
-    > Any changes you make to settings for the Contoso Sample Store will affect settings for other stores. For this reason, we don't recommend changing the settings for the sample store.
+    > Any changes you make to settings for the Contoso sample store will affect settings for other stores. For this reason, we don't recommend changing the settings for the sample store.
     
 
 
