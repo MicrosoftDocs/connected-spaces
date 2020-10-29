@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ## In the Contoso sample store, hourly data breakdown in the Daily view is unavailable
 
-If you select a single day to view, there will be a single data point. Higher temporal resolution data will be made available in a future product update.
+If you select a single day to view, there will be a single data point. Higher temporal resolution data will be available in a future product update.
 
 ## Time/Date formatting in the web app **Analytics** page does not auto adjust based on region
 
