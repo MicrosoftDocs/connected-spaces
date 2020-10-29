@@ -1,4 +1,13 @@
-
+---
+author: lkbryant-MSFT
+description: Learn how to set your store's operating hours in Dynamics 365 Connected Store (public preview)
+ms.author: labryan
+ms.date: 07/08/2020
+ms.service: crm-online
+ms.topic: article
+title: Set your store's operating hours in Dynamics 365 Connected Store (public preview)
+ms.reviewer: v-brycho
+---
 
 # Set your store's operating hours in Dynamics 365 Connected Store (public preview)
 
