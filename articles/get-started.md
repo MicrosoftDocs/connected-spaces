@@ -17,11 +17,11 @@ Welcome to the public preview of Microsoft Dynamics 365 Connected Store! This ar
 
 Connected Store consists of several interconnected web and mobile applications, an Azure cloud service, and hardware that you install at your store.
 
-![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
+![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.png "Illustration of retail store, Azure cloud service and Power Platorm components")
  
 In each of your retail stores, you’ll:
 
-- Install and activate an Azure Stack Edge gateway. The gateway will receive video from the cameras connected to it and transform your customer activity into datapoints.
+- Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway will receive video from the cameras connected to it and transform your customer activity into datapoints.
 
 - Use the mobile app to create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 

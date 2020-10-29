@@ -23,7 +23,7 @@ install Dynamics 365 Connected Store.
 
      ![Install button](media/install-connected-store.PNG "Install button")
     
-    This step can take from 5-30 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup:
+    Installing Connected Store can take 30 to 60 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup installs the Connected Store solutions in the selected environment. It also installs the Contoso Sample Store that you can use to [explore the web app by using sample data](launch-app.md). 
     
     - Creates a Microsoft Power Platform environment for your Azure Active Directory tenant
     
