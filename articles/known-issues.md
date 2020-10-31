@@ -11,6 +11,10 @@ ms.reviewer: v-brycho
 
 # Known issues with Dynamics 365 Connected Store
 
+## Newly created store doesn’t appear in Store list
+
+If you have a slow network connection, and if you create a store, the store may not immediately appear in the Store list. Select the **Refresh** button at the top of the page to update the Store list.
+
 ## In the Contoso sample store, hourly data breakdown in the Daily view is unavailable
 
 If you select a single day to view, there will be a single data point. Higher granularity hourly data will be available in a future product update.
