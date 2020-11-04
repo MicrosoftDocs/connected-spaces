@@ -1,17 +1,17 @@
 ---
 author: alissapolucha
-description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Store (public preview) by using the mobile app
+description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Store Preview by using the mobile app.
 ms.author: alissag
 ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
-title: Add skill zones to a camera using the Dynamics 365 Connected Store (public preview) mobile app
+title: Add skill zones to a camera using the Dynamics 365 Connected Store Preview mobile app
 ms.reviewer: v-brycho
 ---
 
-# Add skill zones to a camera using the Dynamics 365 Connected Store (public preview) mobile app
+# Add skill zones to a camera using the Dynamics 365 Connected Store Preview mobile app
 
-You can use customizable skill zones in Microsoft Dynamics 365 Connected Store (public preview) to have your camera collect physical data based on the needs of your store. You can add or update your skill zones at any time using the mobile app.
+You can use customizable skill zones in Microsoft Dynamics 365 Connected Store Preview to have your camera collect physical data based on the needs of your store. You can add or update your skill zones at any time using the mobile app.
 
 Skill zones let you specify the types of data to collect, and exactly which areas within your camera view to collect those data. You can use the mobile app to set up custom zones with one of three available skills.
 
@@ -21,7 +21,7 @@ Skill zones let you specify the types of data to collect, and exactly which area
 |**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
 |**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
 
-For public preview, each gateway supports up to 10 zones with a maximum of 1 skill zone for each camera view. Your skill zones can have custom names and shapes (limited to four sides).
+For the preview, each gateway supports up to 10 zones with a maximum of 1 skill zone for each camera view. Your skill zones can have custom names and shapes (limited to four sides).
 
 > [!NOTE]
 > Skill zones don't change what your camera sees at any time. After you create a skill zone, the camera will continue to see the entire field of view but will only track and collect data from the zones that you add. You can add or update your skill zones at any time using the mobile app.
