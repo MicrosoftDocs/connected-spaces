@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Command Center in Dynamics 365 Connected Store to set up an email notification when maximum store occupancy thresholds are exceeded.
+description: Learn how to use the Command Center in Dynamics 365 Connected Store Preview to set up an email notification when maximum store occupancy thresholds are exceeded.
 ms.author: labryan
 ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
-title: Use the Command Center in the Dynamics 365 Connected Store web app to set up a maximum store occupancy notification
+title: Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification
 ms.reviewer: v-brycho
 ---
 
-# Use the Command Center in the Dynamics 365 Connected Store web app to set up a maximum store occupancy notification 
+# Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification 
 
-You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Store mobile app. When you set the **Maximum occupancy** value, 
+You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Store Preview mobile app. When you set the **Maximum occupancy** value, 
 you'll see the following items on the [**Shopper Analytics Summary** page](shopper-analytics-summary-page.md):
 
 - **Over capacity** card
