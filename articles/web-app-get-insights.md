@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+description: Learn how to use the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Use the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+title: Use the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.reviewer: v-brycho
 ---
 
-# Use the Analytics page in the Dynamics 365 Connected Store (public preview) web app to get insights on your retail store
+# Use the Analytics page in the Dynamics 365 Connected Store Preview web app to get insights on your retail store
 
-Microsoft Dynamics 365 Connected Store (public preview) serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
+Microsoft Dynamics 365 Connected Store Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
 Connected Store supports the following camera skills: 
 
