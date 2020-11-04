@@ -1,6 +1,6 @@
-- name: Dynamics 365 Connected Store
+- name: Dynamics 365 Connected Store Preview
   items:
-    - name: Overview of Dynamics 365 Connected Store
+    - name: Overview of Dynamics 365 Connected Store Preview
       href: index.md
     - name: Get started
       href: get-started.md
