@@ -1,17 +1,17 @@
 ---
 author: alwinv
-description: Learn how to create a new Azure Active Directory tenant to use with Dynamics 365 Connected Store (public preview)
+description: Learn how to create a new Azure Active Directory tenant to use with Dynamics 365 Connected Store Preview
 ms.author: alwinv
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Create a new Azure Active Directory tenant for Dynamics 365 Connected Store (public preview) 
+title: Create a new Azure Active Directory tenant for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Create a new Azure Active Directory tenant for the Dynamics 365 Connected Store (public preview)
+# Create a new Azure Active Directory tenant for the Dynamics 365 Connected Store Preview
 
-For Microsoft Dynamics 365 Connected Store (public preview), we recommend signing up with a new test Azure Active Directory tenant to simplify account management 
+For Microsoft Dynamics 365 Connected Store Preview, we recommend signing up with a new test Azure Active Directory tenant to simplify account management 
 during the preview.
 
 To set up a new test Azure Active Directory tenant, you’ll:
@@ -41,7 +41,7 @@ To set up a new test Azure Active Directory tenant, you’ll:
 4. Fill in your account information, and then select **Next** to verify your new account.
 
     > [!NOTE]
-    > For the public preview, you can only select **United Kingdom** or **United States** in the **Country or region** field. This selection determines the country or region in which your Connected Store application will be installed and where your data will reside. 
+    > For the preview, you can only select **United Kingdom** or **United States** in the **Country or region** field. This selection determines the country or region in which your Connected Store application will be installed and where your data will reside. 
     
     ![Account information fields](media/account-info.PNG "Account information fields")  
     
@@ -73,17 +73,17 @@ To set up a new test Azure Active Directory tenant, you’ll:
     
     - Sign you in to your new admin account
     
-    - Assign the Dynamics 365 Connected Store Public Preview trial license to the tenant
+    - Assign the Dynamics 365 Connected Store Preview trial license to the tenant
     
     - Assign a client license for this trial to the admin user account    
     
-10. Under **You’re all set**, select **Let’s go**, and then go to the next step: [Install Connected Store (public preview)](admin-install-web-app.md).  
+10. Under **You’re all set**, select **Let’s go**, and then go to the next step: [Install Connected Store Preview](admin-install-web-app.md).  
 
     ![Let's go button](media/lets-go.PNG "Let's go button")
 
 ## Next step
 
-[Install Connected Store (public preview)](admin-install-web-app.md)
+[Install Connected Store Preview](admin-install-web-app.md)
 
 
 
