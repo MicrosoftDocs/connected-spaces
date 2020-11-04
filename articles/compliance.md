@@ -1,17 +1,17 @@
 ---
 author: alwinv
-description: Customer responsibilities for complianace and responsible use regarding Dynamics 365 Connected Store (public preview)
+description: Customer responsibilities for complianace and responsible use regarding Dynamics 365 Connected Store Preview
 ms.author: alwinv
 ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
-title: Compliance and responsible use for Dynamics 365 Connected Store (public preview)
+title: Compliance and responsible use for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Compliance and responsible use for Dynamics 365 Connected Store (public preview)
+# Compliance and responsible use for Dynamics 365 Connected Store Preview
 
-Microsoft Dynamics 365 Connected Store was designed with compliance, privacy, security, and confidentiality in mind, but some responsibilities are fully within our customers’ control. It is your responsibility to:
+Microsoft Dynamics 365 Connected Store Preview was designed with compliance, privacy, security, and confidentiality in mind, but some responsibilities are fully within our customers’ control. It is your responsibility to:
 
 - Install and position cameras in your retail locations, and in doing so take care to avoid sensitive areas and limit collection of data not needed by Dynamics 365 Connected Store.
 
