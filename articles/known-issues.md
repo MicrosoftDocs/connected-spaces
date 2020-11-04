@@ -1,15 +1,15 @@
 ---
 author: kfrankc-ms
-description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store.
+description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
 ms.date: 10/15/2020
 ms.service: crm-online
 ms.topic: article
-title: Known issues with Dynamics 365 Connected Store
+title: Known issues with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Dynamics 365 Connected Store
+# Known issues with Dynamics 365 Connected Store Preview
 
 ## Newly created store doesn’t appear in Store list
 
