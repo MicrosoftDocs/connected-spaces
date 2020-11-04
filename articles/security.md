@@ -1,15 +1,15 @@
 ---
 author: alwinv
-description: How security in Dynamics 365 Connected Store (public preview) is a shared responsibility between customers and Microsoft.
+description: How security in Dynamics 365 Connected Store Preview is a shared responsibility between customers and Microsoft.
 ms.author: alwinv
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Security of customer data in Dynamics 365 Connected Store (public preview)
+title: Security of customer data in Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Security of customer data in Dynamics 365 Connected Store (public preview)
+# Security of customer data in Dynamics 365 Connected Store Preview
 
 Security of customer data is a shared responsibility. 
 
