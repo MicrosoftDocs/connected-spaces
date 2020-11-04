@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to view the Queue management summary page in the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+description: Learn how to view the Queue management summary page in the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: View the Queue management summary page in the Dynamics 365 Connected Store (public preview) web app
+title: View the Queue management summary page in the Dynamics 365 Connected Store Preview web app
 ms.reviewer: v-brycho
 ---
 
-# View the Queue management summary page in Dynamics 365 Connected Store public preview
+# View the Queue management summary page in Dynamics 365 Connected Store Preview
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store (public preview) web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the summary page for the Queue management skill zone. 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the summary page for the Queue management skill zone. 
 
 ## View the Queue management summary page
 
