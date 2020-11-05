@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Overview of the mobile app for Dynamics 365 Connected Store Preview
 ms.author: alissag
-ms.date: 07/08/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Connected Store Preview mobile app
