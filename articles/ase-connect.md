@@ -1,7 +1,7 @@
 ---
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Store Preview
-ms.date: 07/10/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store Preview
