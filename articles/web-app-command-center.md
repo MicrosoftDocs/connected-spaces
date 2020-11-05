@@ -41,7 +41,7 @@ remains above the maximum occupancy threshold.
 
     ![Connected Store widget](media/command-center-connected-store-widget.PNG "Connected Store widget")
 
-    If you don't see it on your screen, select **See more templates**.
+    If you don't see the widget on your screen, select **See more templates**.
 
     ![See more templates button in the Command Center](media/command-center-see-more-templates.PNG "See more templates button in the Command Center")
     
