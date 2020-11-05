@@ -4,6 +4,8 @@
       href: index.md
     - name: Get started
       href: get-started.md
+    - name: What's new
+      href: new.md    
     - name: 1. Setup
       items:
         - name: Create a new Azure Active Directory tenant
