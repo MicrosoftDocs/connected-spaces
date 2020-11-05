@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to install Dynamics 365 Connected Store Preview
 ms.author: alwinv
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Install Dynamics 365 Connected Store Preview
