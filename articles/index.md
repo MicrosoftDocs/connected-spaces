@@ -2,7 +2,7 @@
 author: alwinv
 description: Introduction to Dynamics 365 Connected Store Preview
 ms.author: alwinv
-ms.date: 07/08/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Connected Store Preview
