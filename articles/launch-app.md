@@ -53,7 +53,7 @@ To switch from the Contoso sample store to your own store, at the top of the pag
 To go back to the Contoso sample store from your store page, select the down arrow next to your store name, and then select **Contoso sample store** from the 
 list.
 
-![Dropped-down list showing how to go back to Contoso sample store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso sample store"
+![Dropped-down list showing how to go back to Contoso sample store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso sample store")
 
 ## Next steps
 
