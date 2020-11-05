@@ -37,9 +37,12 @@ To learn about the **Analytics** page and other dashboards in Connected Store, s
 
 ![Analytics overview button in Constoso Sample Store](media/first-run-analytics-overview-button.PNG "Analytics overview button in Constoso sample store")
 
-To switch from the Contoso sample store to your own store, select the down arrow next to **Contoso sample store**, and then select your store from the list. 
+> [!NOTE]
+> The Contoso sample store includes data from 4/20/2020 through 6/30/2020, UTC. If you choose a custom time range, you won't see any data outside of this time range.
 
 ## Switch back and forth between the Contoso sample store and your own store
+
+To switch from the Contoso sample store to your own store, select the down arrow next to **Contoso sample store**, and then select your store from the list. 
 
 ![Contoso sample store list dropped down](media/first-run-sample-store-list.PNG "Contoso sample store list dropped down")
 
@@ -50,10 +53,7 @@ To switch from the Contoso sample store to your own store, select the down arrow
 To go back to the Contoso sample store from your store page, select the down arrow next to your store name, and then select **Contoso sample store** from the 
 list.
 
-![Dropped-down list showing how to go back to Contoso sample store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso sample store")
-
-> [!NOTE]
-> The Contoso sample store includes data from 4/20/2020 through 6/30/2020, UTC. If you choose a custom time range, you won't see any data outside of this time range.
+![Dropped-down list showing how to go back to Contoso sample store](media/first-run-return-contoso-store.PNG "Dropped-down list showing how to go back to Contoso sample store"
 
 ## Next steps
 
