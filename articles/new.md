@@ -4,7 +4,7 @@
 
 ## November 6, 2020
 
-The November 6 release includes the following new feature.
+The November 6 release includes the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
