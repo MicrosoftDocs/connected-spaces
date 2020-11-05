@@ -25,7 +25,7 @@ Power Automate flow template. After customizing the template, the designated use
 remains above the maximum occupancy threshold.
 
 > [!IMPORTANT]
-> You must allow pop-ups in your browser to receive the email notifications (pop-up blockers must be disabled).
+> You must allow pop-ups (pop-up blockers must be disabled) in your browser to receive the email notifications.
 
 ## Customize a Power Automate flow to send email notifications when the maximum occupancy threshold is exceeded
 
