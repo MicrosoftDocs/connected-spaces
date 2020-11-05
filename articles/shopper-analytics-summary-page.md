@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn how to view the Shopper analytics summary page in the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: View the Shopper analytics summary page in the Dynamics 365 Connected Store Preview web app
