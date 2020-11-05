@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Store Preview
