@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to order the Azure Stack Edge Pro (2 GPU) gateway to use with Dynamics 365 Connected Store Preview.
 ms.author: alwinv
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Order the Azure Stack Edge Pro (2 GPU) gateway to use with Dynamics 365 Connected Store Preview
