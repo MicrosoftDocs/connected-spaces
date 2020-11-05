@@ -53,9 +53,7 @@ remains above the maximum occupancy threshold.
     
     ![Power Automate website page with Connected Store widget](media/command-center-power-automate-website.PNG "Power Automate website page with Connected Store widget")
     
-5. Select the Connected Store widget to load the template.
-
-6. Select **Continue**.
+5. Select the Connected Store widget to load the template, and then select **Continue**.
 
     ![Continue button for Connected Store flow](media/command-center-continue-button.PNG "Continue button for Connected Store flow")
 
