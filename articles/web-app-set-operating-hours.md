@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn how to set your store's operating hours in Dynamics 365 Connected Store Preview
 ms.author: labryan
-ms.date: 07/08/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Set your store's operating hours in Dynamics 365 Connected Store Preview
