@@ -1,0 +1,18 @@
+
+
+# What's new in Dynamics 365 Connected Store Preview
+
+## November 6, 2020
+
+The November 6 release includes the following new feature.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+|Expanded shopper analytics functionality, including occupancy density and power hours reporting|Yes|
+|Mobile app now supported on Apple iPad and Android phone/tablet|Yes|
+|Improved skill management in the mobile app|Yes|
+|Customize Power Automate flow to send email notification when store occupany threshold exceeded|Yes|
+
+## Next step
+
+[Get started with Dynamics 365 Connected Store Preview](get-started.md)
