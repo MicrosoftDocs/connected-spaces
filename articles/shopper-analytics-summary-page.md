@@ -57,7 +57,7 @@ footfall for the selected time frame.
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
-**Over capacity.** This card highlights the number of instances for which the store occupancy exceeds the **Maximum Occupancy** value. The **Maximum Occupancy** value is set in the mobile app during store configuration. For example, if the **Maximum occupancy** value for the store is set to 320 people (shown in the subscript in the card), the card reports the number of instances during the selected time frame for which the store occupancy was greater than 320 people. In the following example, there were 18 such instances.
+**Over capacity.** This card highlights the number of instances for which the store occupancy exceeds the **Maximum Occupancy** value. The **Maximum Occupancy** value is set in the mobile app during store configuration. For example, if the **Maximum Occupancy** value for the store is set to 320 people (shown in the subscript in the card), the card reports the number of instances during the selected time frame for which the store occupancy was greater than 320 people. In the following example, there were 18 such instances.
 
 ![Over capacity card](media/analytics-over-capacity-card.PNG "Over capacity card")
 
