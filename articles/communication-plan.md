@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about what to communicate with your shoppers about if you're using Dynamics 365 Connected Store Preview.
 ms.author: alwinv
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
 title: Communicate with your shoppers about the use of Dynamics 365 Connected Store Preview in your store
