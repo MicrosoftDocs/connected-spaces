@@ -42,7 +42,7 @@ To learn about the **Analytics** page and other dashboards in Connected Store, s
 
 ## Switch back and forth between the Contoso sample store and your own store
 
-To switch from the Contoso sample store to your own store, select the down arrow next to **Contoso sample store**, and then select your store from the list. 
+To switch from the Contoso sample store to your own store, at the top of the page, select the down arrow next to **Contoso sample store**, and then select your store from the list. 
 
 ![Contoso sample store list dropped down](media/first-run-sample-store-list.PNG "Contoso sample store list dropped down")
 
