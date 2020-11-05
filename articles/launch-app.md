@@ -1,15 +1,15 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to launch the Dynamics 365 Connected Store Preview app and explore the Contoso sample store.
+description: Learn how to launch the Dynamics 365 Connected Store Preview web app and explore the Contoso sample store.
 ms.author: labryan
 ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Launch the Dynamics 365 Connected Store Preview app and explore the Contoso sample store to learn about Connected Store dashboards and analytics
+title: Launch the Dynamics 365 Connected Store Preview web app and explore the Contoso sample store to learn about Connected Store dashboards and analytics
 ms.reviewer: v-brycho
 ---
 
-# Launch the Dynamics 365 Connected Store Preview app and explore the Contoso sample store
+# Launch the Dynamics 365 Connected Store Preview web app and explore the Contoso sample store
 
 After you have [installed the Microsoft Dynamics 365 Connected Store Preview web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Store dashboards and analytics by exploring the Contoso sample store. You can switch back and forth between the Contoso sample store and your own store as you explore the different dashboards that provide insights into your store's performance. 
 
