@@ -21,7 +21,7 @@ you'll see the following items on the [**Shopper Analytics Summary** page](shopp
 - **Footfall power hours** heatmap
 
 You can use the Command Center if you also want to send an email notification when maximum occupancy thresholds are exceeded. You do this by customizing a 
-Power Automate flow template. After setting up the template, the designated user(s) will receive reminders at the frequency you set while the store occupancy 
+Power Automate flow template. After customizing the template, the designated user(s) will receive reminders at the frequency you set while the store occupancy 
 remains above the maximum occupancy threshold.
 
 > [!IMPORTANT]
