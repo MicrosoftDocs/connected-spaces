@@ -191,7 +191,7 @@ using a retractable belt barrier to help guide the queue direction and ensure th
 
 ## Placement of in-store cameras and video storage
 
-Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer. Once a customer’s cameras are in place, Dynamics 365 Connected Store will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras and Microsoft Dynamics 365 Connected Store does not store video footage from the customer’s in-store cameras. 
+Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once a customer’s cameras are in place, Dynamics 365 Connected Store will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)) and Microsoft Dynamics 365 Connected Store does not store video footage from the customer’s in-store cameras. 
 
 ## Next step
 
