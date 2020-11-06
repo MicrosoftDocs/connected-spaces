@@ -95,9 +95,6 @@ To modify the IP range used to get the list of available cameras:
     ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
     
 3. When you’re finished, select the check mark in the upper-right corner of the screen.
-
->[!NOTE]
->The **Port** field shows which Port your network is connected to.
   
 ## Sort the Gateways list
 
