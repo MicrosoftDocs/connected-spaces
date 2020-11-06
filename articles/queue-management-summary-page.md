@@ -41,7 +41,7 @@ On this page, you can use the highlight cards, data visualizations, and summary 
 
 ## Highlights banner
 
-The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall** and  **Longest queue** cards are carried over from the [**Analytics** page](web-app-get-insights.md).
+The banner at the top of the page highlights the key takeaways and comparisons. The **Store entries** and  **Longest queue** cards are carried over from the [**Analytics** page](web-app-get-insights.md).
 
 **Shortest queue.** This card highlights the shortest queue length along with the name of the queue and the date on which the value was observed. 
 
@@ -60,7 +60,7 @@ The subscript in this card describes the absolute change in this value for the c
 
 There are two graphs at the bottom of the page: **3 longest queues by day** and **3 slowest queues by day**.
 
-**3 longest queues by day.** This graph shows the people count trend data for the three Queue management zones that received the greatest footfall during the selected time frame.
+**3 longest queues by day.** This graph shows the people count trend data for the three Queue management zones that received the greatest entries during the selected time frame.
 
 **3 slowest queues by day.** This graph depicts the wait (dwell) time trend data for the three Queue management zones in which people, on average, spent the most time during the selected time frame. 
 
