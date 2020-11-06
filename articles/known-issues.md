@@ -104,14 +104,6 @@ When you sign up for Connected Store by using an existing Azure AD tenant admin 
 
 To work around this issue, select **Continue**, and then [install Connected Store](admin-install-web-app.md).
 
-## If you change the environment URL for your Microsoft Power Platform environment, the flow of data from Connected Store is broken
-
-If you change the environment URL for your Microsoft Power Platform environment (for example, to make the URL easier to remember), you will break the connection to Connected Store. After 24 hours, the original URL will expire, and the mobile app will fail to connect. Additionally, new data won't appear in the Connected Store web app reports.
-
-If this issue occurs, sign in to the [Connected Store Setup page](https://ppe.connectedstore.dynamics.com/) to trigger a connection update. The Connected Store service will start to use the new URL within an hour.
-
-![Environment URL](media/known-issues-environmental-url.PNG "Environment URL")
-
 ## See also
 
 [Connected Store FAQ](faq.md)

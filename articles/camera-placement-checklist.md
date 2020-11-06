@@ -21,6 +21,8 @@ When determining where to place your cameras, we recommend using this checklist:
 
 3. [Review the general placement guidelines and determine camera placement details for the different zones, including height, angle, and focal-point distance from the target](camera-placement-recommendations.md).
 
+4. Consider and comply with legal requirements applicable in your jurisdiction, which may include laws and regulations relating to use of cameras and video technology, monitoring employees, and notice and consent requirements. As a best practice, take care to avoid sensitive areas and limit collection of data not needed by Dynamics 365 Connected Store ([see Compliance and responsible use](compliance.md)).
+
 ## Next step
 
 [Understand the scenarios](camera-placement-general.md)

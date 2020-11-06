@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 You can use customizable skill zones in Microsoft Dynamics 365 Connected Store Preview to have your camera collect physical data based on the needs of your store. You can add or update your skill zones at any time using the mobile app.
 
-Skill zones let you specify the types of data to collect, and exactly which areas within your camera view to collect those data. You can use the mobile app to set up custom zones with one of three available skills.
+Skill zones let you specify the types of data to collect, and exactly which areas within your camera view to collect that data. You can use the mobile app to set up custom zones with one of three available skills.
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
@@ -42,7 +42,7 @@ For the preview, each gateway supports up to 10 zones with a maximum of 1 skill 
  
 4.	Do the following, depending on the type of skill zone you want to add:
 
-    - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when they are entering the store, and white arrow points in the direction people walk when exiting the store. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
+    - If you're adding a **Shopper analytics** skill zone, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when they are entering the store, and the white arrow points in the direction people walk when exiting the store. This is important for data analytics to work correctly. If you need to start over at any point, select **Reset**.
     
     ![Rotated screen showing Shopper analytics camera view](media/add-shopper-analytics-skill.png "Rotated screen showing Shopper analytics camera view")
     

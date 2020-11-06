@@ -92,8 +92,6 @@ configuration.
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point 
 in a graph to reveal details.
 
-![Example of graph details shown when hovering](media/analytics-38.PNG "Example of graph details shown when hovering")
-
 ## Next steps
 
 Learn about these web app pages:

@@ -63,8 +63,6 @@ For entrance cameras, consider the following:
 
 - How will lighting outside the store affect viewing quality?
 
-- What are the local rules and regulations regarding privacy?
-
 ## Next step
 
 [Learn about placement recommendations](camera-placement-recommendations.md)

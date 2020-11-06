@@ -22,9 +22,9 @@ This article offers best practices for creating and implementing a disclosure st
 
 ## What to disclose
 
-What you choose to disclose to shoppers will depend on the unique context of your store and the range of technologies that you use.
+What you disclose to shoppers will depend on the unique context of your store, the range of technologies that you use, and the applicable legal requirements in your jurisdiction. 
 
-Our research shows that for Dynamics 365 Connected Store, a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
+Dynamics 365 Connected Store does not store any video data or attempt to detect faces or identify individuals, but shoppers are unlikely to be able to discover this information on their own, without clear and accessible disclosure materials. Our research shows that a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
 
 Specifically, our research shows that shoppers are more comfortable with technology such as Dynamics 365 Connected Store when they understand the following:
 
@@ -50,15 +50,15 @@ For information on how Dynamics 365 Connected Store works and how Microsoft prot
 
 - [Data and privacy](data-privacy.md)
 
-The best practices in this guide do not consider how your store may use or process personal data within your control. Therefore, consider your store’s unique context: 
+The best practices in this article do not consider your specific legal requirements or how your store may use or process other personal data within your control. Therefore, consider your store’s unique context: 
 
-- **Do you use other technology during the shopping experience that does collect or store personal data?** If so, answers to the previous questions will be different than if your store only uses Dynamics 365 Connected Store. In this case, consider a unified disclosure strategy that covers all parts of your technology ecosystem that may affect shopper trust.    
+- **Do you use other technology during the shopping experience that does collect or store personal data?** If so, answers to the previous questions may be different than if your store only uses Dynamics 365 Connected Store. In this case, consider a unified disclosure strategy that covers all parts of your technology ecosystem that may affect shopper trust.    
 
 - **How do you anticipate your technology changing over time?** If you expect your technology to evolve in ways that require additional disclosure or consent, consider how your current disclosure strategy might provide a foundation for those changes, to avoid surprising shoppers.
 
 ## When and where to disclose  
 
-Our research shows that shoppers respond well to an **FAQ on your website** as a primary point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build trust and understanding. 
+Our research shows that shoppers respond well to an **FAQ on your website** as a point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build trust and understanding. 
 
 Making the content easily printable or providing it in a brochure format helps ensure that the content is accessible to people who may have limited internet access. It can also help store associates be better prepared to answer shopper questions.  
 

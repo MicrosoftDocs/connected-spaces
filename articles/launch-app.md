@@ -35,8 +35,6 @@ When you open the Contoso sample store, you'll see the **Analytics** page, which
 
 To learn about the **Analytics** page and other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner of the page.
 
-![Analytics overview button in Constoso Sample Store](media/first-run-analytics-overview-button.PNG "Analytics overview button in Constoso sample store")
-
 > [!NOTE]
 > The Contoso sample store includes data from 4/20/2020 through 6/30/2020, UTC. If you choose a custom time range, you won't see any data outside of this time range.
 
