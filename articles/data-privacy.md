@@ -1,21 +1,21 @@
 ---
 author: alwinv
-description: How Dynamics 365 Connected Store (public preview) protects data and privacy
+description: How Dynamics 365 Connected Store Preview protects data and privacy
 ms.author: alwinv
-ms.date: 07/28/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Data and Privacy for Dynamics 365 Connected Store (public preview)
+title: Data and Privacy for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Data and privacy for Dynamics 365 Connected Store (public preview)
+# Data and privacy for Dynamics 365 Connected Store Preview
 
-Microsoft Dynamics 365 Connected Store has three components, and each is designed with compliance, security, and privacy in mind. 
+Microsoft Dynamics 365 Connected Store Preview has three components, and each is designed with compliance, security, and privacy in mind. 
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
 
-- **Connected Store edge gateway** – A managed Azure Stack Edge gateway installed in the retail store that runs computer vision AI model(s) to convert camera streams from existing or new cameras into observational data sent to the cloud. The Connected Store edge gateway processes video data from the in-store camera locally on the device and makes AI data inferences without identifying or tracking individuals to generate observational data.
+- **Connected Store edge gateway** – A managed Azure Stack Edge Pro (2 GPU) gateway installed in the retail store that runs computer vision AI model(s) to convert camera streams from existing or new cameras into observational data sent to the cloud. The Connected Store edge gateway processes video data from the in-store camera locally on the device and makes AI data inferences without identifying or tracking individuals to generate observational data.
 
 - **Connected Store cloud service and web app** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Store web app that provides insights and recommended actions for the retailer. The edge gateway sends the data inferences to the Connected Store cloud so that the observational data can be correlated with the retailer’s business data (for example, store business hours, camera zone name) to generate actionable insights regarding retail operations. Customers can then use the Connected Store web app to view this data stored in the Connected Store cloud for Shopping analytics, Display effectiveness, and Queue management insights. 
 

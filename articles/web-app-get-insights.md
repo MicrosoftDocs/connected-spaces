@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+description: Learn how to use the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Use the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+title: Use the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.reviewer: v-brycho
 ---
 
-# Use the Analytics page in the Dynamics 365 Connected Store (public preview) web app to get insights on your retail store
+# Use the Analytics page in the Dynamics 365 Connected Store Preview web app to get insights on your retail store
 
-Microsoft Dynamics 365 Connected Store (public preview) serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
+Microsoft Dynamics 365 Connected Store Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
 Connected Store supports the following camera skills: 
 
@@ -53,9 +53,9 @@ Each card in the banner has an information icon that you can hover over to get a
 
 ![Information icon](media/analytics-4.PNG "Information icon")
 
-**Store footfall.** This card highlights the sum of people that entered the store for the selected time frame. 
+**Store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
 
-![Store footfall card](media/analytics-5.PNG "Store footfall card")
+![Store entries card](media/analytics-5.PNG "Store entries card")
 
 The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
@@ -66,7 +66,7 @@ The subscript in the card describes the percent change in this value for the cur
 
 ![Busiest day card](media/analytics-6.PNG "Busiest day card")
 
-The subscript in this card describes the absolute change in this value for the current time frame compared to average footfall across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater footfall for the highlighted day was compared to the daily average footfall during the selected time frame. 
+The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day was compared to the daily average entries during the selected time frame. 
 
 **Busiest display.** This card highlights the name of the display that had the greatest number of people during the selected timeframe, along with the people count. 
 
@@ -102,17 +102,17 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total footfall across store.** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average footfall for the store during the selected time frame. 
+**Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
 
-**Total occupancy across store.**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
+**Total occupancy across store by [time slice (day, hour)].**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
 ### Display effectiveness graphs
 
 ![Display effectiveness graphs section of Analytics page](media/analytics-14.PNG "Display effectiveness graphs section of Analytics page")
 
-**Total footfall across displays.** This graph shows the total number of people that entered the Display effectiveness zones across the entire store. The dotted line is the average footfall across Display effectiveness zones during the selected time frame.
+**Total entries across displays by [time slice (day, hour)].** This graph shows the total number of people that entered the Display effectiveness zones across the entire store. The dotted line is the average number of entries across Display effectiveness zones during the selected time frame.
 
-**Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within Display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all Display effectiveness zones during the selected time frame.
+**Average engagement across displays by [time slice (day, hour)].** This graph shows the average time, in seconds, that people engaged (dwelled) within Display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all Display effectiveness zones during the selected time frame.
 
 ### Queue management graphs
 

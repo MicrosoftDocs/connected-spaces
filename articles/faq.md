@@ -1,15 +1,15 @@
 ---
 author: kfrankc-ms
-description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Store.
+description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 09/01/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Dynamics 365 Connected Store FAQ
+title: Dynamics 365 Connected Store Preview FAQ
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Connected Store FAQ
+# Dynamics 365 Connected Store Preview FAQ
 
 ## Are all IP cameras supported?
 
@@ -88,8 +88,16 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
     At this point, Setup completes the following actions:
 
-    - Assigns the Dynamics 365 Connected Store Public Preview trial license to your company's Azure AD tenant.
+    - Assigns the Dynamics 365 Connected Store Preview trial license to your company's Azure AD tenant.
     
     - Assigns a client license for this trial to your admin user account.
 
 6. [Install Connected Store](admin-install-web-app.md).
+
+## How do I notify shoppers about the use of Dynamics 365 Connected Store in my store?
+
+While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns about the purposes and use of camera and video technology, potentially impacting trust in your brand. To help shoppers understand your store’s approach to data privacy, refer to the [best practices for communicating with shoppers](communication-plan.md).
+
+## See also
+
+[Known issues](known-issues.md)

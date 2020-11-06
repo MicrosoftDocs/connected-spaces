@@ -1,17 +1,17 @@
 ---
 author: alissapolucha
-description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Store (public preview) 
+description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Store Preview
 ms.author: alissag
-ms.date: 07/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Connect a camera to a gateway in Dynamics 365 Connected Store (public preview) 
+title: Connect a camera to a gateway in Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Connect a camera to a gateway in the Dynamics 365 Connected Store (public preview) mobile app
+# Connect a camera to a gateway in the Dynamics 365 Connected Store Preview mobile app
 
-After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Store (public preview) mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Store-approved camera on the same network as your gateway.
+After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Store Preview mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Store-approved camera on the same network as your gateway.
 
 If your store has multiple gateways, you’ll need to access them one-by-one to see all the connected or available cameras. You can pair up to 10 cameras per gateway. If you need more cameras for your store, contact your account manager to request an additional gateway.
 
@@ -29,7 +29,7 @@ If you haven't already installed your cameras, see:
 
     ![Plus sign button](media/add-camera.PNG "Plus sign button")
     
-2. To get the list of available cameras, enter the starting and ending IP addresses, and the RTSP port. For more information on IP range and port, see [Prepare your network for Azure Stack Edge](ase-install.md).
+2. To get the list of available cameras, enter the starting and ending IP addresses, and the RTSP port. For more information on IP range and port, see [Prepare your network for Azure Stack Edge Pro](ase-install.md).
 
     ![Camera IP range and port](media/camera-ip-range.PNG "Camera IP range and port")
  
@@ -65,7 +65,7 @@ To get more information about a camera:
     |Field|Description|
     |-------------------|----------------------------------------------------|
     |**Name**|The friendly name of the camera|
-    |**Network**|The IP Address and MAC Address. For more information, see [prepare your network and install Azure Stack Edge](ase-install.md).|
+    |**Network**|The IP Address. For more information, see [prepare your network and install Azure Stack Edge Pro](ase-install.md).|
     |**Credentials**|The username and password for the camera|
     
     >[!IMPORTANT]

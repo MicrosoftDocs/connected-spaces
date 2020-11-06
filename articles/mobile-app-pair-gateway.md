@@ -1,27 +1,27 @@
 ---
 author: alissapolucha
-description: Learn how to use the Dynamics 365 Connected Store (public preview) mobile app to pair a gateway so you can connect LP cameras.
+description: Learn how to use the Dynamics 365 Connected Store Preview mobile app to pair a gateway so you can connect LP cameras.
 ms.author: alissag
-ms.date: 07/23/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
+title: Pair a gateway with the Dynamics 365 Connected Store Preview mobile app
 ms.reviewer: v-brycho
 ---
 
-# Pair a gateway with the Dynamics 365 Connected Store (public preview) mobile app
+# Pair a gateway with the Dynamics 365 Connected Store Preview mobile app
 
-Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store (public preview) mobile app, you need to:
+Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store Preview mobile app, you need to:
 
-1. [Install Azure Stack Edge](ase-install.md)
+1. [Install Azure Stack Edge Pro (2 GPU)](ase-install.md)
 
-2. [Connect Azure Stack Edge to your network](ase-connect.md)
+2. [Connect Azure Stack Edge Pro to your network](ase-connect.md)
 
 3. [Create a store with the mobile app](mobile-app-create-store.md)
 
 ## Pair a gateway
 
-To complete this procedure, you'll use the mobile app and your laptop, which should be connected to Azure Stack Edge as described in [Connect Azure Stack Edge to your network](ase-connect.md).
+To complete this procedure, you'll use the mobile app and your laptop, which should be connected to Azure Stack Edge Pro as described in [Connect Azure Stack Edge Pro to your network](ase-connect.md).
 
 1.	On the **Stores** page, tap a store in the Stores list. 
 
@@ -38,6 +38,9 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     “Go to aka.ms/activategateway on your laptop and enter the following serial number to get the activation key of your gateway.”
 
     ![Pairing instructions](media/pairing-instructions.PNG "Pairing instructions")
+    
+    > [!NOTE]
+    > If you don't see the serial number in the mobile app, you can also find it in the Azure Stack Edge Pro user interface, or on the Azure Stack Edge Pro gateway itself. The pull-out tab on the front of the gateway (behind the faceplate) contains the serial number.
 
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
 
@@ -47,23 +50,26 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
     ![Device serial number box](media/security-number.PNG "Device serial number box")
  
-7.	Select the store you created earlier in the mobile app, and then select **Submit**.
+7.	Select the store you created earlier in the mobile app, and then select 
+
+    > [!IMPORTANT]
+    > Make sure to press the **Submit** button just once. When you press **Submit**, Connected Store starts the process to generate the activation key. It takes a few minutes to generate the key. 
 
     ![Select store name](media/select-store-name.PNG "Select store name")
 
     > [!IMPORTANT]
-    > You must activate Azure Stack Edge within 24 hours after the activation key is generated. 
+    > You must activate Azure Stack Edge Pro within 24 hours after the activation key is generated. 
  
-8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
+8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge Pro **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
     ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
     The activation process can take from one to ten minutes. 
     
     >[!TIP] 
-    >You can select the **Bell** button in the upper-right corner of the **Azure Stack Edge** page to monitor activation status. 
+    >You can select the **Bell** button in the upper-right corner of the **Azure Stack Edge** Pro page to monitor activation status. 
     
-    When the device is activated, a notification will appear in the **Azure Stack Edge** page to let you know that the activation is complete. 
+    When the device is activated, a notification will appear in the **Azure Stack Edge** Pro page to let you know that the activation is complete. 
 
     ![Device activated notification](media/device-activated.PNG "Device activated notification")
  
@@ -71,7 +77,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     
     ![Gateways page in mobile app showing gateway is paired](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
     
-    After Azure Stack Edge is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
+    After Azure Stack Edge Pro is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
     
 > [!NOTE]
 > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.

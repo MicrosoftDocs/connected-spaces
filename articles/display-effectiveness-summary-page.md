@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to view the Display effectiveness summary page in the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+description: Learn how to view the Display effectiveness summary page in the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: View the Display effectiveness summary page in the Dynamics 365 Connected Store (public preview) web app
+title: View the Display effectiveness summary page in the Dynamics 365 Connected Store Preview web app
 ms.reviewer: v-brycho
 ---
 
-# View the Display effectiveness summary page in the Dynamics 365 Connected Store (public preview) web app
+# View the Display effectiveness summary page in the Dynamics 365 Connected Store Preview web app
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store (public preview) web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics*, Display effectiveness*, and Queue management camera skill zones. This article focuses on the summary page for the Display effectiveness skill zone. 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics*, Display effectiveness*, and Queue management camera skill zones. This article focuses on the summary page for the Display effectiveness skill zone. 
 
 ## View the Display effectiveness summary page
 
@@ -56,11 +56,11 @@ The **Display effectiveness summary** page also includes the **3 busiest display
 
 ![Graphs and table](media/analytics-27.PNG "Graphs and table")
 
-**3 busiest displays.** This graph shows the people count trend data for the three Display effectiveness zones that, on average, 
+**3 busiest displays by day.** This graph shows the people count trend data for the three Display effectiveness zones that, on average, 
 received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall 
 across all Display effectiveness zones, illustrated by the dotted line.
 
-**3 most engaging displays.** This graph shows the dwell time trend data for the three Display effectiveness zones in which people, 
+**3 most engaging displays by day.** This graph shows the dwell time trend data for the three Display effectiveness zones in which people, 
 on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement 
 (dwell) time across all Display effectiveness zones, illustrated by the dotted line.
 

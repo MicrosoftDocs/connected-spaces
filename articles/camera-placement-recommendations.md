@@ -1,17 +1,17 @@
 ---
 author: kfrankc-ms
-description: Learn how to place LP cameras for use with Dynamics 365 Connected Store (public preview), including height, mounting angle, and camera-to-focal-point distance
+description: Learn how to place LP cameras for use with Dynamics 365 Connected Store Preview, including height, mounting angle, and camera-to-focal-point distance
 ms.author: frch
-ms.date: 09/10/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Camera placement recommendations for Dynamics 365 Connected Store (public preview)
+title: Camera placement recommendations for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Camera placement recommendations for Dynamics 365 Connected Store (public preview)
+# Camera placement recommendations for Dynamics 365 Connected Store Preview
 
-This topic provides camera placement recommendations for Microsoft Dynamics 365 Connected Store (public preview). It includes general guidelines, and also specific recommendations for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
+This topic provides camera placement recommendations for Microsoft Dynamics 365 Connected Store Preview. It includes general guidelines, and also specific recommendations for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
 
 ## General guidelines
 
@@ -70,11 +70,11 @@ camera.
 
 This distance is measured on the floor plane.
 
-![How camera-to-focal-point-distance is measured](media/camera-to-focal-point-1.PNG "How camera-to-focal-point-distance is measured")
+![How camera-to-focal-point-distance is measured on floor plane](media/camera-to-focal-point-1.PNG "How camera-to-focal-point-distance is measured on floor plane")
 
 From above, it looks like this:
 
-![How camera-to-focal-point-distance is measured](media/camera-to-focal-point-2.PNG "How camera-to-focal-point-distance is measured")
+![How camera-to-focal-point-distance is measured from above](media/camera-to-focal-point-2.PNG "How camera-to-focal-point-distance is measured from above")
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
 These distances are for optimal placement and are suitable for end caps (display effectiveness), queues, or entrances. 
@@ -197,4 +197,4 @@ Images in this guide are intended to represent a potential placement of a custom
 
 ## Next step
 
-After you receive your Azure Stack Edge device, you can [prepare your network and install it](ase-install.md).
+After you receive your Azure Stack Edge Pro (2 GPU) device, you can [prepare your network and install it](ase-install.md).

@@ -1,18 +1,18 @@
 ---
 author: alissapolucha
-description: Learn how to create a store by using the Dynamics 365 Connected Store (public preview) mobile app
+description: Learn how to create a store by using the Dynamics 365 Connected Store Preview mobile app
 ms.author: alissag
-ms.date: 07/08/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Create a store with the Dynamics 365 Connected Store (public preview) mobile app 
+title: Create a store with the Dynamics 365 Connected Store Preview mobile app 
 ms.reviewer: v-brycho
 ---
 
-# Create a store with the Dynamics 365 Connected Store (public preview) mobile app
+# Create a store with the Dynamics 365 Connected Store Preview mobile app
 
-After you [prepare your network and install Azure Stack Edge](ase-install.md), you’re ready to create a store with the 
-Microsoft Dynamics 365 Connected Store (public preview) mobile app. 
+After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store with the 
+Microsoft Dynamics 365 Connected Store Preview mobile app. 
 
 >[!NOTE]
 >[Download the mobile app if you haven't already](mobile-app-download.md).
@@ -30,7 +30,14 @@ Microsoft Dynamics 365 Connected Store (public preview) mobile app.
    b. In the **Allow Location Access** field, move the slider to the On position if you want to detect the location from your 
 mobile device. You can also enter your location manually, but make sure to enter the information carefully since this field doesn't autofill.
 
-   c. Tap the **Add Store Image** field, and then do one of the following:
+   c. In the **Time Zone** field, set the time zone for your store.
+   
+   > [!NOTE]
+   > You can also set the time zone through the **Settings** command in the web app. 
+
+   d. In the **Maximum Occupancy** field, set the total store capacity (number of people) across all entrances for total visitors at one time.
+
+   e. Tap the **Store Image** field, and then do one of the following:
 
       - Select a photo from your phone files.
 

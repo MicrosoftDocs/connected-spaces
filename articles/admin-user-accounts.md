@@ -1,17 +1,17 @@
 ---
 author: alwinv
-description: Learn how to give users permissions to use Dynamics 365 Connected Store (public preview).
+description: Learn how to give users permissions to use Dynamics 365 Connected Store Preview.
 ms.author: alwinv
-ms.date: 10/06/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Give users permissions to use Dynamics 365 Connected Store (public preview)
+title: Give users permissions to use Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Give users permissions to use Dynamics 365 Connected Store (public preview)
+# Give users permissions to use Dynamics 365 Connected Store Preview
 
-As an Azure Active Directory global admin, you can assign security roles to user accounts to enable users to do different tasks in Microsoft Dynamics 365 Connected Store (public preview).
+As an Azure Active Directory global admin, you can assign security roles to user accounts to enable users to do different tasks in Microsoft Dynamics 365 Connected Store Preview.
 
 ## Connected Store security roles
 
@@ -72,5 +72,6 @@ The following table describes the privileges that each role grants.
 ## Next step
 
 [Start planning camera placement](camera-placement-checklist.md)
+
 
 
