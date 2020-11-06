@@ -1,15 +1,15 @@
 ---
 author: alwinv
-description: Learn about what to communicate with your shoppers about if you're Dynamics 365 Connected Store.
+description: Learn about what to communicate with your shoppers about if you're using Dynamics 365 Connected Store Preview.
 ms.author: alwinv
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Communicate with your shoppers about the use of Dynamics 365 Connected Store in your store
+title: Communicate with your shoppers about the use of Dynamics 365 Connected Store Preview in your store
 ms.reviewer: v-brycho
 ---
 
-# Communicating with your shoppers about the use of Dynamics 365 Connected Store 
+# Communicating with your shoppers about the use of Dynamics 365 Connected Store Preview
 
 While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns, potentially impacting trust in your brand.      
 

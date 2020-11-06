@@ -1,19 +1,19 @@
 ---
 author: alwinv
-description: Introduction to Dynamics 365 Connected Store (public preview)
+description: Introduction to Dynamics 365 Connected Store Preview
 ms.author: alwinv
-ms.date: 07/08/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of Dynamics 365 Connected Store (public preview)
+title: Overview of Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Overview of Dynamics 365 Connected Store (public preview)
+# Overview of Dynamics 365 Connected Store Preview
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4GRQM]
 
-Microsoft Dynamics 365 Connected Store (public preview) brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Store delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
+Microsoft Dynamics 365 Connected Store Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Store delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
 
 ![Woman at counter demonstrating queue management](media/overview.PNG "Woman at counter demonstrating queue management")
 
@@ -27,7 +27,7 @@ Dynamics 365 Connected Store enables you to:
 
 ## Scenarios
 
-The public preview release enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
+The preview release enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
 - **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.  
 
@@ -39,5 +39,5 @@ Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/re
 
 ## Next step
 
-[Learn how to get started with Dynamics 365 Connected Store (public preview)](get-started.md)
+[Learn how to get started with Dynamics 365 Connected Store Preview](get-started.md)
 

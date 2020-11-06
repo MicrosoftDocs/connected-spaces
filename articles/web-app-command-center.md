@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Command Center in Dynamics 365 Connected Store to set up an email notification when maximum store occupancy thresholds are exceeded.
+description: Learn how to use the Command Center in Dynamics 365 Connected Store Preview to set up an email notification when maximum store occupancy thresholds are exceeded.
 ms.author: labryan
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Use the Command Center in the Dynamics 365 Connected Store web app to set up a maximum store occupancy notification
+title: Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification
 ms.reviewer: v-brycho
 ---
 
-# Use the Command Center in the Dynamics 365 Connected Store web app to set up a maximum store occupancy notification 
+# Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification 
 
-You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Store mobile app. When you set the **Maximum occupancy** value, 
+You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Store Preview mobile app. When you set the **Maximum Occupancy** value, 
 you'll see the following items on the [**Shopper Analytics Summary** page](shopper-analytics-summary-page.md):
 
 - **Over capacity** card
@@ -21,11 +21,11 @@ you'll see the following items on the [**Shopper Analytics Summary** page](shopp
 - **Footfall power hours** heatmap
 
 You can use the Command Center if you also want to send an email notification when maximum occupancy thresholds are exceeded. You do this by customizing a 
-Power Automate flow template. After setting up the template, the designated user(s) will receive reminders at the frequency you set while the store occupancy 
+Power Automate flow template. After customizing the template, the designated user(s) will receive reminders at the frequency you set while the store occupancy 
 remains above the maximum occupancy threshold.
 
 > [!IMPORTANT]
-> You must allow pop-ups in your browser to receive the email notifications (pop-up blockers must be disabled).
+> You must allow pop-ups (pop-up blockers must be disabled) in your browser to receive the email notifications.
 
 ## Customize a Power Automate flow to send email notifications when the maximum occupancy threshold is exceeded
 
@@ -41,7 +41,7 @@ remains above the maximum occupancy threshold.
 
     ![Connected Store widget](media/command-center-connected-store-widget.PNG "Connected Store widget")
 
-    If you don't see it on your screen, select **See more templates**.
+    If you don't see the widget on your screen, select **See more templates**.
 
     ![See more templates button in the Command Center](media/command-center-see-more-templates.PNG "See more templates button in the Command Center")
     
@@ -53,9 +53,7 @@ remains above the maximum occupancy threshold.
     
     ![Power Automate website page with Connected Store widget](media/command-center-power-automate-website.PNG "Power Automate website page with Connected Store widget")
     
-5. Select the Connected Store widget to load the template.
-
-6. Select **Continue**.
+5. Select the Connected Store widget to load the template, and then select **Continue**.
 
     ![Continue button for Connected Store flow](media/command-center-continue-button.PNG "Continue button for Connected Store flow")
 
@@ -65,7 +63,7 @@ remains above the maximum occupancy threshold.
 
     ![Set Email Address section of Send alert flow](media/command-center-set-email-address.PNG "Set Email Address section of Send alert flow")
 
-    > [TIP]
+    > [!TIP]
     > You can also choose to have alerts sent to a specific Microsoft Teams channel. To do this, locate the desired channel in Teams, select the **More options** (...) button to the right of the channel name, select **Get email address**, copy the email address, and then paste it into the **Value** field. 
     >
     > ![Get email address command in Microsoft Teams](media/command-center-teams-email-link.PNG "Get email address command in Microsoft Teams")

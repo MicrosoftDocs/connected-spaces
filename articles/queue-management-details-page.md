@@ -1,17 +1,17 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to view the Queue management details page in the Dynamics 365 Connected Store (public preview) web app to get insights on your store
+description: Learn how to view the Queue management details page in the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: View the Queue management details page in the Dynamics 365 Connected Store (public preview) web app
+title: View the Queue management details page in the Dynamics 365 Connected Store Preview web app
 ms.reviewer: v-brycho
 ---
 
-# View the Queue management details page in the Dynamics 365 Connected Store (public preview) web app
+# View the Queue management details page in the Dynamics 365 Connected Store Preview web app
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store (public preview) web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Queue management skill zone, which is available from the [Queue management summary page](queue-management-summary-page.md). 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Queue management skill zone, which is available from the [Queue management summary page](queue-management-summary-page.md). 
 
 ## View the Queue management details page
 
@@ -31,7 +31,7 @@ On the **Queue management details** page, you can use the cards and graphs to un
 
 ## Highlights banner
 
-The banner at the top of the page highlights the key takeaways and comparisons for the specific queue. The **Store footfall** card is carried over from the [**Analytics page**](web-app-get-insights.md). 
+The banner at the top of the page highlights the key takeaways and comparisons for the specific queue. The **Store entries** card is carried over from the [**Analytics page**](web-app-get-insights.md). 
 
 **Longest queue.** This card highlights the value for the greatest number of people who occupied the specific Queue management zone, along with the date when it occurred, for the selected time frame.
 
@@ -55,7 +55,7 @@ The subscript describes the absolute change in this value for the current time f
 
 The **Longest queue at [Queue 1]** and **Average wait time at [Queue 1]** graphs appear at the bottom of the page.
 
-**Longest queue at [Queue 1].** This graph shows the people count trend data for the specific Queue management zone that received the greatest footfall for each timepoint (hour, day) during the selected time frame.
+**Longest queue at [Queue 1].** This graph shows the people count trend data for the specific Queue management zone that received the greatest number of entries for each timepoint (hour, day) during the selected time frame.
 
 **Average wait time at [Queue 1].** This graph shows the average wait (dwell) time trend data for the specific Queue management zone during the selected time frame.
 

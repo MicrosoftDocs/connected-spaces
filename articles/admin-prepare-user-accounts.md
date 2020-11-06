@@ -1,17 +1,17 @@
 ---
 author: alwinv
-description: Learn how to prepare user accounts in the Microsoft admin center to use with Dynamics 365 Connected Store (public preview)
+description: Learn how to prepare user accounts in the Microsoft admin center to use with Dynamics 365 Connected Store Preview
 ms.author: alwinv
 ms.date: 07/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Prepare user accounts for Dynamics 365 Connected Store (public preview)
+title: Prepare user accounts for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Prepare user accounts for Dynamics 365 Connected Store (public preview)
+# Prepare user accounts for Dynamics 365 Connected Store Preview
 
-To add additional users to Microsoft Dynamics 365 Connected Store (public preview), you must first assign the Dynamics 365 Connected Store Public Preview license to a new or existing user in the Microsoft 365 admin center. Then you can configure the roles that the users will have access to (**Connected Store Admin** or **Connected Store Viewer**).
+To add additional users to Microsoft Dynamics 365 Connected Store Preview, you must first assign the Dynamics 365 Connected Store Preview license to a new or existing user in the Microsoft 365 admin center. Then you can configure the roles that the users will have access to (**Connected Store Admin** or **Connected Store Viewer**).
 
 ## Create new user accounts in the Microsoft 365 admin center
 

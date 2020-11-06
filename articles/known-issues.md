@@ -1,15 +1,39 @@
 ---
 author: kfrankc-ms
-description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store.
+description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 10/15/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Known issues with Dynamics 365 Connected Store
+title: Known issues with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Dynamics 365 Connected Store
+# Known issues with Dynamics 365 Connected Store Preview
+
+## Newly created store doesn’t appear in Store list
+
+If you have a slow network connection, and if you create a store, the store may not immediately appear in the Store list. Select the **Refresh** button at the top of the page to update the Store list.
+
+## In the Contoso sample store, hourly data breakdown in the Daily view is unavailable
+
+If you select a single day to view, there will be a single data point. Higher granularity hourly data will be available in a future product update.
+
+## Time/Date formatting in the web app **Analytics** page does not auto adjust based on region
+
+To work around this:
+
+1. Select the **Settings** button, and then select **Personalization Settings**.
+
+    ![Settings list with Personalization Settings command](media/known-issues-personalization-settings.PNG "Settings list with Personalization Settings command")
+    
+2. Select the **Formats** tab, and then select the appropriate region from the **Current Format** list.
+
+    ![Current Format list showing selections to choose from](media/known-issues-current-format-list.PNG "Current Format list showing selections to choose from")
+    
+## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000-action-per-day limit for a preview SKU
+
+[Learn more about Power Automate limitations](https://docs.microsoft.com/power-automate/limits-and-config#daily-limits).
 
 ## I see the following message when I install Connected Store: "It's taking longer than usual to validate your license. Please contact your administrator or sign up here."
 

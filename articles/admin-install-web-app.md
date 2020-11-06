@@ -1,17 +1,17 @@
 ---
 author: alwinv
-description: Learn how to install Dynamics 365 Connected Store (public preview)
+description: Learn how to install Dynamics 365 Connected Store Preview
 ms.author: alwinv
-ms.date: 10/06/2020
+ms.date: 11/06/2020
 ms.service: crm-online
 ms.topic: article
-title: Install Dynamics 365 Connected Store (public preview)
+title: Install Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Install Dynamics 365 Connected Store (public preview) 
+# Install Dynamics 365 Connected Store Preview
 
-After you have [created an Azure Active Directory tenant](admin-create-new-tenant.md) for Microsoft Dynamics 365 Connected Store (public preview), you can 
+After you have [created an Azure Active Directory tenant](admin-create-new-tenant.md) for Microsoft Dynamics 365 Connected Store Preview, you can 
 install Dynamics 365 Connected Store.
 
 >[!NOTE]
