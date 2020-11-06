@@ -14,11 +14,14 @@ ms.reviewer: v-brycho
 After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynamics 365 Connected Store Preview, you'll need to prepare your network and install the device. If you haven't already ordered the gateway, see [Order the Azure Stack Edge Pro gateway](admin-request-ase.md). 
 
 > [!IMPORTANT]
-> The Azure Stack Edge Pro gateway that you order for Connected Store Preview can only be used for Connected Store Preview. You can't deploy any other resources to Azure Stack Edge Pro during the preview. 
+> This document provides helpful guidelines, but it is your responsibility to ensure you are properly securing and maintaining the equipment and infrastructure located on your premises, including Azure Stack Edge Pro, your cameras, network, and video feeds from your cameras.
 
 ## Azure Stack Edge Pro installation requirements	
 
-The following table shows the requirements for installing and connecting the Azure Stack Edge Pro gateway for Dynamics 365 Connected Store.
+> [!NOTE]
+> The Azure Stack Edge Pro gateway that you order for Connected Store Preview can only be used for Connected Store Preview. You can't deploy any other resources to Azure Stack Edge Pro during the preview. 
+
+The following table shows tips for installing and connecting the Azure Stack Edge Pro gateway for Dynamics 365 Connected Store.
 
 |Requirement|Description|
 |----------------|--------------------------------------------------------------------------------------------|
