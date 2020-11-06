@@ -58,11 +58,11 @@ The subscript in this card describes the absolute change in this value for the c
 
 ## Graphs
 
-There are two graphs at the bottom of the page: **3 longest queues** and **3 slowest queues**.
+There are two graphs at the bottom of the page: **3 longest queues by day** and **3 slowest queues by day**.
 
-**3 longest queues.** This graph shows the people count trend data for the three Queue management zones that received the greatest footfall during the selected time frame.
+**3 longest queues by day.** This graph shows the people count trend data for the three Queue management zones that received the greatest footfall during the selected time frame.
 
-**3 slowest queues.** This graph depicts the wait (dwell) time trend data for the three Queue management zones in which people, on average, spent the most time during the selected time frame. 
+**3 slowest queues by day.** This graph depicts the wait (dwell) time trend data for the three Queue management zones in which people, on average, spent the most time during the selected time frame. 
 
 To see data values for each queue, hover over the graph. 
 
