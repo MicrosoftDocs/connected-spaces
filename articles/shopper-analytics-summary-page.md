@@ -94,7 +94,7 @@ There are several graphs on this page:
 
     ![Footfall power hours details](media/analytics-footfall-power-hours-details.PNG "Footfall power hours details")
 
-- **Footfall at *Entrance x***. You can view trends for individual zones in these line graphs (for example, **Footfall at 6th Ave**).
+- **Total entries at *Entrance x* - entries**. You can view trends for individual zones in these line graphs (for example, **Footfall at 6th Ave**).
 
     ![Footfall at Entrance 1 example](media/analytics-footfall-entrance-x.PNG "Footfall at Entrance 1 example")
 
