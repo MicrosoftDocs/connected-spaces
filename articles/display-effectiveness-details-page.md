@@ -24,7 +24,7 @@ To see details for a specific Display effectiveness zone in Microsoft Dynamics 3
 
 On this page, you can use the cards and graphs to understand:
 
-- Of total store visitors (assuming the store has been configured to capture footfall at store entry), *how many people passed by the 
+- Of total store visitors (assuming the store has been configured to capture store entries), *how many people passed by the 
 display?*
 
 - Of display passersby, *how many people visited the display?*
@@ -37,7 +37,7 @@ display?*
 
 ## Highlights banner
 
-The highlights banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store footfall** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
+The highlights banner at the top of the page provides a loose indication of a customer acquisition funnel. The **Store entries** card is carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Display passersby.** This card highlights the number of people that passed within the camera field of view that contains the 
 Display effectiveness zone of interest. This gives you an indication of how much traffic passed by the display. 
@@ -46,9 +46,9 @@ Display effectiveness zone of interest. This gives you an indication of how much
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
 
-**Display footfall.** This card highlights the number of people who entered the Display effectiveness zone. 
+**Display entries.** This card highlights the number of people who entered the Display effectiveness zone. 
 
-![Display footfall card](media/analytics-33.PNG "Display footfall card")
+![Display entries card](media/analytics-33.PNG "Display entries card")
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
@@ -63,14 +63,14 @@ using the friendly name assigned to the side.
 
 ![Busiest entrance card](media/analytics-20.PNG "Busiest entrance card")
 
-The subscript in the card details how much of the total display footfall came through that side.
+The subscript in the card details show much of the total display entries came through that side.
 
 **Busiest exit.** This card highlights the side of the Display effectiveness zone through which most people exited, using the 
 friendly name assigned to the side. 
 
 ![Busiest exit card](media/analytics-36.PNG "Busiest exit card")
 
-The subscript in the card details how much of total display footfall came through that side.
+The subscript in the card details how much of total display entries came through that side.
 
 ## Graphs
 
