@@ -32,9 +32,9 @@ In the retail store(s), the Connected Store edge gateway is used to process the 
 
 - **Camera snapshot image** – During setup and configuration, a snapshot image from an in-store camera is encoded and passed through to the Connected Store mobile app via the Connected Store cloud service. The base64 encoded image is only temporarily cached in memory (less than 2 minutes) on the Connected Store cloud so it can pass through to the Connected Store mobile app for zone configuration.
  
-In the Connected Store cloud service on Azure, the following types of data are processed to provide the service:
+In the Connected Store cloud service on Azure, the following types of data are processed at the instructions of the customer to provide the service:
 
-- **Insights data** - The inference data described above is aggregated and correlated with other business data to turn into insights data that is stored in the Connected Store cloud for viewing via the Connected Store web app. Insights data includes: 
+- **Insights data** - The inference data described above is aggregated and correlated with other business data to turn into insights data that is stored in the Connected Store cloud for viewing via the Connected Store web app. The customer may delete the data at any time and must delete the data in accordance with applicable legal obligations. Insights data includes: 
 
    - Time stamp - summarized by hour or other time interval
 
@@ -74,7 +74,7 @@ The AI inferencing requires only images to be streamed from customers’ cameras
 
 This inferenced data is then sent to the Connected Store cloud for further processing and aggregation with other customer business data and configuration data to deliver insights that are accessible via the Connected Store web app.  
 
-Customer data processed in the Connected Store cloud is used to provide customers with the Connected Store service, including by providing insights about retail locations, and also to improve and troubleshoot the Connected Store cloud service and other operations incident to delivering the services (for example, managing your account, internal reporting, and improving core functionality such as privacy and accessibility). While Dynamics 365 Connected Store is still in a preview phase, some privacy measures may differ from controls in place for Microsoft commercial cloud services. However, for any personal data sent to the Connected Store cloud service, Microsoft provides the contractual commitments required by Article 28 of the GDPR.
+Customer data processed in the Connected Store cloud is used to provide customers with the Connected Store service, including by providing insights about retail locations, and also to improve and troubleshoot the Connected Store cloud service and other operations incident to delivering the services (for example, managing your account, internal reporting, and improving core functionality such as privacy and accessibility). The customer may delete the data at any time. While Dynamics 365 Connected Store is still in a preview phase, some privacy measures may differ from controls in place for Microsoft commercial cloud services. However, for any personal data sent to the Connected Store cloud service, Microsoft provides the contractual commitments required by Article 28 of the GDPR.
 
 
 

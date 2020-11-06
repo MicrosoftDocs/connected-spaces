@@ -104,7 +104,7 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 **Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
 
-**Total occupancy across store by [time slice (day, hour)].**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
+**Peak footfall by [time slice (day, hour)].**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
 ### Display effectiveness graphs
 
@@ -118,12 +118,12 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 ![Shopper management graphs section of Analytics page](media/analytics-15.PNG "Shopper management graphs section of Analytics page")
 
-**Longest queue in store.** This graph shows the people count of the queue that had the most people for the selected time frame. 
+**Longest queue across store by [time slice (day, hour)].** This graph shows the people count of the queue that had the most people for the selected time frame. 
 
 > [!NOTE]
 > The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
 
-**Average wait time across all queues.** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all Queue management zones during the selected time frame.
+**Average wait time across all queues by [time slice (day, hour)].** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all Queue management zones during the selected time frame.
 
 ## Next steps
 

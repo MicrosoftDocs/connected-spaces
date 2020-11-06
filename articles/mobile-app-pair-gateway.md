@@ -50,7 +50,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
  
     ![Device serial number box](media/security-number.PNG "Device serial number box")
  
-7.	Select the store you created earlier in the mobile app, and then select 
+7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
     > [!IMPORTANT]
     > Make sure to press the **Submit** button just once. When you press **Submit**, Connected Store starts the process to generate the activation key. It takes a few minutes to generate the key. 
@@ -60,16 +60,16 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     > [!IMPORTANT]
     > You must activate Azure Stack Edge Pro within 24 hours after the activation key is generated. 
  
-8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge Pro **Get Started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
+8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge Pro **Get started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
     ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
  
     The activation process can take from one to ten minutes. 
     
     >[!TIP] 
-    >You can select the **Bell** button in the upper-right corner of the **Azure Stack Edge** Pro page to monitor activation status. 
+    >You can select the **Bell** button in the upper-right corner of the **Azure Stack Edge Pro** page to monitor activation status. 
     
-    When the device is activated, a notification will appear in the **Azure Stack Edge** Pro page to let you know that the activation is complete. 
+    When the device is activated, a notification will appear in the **Azure Stack Edge Pro** page to let you know that the activation is complete. 
 
     ![Device activated notification](media/device-activated.PNG "Device activated notification")
  
@@ -95,9 +95,6 @@ To modify the IP range used to get the list of available cameras:
     ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
     
 3. When you’re finished, select the check mark in the upper-right corner of the screen.
-
->[!NOTE]
->The **Port** field shows which Port your network is connected to.
   
 ## Sort the Gateways list
 

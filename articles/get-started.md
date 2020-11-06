@@ -25,7 +25,7 @@ In each of your retail stores, you’ll:
 
 - Use the mobile app to create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 
-The Azure cloud service:
+The cloud service:
 
 - Receives and stores the stream of datapoints.
 
