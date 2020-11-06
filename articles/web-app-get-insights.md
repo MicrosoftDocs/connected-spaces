@@ -102,17 +102,17 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total entries across store.** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
+**Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
 
-**Total occupancy across store.**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
+**Total occupancy across store by [time slice (day, hour)].**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
 ### Display effectiveness graphs
 
 ![Display effectiveness graphs section of Analytics page](media/analytics-14.PNG "Display effectiveness graphs section of Analytics page")
 
-**Total entries across displays.** This graph shows the total number of people that entered the Display effectiveness zones across the entire store. The dotted line is the average number of entries across Display effectiveness zones during the selected time frame.
+**Total entries across displays by [time slice (day, hour)].** This graph shows the total number of people that entered the Display effectiveness zones across the entire store. The dotted line is the average number of entries across Display effectiveness zones during the selected time frame.
 
-**Average engagement across displays.** This graph shows the average time, in seconds, that people engaged (dwelled) within Display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all Display effectiveness zones during the selected time frame.
+**Average engagement across displays by [time slice (day, hour)].** This graph shows the average time, in seconds, that people engaged (dwelled) within Display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all Display effectiveness zones during the selected time frame.
 
 ### Queue management graphs
 
