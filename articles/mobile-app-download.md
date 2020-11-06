@@ -13,10 +13,10 @@ ms.reviewer: v-brycho
 
 Keep the following in mind before using the Microsoft Dynamics 365 Connected Store (public preview) mobile app:
 
-- Make sure that your cameras, network, and Azure Stack Edge have been installed for your store. 
+- Make sure that your cameras, network, and Azure Stack Edge Pro (2 GPU) have been installed for your store. 
 
    You’ll use the mobile app to complete the activation and pairing of the gateway. Learn how to [prepare your network and install 
-   Azure Stack Edge](ase-install.md).
+   Azure Stack Edge Pro](ase-install.md).
    
 - To sign in to the app, you’ll need the right permissions linked to your account. If you need help, check with your account admin.
 
@@ -24,6 +24,9 @@ Keep the following in mind before using the Microsoft Dynamics 365 Connected Sto
 latest experience, security, and bug fixes.
 
 To download the app for your device, go to the Apple App Store or use the following direct link: [Apple App store](https://aka.ms/ConnectedStoreAppleApp)    
+
+> [!IMPORTANT]
+> Make sure to use the latest version of the mobile app. If you use an older version of the app, you might experience limited functionality. To ensure your app is up-to-date, go to the app store links above. 
 
 ## Next steps
 
