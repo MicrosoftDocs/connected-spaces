@@ -104,7 +104,7 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 **Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
 
-**Peak footfall by [time slice (day, hour)].**  This graph shows how many people were in the store (store density), on an hourly average basis, taking into account the flow of people into AND out of the store, for the selected time frame.
+**Peak footfall by [time slice (day, hour)].**  This graph shows the maximum number of people that were in the store on an hourly basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
 ### Display effectiveness graphs
 
