@@ -76,4 +76,5 @@ This inferenced data is then sent to the Connected Store cloud for further proce
 
 Customer data processed in the Connected Store cloud is used to provide customers with the Connected Store service, including by providing insights about retail locations, and also to improve and troubleshoot the Connected Store cloud service and other operations incident to delivering the services (for example, managing your account, internal reporting, and improving core functionality such as privacy and accessibility). While Dynamics 365 Connected Store is still in a preview phase, some privacy measures may differ from controls in place for Microsoft commercial cloud services. However, for any personal data sent to the Connected Store cloud service, Microsoft provides the contractual commitments required by Article 28 of the GDPR.
 
-Shoppers may have privacy questions related to data collected and processed by retail stores. Connected Store customers can refer to the best practices outlined in [Communicating with shoppers](communication-plan.md) as they consider how best to communicate with their shoppers about data they collect and process and their use of Connected Store. 
+
+

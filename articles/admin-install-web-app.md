@@ -17,7 +17,7 @@ install Dynamics 365 Connected Store.
 >[!NOTE]
 >To install Connected Store, you must sign in with the global adminstrator account for your [Azure Active Directory tenant](admin-create-new-tenant.md), or with an account that has the System Administrator security role.
 
-1. [Go to the Connected Store setup page](https://go.microsoft.com/fwlink/?linkid=2143957).
+1. [Go to the Connected Store setup page](https://go.microsoft.com/fwlink/?linkid=2128110).
 
 2. Read through the [Terms of Use](https://go.microsoft.com/fwlink/?linkid=2128595), and then when you’re ready, select **Install**.
 
@@ -25,10 +25,16 @@ install Dynamics 365 Connected Store.
     
     Installing Connected Store can take 30 to 60 minutes. You’ll see a progress indicator showing where you are in the installation process. During this time, setup installs the Connected Store solutions in the selected environment. It also installs the Contoso Sample Store that you can use to [explore the web app by using sample data](launch-app.md). 
     
-    By default, setup creates a new trial (subscription-based) environment. If you want to install Connected Store in a different environment, select an environment from the **Choose environment** list. The list only shows environments that are enabled for installing Dynamics 365 applications. [Learn more about environments](https://docs.microsoft.com/power-platform/admin/environments-overview).
+    - Creates a Microsoft Power Platform environment for your Azure Active Directory tenant
     
-    ![Drop-down list of enabled environments](media/enabled-environments.PNG "Drop-down list of enabled environments")
-        
+    - Creates a Common Data Service instance and sets up a database
+    
+    - Installs the Connected Store solutions in the environment
+    
+    While Connected Store is being installed, you can watch a video demo and learn more about preparing for Connected Store.
+    
+    ![Welcome to Connected Store screen with video demo](media/demo-connected-store.PNG "Welcome to Connected Store screen with video demo")
+    
     If the setup process fails, you’ll see the following message:
    
     ![Installation failed message](media/install-failed-message.PNG "Installation failed message")

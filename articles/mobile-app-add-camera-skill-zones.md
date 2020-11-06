@@ -58,7 +58,7 @@ For the preview, each gateway supports up to 10 zones with a maximum of 1 skill 
 
 6.	In the next screen, make any changes to the fields to customize the skill for your store's needs.
 
-    ![Skill zone fields](media/skill-zone-fields1.PNG "Skill zone fields")
+    ![Skill zone fields](media/skill-zone-fields.png "Skill zone fields")
  
     The fields change depending on which skill you choose in step 2. The following table describes the fields for each skill zone.
 
@@ -76,7 +76,7 @@ For the preview, each gateway supports up to 10 zones with a maximum of 1 skill 
     > [!TIP]
     > You can edit, duplicate, or delete a skill at any time by tapping the **Actions** button for the skill you want to update.<br><br>**Duplicating** a skill copies the skill type, drawing, and details to a new record. You can then make edits to the skill and save.<br><br>**Deleting** a skill will permanently remove it from Azure Stack Edge Pro (2 GPU), the mobile app, and all collected data in the dashboards. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
     
-    ![Actions button](media/skill-zone-action-button-2.PNG "Actions button")
+    ![Actions button](media/skill-zone-action-button.png "Actions button")
  
 ## Sort the Skills list
 
