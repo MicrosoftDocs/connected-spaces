@@ -118,7 +118,7 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 ![Shopper management graphs section of Analytics page](media/analytics-15.PNG "Shopper management graphs section of Analytics page")
 
-**Longest queue in store.** This graph shows the people count of the queue that had the most people for the selected time frame. 
+**Longest queue across store by [time slice (day, hour)].** This graph shows the people count of the queue that had the most people for the selected time frame. 
 
 > [!NOTE]
 > The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
