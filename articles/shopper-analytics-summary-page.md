@@ -25,33 +25,33 @@ To go back to the **Analytics** page from the summary page, select from the brea
 
 ## The Shopper analytics summary page
 
-The **Shopper analytics summary** page includes insights related to footfall trends, patterns, changes, anomalies at store 
+The **Shopper analytics summary** page includes insights related to entry trends, patterns, changes, anomalies at store 
 entries/exits, and over capacity (determined by the [**Maximum Occupancy** setting in the mobile app](mobile-app-create-store.md)). This page shows a view of the performance of all Shopper analytics zones. You can explore how many people visited the store during a given timeframe, categorized by entrance.
 
 ![Shopper analytics summary page](media/analytics-18.PNG "Shopper analytics summary page")
 
 ## Highlights banner
 
-The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store footfall** and **Busiest day**, are carried over from the [**Analytics** page](web-app-get-insights.md). 
+The banner at the top of the page highlights the key takeaways and comparisons. The first two cards, **Store entries** and **Busiest day**, are carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Least busy day**. This card highlights the day and date within the selected time frame that had the least number of people, 
 along with the people count. 
 
 ![Least busy day card](media/analytics-19.PNG "Least busy day card")
 
-The subscript in the card describes the absolute change in this value for the current time frame compared to average footfall across all 
-displays during the selected time frame. The triangle to the left of the subscript indicates the difference in footfall for the 
-highlighted day, compared to the daily average footfall during the selected time frame. 
+The subscript in the card describes the absolute change in this value for the current time frame compared to average entries across all 
+displays during the selected time frame. The triangle to the left of the subscript indicates the difference in entries for the 
+highlighted day, compared to the daily average entries during the selected time frame. 
 
 **Busiest entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the greatest 
-footfall for the selected time frame. 
+entries for the selected time frame. 
 
 ![Busest entrance card](media/analytics-20.PNG "Busiest entrance card")
 
 The subscript in the card describes the absolute change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether this change was positive or negative. 
 
 **Least busy entrance.** This card highlights the name and corresponding value of the Shopper analytics zone that received the least 
-footfall for the selected time frame. 
+entries for the selected time frame. 
 
 ![Least busy entrance card](media/analytics-21.PNG "Least busy entrance card")
 
@@ -68,9 +68,9 @@ The subscript in the card describes the absolute change in this value for the cu
 
 There are several graphs on this page:
 
-- **Total footfall at all entrances**. This graph shows total store footfall according to the Shopper analytics zone. 
+- **Total store entries per entrance by [time slice (day, hour)]**. This graph shows total store entries according to the Shopper analytics zone. 
 
-    ![Total footfall at all entrances graph](media/analytics-total-footfall-entrances.PNG "Total footfall at all entrances graph")
+    ![Total store entries per entrance graph](media/analytics-total-footfall-entrances.PNG "Total store entries per entrance graph")
 
 - **Over capacity instances**. This graph shows trends in instances of over capacity across time for the selected time frame. In the example shown in the screen shot below, most instances of over capacity occurred on Friday. The gray dotted line reflects the average number of over-capacity instances for the selected time frame. 
 
