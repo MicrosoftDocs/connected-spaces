@@ -27,7 +27,7 @@ Microsoft Dynamics 365 Connected Store Preview mobile app.
 
    a. In the **Store Name** field, enter a friendly name for the store.
 
-   b. In the **Allow Location Access** field, move the slider to the On position if you want to detect the location from your 
+   b. In the **Location Access** field, move the slider to the On position if you want to detect the location from your 
 mobile device. You can also enter your location manually, but make sure to enter the information carefully since this field doesn't autofill.
 
    c. In the **Time Zone** field, set the time zone for your store.
@@ -52,7 +52,7 @@ mobile device. You can also enter your location manually, but make sure to enter
     
     ![Stores list](media/stores-list.PNG "Stores list")
     
-If this is the first store that you're creating in the mobile app, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
+If this is the first store that you're creating a store in the mobile app, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
     
  ## Get more information about a store
  
@@ -76,6 +76,7 @@ about a store, use this procedure.
     |**Store Name**|The friendly name of the store|
     |**Allow Location Access**|Allow your device to determine your location|
     |**Set Time Zone**|Set the time zone for the store|
+    |**Maximum Occupancy**|Set the total store capacity across all store entrances|
     |**Add Store Image**|Select a photo from your files or take a picture with your phone camera|
 
 4. When you’re finished, tap the check mark in the upper-right corner of the page to go back to the **Stores** page.
