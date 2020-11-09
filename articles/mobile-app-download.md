@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Download the mobile app for Dynamics 365 Connected Store Preview
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Download the Dynamics 365 Connected Store Preview mobile app
@@ -22,6 +22,9 @@ Keep the following in mind before using the Microsoft Dynamics 365 Connected Sto
 
 - You can install the app on multiple devices (iOS and Android). Whichever device you use, make sure to keep it up-to date-to get the 
 latest experience, security, and bug fixes.
+
+> [!NOTE]
+> The Connected Store mobile app will also run on new Apple silicon-based devices. Microsoft has not validated full compatibility for the preview release. 
 
 To download the app for your device, go to the Apple App Store or Google Play Store, or use the following direct links: 
 
