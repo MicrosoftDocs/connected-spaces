@@ -24,9 +24,9 @@ Connected Store uses the Azure Stack Edge Pro (2 GPU) gateway to transform video
 > [!IMPORTANT]
 > The Azure Stack Edge Pro hardware that you order for Connected Store Preview can only be used for Connected Store Preview. You can't deploy any other resources to Azure Stack Edge Pro during the preview. 
 
-1. In the [Connected Store Setup page](https://go.microsoft.com/fwlink/?linkid=2128110), select **Get gateway**.
+1. In the [Connected Store Setup page](https://go.microsoft.com/fwlink/?linkid=2128110), select **Order gateway**.
 
-2. Fill out the form. 
+2. Fill out the form, and then select **Next**. 
 
      ![Order gateway command and Azure Stack Edge Pro procurement form](media/get-gateway.PNG "Order gateway command and Azure Stack Edge Pro procurement form")
      
