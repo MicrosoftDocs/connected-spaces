@@ -43,9 +43,9 @@ To work around this issue, start a new Guest browser session, and then [go to th
 
 ![You're browsing as a Guest message](media/known-issues-guest-browser.PNG "You're browsing as a Guest message")
 
-## You can't delete stores, gateways, cameras, or skills in the mobile app
+## You can't delete stores, gateways, or cameras in the mobile app
 
-Currently, stores, gateways, cameras, and skills can't be deleted in the mobile app.
+Currently, stores, gateways, and cameras can't be deleted in the mobile app. Skills can be deleted, however once deleted, data cannot be recovered. If you're unsure about deleting a skill, you can make it inactive instead.
 
 ## Changing the time zone for a store only affects the data collected after making the change
 
