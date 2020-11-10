@@ -78,9 +78,9 @@ To work around this issue, generate the activation key again to unblock the stor
 
 Store details can't be updated or edited after the store is connected to a gateway.
 
-## A gateway can't support more than 10 zones
+## A gateway can't support more than 10 skills
 
-If you add more than 10 zones to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge.
+If you add more than 10 skills to a gateway, performance might become degraded because the number of people who are being tracked concurrently exceeds the performance threshold of Azure Stack Edge Pro. To add an additional skill, delete an existing skill, or make it inactive.
 
 ## To rename a camera in the mobile app, you must re-enter your ONVIF camera profile credentials
 
