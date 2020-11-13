@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn how to view the Display effectiveness details page in the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
-ms.date: 07/08/2020
+ms.date: 11/13/2020
 ms.service: crm-online
 ms.topic: article
 title: View the Display effectiveness details page in the Dynamics 365 Connected Store Preview web app
@@ -74,17 +74,16 @@ The subscript in the card details how much of total display entries came through
 
 ## Graphs
 
-There are three graphs at the bottom of the details page: **[Display 1] display footfall**, **[Display 1] display dwell time**, and **[Display 1] Enter/Exits sum**.
+There are three graphs at the bottom of the details page: **Total entries at [Display Name] display by day**, **Average engagement at [Display Name] display by day**, and **Enter/exit direction at [Display Name] display**.
 
 ![Display 1 display footfall card](media/analytics-37.PNG "Display 1 display footfall card")
 
-**[Display 1] display footfall.** This graph shows footfall into Display 1 for the selected time frame, compared to the average 
-footfall, represented by the dashed line for Display 1, during the selected time frame.
+**Total entries at [Display Name] display by day**. This graph shows entries into [Display Name] for the selected time frame, compared to the average 
+entries, represented by the dashed line, during the selected time frame.
 
-**[Display 1] display dwell time.** This graph shows the average time spent dwelling in the Display 1 zone for selected time frame, 
-compared to the average engagement (dwell) time, represented by the dashed line for Display 1, during the selected time frame.
+**Average engagement at [Display Name] display by day**. This graph shows the average time spent engaging (dwelling) in the [Display Name] zone for the selected time frame, compared to the average engagement (dwell) time, represented by the dashed line, during the selected time frame.
 
-**[Display 1] Enter/Exits sum.** This graph shows the break-down of footfall type by zone side, including how much traffic is 
+**Enter/exit direction at [Display Name] display**. This graph shows the break-down of entry type by zone side, including how much traffic is 
 coming/going from a specific direction into/out of the zone. Side names correspond to the friendly names created during skills/zone 
 configuration. 
 

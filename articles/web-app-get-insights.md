@@ -13,6 +13,9 @@ ms.reviewer: v-brycho
 
 Microsoft Dynamics 365 Connected Store Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
+> [!IMPORTANT]
+> To use the web app, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Store supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
+
 Connected Store supports the following camera skills: 
 
 - Shopper analytics
