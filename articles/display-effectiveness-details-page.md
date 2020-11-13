@@ -74,7 +74,7 @@ The subscript in the card details how much of total display entries came through
 
 ## Graphs
 
-There are three graphs at the bottom of the details page: **[Display 1] display footfall**, **[Display 1] display dwell time**, and **[Display 1] Enter/Exits sum**.
+There are three graphs at the bottom of the details page: **Total entries at [x display] display by day**, **Average engagment at [x display] display by day**, and, and **Enter/exit direction at [x display] display**.
 
 ![Display 1 display footfall card](media/analytics-37.PNG "Display 1 display footfall card")
 
