@@ -78,13 +78,12 @@ There are three graphs at the bottom of the details page: **Total entries at [x 
 
 ![Display 1 display footfall card](media/analytics-37.PNG "Display 1 display footfall card")
 
-**[Display 1] display footfall.** This graph shows footfall into Display 1 for the selected time frame, compared to the average 
-footfall, represented by the dashed line for Display 1, during the selected time frame.
+**Total entries at [x display] display by day** This graph shows entries into [x display] for the selected time frame, compared to the average 
+entries, represented by the dashed line, during the selected time frame.
 
-**[Display 1] display dwell time.** This graph shows the average time spent dwelling in the Display 1 zone for selected time frame, 
-compared to the average engagement (dwell) time, represented by the dashed line for Display 1, during the selected time frame.
+**Average engagment at [x display] display by day** This graph shows the average time spent engaging (dwelling) in the [x display] zone for the selected time frame, compared to the average engagement (dwell) time, represented by the dashed line during the selected time frame.
 
-**[Display 1] Enter/Exits sum.** This graph shows the break-down of footfall type by zone side, including how much traffic is 
+**Enter/exit direction at [x display] display** This graph shows the break-down of entry type by zone side, including how much traffic is 
 coming/going from a specific direction into/out of the zone. Side names correspond to the friendly names created during skills/zone 
 configuration. 
 
