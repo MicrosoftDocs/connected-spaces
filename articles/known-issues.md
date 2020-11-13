@@ -39,14 +39,6 @@ To work around this:
 
 [Learn more about Power Automate limitations](https://docs.microsoft.com/power-automate/limits-and-config#daily-limits).
 
-## I see the following message when I install Connected Store: "It's taking longer than usual to validate your license. Please contact your administrator or sign up here."
-
-If you see this message, the account that you used to sign in doesn't have a valid Connected Store license. This issue can occur when the browser automatically signs you in by using your work account. 
-
-To work around this issue, start a new Guest browser session, and then [go to the Connected Store setup page](https://ppe.connectedstore.dynamics.com/). Sign in by using the account that you created when you signed up for Connected Store.
-
-![You're browsing as a Guest message](media/known-issues-guest-browser.PNG "You're browsing as a Guest message")
-
 ## You can't delete stores, gateways, or cameras in the mobile app
 
 Currently, stores, gateways, and cameras can't be deleted in the mobile app. Skills can be deleted, however once deleted, data cannot be recovered. If you're unsure about deleting a skill, you can make it inactive instead.
