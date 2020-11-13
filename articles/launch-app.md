@@ -31,7 +31,7 @@ After you have [installed the Microsoft Dynamics 365 Connected Store Preview web
 
 When you open the Contoso sample store, you'll see the **Analytics** page, which is one of several dashboards included in Connected Store. 
 
-![Contoso sample store screen](media/first-run-contoso-sample-store.PNG "Contoso sample store screen")
+![Contoso sample store screen](media/navigation.PNG "Contoso sample store screen")
 
 To learn about the **Analytics** page and other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner of the page.
 
