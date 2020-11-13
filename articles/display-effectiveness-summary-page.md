@@ -64,7 +64,7 @@ across all Display effectiveness zones, illustrated by the dotted line.
 on average, spent the most time during the selected time frame. These trend lines are placed in context with the average engagement 
 (dwell) time across all Display effectiveness zones, illustrated by the dotted line.
 
-**All store displays.** This table contains a sortable list of all Display effectiveness zones by name, total people count, and average 
+**All displays.** This table contains a sortable list of all Display effectiveness zones by name, total people count, and average 
 engagement time. Sort the list by selecting a single column heading. You can also filter each metric for a specific value by using 
 the **Filter** button next to each column heading.
 
