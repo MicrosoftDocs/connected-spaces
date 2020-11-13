@@ -57,7 +57,7 @@ The **Display effectiveness summary** page also includes the **3 busiest display
 ![Graphs and table](media/analytics-27.PNG "Graphs and table")
 
 **3 busiest displays by day.** This graph shows the people count trend data for the three Display effectiveness zones that, on average, 
-received the greatest footfall during the selected time frame. These trend lines are placed in context with the average footfall 
+received the greatest number of entries during the selected time frame. These trend lines are placed in context with the average entries
 across all Display effectiveness zones, illustrated by the dotted line.
 
 **3 most engaging displays by day.** This graph shows the dwell time trend data for the three Display effectiveness zones in which people, 
@@ -70,7 +70,7 @@ the **Filter** button next to each column heading.
 
 To see data values for each display, hover over the graph. 
 
-![Example data displayed on hovering](media/analytics-28.PNG "Example data displayed on hovering")
+![Example data displayed on hovering](media/3-busiest-displays.PNG "Example data displayed on hovering")
 
 ## Next steps
 
