@@ -53,11 +53,11 @@ The subscript describes the absolute change in this value for the current time f
 
 ## Graphs
 
-The **Longest queue at [Queue 1]** and **Average wait time at [Queue 1]** graphs appear at the bottom of the page.
+The **Longest queue at [Queue x] by day** and **Average wait time at [Queue x] by day** graphs appear at the bottom of the page.
 
-**Longest queue at [Queue 1].** This graph shows the people count trend data for the specific Queue management zone that received the greatest number of entries for each timepoint (hour, day) during the selected time frame.
+**Longest queue at [Queue x] by day.** This graph shows the people count trend data for the specific Queue management zone that received the greatest number of entries for each timepoint (hour, day) during the selected time frame.
 
-**Average wait time at [Queue 1].** This graph shows the average wait (dwell) time trend data for the specific Queue management zone during the selected time frame.
+**Average wait time at [Queue x] by day.** This graph shows the average wait (dwell) time trend data for the specific Queue management zone during the selected time frame.
 
 To see data values for timepoint, hover over the graph. 
 

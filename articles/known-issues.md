@@ -2,14 +2,18 @@
 author: kfrankc-ms
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 11/06/2020
+ms.date: 11/13/2020
 ms.service: crm-online
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Dynamics 365 Connected Store Preview
+# Known issues with Microsoft Dynamics 365 Connected Store Preview
+
+## I see blank pages in the web app
+
+You must use a supported browser and the browser must have the most up-to-date version installed. Connected Store supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
 
 ## Newly created store doesn’t appear in Store list
 
@@ -34,14 +38,6 @@ To work around this:
 ## The Power Automate flow for occupancy alerting will not run if you have reached the 20,000-action-per-day limit for a preview SKU
 
 [Learn more about Power Automate limitations](https://docs.microsoft.com/power-automate/limits-and-config#daily-limits).
-
-## I see the following message when I install Connected Store: "It's taking longer than usual to validate your license. Please contact your administrator or sign up here."
-
-If you see this message, the account that you used to sign in doesn't have a valid Connected Store license. This issue can occur when the browser automatically signs you in by using your work account. 
-
-To work around this issue, start a new Guest browser session, and then [go to the Connected Store setup page](https://ppe.connectedstore.dynamics.com/). Sign in by using the account that you created when you signed up for Connected Store.
-
-![You're browsing as a Guest message](media/known-issues-guest-browser.PNG "You're browsing as a Guest message")
 
 ## You can't delete stores, gateways, or cameras in the mobile app
 

@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 After you have [installed the Microsoft Dynamics 365 Connected Store Preview web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Store dashboards and analytics by exploring the Contoso sample store. You can switch back and forth between the Contoso sample store and your own store as you explore the different dashboards that provide insights into your store's performance. 
 
-![Contoso sample store screen](media/first-run-contoso-sample-store.PNG "Contoso Sample Store screen")
+![Contoso sample store screen](media/navigation.PNG "Contoso Sample Store screen")
 
 ## Launch the web app and explore the Contoso sample store
 
@@ -31,7 +31,7 @@ After you have [installed the Microsoft Dynamics 365 Connected Store Preview web
 
 When you open the Contoso sample store, you'll see the **Analytics** page, which is one of several dashboards included in Connected Store. 
 
-![Contoso sample store screen](media/first-run-contoso-sample-store.PNG "Contoso sample store screen")
+![Contoso sample store screen](media/navigation.PNG "Contoso sample store screen")
 
 To learn about the **Analytics** page and other dashboards in Connected Store, select the **Analytics overview** button in the upper-right corner of the page.
 
