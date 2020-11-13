@@ -81,7 +81,7 @@ There are three graphs at the bottom of the details page: **Total entries at [x 
 **Total entries at [x display] display by day** This graph shows entries into [x display] for the selected time frame, compared to the average 
 entries, represented by the dashed line, during the selected time frame.
 
-**Average engagment at [x display] display by day** This graph shows the average time spent engaging (dwelling) in the [x display] zone for the selected time frame, compared to the average engagement (dwell) time, represented by the dashed line during the selected time frame.
+**Average engagement at [x display] display by day** This graph shows the average time spent engaging (dwelling) in the [x display] zone for the selected time frame, compared to the average engagement (dwell) time, represented by the dashed line during the selected time frame.
 
 **Enter/exit direction at [x display] display** This graph shows the break-down of entry type by zone side, including how much traffic is 
 coming/going from a specific direction into/out of the zone. Side names correspond to the friendly names created during skills/zone 
