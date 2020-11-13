@@ -31,7 +31,7 @@ The **Display effectiveness summary** page shows a view of the performance of al
 
 ## Highlights banner
 
-The banner at the top of the page highlights the key takeaways and comparisons. The **Store footfall**, **Busiest display**, and 
+The banner at the top of the page highlights the key takeaways and comparisons. The **Store entries**, **Busiest display**, and 
 **Most engaging display** cards are carried over from the [**Analytics** page](web-app-get-insights.md). 
 
 **Least busy display.** This card highlights the name of the display that had the least number of people for the selected time 
