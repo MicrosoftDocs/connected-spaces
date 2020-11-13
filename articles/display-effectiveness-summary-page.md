@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn how to view the Display effectiveness summary page in the Dynamics 365 Connected Store Preview web app to get insights on your store
 ms.author: labryan
-ms.date: 07/08/2020
+ms.date: 11/13/2020
 ms.service: crm-online
 ms.topic: article
 title: View the Display effectiveness summary page in the Dynamics 365 Connected Store Preview web app
