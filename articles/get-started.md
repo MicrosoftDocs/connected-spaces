@@ -39,7 +39,7 @@ The cloud service:
 
 - Processes the datapoints into aggregated observational data.
 
-- Sends the processed data on a regular basis to Common Data Service in your Microsoft Power Platform environment.
+- Sends the processed data on a regular basis to Microsoft Dataverse in your Microsoft Power Platform environment.
 
 The Power Platform environment:
 
