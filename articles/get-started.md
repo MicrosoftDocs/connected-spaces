@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to get started with Dynamics 365 Connected Store Preview by signing up for the preview, installing the software, and ordering Azure Stack Edge
 ms.author: alwinv
-ms.date: 11/06/2020
+ms.date: 11/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Connected Store Preview
@@ -39,7 +39,7 @@ The cloud service:
 
 - Processes the datapoints into aggregated observational data.
 
-- Sends the processed data on a regular basis to Common Data Service in your Microsoft Power Platform environment.
+- Sends the processed data on a regular basis to Microsoft Dataverse in your Microsoft Power Platform environment.
 
 The Power Platform environment:
 
