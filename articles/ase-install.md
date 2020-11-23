@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 07/08/2020
+ms.date: 11/23/2020
 ms.service: crm-online
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview
@@ -29,7 +29,7 @@ The following table shows tips for installing and connecting the Azure Stack Edg
 |Airflow|Azure Stack Edge Pro requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
 |Power|Azure Stack Edge Pro requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of Azure Stack Edge Pro. [Learn more about power requirements](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge Pro uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge Pro where people perform daily operations which may be affected by prolonged noise exposure.|
-|Network|Azure Stack Edge Pro requires a 5 megabits-per-second internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge Pro to the LAN.<br><br>In addition to [URL patterns for firewall rules](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall with allow-lists of FQDNs will need to add one more domain name when using the Connected Store: https://&ast;.monitoring.azure.com. This is required for Connected Store to receive telemetry information about the health of the Azure Stack Edge Pro appliance.|
+|Network|Azure Stack Edge Pro requires a 5 megabits-per-second internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge Pro to the LAN.<br><br>Default port communication for IoT Hub should be AMQP over Port 5671. If this port can't be opened due to firewall policies, use AMQP over web sockets (Port 443). In addition to [URL patterns for firewall rules](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall with allow-lists of FQDNs will need to add one more domain name when using the Connected Store: https://&ast;.monitoring.azure.com. This is required for Connected Store to receive telemetry information about the health of the Azure Stack Edge Pro appliance.|
 |Operating temperatures|See the [Azure Stack Edge Pro technical specifications](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
 
 ## Site preparation	
