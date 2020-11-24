@@ -40,11 +40,11 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     
     In the **Compute** screen:
     
-    a. Select the port you want to open to the Compute networks. This will likely be on Port 2 which is the outward-facing IP for the device.  
+    a. Select the port you want to open to the Compute networks. This will likely be Port 2 which is the outward-facing IP for the device.  
     
     ![Port 2 highlighted in Compute screen](media/ase-compute-port-2.PNG "Port 2 highlighted in Compute screen")
 
-    b. On the right side of the screen, under **Enabled for compute**, select **Yes**, and then assign static IP addresses for the compute VM on the device. For a 4-node device, a contiguous range of a minimum of five IPV4 addresses (or more) are provided for the Compute VM using the start and ending IP addresses. For a 1-node device, you'll need to provide a minimum of two contiguous IPV4 addresses. Next, assign the external services IPs. These contiguous IP addresses are for services that you want to expose outside of the Kubernetes cluster. Specify the static IP range depending on the number of services exposed. 
+    b. On the right side of the screen, under **Enabled for compute**, select **Yes**, and then assign static IP addresses for the compute virtual machine (VM) on the device. For a 4-node device, a contiguous range of a minimum of five IPV4 addresses (or more) are provided for the compute VM using the start and ending IP addresses. For a 1-node device, provide a minimum of two contiguous IPV4 addresses. Next, assign the external services IPs. These contiguous IP addresses are for services that you want to expose outside of the Kubernetes cluster. Specify the static IP range depending on the number of services exposed. 
     
     c. Select **Apply**.
 
@@ -57,7 +57,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     ![Web Proxy command in left pane highlighted](media/ase-web-proxy.PNG "Web Proxy command in left pane highlighted")
     
-    The **Web proxy** tab is set to **Disable** by default. If you require a proxy address to establish a consistent connection between Azure resources and the device:
+    The **Web proxy** tab is set to **Disable** by default. If you need a proxy address to establish a consistent connection between Azure resources and the device:
     
     a. Switch the tab to **Enable**.
     
