@@ -57,13 +57,15 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     ![Web Proxy command in left pane highlighted](media/ase-web-proxy.PNG "Web Proxy command in left pane highlighted")
     
-    The web proxy is set to **Disable** by default. If you require a proxy address to establish a consistent connection between Azure resources and the device, switch this tab to **Enable**.
+    The **Web proxy** tab is set to **Disable** by default. If you require a proxy address to establish a consistent connection between Azure resources and the device:
     
-    a. Provide the address to use in the Web proxy URL.
+    a. Switch the tab to **Enable**.
     
-    b. Optional: include an authentication address to handle secure proxy communications. 
-
     ![Authentication address in Web Proxy screen](media/ase-web-proxy-authentication-address.PNG "Authentication address in Web Proxy screen")
+    
+    b. In the **Web proxy URL** field, enter a URL.
+    
+    c. Optional: Include an authentication address to handle secure proxy communications.     
     
     > [!NOTE]
     > Get in touch with the Connected Store team if you plan to use a web proxy so we can prepare your deployment. 
