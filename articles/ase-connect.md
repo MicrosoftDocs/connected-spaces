@@ -53,7 +53,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     > [!NOTE]
     > Make sure that the IPs are available. If the compute VMs have to compete for an IP, you will get an error due to the inconsistent connection.
     
-4. In the left pane, select **Web Proxy**.
+4. In the left pane, select **Web proxy**.
 
     ![Web Proxy command in left pane highlighted](media/ase-web-proxy.PNG "Web Proxy command in left pane highlighted")
     
