@@ -33,27 +33,61 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
  
    > [!NOTE]
    > This is the information you recorded when you [installed Azure Stack Edge Pro](ase-install.md). 
+   
+3. In the left pane, select **Compute**.
+
+    SCREEN SHOT GOES HERE
     
-3. In the left pane, select **Device**.
+    In the **Compute** screen:
+    
+    a. Select the port you want to open to the Compute networks. This will likely be on Port 2 which is the outward-facing IP for the device.  
+    
+    SCREEN SHOT GOES HERE
+
+    b. In the **Network settings** pane on the right side of the screen, under **Enable for Compute**, select **Yes**, and then assign static IP addresses for the compute VM on the device. For a 4-node device, a contiguous range of a minimum of five IPV4 addresses (or more) are provided for the Compute VM using the start and ending IP addresses. For a 1-node device, a minimum of two contiguous IPV4 addresses will need to be provided. Next, assign the external services IPs. These contiguous IP addresses are for services that you want to expose outside of the Kubernetes cluster. Specify the static IP range depending on the number of services exposed. 
+    
+    c. Select **Apply**.
+
+    SCREEN SHOT GOES HERE
+
+    > [!NOTE]
+    > Make sure that the IPs are available. If the compute VMs have to compete for an IP, you will get an error due to the inconsistent connection.
+    
+4. In the left pane, select **Web Proxy**.
+
+    SCREEN SHOT GOES HERE
+    
+    This is set to Disable by default. If you require a proxy address to establish a consistent connection between Azure resources and the device, switch this tab to **Enable**.
+    
+    a. Provide the address to use in the Web proxy URL.
+    
+    b. Optional: include an authentication address to handle secure proxy communications. 
+
+    SCREEN SHOT GOES HERE
+    
+    > [!NOTE]
+    > Get in touch with the Connected Store team if you plan to use a web proxy so we can prepare your deployment. 
+     
+5. In the left pane, select **Device**.
 
    ![Device command](media/ase-device-left-nav.PNG "Device command")
  
-4. In the **Device** screen, select the **Apply** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won’t work.
+6. In the **Device** screen, select the **Apply** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won’t work.
 
    ![Device screen](media/ase-device.PNG "Device screen")
  
    > [!NOTE]
    > At this time, you can’t change the device name. 
 
-5. In the left pane, select **Update server**.
+7. In the left pane, select **Update server**.
 
-6. In the **Update server** screen, select **Apply** (you don’t need to make any changes in this screen).
+8. In the **Update server** screen, select **Apply** (you don’t need to make any changes in this screen).
 
    ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
-7. In the left pane, select **Time**.    
+9. In the left pane, select **Time**.    
 
-8. In the **Time** screen, select the correct time zone, and then select **Apply**. 
+10. In the **Time** screen, select the correct time zone, and then select **Apply**. 
 
     ![Time screen](media/ase-select-time-zone.PNG "Time screen")
    
