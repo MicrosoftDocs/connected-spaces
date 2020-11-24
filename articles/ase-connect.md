@@ -36,26 +36,26 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
    
 3. In the left pane, select **Compute**.
 
-    SCREEN SHOT GOES HERE
+    ![Compute command in left pane selected](media/ase-compute.PNG "Compute command in left pane selected")
     
     In the **Compute** screen:
     
     a. Select the port you want to open to the Compute networks. This will likely be on Port 2 which is the outward-facing IP for the device.  
     
-    SCREEN SHOT GOES HERE
+    ![Port 2 highlighted in Compute screen](media/ase-compute-port-2.PNG "Port 2 highlighted in Compute screen")
 
     b. In the **Network settings** pane on the right side of the screen, under **Enable for Compute**, select **Yes**, and then assign static IP addresses for the compute VM on the device. For a 4-node device, a contiguous range of a minimum of five IPV4 addresses (or more) are provided for the Compute VM using the start and ending IP addresses. For a 1-node device, a minimum of two contiguous IPV4 addresses will need to be provided. Next, assign the external services IPs. These contiguous IP addresses are for services that you want to expose outside of the Kubernetes cluster. Specify the static IP range depending on the number of services exposed. 
     
     c. Select **Apply**.
 
-    SCREEN SHOT GOES HERE
+    ![Apply command in Compute screen](media/ase-compute-apply.PNG "Apply command in Compute screen")
 
     > [!NOTE]
     > Make sure that the IPs are available. If the compute VMs have to compete for an IP, you will get an error due to the inconsistent connection.
     
 4. In the left pane, select **Web Proxy**.
 
-    SCREEN SHOT GOES HERE
+    ![Web Proxy command in left pane highlighted](media/ase-web-proxy.PNG "Web Proxy command in left pane highlighted")
     
     This is set to Disable by default. If you require a proxy address to establish a consistent connection between Azure resources and the device, switch this tab to **Enable**.
     
@@ -63,7 +63,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     
     b. Optional: include an authentication address to handle secure proxy communications. 
 
-    SCREEN SHOT GOES HERE
+    ![Authentication address in Web Proxy screen](media/ase-web-proxy-authentication-address.PNG "Authentication address in Web Proxy screen")
     
     > [!NOTE]
     > Get in touch with the Connected Store team if you plan to use a web proxy so we can prepare your deployment. 
