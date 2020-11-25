@@ -85,15 +85,11 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
    > [!NOTE]
    > At this time, you can’t change the device name. 
 
-7. In the left pane, select **Update server**.
-
-8. In the **Update server** screen, select **Apply** (you don’t need to make any changes in this screen).
+7. In the left pane, select **Update server**, and then select **Apply** (you don’t need to make any changes in this screen).
 
    ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
-9. In the left pane, select **Time**.    
-
-10. In the **Time** screen, select the correct time zone, and then select **Apply**. 
+9. In the left pane, select **Time**, select the correct time zone, and then select **Apply**. 
 
     ![Time screen](media/ase-select-time-zone.PNG "Time screen")
    
