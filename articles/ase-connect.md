@@ -46,7 +46,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     b. On the right side of the screen, under **Enabled for compute**, select **Yes**.    
     
-    c. In the **Network settings (Port 2)** screen, in **Kubernetes node IPs** field, assign static IP addresses for the compute virtual machine (VM) on the device. For a 4-node device, a contiguous range of a minimum of five IPV4 addresses (or more) are provided for the compute VM using the start and ending IP addresses. For a 1-node device, provide a minimum of two contiguous IPV4 addresses. 
+    c. In the **Network settings (Port 2)** screen, in the **Kubernetes node IPs** field, assign static IP addresses for the compute virtual machine (VM) on the device. For a 4-node device, a contiguous range of a minimum of five IPV4 addresses (or more) are provided for the compute VM using the start and ending IP addresses. For a 1-node device, provide a minimum of two contiguous IPV4 addresses. 
     
     ![Apply command in Compute screen](media/ase-compute-apply.PNG "Apply command in Compute screen")
     
