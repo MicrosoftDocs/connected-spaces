@@ -74,11 +74,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     > [!NOTE]
     > Get in touch with the Connected Store team if you plan to use a web proxy so we can prepare your deployment. 
      
-5. In the left pane, select **Device**.
-
-   ![Device command](media/ase-device-left-nav.PNG "Device command")
- 
-6. In the **Device** screen, select the **Apply** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won’t work.
+5. In the left pane, select **Device**, and then select the **Apply** button. You don’t need to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won’t work.
 
    ![Device screen](media/ase-device.PNG "Device screen")
  
