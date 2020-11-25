@@ -57,11 +57,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     
     c. Select **Apply**.      
     
-4. In the left pane, select **Web proxy**.
-
-    ![Web Proxy command in left pane highlighted](media/ase-web-proxy.PNG "Web Proxy command in left pane highlighted")
-    
-    The **Web proxy** tab is set to **Disable** by default. If you need a proxy address to establish a consistent connection between Azure resources and the device:
+4. In the left pane, select **Web proxy**. The **Web proxy** tab is set to **Disable** by default. If you need a proxy address to establish a consistent connection between Azure resources and the device:
     
     a. Switch the tab to **Enable**.
     
@@ -81,11 +77,11 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
    > [!NOTE]
    > At this time, you can’t change the device name. 
 
-7. In the left pane, select **Update server**, and then select **Apply** (you don’t need to make any changes in this screen).
+6. In the left pane, select **Update server**, and then select **Apply** (you don’t need to make any changes in this screen).
 
    ![Update server screen](media/ase-update-server.PNG "Update server screen")
  
-9. In the left pane, select **Time**, select the correct time zone, and then select **Apply**. 
+7. In the left pane, select **Time**, select the correct time zone, and then select **Apply**. 
 
     ![Time screen](media/ase-select-time-zone.PNG "Time screen")
    
