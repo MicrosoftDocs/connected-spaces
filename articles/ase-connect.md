@@ -55,7 +55,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
         > [!NOTE]
         > Make sure that the IP addresses are available. If the compute VMs must compete for an IP address, you will receive an error because of the inconsistent connection.
 
-    4. In the **Kubernetes external service IPs** field, assign the external service IP addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed. At a minimum, the Connected Store service needs this to be configured. In the screenshot example above, 1 IP address is allocated. 
+    4. In the **Kubernetes external service IPs** field, assign the external service IP addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed. At a minimum, you must allocate at least one external IP address to configure the Connected Store service. In the screenshot example above, one IP address is allocated. 
 
     5. Select **Apply**.
 
