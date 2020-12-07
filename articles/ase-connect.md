@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Store Preview
 ms.author: frch
-ms.date: 12/04/2020
+ms.date: 12/07/2020
 ms.service: crm-online
 ms.topic: article
 title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store Preview
@@ -48,14 +48,14 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     2. On the right side of the screen, under **Enabled for compute**, select **Yes**.
 
-    3. In the **Network settings (Port 2)** screen, in the **Kubernetes node IPs** field, assign static IP addresses for the compute virtual machine (VM) on the device. For a four-node device, provide a contiguous range of at least five IPV4 addresses for the compute VM using the starting and ending IP addresses. For a one-node device, provide a contiguous range of at least two contiguous IPV4 addresses.
+    3. In the **Network settings (Port 2)** screen, in the **Kubernetes node IPs** field, assign static IP addresses for the compute virtual machine (VM) on the device. For a one-node device, provide a contiguous range of at least two contiguous IPV4 addresses.
 
         ![Network settings (Port 2) screen](media/ase-compute-apply.PNG "Network settings (Port 2) screen")
 
         > [!NOTE]
         > Make sure that the IP addresses are available. If the compute VMs must compete for an IP address, you will receive an error because of the inconsistent connection.
 
-    4. In the **Kubernetes external service IPs** field, assign the external service IPs addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed.
+    4. In the **Kubernetes external service IPs** field, assign the external service IP addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed. At a minimum, the Connected Store service needs this to be configured. In the screenshot example above, 1 IP address is allocated. 
 
     5. Select **Apply**.
 
