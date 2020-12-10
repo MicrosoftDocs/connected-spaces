@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to give users permissions to use Dynamics 365 Connected Store Preview.
 ms.author: alwinv
-ms.date: 11/06/2020
+ms.date: 12/10/2020
 ms.service: crm-online
 ms.topic: article
 title: Give users permissions to use Dynamics 365 Connected Store Preview
@@ -35,7 +35,7 @@ The following table describes the privileges that each role grants.
 |**Connected Store Viewer**|	Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices <br>- View store settings, such as operating hours, time zone, and address<br>|
 |**Connected Store Admin**|	Use the Connected Store mobile app to:<br><br>- Create stores and edit store information<br>- Pair gateways and edit gateway information<br>- Connect cameras to a gateway and edit camera information<br>- Create and modify camera skill zones<br><br>Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices<br>- View and modify store settings, such as operating hours, time zone, and address|
 |**Common Data Service User**|	Use the Connected Store web app.<br><br>See more information about this security role at [Configure user security to resources in an environment](https://docs.microsoft.com/en-us/power-platform/admin/database-security#predefined-security-roles)<br>|
-|**Environment Maker**|	Use the Command Center:<br><br>- Set up a  maximum store occpancy notfication by customizing a Power Automate flow.<br><br>See more information about this security role at [Configure user security to resources in an environment](https://docs.microsoft.com/en-us/power-platform/admin/database-security#predefined-security-roles)|
+|**Environment Maker**|	Use the [Command Center](web-app-command-center.md):<br><br>- Set up a maximum store occupancy notification by customizing a Power Automate flow.<br><br>See more information about this security role at [Configure user security to resources in an environment](https://docs.microsoft.com/en-us/power-platform/admin/database-security#predefined-security-roles)|
 
 ## Assign a Connected Store security role to a user account
 
