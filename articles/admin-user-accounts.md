@@ -32,8 +32,10 @@ The following table describes the privileges that each role grants.
 
 |Role|	Description|
 |--------------------------------|----------------------------------------------------------------------------------------------|
-|**Connected Store Viewer**|	Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices <br>- View store settings, such as operating hours, time zone, and address<br>
+|**Connected Store Viewer**|	Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices <br>- View store settings, such as operating hours, time zone, and address<br>|
 |**Connected Store Admin**|	Use the Connected Store mobile app to:<br><br>- Create stores and edit store information<br>- Pair gateways and edit gateway information<br>- Connect cameras to a gateway and edit camera information<br>- Create and modify camera skill zones<br><br>Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices<br>- View and modify store settings, such as operating hours, time zone, and address|
+|**Common Data Service User**|	Use the Connected Store web app.<br><br>See more information about this security role at [Configure user security to resources in an environment](https://docs.microsoft.com/en-us/power-platform/admin/database-security#predefined-security-roles)<br>|
+|**Environment Maker**|	Use the Command Center:<br><br>- Set up a  maximum store occpancy notfication by customizing a Power Automate flow.<br><br>See more information about this security role at [Configure user security to resources in an environment](https://docs.microsoft.com/en-us/power-platform/admin/database-security#predefined-security-roles)|
 
 ## Assign a Connected Store security role to a user account
 
@@ -71,7 +73,7 @@ The following table describes the privileges that each role grants.
 
     ![Select Manage Roles command](media/select-manage-roles-1.PNG "Select Manage Roles command")
 
-8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and the **Common Data Service User** role, and then select **OK**. 
+8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and the **Common Data Service User** role, and optionally the **Environment Maker** role and then select **OK**.
 
     ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
 
