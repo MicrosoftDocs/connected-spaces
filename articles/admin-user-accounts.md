@@ -69,11 +69,11 @@ The following table describes the privileges that each role grants.
 
    ![Select check box for user account](media/select-user-1.PNG "Select check box for user account")       
    
-7. Select **MANAGE ROLES**. 
+8. Select **MANAGE ROLES**. 
 
     ![Select Manage Roles command](media/select-manage-roles-1.PNG "Select Manage Roles command")
 
-8. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and the **Common Data Service User** role, and optionally the **Environment Maker** role and then select **OK**.
+9. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and the **Common Data Service User** role. If this user also needs to be able to use the Command Center to send notifcations about maximum store occupancy, select the **Environment Maker** role. Select **OK** when you're done.
 
     ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
 
