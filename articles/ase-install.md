@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 11/23/2020
+ms.date: 12/14/2020
 ms.service: crm-online
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview
@@ -60,7 +60,7 @@ You'll need to secure a range of static IP addresses for your edge hardware (cam
 
 - The IP cameras require a range of 10 IP addresses. To enable future camera expansion, we recommend securing additional IP addresses. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
-- Azure Stack Edge Pro requires 3 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
+- Azure Stack Edge Pro requires 4 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
 
 ### Check power and ventilation 
 
