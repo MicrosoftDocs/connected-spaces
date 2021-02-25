@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to get started with Dynamics 365 Connected Store Preview by signing up for the preview, installing the software, and ordering Azure Stack Edge
 ms.author: alwinv
-ms.date: 11/18/2020
+ms.date: 01/25/2021
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Connected Store Preview
@@ -29,7 +29,7 @@ Connected Store consists of several interconnected web and mobile applications, 
  
 In each of your retail stores, you’ll:
 
-- Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway will receive video from the cameras connected to it and transform your customer activity into datapoints.
+- Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway will receive video from the cameras connected to it, analyze it, and transform your customer activity into pseudonymous datapoints.
 
 - Use the mobile app to create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 
