@@ -14,9 +14,9 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Microsoft Dynamics 365 Connected Store. [See Compliance and responsible use](compliance.md).
 
-Dynamics 365 Connected Store Preview requires Loss Prevention (LP) cameras installed within your retail space to process customer actions as customers move and interact within your store.
+Dynamics 365 Connected Store Preview can use new cameras or existing Loss Prevention (LP) cameras installed within your retail space to process shopper actions as shoppers move and interact within your store.
 
-When determining where to place your cameras, we recommend using this checklist:
+When determining where to place your cameras, we suggest using this checklist:
 
 1. [Understand the scenarios](camera-placement-general.md) and your customer insight goals. The three scenarios for the preview release are Display effectiveness, Queue management, and Shopper analytics.
 
@@ -24,7 +24,7 @@ When determining where to place your cameras, we recommend using this checklist:
 
 3. [Review the general placement guidelines and determine camera placement details for the different zones, including height, angle, and focal-point distance from the target](camera-placement-recommendations.md).
 
-4. Consider and comply with legal requirements applicable in your jurisdiction, which may include laws and regulations relating to use of cameras and video technology, monitoring employees, and notice and consent requirements. As a best practice, take care to avoid sensitive areas and limit collection of data not needed by Dynamics 365 Connected Store ([see Compliance and responsible use](compliance.md)).
+4. Comply with legal requirements applicable in your jurisdiction, which may include laws and regulations relating to use and placement of cameras and video technology, monitoring employees or public spaces, and notice and consent requirements. Take care to avoid sensitive areas and limit collection of data not needed by Dynamics 365 Connected Store ([see Compliance and responsible use](compliance.md)).
 
 ## Next step
 
