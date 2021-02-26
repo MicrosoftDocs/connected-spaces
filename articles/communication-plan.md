@@ -61,11 +61,9 @@ For information on how Dynamics 365 Connected Store works and how Microsoft prot
 
 ## When and where to disclose  
 
-Our research shows that shoppers respond well to an **FAQ on your website** as a point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build trust and understanding. 
+Our research shows that for Dynamics 365 Connected Store, shoppers respond well to an **FAQ on your website** as a point of disclosure. An online FAQ lets shoppers review the information whenever they choose and lets you answer shoppers’ questions and concerns in adequate detail to build trust and understanding.
 
-Making the content easily printable or providing it in a brochure format helps ensure that the content is accessible to people who may have limited internet access. It can also help store associates be better prepared to answer shopper questions.  
-
-Examples and tips for structuring an FAQ are included below.  
+Making the content easily printable or providing it in a brochure format helps ensure that the content is accessible to people who may have limited internet access. It can also help store associates be better prepared to answer shopper questions. Examples and tips for structuring an FAQ are included in the next section.
 
 Additionally, you may consider different ways of raising awareness among shoppers that certain technologies are in use and how they can learn more. Think about where shoppers are most likely to expect to get information from your company based on existing communication patterns, such as:
 
@@ -73,13 +71,11 @@ Additionally, you may consider different ways of raising awareness among shopper
 
 - Including a link to the FAQ in other communication materials
 
-- In-store signage with a QR code linking to the FAQ
-
-Again, you are responsible for ensuring that your specific disclosure strategy meets the legal and regulatory requirements applicable in your jurisdiction for the use of Connected Store and any other other technologies your store may use. These may require additional notice and consent and additional disclosure touchpoints.
+- Posting in-store signage with a QR code linking to the FAQ
 
 ## Design tips and examples
 
-These recommendations are based on Microsoft research studies conducted on sample Dynamics 365 Connected Store disclosure materials. Visual examples are for explanatory purposes only and should be adapted to your unique context, jurisdiction, and use of Connected Store.
+These tips are based on Microsoft research studies conducted on sample Dynamics 365 Connected Store disclosure materials for an in-person retail scenario. Visual examples are for explanatory purposes only.
 
 ### Example: FAQ
 
@@ -91,7 +87,8 @@ These recommendations are based on Microsoft research studies conducted on sampl
 |✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** consider the local context|Some terms or concepts may have different cultural or language connotations in your local area.|
 |✔ **DO** offer a way to learn more|Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
-|![Red "X"](media/avoid.PNG "Red X") **AVOID** “you” or “your” (for example, “your shopping experience” or “your data”)|Use of “you” and “your” increases concern about personalization and personal data in this scenario.| 
+|✔ **DO** provide accurate and transparent information about whether--and how--personal data is being processed|Shoppers need clear, factual information about how personal data is used, including whether they may be tracked or identified while shopping. For example:<br><br>- Phrasing like “your shopping experience” may lead shoppers to wrongly believe they are being personally identified.<br>- Phrasing like “aggregate data about shopping patterns” may help shoppers understand that in Dynamics 365 Connected Store they are not uniquely identified, and their faces are not being detected or analyzed.|
+
 
 ### Example: Explaining what technology is in use and how it works
                 
