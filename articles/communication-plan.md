@@ -2,31 +2,40 @@
 author: alwinv
 description: Learn about what to communicate with your shoppers about if you're using Dynamics 365 Connected Store Preview.
 ms.author: alwinv
-ms.date: 11/06/2020
+ms.date: 02/29/2021
 ms.service: crm-online
 ms.topic: article
 title: Communicate with your shoppers about the use of Dynamics 365 Connected Store Preview in your store
 ms.reviewer: v-brycho
 ---
 
+> [!NOTE]
+> This article is provided for informational purposes only. It should not be treated as definitive or as legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Store. [See Compliance and responsible use for details](compliance.md).
+
 # Communicating with your shoppers about the use of Dynamics 365 Connected Store Preview
 
-While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns, potentially impacting trust in your brand.      
+While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions, potentially impacting trust in your brand.      
 
-To help build trust, you can use a **disclosure strategy** to help you decide what information to communicate to shoppers as well as when and where to share it. A disclosure strategy can be incorporated in an existing communications strategy (for example, how you communicate with your customers about privacy) with the goal of making the information **easy to discover and understand**.
+To help build trust, you can use a **disclosure strategy** to help you decide what information to communicate to shoppers as well as when and where to share it. A disclosure strategy can be integrated with an existing communications strategy (for example, how you communicate with shoppers about privacy or how you communicate with employees about Dynamics 365 Connected Store) with the goal of making the information **easy to discover and understand**.
 
-This article offers best practices for creating and implementing a disclosure strategy for Microsoft Dynamics 365 Connected Store based on insights from user research and Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). It also includes design tips and examples for disclosure materials, which you can adapt to your context.  
+This article offers best practices for creating and implementing a disclosure strategy for Microsoft Dynamics 365 Connected Store based on Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). We arrived at these practices through several rounds of research conducted in a U.S. retail environment, including interviews with eight store managers and evaluations of sample disclosure materials with ten shoppers. Participants were balanced across a variety of ages, gender identities, ancestral backgrounds, privacy awareness, parental status, and accessibility needs. This article also includes design tips and examples of disclosure materials, which you can adapt to your context.
 
-> [!NOTE]
-> It is your responsibility to align your disclosure strategy with applicable legal requirements in your jurisdiction and accurately reflect all of your data collection and processing practices. This article includes best practices for transparency and to build shoppers’ trust that may not align with laws and notice and disclosure regulations applicable to your store. It also does not consider data processing practices within your control or beyond your use of Connected Store. See [Compliance and responsible use](compliance.md) for details.  
+Based on our research, we’re sharing practices that we’ve found successful in **building shopper trust through transparency**, but they may not be sufficient to comply with all laws and regulations in certain jurisdictions. **It is your responsibility** to create a disclosure strategy that:
+
+- Works within the context of your store and your scenario.
+
+- Accurately reflects all of your data collection and processing practices, including those outside of Dynamics 365 Connected Store.
+
+- Complies with **all laws and regulations** that apply to your use case and in your geographic location, including specific requirements related to notice, disclosure, and consent. Microsoft cannot be held liable for your failure to comply with applicable laws and regulations.
+
 
 ## What to disclose
 
-What you disclose to shoppers will depend on the unique context of your store, the range of technologies that you use, and the applicable legal requirements in your jurisdiction. 
+Our research shows that shoppers often have a common set of questions about technologies used in stores, and transparent disclosure can help foster their trust. What you choose to disclose to shoppers will depend on the unique context of your store and the range of technologies that you use.
 
-Dynamics 365 Connected Store does not store any video data or attempt to detect faces or identify individuals, but shoppers are unlikely to be able to discover this information on their own, without clear and accessible disclosure materials. Our research shows that a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
+Dynamics 365 Connected Store does not store any video footage, does not analyze or attempt to detect faces, and does not identify individuals—and clear and accessible disclosure materials can help make this information easy for shoppers to learn about. Our research shows that a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
 
-Specifically, our research shows that shoppers are more comfortable with technology such as Dynamics 365 Connected Store when they understand the following:
+Specifically, our research shows that shoppers are more comfortable with Dynamics 365 Connected Store when they understand the following:
 
 - What technology is in use, when is it in use, and how does it work?   
 
@@ -44,17 +53,11 @@ Specifically, our research shows that shoppers are more comfortable with technol
 
 - Can individuals opt out?
 
-For information on how Dynamics 365 Connected Store works and how Microsoft protects personal data it processes, see:
+For information on how Dynamics 365 Connected Store works and how Microsoft protects data it processes, see:
 
 - [AI and insights](ai-insights.md)
 
 - [Data and privacy](data-privacy.md)
-
-The best practices in this article do not consider your specific legal requirements or how your store may use or process other personal data within your control. Therefore, consider your store’s unique context: 
-
-- **Do you use other technology during the shopping experience that does collect or store personal data?** If so, answers to the previous questions may be different than if your store only uses Dynamics 365 Connected Store. In this case, consider a unified disclosure strategy that covers all parts of your technology ecosystem that may affect shopper trust.    
-
-- **How do you anticipate your technology changing over time?** If you expect your technology to evolve in ways that require additional disclosure or consent, consider how your current disclosure strategy might provide a foundation for those changes, to avoid surprising shoppers.
 
 ## When and where to disclose  
 
