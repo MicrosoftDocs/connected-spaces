@@ -96,10 +96,11 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
-|✔ **DO** explain how insights are used to improve the shopper experience|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to their experience.|
+|✔ **DO** explain how insights are used to improve the shopper experience|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to an improved shopper experience.|
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
-|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are visible to humans and are stored) helps customers understand how data is protected.|
-|![Red "X"](media/avoid.PNG "Red X") **AVOID** technical terms such as “AI,” “data,” and  “the cloud”|Technical terms can be difficult for shoppers to understand and may trigger discomfort or concern. Also, when a term is more abstract, shoppers may tend to assume the worst (for example, “data” means “my data”). | 
+|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are anonymized data-driven statistics derived from AI processing of video footage, and which are stored and visible to humans) helps customers understand how data is protected.|
+|✔ **DO** use simple, clear language to explain technical concepts |To build trust, use simple and accessible language that accurately explains the technology. Technical terms (such as “AI” and “the cloud”) may be confusing for shoppers and may lead to inaccurate assumptions.|
+
 
 ### Example: Explaining what information might be shared with other companies
 
