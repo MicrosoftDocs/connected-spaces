@@ -110,7 +110,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 |-------------------------------------------|-------------------------------------------------------|
 |✔ **DO** clearly state whether personally identifiable information is stored|Shoppers’ primary concern around data privacy is the collection of personally identifiable information without their consent.|
 |✔ **DO** provide examples of what you do and do not do with information|Especially when it comes to topics of higher privacy concern, shoppers show better understanding when examples are highlighted.|
-|![Red "X"](media/avoid.PNG "Red X") **AVOID** words that suggest no changes will be made in the future (for example, “never”) |Shoppers may find terms like “never” or “not ever” unrealistic or dishonest.|
+|✔ **DO** use words that accurately reflect your practices and also provide flexibility for how technologies or your practices might evolve in the future|Keep in mind that technologies, practices, and perceptions may evolve over time, so using absolutes such as “never” or “not ever” may not seem realistic or trustworthy to shoppers.  Frequently revisit and update disclosure materials to make sure they reflect your practices as they or the technologies you use may change.|
 
 ## More resources
 
