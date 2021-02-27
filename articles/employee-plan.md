@@ -80,7 +80,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 ### Example: Employee FAQ (Printed)
 
-SCREEN SHOT GOES HERE
+![Graphic example of employee fact sheet](media/employee-fact-sheet.PNG "Employee fact sheet")
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
@@ -90,7 +90,7 @@ SCREEN SHOT GOES HERE
 
 ### Example: Explaining how employees’ work is affected
 
-SCREEN SHOT GOES HERE
+![Graphic example that shows how employee's work is affected](media/employee-performance.PNG "Graphic example that shows how employee's work is affected")
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
@@ -102,7 +102,7 @@ SCREEN SHOT GOES HERE
 
 ### Example: Helping employees respond to shoppers’ concerns
 
-SCREEN SHOT GOES HERE
+![Graphic example showing how employees can respond to questions shoppers might have about cameras in the store](media/employees-talking-to-shoppers.PNG "Graphic example showing how employees can respond to questions shoppers might have about cameras in the store")
 
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
