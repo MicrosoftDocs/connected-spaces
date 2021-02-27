@@ -85,4 +85,34 @@ SCREEN SHOT GOES HERE
 |Tip|Why?|
 |-------------------------------------------|-------------------------------------------------------|
 |✔ **DO** explain that Dynamics 365 Connected Store is not intended and won’t be used to monitor employee behavior or evaluate employee performance|Workplace surveillance is a top employee concern. Dynamics 365 Connected Store is not designed or intended for use in—and should not be used to make—decisions affecting employment, including performance evaluation, compensation, rewards, seniority, or other rights or entitlements. Our research shows that you can build trust by reiterating how Dynamics 365 Connected Store protects the privacy of individuals (see [Data and Privacy](data-privacy.md)), and by assuring employees that you will not use insights for employee monitoring or decisions that affect their employment. You are solely responsible for use of the product in compliance with all applicable laws.|
+|✔ **DO** explain how Dynamics 365 Connected Store will affect employees’ day-to-day work|Employees expect to get information on how their daily work will be impacted.|
+|✔ **DO** offer a way to learn more|Employees appreciate being able to ask additional questions, for example by contacting a manager or an HR team.|
+
+### Example: Explaining how employees’ work is affected
+
+SCREEN SHOT GOES HERE
+
+|Tip|Why?|
+|-------------------------------------------|-------------------------------------------------------|
+|✔ **DO** give specific examples of how employees' responsibilities and tasks might change|Vague answers may be ignored or create confusion and distrust. |
+|✔ **DO** describe measures taken to prevent technology misuse|Employees may have concerns regarding the misuse of technology by the company or managers, and appreciate knowing what preventive measures and policies are in place.  |
+|✔ **DO** provide details on how Dynamics 365 Connected Store benefits both store operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
+|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Store, video footage is not accessible by humans and is not stored. Insights, which are statistics derived from video footage and which are aggregated and anonymized before anyone sees them, are visible to humans and are stored. |
+|✔ **DO** use simple, concise, non-technical language|Simple language helps make the content more accessible to all employees, including those who aren’t native speakers. |
+
+### Example: Helping employees respond to shoppers’ concerns
+
+SCREEN SHOT GOES HERE
+
+|✔ **DO** share a range of concerns that shoppers might bring up|Anticipating likely shopper questions or concerns can help employees provide better customer service. |
+|✔ **DO** provide “quick reply” responses that employees can use to respond to any shopper questions |Employees might not have time to study detailed information about the technology, so it may be easier for them to remember brief, scripted answers.  |
+✔ **DO** provide an easy escalation as needed, such as redirecting to a store manager |Offering to connect a shopper with a store manager lets employees focus on their primary tasks while reassuring shoppers that their questions are taken seriously. |
+
+## More resources
+
+We are always expanding our research and practices for responsible innovation. For more information and resources about putting people at the center of AI technologies, visit [Microsoft’s Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai).
+
+
+
+
 
