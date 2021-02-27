@@ -52,3 +52,35 @@ A disclosure strategy can build trust by answering employees’ questions and he
 
 Many of these answers may be similar to the ones you provide to shoppers (see [Communicate with shoppers](communication-plan.md) for other tips based on our user research). Note that answers to these questions will depend not only on how your store uses Dynamics 365 Connected Store, but also how you use other technologies that might affect the employee experience, including technologies you cover in other disclosure strategies. 
 
+## When and where to disclose
+
+Our research shows that it is most effective to notify employees about Dynamics 365 Connected Store when the technology is being integrated, and then provide disclosure materials that are available for employees to review anytime. 
+
+The following suggestions represent a range of practices that have been designed to be flexible so that you can choose options that make sense in the unique context of your store. 
+
+### Ideas for notifying employees
+
+- Our research shows that while email may be a common way to reach store managers, letting frontline employees know in person, such as during a staff meeting, can be more effective.
+
+- Post a **one-page FAQ** where it is highly visible to employees, such as a break room or online. 
+
+- Visual communication methods such as a short training video or illustrations help make the technology easier to understand, especially for employees who aren’t native speakers. 
+
+- Provide easy ways for employees to ask questions. 
+
+### Ideas for additional resources
+
+- Provide frontline workers with talking points or scripts for responding to shoppers’ questions and concerns about the use of video technology. 
+
+- Include information about Dynamics 365 Connected Store in new employee onboarding.
+
+## Design tips and examples
+
+Refer to the guidelines for [communicating with shoppers](communication-plan.md) for tips on presenting information about Dynamics 365 Connected Store in a way that makes it easy to understand. The following examples build on those guidelines with additional tips for communicating with employees. The images are for explanatory purposes only.
+
+### Example: Employee FAQ (Printed)
+
+SCREEN SHOT GOES HERE
+
+
+
