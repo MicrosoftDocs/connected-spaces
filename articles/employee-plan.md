@@ -82,5 +82,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 SCREEN SHOT GOES HERE
 
-
+|Tip|Why?|
+|-------------------------------------------|-------------------------------------------------------|
+|✔ **DO** explain that Dynamics 365 Connected Store is not intended and won’t be used to monitor employee behavior or evaluate employee performance|Workplace surveillance is a top employee concern. Dynamics 365 Connected Store is not designed or intended for use in—and should not be used to make—decisions affecting employment, including performance evaluation, compensation, rewards, seniority, or other rights or entitlements. Our research shows that you can build trust by reiterating how Dynamics 365 Connected Store protects the privacy of individuals (see [Data and Privacy](data-privacy.md)), and by assuring employees that you will not use insights for employee monitoring or decisions that affect their employment. You are solely responsible for use of the product in compliance with all applicable laws.|
 
