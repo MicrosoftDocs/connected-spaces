@@ -104,6 +104,8 @@ SCREEN SHOT GOES HERE
 
 SCREEN SHOT GOES HERE
 
+|Tip|Why?|
+|-------------------------------------------|-------------------------------------------------------|
 |✔ **DO** share a range of concerns that shoppers might bring up|Anticipating likely shopper questions or concerns can help employees provide better customer service. |
 |✔ **DO** provide “quick reply” responses that employees can use to respond to any shopper questions |Employees might not have time to study detailed information about the technology, so it may be easier for them to remember brief, scripted answers.  |
 |✔ **DO** provide an easy escalation as needed, such as redirecting to a store manager |Offering to connect a shopper with a store manager lets employees focus on their primary tasks while reassuring shoppers that their questions are taken seriously. |
