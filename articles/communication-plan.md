@@ -9,10 +9,10 @@ title: Communicate with your shoppers about the use of Dynamics 365 Connected St
 ms.reviewer: v-brycho
 ---
 
+# Communicating with your shoppers about the use of Dynamics 365 Connected Store Preview
+
 > [!NOTE]
 > This article is provided for informational purposes only. It should not be treated as definitive or as legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Store. [See Compliance and responsible use for details](compliance.md).
-
-# Communicating with your shoppers about the use of Dynamics 365 Connected Store Preview
 
 While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions, potentially impacting trust in your brand.      
 
