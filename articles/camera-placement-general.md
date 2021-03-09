@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 02/29/2021
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
 title: Scenarios for placing cameras to use with Dynamics 365 Connected Store Preview
