@@ -2,7 +2,7 @@
 author: alwinv
 description: Customer responsibilities for complianace and responsible use regarding Dynamics 365 Connected Store Preview
 ms.author: alwinv
-ms.date: 02/29/2021
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
 title: Compliance and responsible use for Dynamics 365 Connected Store Preview
