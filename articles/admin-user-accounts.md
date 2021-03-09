@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 > Effective November 2020:
 >
 > - Common Data Service has been renamed to Microsoft Dataverse. For more information, see [Power Automate Blog](https://aka.ms/PAuAppBlog).
-> - Some terminology in Microsoft Dataverse has been updated. For example, *entity* is now *table* and *field* is now *column*. For more information, see [Terminology updates](https://go.microsoft.com/fwlink/?linkid=2147247).
+> - Some terminology in Microsoft Dataverse has been updated. For example, *entity* is now *table* and *field* is now *column*. For more information, see [Terminology updates](/powerapps/maker/data-platform/data-platform-intro).
 >
 > This topic will be updated soon to reflect the latest terminology.
 
@@ -34,8 +34,8 @@ The following table describes the privileges that each role grants.
 |--------------------------------|----------------------------------------------------------------------------------------------|
 |**Connected Store Viewer**|	Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices <br>- View store settings, such as operating hours, time zone, and address<br>|
 |**Connected Store Admin**|	Use the Connected Store mobile app to:<br><br>- Create stores and edit store information<br>- Pair gateways and edit gateway information<br>- Connect cameras to a gateway and edit camera information<br>- Create and modify camera skill zones<br><br>Use the Connected Store web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices<br>- View and modify store settings, such as operating hours, time zone, and address|
-|**Common Data Service User**|	Use the Connected Store web app.<br><br>[Learn more about this security role](https://docs.microsoft.com/power-platform/admin/database-security#predefined-security-roles)<br>|
-|**Environment Maker**|	Use the Command Center to [set up a maximum store occupancy notification by customizing a Power Automate flow](web-app-command-center.md).<br><br>[Learn more about this security role](https://docs.microsoft.com/power-platform/admin/database-security#predefined-security-roles)|
+|**Common Data Service User**|	Use the Connected Store web app.<br><br>[Learn more about this security role](/power-platform/admin/database-security#predefined-security-roles)<br>|
+|**Environment Maker**|	Use the Command Center to [set up a maximum store occupancy notification by customizing a Power Automate flow](web-app-command-center.md).<br><br>[Learn more about this security role](/power-platform/admin/database-security#predefined-security-roles)|
 
 ## Assign a Connected Store security role to a user account
 
@@ -77,11 +77,8 @@ The following table describes the privileges that each role grants.
 
     ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
 
-[Learn more about creating users and assigning security roles](https://go.microsoft.com/fwlink/?linkid=2128632) for Dynamics 365 applications.
+[Learn more about creating users and assigning security roles](/power-platform/admin/create-users-assign-online-security-roles) for Dynamics 365 applications.
 
 ## Next step
 
 [Start planning camera placement](camera-placement-checklist.md)
-
-
-
