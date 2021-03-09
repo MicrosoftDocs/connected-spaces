@@ -9,7 +9,7 @@ title: Communicate with your shoppers about the use of Dynamics 365 Connected St
 ms.reviewer: v-brycho
 ---
 
-# xCommunicating with your shoppers about the use of Dynamics 365 Connected Store Preview
+# Communicating with your shoppers about the use of Dynamics 365 Connected Store Preview
 
 > [!NOTE]
 > This article is provided for informational purposes only. It should not be treated as definitive or as legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Store. [See Compliance and responsible use for details](compliance.md).
@@ -94,7 +94,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
                 
 ![Screenshot of an example answer on an FAQ webpage, with a graphic illustrating how the technology works, a short text explanation of the technology, and a graphic showing how technology insights are translated into customer outcomes](media/disclosure-example.PNG "Screenshot of an example answer on an FAQ webpage, with a graphic illustrating how the technology works, a short text explanation of the technology, and a graphic showing how technology insights are translated into customer outcomes")
 
-|Tip|Why?|
+|Tip &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Why?|
 |-------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** explain how insights are used to improve the shopper experience|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to an improved shopper experience.|
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
