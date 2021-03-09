@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 11/06/2020
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Connected Store Preview FAQ
