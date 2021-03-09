@@ -2,7 +2,7 @@
 author: alwinv
 description: Introduction to Dynamics 365 Connected Store Preview
 ms.author: alwinv
-ms.date: 11/06/2020
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Connected Store Preview
@@ -33,7 +33,7 @@ The preview release enables the following scenarios to make retail store operati
 
 - **Shopper analytics.** Understand traffic patterns into and around the store to allow retailers to plan for shift management and inventory. 
 
-Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified.   
+Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified or having their facial characteristics analyzed.   
 
 ## Next step
 

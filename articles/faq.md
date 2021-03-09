@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 11/06/2020
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Connected Store Preview FAQ
@@ -94,9 +94,9 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
 6. [Install Connected Store](admin-install-web-app.md).
 
-## How do I notify shoppers about the use of Dynamics 365 Connected Store in my store?
+## How do I notify shoppers and employees about the use of Dynamics 365 Connected Store in my store?
 
-While shoppers may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and potential concerns about the purposes and use of camera and video technology, potentially impacting trust in your brand. To help shoppers understand your store’s approach to data privacy, refer to the [best practices for communicating with shoppers](communication-plan.md).
+While shoppers and employees may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and concerns, potentially impacting trust in your brand. For tips for building shopper and employee trust through a notice and disclosure strategy, refer to the best practices outlined in our two guides, [Communicate with shoppers](communication-plan.md) and [Communicate with employees](employee-plan.md).
 
 ## See also
 
