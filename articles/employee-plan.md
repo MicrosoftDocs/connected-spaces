@@ -83,7 +83,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 ![Graphic example of employee fact sheet](media/employee-fact-sheet.PNG "Employee fact sheet")
 
 |Tip|Why?|
-|-------------------------------------------|-------------------------------------------------------|
+|--------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** explain that Dynamics 365 Connected Store is not intended and won’t be used to monitor employee behavior or evaluate employee performance|Workplace surveillance is a top employee concern. Dynamics 365 Connected Store is not designed or intended for use in—and should not be used to make—decisions affecting employment, including performance evaluation, compensation, rewards, seniority, or other rights or entitlements. Our research shows that you can build trust by reiterating how Dynamics 365 Connected Store protects the privacy of individuals (see [Data and Privacy](data-privacy.md)), and by assuring employees that you will not use insights for employee monitoring or decisions that affect their employment. You are solely responsible for use of the product in compliance with all applicable laws.|
 |✔ **DO** explain how Dynamics 365 Connected Store will affect employees’ day-to-day work|Employees expect to get information on how their daily work will be impacted.|
 |✔ **DO** offer a way to learn more|Employees appreciate being able to ask additional questions, for example by contacting a manager or an HR team.|
@@ -93,7 +93,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 ![Graphic example that shows how employee's work is affected](media/employee-performance.PNG "Graphic example that shows how employee's work is affected")
 
 |Tip|Why?|
-|-------------------------------------------|-------------------------------------------------------|
+|--------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** give specific examples of how employees' responsibilities and tasks might change|Vague answers may be ignored or create confusion and distrust. |
 |✔ **DO** describe measures taken to prevent technology misuse|Employees may have concerns regarding the misuse of technology by the company or managers, and appreciate knowing what preventive measures and policies are in place.  |
 |✔ **DO** provide details on how Dynamics 365 Connected Store benefits both store operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
@@ -105,7 +105,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 ![Graphic example showing how employees can respond to questions shoppers might have about cameras in the store](media/employees-talking-to-shoppers.PNG "Graphic example showing how employees can respond to questions shoppers might have about cameras in the store")
 
 |Tip|Why?|
-|-------------------------------------------|-------------------------------------------------------|
+|---------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** share a range of concerns that shoppers might bring up|Anticipating likely shopper questions or concerns can help employees provide better customer service. |
 |✔ **DO** provide “quick reply” responses that employees can use to respond to any shopper questions |Employees might not have time to study detailed information about the technology, so it may be easier for them to remember brief, scripted answers.  |
 |✔ **DO** provide an easy escalation as needed, such as redirecting to a store manager |Offering to connect a shopper with a store manager lets employees focus on their primary tasks while reassuring shoppers that their questions are taken seriously. |
