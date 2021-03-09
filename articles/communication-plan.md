@@ -82,7 +82,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 ![Screenshot of an example FAQ web page, with a page heading, short intro text, and a list of sample questions addressing common shopper concerns](media/faq-example.PNG "Screenshot of an example FAQ web page, with a page heading, short intro text, and a list of sample questions addressing common shopper concerns")
             
 |Tip|Why?|
-|-------------------------------------------|-------------------------------------------------------|
+|-------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** refer to [What to disclose](#what-to-disclose) when deciding what information to include|Shoppers tend to have a common set of questions and concerns about how data is used and protected.|
 |✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** consider the local context|Some terms or concepts may have different cultural or language connotations in your local area.|
@@ -95,7 +95,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 ![Screenshot of an example answer on an FAQ webpage, with a graphic illustrating how the technology works, a short text explanation of the technology, and a graphic showing how technology insights are translated into customer outcomes](media/disclosure-example.PNG "Screenshot of an example answer on an FAQ webpage, with a graphic illustrating how the technology works, a short text explanation of the technology, and a graphic showing how technology insights are translated into customer outcomes")
 
 |Tip|Why?|
-|-------------------------------------------|-------------------------------------------------------|
+|-------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** explain how insights are used to improve the shopper experience|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to an improved shopper experience.|
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
 |✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Store is not accessible by humans and is not stored) and “insights” (which are anonymized data-driven statistics derived from AI processing of video footage, and which are stored and visible to humans) helps customers understand how data is protected.|
@@ -107,7 +107,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 ![Screenshot of a second example answer on an FAQ webpage, with text and a visual outlining what information a store does or does not share with other companies](media/what-to-share-example.PNG "Screenshot of a second example answer on an FAQ webpage, with text and a visual outlining what information a store does or does not share with other companies")    
 
 |Tip|Why?|
-|-------------------------------------------|-------------------------------------------------------|
+|--------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** clearly state whether personally identifiable information is stored|Shoppers’ primary concern around data privacy is the collection of personally identifiable information without their consent.|
 |✔ **DO** provide examples of what you do and do not do with information|Especially when it comes to topics of higher privacy concern, shoppers show better understanding when examples are highlighted.|
 |✔ **DO** use words that accurately reflect your practices and also provide flexibility for how technologies or your practices might evolve in the future|Keep in mind that technologies, practices, and perceptions may evolve over time, so using absolutes such as “never” or “not ever” may not seem realistic or trustworthy to shoppers.  Frequently revisit and update disclosure materials to make sure they reflect your practices as they or the technologies you use may change.|
