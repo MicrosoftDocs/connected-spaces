@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Store Preview.
 ms.author: frch
-ms.date: 07/08/2020
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
 title: Scenarios for placing cameras to use with Dynamics 365 Connected Store Preview
@@ -23,7 +23,7 @@ The following table provides more detail on the three available skills:
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
-|**Display effectiveness**|	Track how your displays perform	|End caps, displays, promotions|
+|**Display effectiveness**|	Track how your displays perform	through foot traffic|End caps, displays, promotions|
 |**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
 |**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
 
@@ -32,8 +32,6 @@ To plan for the scenarios in your space, you need to understand each zone and th
 ## End caps
 
 For end cap cameras, consider the following:
-
-- Which direction do customers face?
 
 - Which direction do customers go to and from relative to the end cap?
 

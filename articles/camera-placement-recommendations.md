@@ -2,16 +2,19 @@
 author: kfrankc-ms
 description: Learn how to place LP cameras for use with Dynamics 365 Connected Store Preview, including height, mounting angle, and camera-to-focal-point distance
 ms.author: frch
-ms.date: 11/06/2020
+ms.date: 03/09/2021
 ms.service: crm-online
 ms.topic: article
-title: Camera placement recommendations for Dynamics 365 Connected Store Preview
+title: Camera placement suggestions for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
 ---
 
-# Camera placement recommendations for Dynamics 365 Connected Store Preview
+# Camera placement suggestions for Dynamics 365 Connected Store Preview
 
-This topic provides camera placement recommendations for Microsoft Dynamics 365 Connected Store Preview. It includes general guidelines, and also specific recommendations for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
+> [!NOTE]
+> The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Store. [See Compliance and responsible use](compliance.md). 
+
+This topic provides camera placement suggestions for Microsoft Dynamics 365 Connected Store Preview. It includes general guidelines, and also specific suggestions for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
 
 ## General guidelines
 
@@ -24,8 +27,6 @@ LP cameras.
 
 - **Environmental backlighting.** Outdoor backlighting affects camera image quality. To avoid severe backlighting conditions, 
 avoid directing cameras at external-facing windows and glass doors.
-
-- **Applicable laws and regulations.** There may be specific laws and regulations that apply in your jurisdiction to use of video technology and camera placement, including what cameras may capture outside store boundaries (through windows or doors). Make sure that you understand local rules and regulations applicable to your store before placing cameras that have a view of the outside. ([See Compliance and responsible use](compliance.md))
 
 - **Store changes.** Product displays and end caps may get moved after placing cameras. Make sure that camera placement is 
 optimized for potential store changes to reduce camera re-positioning.
@@ -49,7 +50,7 @@ It's also important to know the direction that the majority of people walk (pers
 
 ![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
 
-The following illustration shows the elevation view for person walking direction.
+The following illustration shows the elevation view for person walking direction. This illustration (and the diagrams below) show a camera’s “field of vision” relative to the zone (or “sensing area”) from which raw video footage will be used to analyze observational signals, location, and line of business data to produce actionable insights.
 
 ![Elevation and plan view](media/person-walking-direction-2.PNG "Elevation and plan view")
 
