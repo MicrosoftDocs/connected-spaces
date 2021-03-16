@@ -51,7 +51,8 @@
       ],
       "breadcrumb_path": "/dynamics365/connected-store/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/connected-store-public",
     },
     "fileMetadata": {},
     "template": [],
