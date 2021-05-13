@@ -3,7 +3,6 @@ author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview.
 ms.author: frch
 ms.date: 12/14/2020
-ms.service: crm-online
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho

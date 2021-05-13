@@ -3,7 +3,6 @@ author: alwinv
 description: How Microsoft Dynamics 365 Connected Store Preview uses artificial intelligence technology to provide insights.
 ms.author: alwinv
 ms.date: 03/09/2021
-ms.service: crm-online
 ms.topic: article
 title: AI and Insights for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho

@@ -56,7 +56,11 @@
       "feedback_product_url": "https://experience.dynamics.com/ideas/categories/?forum=73076511-12de-e911-a814-000d3a4f1244&forumName=Dynamics%20365%20Connected%20Store",
       "recommendations": "true"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+        "ms.service": {
+            "**.md": "dynamics-365-connected-store"
+        }
+    },
     "template": [],
     "dest": "connected-store",
     "markdownEngineName": "markdig"

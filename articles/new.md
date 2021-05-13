@@ -3,7 +3,6 @@ author: alwinv
 description: Learn about what's new in Microsoft Dynamics 365 Connected Store Preview
 ms.author: alwinv
 ms.date: 12/08/2020
-ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho

@@ -3,7 +3,6 @@ author: alwinv
 description: Learn how to prepare user accounts in the Microsoft admin center to use with Dynamics 365 Connected Store Preview
 ms.author: alwinv
 ms.date: 07/08/2020
-ms.service: crm-online
 ms.topic: article
 title: Prepare user accounts for Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho

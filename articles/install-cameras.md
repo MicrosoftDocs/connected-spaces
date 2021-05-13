@@ -3,7 +3,6 @@ author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Store Preview
 ms.author: frch
 ms.date: 11/06/2020
-ms.service: crm-online
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
