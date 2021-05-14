@@ -29,7 +29,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     2. In the **Network settings** pane on the right of the screen, **DHCP** should be selected by default. If Dynamic Host Configuration Protocol (DHCP) is enabled in your environment, network interfaces are automatically configured. These interfaces include an Internet Protocol (IP) address, subnet, gateway, and Domain Name Service (DNS).
 
-        If DHCP isn't enabled in your environment, you can assign static IP addresses as required. On the **Static** tab, enter the IP addresses in the **Subnet mask**, **Gateway**, **Primary DNS**, and **Secondary DNS** fields. When you've finished, select **Apply**. [See the Azure Stack Edge Pro GPU setup documentation to learn more](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy#configure-network).
+        If DHCP isn't enabled in your environment, you can assign static IP addresses as required. On the **Static** tab, enter the IP addresses in the **Subnet mask**, **Gateway**, **Primary DNS**, and **Secondary DNS** fields. When you've finished, select **Apply**. [See the Azure Stack Edge Pro GPU setup documentation to learn more](/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy#configure-network).
 
         ![Network settings pane](media/ase-network-settings.PNG "Network settings pane")
 
