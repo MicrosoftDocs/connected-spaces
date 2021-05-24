@@ -3,7 +3,6 @@ author: alwinv
 description: Learn how to give users permissions to use Dynamics 365 Connected Store Preview.
 ms.author: alwinv
 ms.date: 12/10/2020
-ms.service: crm-online
 ms.topic: article
 title: Give users permissions to use Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
