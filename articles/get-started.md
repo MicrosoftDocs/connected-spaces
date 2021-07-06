@@ -6,6 +6,7 @@ ms.date: 03/09/2021
 ms.topic: article
 title: Get started with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Get started with Dynamics 365 Connected Store Preview

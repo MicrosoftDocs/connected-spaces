@@ -6,6 +6,7 @@ ms.date: 11/06/2020
 ms.topic: article
 title: Overview of Dynamics 365 Connected Store Preview mobile app
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of the Dynamics 365 Connected Store Preview mobile app
