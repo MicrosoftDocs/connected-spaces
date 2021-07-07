@@ -6,6 +6,7 @@ ms.date: 03/09/2021
 ms.topic: article
 title: Overview of Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
+ms.custom: "intro-internal"
 ---
 
 # Overview of Dynamics 365 Connected Store Preview
