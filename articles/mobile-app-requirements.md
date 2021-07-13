@@ -2,13 +2,16 @@
 author: alissapolucha
 description: Learn about the requirements for using the Dynamics 365 Connected Store Preview mobile app
 ms.author: alissag
-ms.date: 11/09/2020
+ms.date: 7/13/2021
 ms.topic: article
 title: Requirements for using the Dynamics 365 Connected Store Preview mobile app
 ms.reviewer: v-brycho
 ---
 
 # Requirements for using the Dynamics 365 Connected Store Preview mobile app
+
+> [!IMPORTANT]
+> The Connected Store mobile app is no longer available for download. Go to [Dynamics 365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
 
 You can use Microsoft Dynamics 365 Connected Store Preview on the devices/operating systems shown in the following table.
 
