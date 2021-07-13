@@ -10,6 +10,9 @@ ms.reviewer: v-brycho
 
 # Download the Dynamics 365 Connected Store (public preview) mobile app
 
+> [!IMPORTANT]
+> The Connected Store mobile app is no longer available for download. Go to [Dynamics 365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
+
 Keep the following in mind before using the Microsoft Dynamics 365 Connected Store (public preview) mobile app:
 
 - Make sure that your cameras, network, and Azure Stack Edge Pro (2 GPU) have been installed for your store. 
