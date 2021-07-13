@@ -27,7 +27,7 @@ Connected Store uses the Azure Stack Edge Pro (2 GPU) gateway to transform video
 
 2. Fill out the form, and then select **Next**. 
 
-     ![Order gateway command and Azure Stack Edge Pro procurement form](media/get-gateway.PNG "Order gateway command and Azure Stack Edge Pro procurement form")
+     ![Order gateway command and Azure Stack Edge Pro procurement form.](media/get-gateway.PNG "Order gateway command and Azure Stack Edge Pro procurement form")
      
    The Connected Store team will contact you when the request is received. After you receive your Azure Stack Edge Pro gateway, you can [prepare your network and install it](ase-install.md).
  

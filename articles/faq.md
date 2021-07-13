@@ -41,7 +41,7 @@ To change the Internet Protocol (IP) range that is used to get the list of avail
 
 3. Update the IP ranges. 
 
-    ![IP Camera Range field on the Gateway Info page](media/faq-ip-range.PNG "IP Camera Range field on the Gateway Info page")
+    ![IP Camera Range field on the Gateway Info page.](media/faq-ip-range.PNG "IP Camera Range field on the Gateway Info page")
 
 4. When you've finished, select the check mark in the upper-right corner of the page.
 
@@ -65,25 +65,25 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
 2. In the **Let's set up your account** step, enter your company email address, and then select **Next**.
 
-    ![Let's set up your account step](media/faq-setup-account.PNG "Let's set up your account step")
+    ![Let's set up your account step.](media/faq-setup-account.PNG "Let's set up your account step")
 
 3. Select **Sign in** to authenticate.
 
-    ![Sign in button](media/faq-sign-in.PNG "Sign in button")
+    ![Sign in button.](media/faq-sign-in.PNG "Sign in button")
 
 4. After authentication is completed, select **Continue**.
 
-    ![Continue button](media/faq-continue.PNG "Continue button")
+    ![Continue button.](media/faq-continue.PNG "Continue button")
 
     The web page verifies that you have permissions to sign up on behalf of your company. If you do, it redirects you to portal.office.com, where you can get the license for Connected Store.
 
 5. On the Office **Check out** page, select **Try now** to get the trial license for your company.
 
-    ![Try now button](media/faq-check-out.PNG "Try now button")
+    ![Try now button.](media/faq-check-out.PNG "Try now button")
 
     An order receipt page appears.
 
-    ![Order receipt page](media/faq-order-receipt.PNG "Order receipt page")
+    ![Order receipt page.](media/faq-order-receipt.PNG "Order receipt page")
 
     At this point, Setup completes the following actions:
 

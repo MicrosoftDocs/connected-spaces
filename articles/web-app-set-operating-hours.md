@@ -18,7 +18,7 @@ You can use the web app in Microsoft Dynamics 365 Connected Store Preview to set
 
 3. On the **Store** tab, in the **Operating Hours** field, enter your hours of operation.
 
-    ![Operating hours field in web app Settings](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
+    ![Operating hours field in web app Settings.](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
     
     > [!IMPORTANT]
     > Any changes you make to settings for the Contoso sample store will affect settings for other stores. For this reason, we don't recommend changing the settings for the sample store.

@@ -25,7 +25,7 @@ Welcome to the Microsoft Dynamics 365 Connected Store Preview! This article desc
 
 Connected Store consists of several interconnected web and mobile applications, an Azure cloud service, and hardware that you install at your store.
 
-![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.png "Illustration of retail store, Azure cloud service and Power Platorm components")
+![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-cs-works.png "Illustration of retail store, Azure cloud service and Power Platorm components")
  
 In each of your retail stores, you’ll:
 
@@ -49,7 +49,7 @@ The Power Platform environment:
 
 The Connected Store table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the preview and install the software, start with the first article in the Setup section and then proceed in order through the articles in the table of contents.
 
-![Screen shot of Connected Store table of contents with first setup step highlighted](media/setup-first-step.PNG "Screen shot of Connected Store table of contents with first setup step highlighted")
+![Screen shot of Connected Store table of contents with first setup step highlighted.](media/setup-first-step.PNG "Screen shot of Connected Store table of contents with first setup step highlighted")
 
 At the end of each article, you'll see a **Next step** heading that includes a link for the suggested next step to take.
 

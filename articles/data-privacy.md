@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 Dynamics 365 Connected Store Preview has three components, and each has been designed with privacy, security, and compliance in mind. 
 
-![Illustration of retail store, Azure cloud service and Power Platorm components](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
+![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-cs-works.PNG "Illustration of retail store, Azure cloud service and Power Platorm components")
 
 - **Connected Store edge gateway** – A computing device, a managed Azure Stack Edge Pro (2 GPU) gateway installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data sent to the cloud. The Connected Store edge gateway processes video data from the in-store camera locally on the device (at the edge) and uses AI models to draw conclusions from that video footage ("inferences") without identifying individuals to generate inference data.
 
