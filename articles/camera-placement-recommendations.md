@@ -47,11 +47,11 @@ You need to consider three things when deciding how to install a camera for Dyna
 
 It's also important to know the direction that the majority of people walk (person walking direction) in relation to the camera field of view, or the direction that customers face when standing in line. This direction is important for system performance. 
 
-![Person walking direction](media/person-walking-direction.PNG "Person walking direction")
+![Person walking direction.](media/person-walking-direction.PNG "Person walking direction")
 
 The following illustration shows the elevation view for person walking direction. This illustration (and the diagrams below) show a camera’s “field of vision” relative to the zone (or “sensing area”) from which raw video footage will be used to analyze observational signals, location, and line of business data to produce actionable insights.
 
-![Elevation and plan view](media/person-walking-direction-2.PNG "Elevation and plan view")
+![Elevation and plan view.](media/person-walking-direction-2.PNG "Elevation and plan view")
 
 ## Camera height
 
@@ -64,15 +64,15 @@ camera view, and then adjust the height as necessary.
 *Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
 camera. 
 
-![Camera-to-focal-point-distance](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
+![Camera-to-focal-point-distance.](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
 
 This distance is measured on the floor plane.
 
-![How camera-to-focal-point-distance is measured on floor plane](media/camera-to-focal-point-1.PNG "How camera-to-focal-point-distance is measured on floor plane")
+![How camera-to-focal-point-distance is measured on floor plane.](media/camera-to-focal-point-1.PNG "How camera-to-focal-point-distance is measured on floor plane")
 
 From above, it looks like this:
 
-![How camera-to-focal-point-distance is measured from above](media/camera-to-focal-point-2.PNG "How camera-to-focal-point-distance is measured from above")
+![How camera-to-focal-point-distance is measured from above.](media/camera-to-focal-point-2.PNG "How camera-to-focal-point-distance is measured from above")
 
 Use the table below to determine the camera’s distance from the focal point based on specific mounting heights. 
 These distances are for optimal placement and are suitable for end caps (display effectiveness), queues, or entrances. 
@@ -118,14 +118,14 @@ The following illustration simulates camera views using the leftmost (-) and rig
 
 The following illustration shows camera placement and mounting angles from a birds-eye view.
 
-![Bird's eye view](media/camera-angle-top.PNG "Bird's eye view")
+![Bird's eye view.](media/camera-angle-top.PNG "Bird's eye view")
  
 ### End caps
 
 We recommend that you place cameras at 10 feet or more above ground to guarantee the covered area is big enough. Mount end-cap 
 cameras in the specified distance from the target within the acceptable 120-degree angle range as shown in the following illustration.
 
-![Acceptable camera angle](media/camera-angle-acceptable.PNG "Acceptable camera angle")
+![Acceptable camera angle.](media/camera-angle-acceptable.PNG "Acceptable camera angle")
 
 The following illustration provides simulations for left and right camera views for end caps.
 
@@ -138,7 +138,7 @@ The following illustration provides simulations for left and right camera views 
 
 For optimal queue data quality, retractable belt barriers are preferred. 
 
-![Retractable belt queue](media/retractable-belt-queue.PNG "Retractable belt queue")
+![Retractable belt queue.](media/retractable-belt-queue.PNG "Retractable belt queue")
 
 This type of barrier is preferred over opaque barriers for queue formation.
 
@@ -148,7 +148,7 @@ There are two types of queues: linear and zig-zag.
 
 The following illustration shows recommendations for linear queues:
 
-![Linear queue recommendation](media/camera-angle-linear-queue.PNG "Linear queue recommendation")
+![Linear queue recommendation.](media/camera-angle-linear-queue.PNG "Linear queue recommendation")
  
 The following illustration provides simulations for left and right camera views for linear queues. Note that you can mount the camera 
 on the opposite side of the queue. 
@@ -161,23 +161,23 @@ For zip-zag queues, it’s best to avoid placing the camera directly facing the 
 following illustration. Note that each of the four example camera positions in the illustration provide the ideal view with an 
 acceptable deviation of +/- 15 degrees in each direction.
 
-![Camera angle for zig-zag queue](media/camera-angle-zig-zag-queue.PNG "Camera angle for zig-zag queue")
+![Camera angle for zig-zag queue.](media/camera-angle-zig-zag-queue.PNG "Camera angle for zig-zag queue")
 
 The following illustrations simulate the view from a camera placed in the ideal locations for a zig-zag queue.
 
 |View 1|View 2|
 |----------------------------------------------------------|-----------------------------------------------------|
-|![View 1](media/camera-angle-ideal-zig-zag-1.PNG "View 1")|![View 2](media/camera-angle-ideal-zig-zag-2.PNG "View 2")|
+|![View 1.](media/camera-angle-ideal-zig-zag-1.PNG "View 1")|![View 2](media/camera-angle-ideal-zig-zag-2.PNG "View 2")|
 
 |View 3|View 4|
 |----------------------------------------------------------|-----------------------------------------------------|
-|![View 3](media/camera-angle-ideal-zig-zag-3.PNG "View 3")|![View 4](media/camera-angle-ideal-zig-zag-4.PNG "View 4")|
+|![View 3.](media/camera-angle-ideal-zig-zag-3.PNG "View 3")|![View 4](media/camera-angle-ideal-zig-zag-4.PNG "View 4")|
   
 #### Fixture (shelving) queues
 
 Fixture queue lines use shelving to guide shoppers and to enable impulse buying. 
 
-![Fixture queues](media/fixture-queue.PNG "Fixture queues")
+![Fixture queues.](media/fixture-queue.PNG "Fixture queues")
 
 This style of queue formation restricts the camera’s view of customers because it blocks customers from the waist down. 
 To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 

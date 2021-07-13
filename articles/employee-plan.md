@@ -88,7 +88,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 ### Example: Employee FAQ (Printed)
 
-![Graphic example of employee fact sheet](media/employee-fact-sheet.PNG "Employee fact sheet")
+![Graphic example of employee fact sheet.](media/employee-fact-sheet.PNG "Employee fact sheet")
 
 |Tip|Why?|
 |--------------------------------------------------------|-------------------------------------------------------|
@@ -98,7 +98,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 ### Example: Explaining how employees’ work is affected
 
-![Graphic example that shows how employee's work is affected](media/employee-performance.PNG "Graphic example that shows how employee's work is affected")
+![Graphic example that shows how employee's work is affected.](media/employee-performance.PNG "Graphic example that shows how employee's work is affected")
 
 |Tip|Why?|
 |--------------------------------------------------------|-------------------------------------------------------|
@@ -110,7 +110,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 ### Example: Helping employees respond to shoppers’ concerns
 
-![Graphic example showing how employees can respond to questions shoppers might have about cameras in the store](media/employees-talking-to-shoppers.PNG "Graphic example showing how employees can respond to questions shoppers might have about cameras in the store")
+![Graphic example showing how employees can respond to questions shoppers might have about cameras in the store.](media/employees-talking-to-shoppers.PNG "Graphic example showing how employees can respond to questions shoppers might have about cameras in the store")
 
 |Tip|Why?|
 |---------------------------------------------------------|-------------------------------------------------------|

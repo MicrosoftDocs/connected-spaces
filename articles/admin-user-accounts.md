@@ -42,15 +42,15 @@ The following table describes the privileges that each role grants.
         
 2. Select the environment that Connected Store is installed in.
 
-    ![Screenshot of the selected environment](media/select-environment.PNG "Screenshot of the selected environment")
+    ![Screenshot of the selected environment.](media/select-environment.PNG "Screenshot of the selected environment")
     
 3. Select **Settings**.
 
-    ![Select Settings command](media/select-settings-1.PNG "Select Settings command")
+    ![Select Settings command.](media/select-settings-1.PNG "Select Settings command")
     
 4. Expand the **Users + permissions** heading, and then select **Users**.
 
-    ![Select Users command](media/select-users-1.PNG "Select Users command")
+    ![Select Users command.](media/select-users-1.PNG "Select Users command")
 
 5. Do one of the following:
 
@@ -58,23 +58,23 @@ The following table describes the privileges that each role grants.
    
    - If you need to add one or more users, select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. 
 
-      ![Screenshot of the selected Add user command](media/select-add-user-1.PNG "Screenshot of the selected Add user command")    
+      ![Screenshot of the selected Add user command.](media/select-add-user-1.PNG "Screenshot of the selected Add user command")    
     
 6. Select **Manage users in Dynamics 365**.
 
-    ![Manage users in Dynamics 365 command](media/select-manage-users-1.PNG "Manage users in Dynamics 365 command")   
+    ![Manage users in Dynamics 365 command.](media/select-manage-users-1.PNG "Manage users in Dynamics 365 command")   
 
 7. In the **Enabled Users** screen, select the check box next to the appropriate user account.    
 
-   ![Select check box for user account](media/select-user-1.PNG "Select check box for user account")       
+   ![Select check box for user account.](media/select-user-1.PNG "Select check box for user account")       
    
 8. Select **MANAGE ROLES**. 
 
-    ![Select Manage Roles command](media/select-manage-roles-1.PNG "Select Manage Roles command")
+    ![Select Manage Roles command.](media/select-manage-roles-1.PNG "Select Manage Roles command")
 
 9. Select the **Connected Store Admin** or **Connected Store Viewer** security role, and the **Common Data Service User** role. If this user also needs to be able to use the Command Center to send notifications about maximum store occupancy, select the **Environment Maker** role. Select **OK** when you're done.
 
-    ![Select specific role check box](media/select-role-1.PNG "Select specific role check box")
+    ![Select specific role check box.](media/select-role-1.PNG "Select specific role check box")
 
 [Learn more about creating users and assigning security roles](/power-platform/admin/create-users-assign-online-security-roles) for Dynamics 365 applications.
 
