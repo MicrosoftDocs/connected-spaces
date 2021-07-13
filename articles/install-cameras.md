@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Store Preview
 ms.author: frch
-ms.date: 11/06/2020
+ms.date: 7/13/2021
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Store Preview
 ms.reviewer: v-brycho
@@ -73,6 +73,5 @@ Use the steps below in addition to your local standards and requirements for ins
  
 When you’re finished mounting and installing the camera per the manufacturer’s documentation, and if you have already installed Azure Stack Edge Pro (2 GPU) and connected it to the network, you’re ready to [add a store with the mobile app, and then pair a gateway to the store](mobile-app-create-store.md).
 
-## Next step
-
-[Create a store with the mobile app](mobile-app-create-store.md)
+> [!IMPORTANT]
+> The Connected Store mobile app is no longer available for download. Go to [Dynamics 365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
