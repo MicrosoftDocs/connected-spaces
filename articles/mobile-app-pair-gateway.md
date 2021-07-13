@@ -24,19 +24,19 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 1.	On the **Stores** page, tap a store in the Stores list. 
 
-    ![Stores list](media/stores-list.PNG "Stores list")
+    ![Stores list.](media/stores-list.PNG "Stores list")
     
     This opens the **Gateways** page. 
  
 2.	Tap the **+** sign at the bottom of the **Gateways** page.
 
-    ![Add gateway](media/add-gateway.PNG "Add gateway")
+    ![Add gateway.](media/add-gateway.PNG "Add gateway")
 
 3.	Select the gateway you want to pair with, and then tap the **Add** button next to it. You’ll see the **Add Gateway** screen and the following message: 
 
     “Go to aka.ms/activategateway on your laptop and enter the following serial number to get the activation key of your gateway.”
 
-    ![Pairing instructions](media/pairing-instructions.PNG "Pairing instructions")
+    ![Pairing instructions.](media/pairing-instructions.PNG "Pairing instructions")
     
     > [!NOTE]
     > If you don't see the serial number in the mobile app, you can also find it in the Azure Stack Edge Pro user interface, or on the Azure Stack Edge Pro gateway itself. The pull-out tab on the front of the gateway (behind the faceplate) contains the serial number.
@@ -47,21 +47,21 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
      
 6.	Enter the serial number from the mobile app.
  
-    ![Device serial number box](media/security-number.PNG "Device serial number box")
+    ![Device serial number box.](media/security-number.PNG "Device serial number box")
  
 7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
     > [!IMPORTANT]
     > Make sure to press the **Submit** button just once. When you press **Submit**, Connected Store starts the process to generate the activation key. It takes a few minutes to generate the key. 
 
-    ![Select store name](media/select-store-name.PNG "Select store name")
+    ![Select store name.](media/select-store-name.PNG "Select store name")
 
     > [!IMPORTANT]
     > You must activate Azure Stack Edge Pro within 24 hours after the activation key is generated. 
  
 8.	When the activation key is ready, copy the key (use **Copy to clipboard** to copy the full key), go to the Azure Stack Edge Pro **Get started** page, select **Activate**, paste the key into the **Activation key** field in the **Activate** pane, and then select **Activate**. 
 
-    ![Activate pane](media/ase-activate-pane.PNG "Activate pane")
+    ![Activate pane.](media/ase-activate-pane.PNG "Activate pane")
  
     The activation process can take from one to ten minutes. 
     
@@ -70,11 +70,11 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     
     When the device is activated, a notification will appear in the **Azure Stack Edge Pro** page to let you know that the activation is complete. 
 
-    ![Device activated notification](media/device-activated.PNG "Device activated notification")
+    ![Device activated notification.](media/device-activated.PNG "Device activated notification")
  
     The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You'll know that the gateway is connected when it appears in the **Gateways** page in the mobile app. 
     
-    ![Gateways page in mobile app showing gateway is paired](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
+    ![Gateways page in mobile app showing gateway is paired.](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
     
     After Azure Stack Edge Pro is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
     
@@ -87,11 +87,11 @@ To modify the IP range used to get the list of available cameras:
 
 1. On the **Gateways** page, tap the **Actions** button, and then tap **Info** at the bottom of the screen.
 
-    ![Info button](media/gateway-info.PNG "Info button")
+    ![Info button.](media/gateway-info.PNG "Info button")
 
 2. Update the IP range values. 
 
-    ![Gateway Info page showing Camera Range field](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
+    ![Gateway Info page showing Camera Range field.](media/faq-ip-range.PNG "Gateway Info page showing Camera Range field")
     
 3. When you’re finished, select the check mark in the upper-right corner of the screen.
   
@@ -101,7 +101,7 @@ If you have a lot of gateways in your Gateways list, you might want to sort the 
 
 To sort the Gateways list:
 
-- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
+- Select the **Sort** ![Filter button.](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
 
 ## Next steps
 

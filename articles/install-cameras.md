@@ -60,16 +60,16 @@ Use the steps below in addition to your local standards and requirements for ins
     > [!NOTE] 
     > For camera mounting, we recommend focusing the lens 0-degree position toward your point of interest when mounted (not the 180-degree position).
    
-    ![O-degree camera position](media/orientation-0.PNG "0-degree camera position")
+    ![O-degree camera position.](media/orientation-0.PNG "0-degree camera position")
  
     If installed at 180 degrees, or moved later, ensure the ONVIF profile settings correspond to the camera lens position. 
    
-    ![180-degree camera position](media/orientation-180.PNG "180-degree camera position")
+    ![180-degree camera position.](media/orientation-180.PNG "180-degree camera position")
  
     > [!NOTE]  
     > If the camera is positioned at 180 degrees, the ONVIF media profile should also specify 180.
    
-    ![ONVIF media profile](media/ONVIF.PNG "ONVIF media profile")
+    ![ONVIF media profile.](media/ONVIF.PNG "ONVIF media profile")
  
 When you’re finished mounting and installing the camera per the manufacturer’s documentation, and if you have already installed Azure Stack Edge Pro (2 GPU) and connected it to the network, you’re ready to [add a store with the mobile app, and then pair a gateway to the store](mobile-app-create-store.md).
 

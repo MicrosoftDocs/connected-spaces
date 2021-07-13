@@ -20,7 +20,7 @@ Microsoft Dynamics 365 Connected Store Preview mobile app.
 
 1. On the **Stores** page, tap the **+** sign.
 
-     ![Create store + sign](media/create-store.PNG "Create store + sign")
+     ![Create store + sign.](media/create-store.PNG "Create store + sign")
   
 2. On the **Create Store** page:
 
@@ -42,14 +42,14 @@ mobile device. You can also enter your location manually, but make sure to enter
 
       - Take a picture with your phone camera.
     
-   ![Add Store Image field](media/store-add-field-image.PNG "Add Store Image field")
+   ![Add Store Image field.](media/store-add-field-image.PNG "Add Store Image field")
  
 3. When you’re done, tap the check mark in the upper-right corner of the page.
 
     On the **Stores** page, you’ll see your new store in the Stores list. The Stores list shows at a glance the name of the store, 
     how many gateways are set up for the store, and the store location.
     
-    ![Stores list](media/stores-list.PNG "Stores list")
+    ![Stores list.](media/stores-list.PNG "Stores list")
     
 If this is the first store that you're creating a store in the mobile app, the next step is to learn how to [pair a gateway](mobile-app-pair-gateway.md) so you can add cameras and camera skill zones.
     
@@ -62,11 +62,11 @@ about a store, use this procedure.
 
 2. Tap **Info** at the bottom of the page.
 
-    ![Info button](media/store-info.PNG "Info button")
+    ![Info button.](media/store-info.PNG "Info button")
  
 3. Review the info. 
 
-    ![List of store fields](media/store-fields.PNG "List of store fields")
+    ![List of store fields.](media/store-fields.PNG "List of store fields")
     
     The following table describes each field:
 
@@ -86,7 +86,7 @@ about a store, use this procedure.
 
 2. Tap **Rename** at the bottom of the page.
 
-    ![Rename button](media/store-rename.PNG "Rename button")
+    ![Rename button.](media/store-rename.PNG "Rename button")
     
 ## Sort the Stores list
 
@@ -94,7 +94,7 @@ If you have a lot of stores in your Stores list, you might want to sort the list
 
 To sort the Stores list:
 
-- Select the **Sort** ![Filter button](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
+- Select the **Sort** ![Filter button.](media/filter-button.PNG "Filter button") button at the top of the **Stores** page.
 
  
 ## Next steps
