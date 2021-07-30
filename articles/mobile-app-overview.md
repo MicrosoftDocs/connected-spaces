@@ -11,6 +11,8 @@ ms.custom: "intro-internal"
 
 # Overview of the Dynamics 365 Connected Store Preview mobile app
 
+[!INCLUDE[banner](includes/banner.md)]
+
 After [preparing your network and installing Azure Stack Edge Pro (2 GPU)](ase-install.md) for use with Microsoft Dynamics 365 Connected Store Preview, you must use the Dynamics 365 Connected Store mobile app to create a store and pair a gateway. After you finish pairing a gateway, you can use the mobile app to add cameras and camera skill zones to your store.
 
 > [!IMPORTANT]

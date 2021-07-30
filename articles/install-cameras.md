@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Install a camera to use with Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 This article describes how to install and configure a Loss Prevention (LP) camera to use with Microsoft Dynamics 365 Connected Store Preview.
 
 ## Supported cameras

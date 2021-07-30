@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Create a new Azure Active Directory tenant for the Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 For Microsoft Dynamics 365 Connected Store Preview, we recommend signing up with a new test Azure Active Directory tenant to simplify account management 
 during the preview.
 

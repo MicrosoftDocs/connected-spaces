@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Connect a camera to a gateway in the Dynamics 365 Connected Store Preview mobile app
 
+[!INCLUDE[banner](includes/banner.md)]
+
 After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Store Preview mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Store-approved camera on the same network as your gateway.
 
 If your store has multiple gateways, you’ll need to access them one-by-one to see all the connected or available cameras. You can pair up to 10 cameras per gateway. If you need more cameras for your store, contact your account manager to request an additional gateway.

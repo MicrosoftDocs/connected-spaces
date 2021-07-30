@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # What's new in Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 ## November 6, 2020
 
 The November 6 release includes the following new features.

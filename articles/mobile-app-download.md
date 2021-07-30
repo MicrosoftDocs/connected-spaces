@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Download the Dynamics 365 Connected Store (public preview) mobile app
 
+[!INCLUDE[banner](includes/banner.md)]
+
 > [!IMPORTANT]
 > The Connected Store mobile app is no longer available for download. Go to [Dynamics 365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
 

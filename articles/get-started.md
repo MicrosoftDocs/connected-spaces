@@ -11,6 +11,8 @@ ms.custom: "intro-internal"
 
 # Get started with Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 > [!NOTE]
 > Effective November 2020:
 >

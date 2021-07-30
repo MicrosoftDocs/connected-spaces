@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Compliance and responsible use for Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 > [!NOTE]
 > This article is provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Microsoft Dynamics 365 Connected Store. 
 

@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # View the Queue management details page in the Dynamics 365 Connected Store Preview web app
 
+[!INCLUDE[banner](includes/banner.md)]
+
 You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Queue management skill zone, which is available from the [Queue management summary page](queue-management-summary-page.md). 
 
 ## View the Queue management details page
