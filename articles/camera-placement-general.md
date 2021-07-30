@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Scenarios for placing cameras to use with Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 The main scenarios for camera placement in Microsoft Dynamics 365 Connected Store Preview include the following zones:
 
 - End caps (Display effectiveness skill zone)

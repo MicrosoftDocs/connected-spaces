@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # AI and insights for Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 Microsoft Dynamics 365 Connected Store leverages industry-leading computer vision Artificial intelligence (AI) and machine learning to provide data-driven stored-based analytics (referred to as "insights") to optimize retail operations. Connected Store provides retailers with: (i) simple analytics and trends on observational data generated in the retail environment; (ii) actionable insights based on multiple sources of data through machine learning and AI; and (iii) easy ways to create and manage manual and automated tasks across the retail environment.  
 
 ## How AI works to produce insights

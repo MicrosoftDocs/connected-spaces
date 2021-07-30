@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Camera placement suggestions for Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 > [!NOTE]
 > The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Store. [See Compliance and responsible use](compliance.md). 
 

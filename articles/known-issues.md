@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Known issues with Microsoft Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 ## I see blank pages in the web app
 
 You must use a supported browser and the browser must have the most up-to-date version installed. Connected Store supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 

@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Create a store with the Dynamics 365 Connected Store Preview mobile app
 
+[!INCLUDE[banner](includes/banner.md)]
+
 After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store with the 
 Microsoft Dynamics 365 Connected Store Preview mobile app. 
 

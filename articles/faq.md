@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Connected Store Preview FAQ
 
+[!INCLUDE[banner](includes/banner.md)]
+
 ## Are all IP cameras supported?
 
 [See the list of supported cameras](install-cameras.md#supported-cameras).
