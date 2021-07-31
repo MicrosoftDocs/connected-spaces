@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification 
 
+[!INCLUDE[banner](includes/banner.md)]
+
 You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Store Preview mobile app. When you set the **Maximum Occupancy** value, 
 you'll see the following items on the [**Shopper Analytics Summary** page](shopper-analytics-summary-page.md):
 

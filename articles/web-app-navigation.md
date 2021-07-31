@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Find your way around the Dynamics 365 Connected Store Preview web app
 
+[!INCLUDE[banner](includes/banner.md)]
+
 The Microsoft Dynamics 365 Connected Store Preview web app includes a left navigation pane that you can use to access the pages in the app.
 
 ![Left navigation pane.](media/navigation.PNG "Left navigation pane")

@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Install Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 After you have [created an Azure Active Directory tenant](admin-create-new-tenant.md) for Microsoft Dynamics 365 Connected Store Preview, you can 
 install Dynamics 365 Connected Store.
 

@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Order the Azure Stack Edge Pro (2 GPU) gateway to use with Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Store Preview. Before completing this procedure, make sure to:
 
 1. [Create a new Azure Active Directory tenant for the preview](admin-create-new-tenant.md)

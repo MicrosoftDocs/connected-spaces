@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Give users permissions to use Dynamics 365 Connected Store Preview
 
+[!INCLUDE[banner](includes/banner.md)]
+
 > [!NOTE]
 > Effective November 2020:
 >

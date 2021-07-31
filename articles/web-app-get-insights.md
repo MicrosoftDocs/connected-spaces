@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Use the Analytics page in the Dynamics 365 Connected Store Preview web app to get insights on your retail store
 
+[!INCLUDE[banner](includes/banner.md)]
+
 Microsoft Dynamics 365 Connected Store Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
 > [!IMPORTANT]
