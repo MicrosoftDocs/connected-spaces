@@ -1,23 +1,23 @@
 ---
 author: alwinv
-description: Introduction to Dynamics 365 Connected Store Preview
+description: Introduction to Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
 ms.date: 03/09/2021
 ms.topic: article
-title: Overview of Dynamics 365 Connected Store Preview
+title: Overview of Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 ms.custom: "intro-internal"
 ---
 
-# Overview of Dynamics 365 Connected Store Preview
+# Overview of Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4GRQM]
 
-Microsoft Dynamics 365 Connected Store Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Store delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
+Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
 
-Dynamics 365 Connected Store enables you to:
+Dynamics 365 Connected Spaces enables you to:
 
 - **React to environmental triggers.** Ensure that customer needs are met effectively and quickly by equipping store managers and employees with actionable alerts triggered by store activity, such as long checkout lines. Access to automated, sensor-driven reporting is standardized and available in-the-moment for immediate action.
 
@@ -39,5 +39,5 @@ Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/re
 
 ## Next step
 
-[Learn how to get started with Dynamics 365 Connected Store Preview](get-started.md)
+[Learn how to get started with Dynamics 365 Connected Spaces Preview](get-started.md)
 
