@@ -1,20 +1,20 @@
 ---
 author: kfrankc-ms
-description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Store Preview.
+description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: frch
 ms.date: 11/13/2020
 ms.topic: article
-title: Known issues with Dynamics 365 Connected Store Preview
+title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Microsoft Dynamics 365 Connected Store Preview
+# Known issues with Microsoft Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
 ## I see blank pages in the web app
 
-You must use a supported browser and the browser must have the most up-to-date version installed. Connected Store supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
+You must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
 
 ## Newly created store doesn’t appear in Store list
 
@@ -54,11 +54,11 @@ If you sign out of the Android mobile app, to successfully sign in again using t
 
 ![Sign out command in Android mobile app.](media/known-issues-mobile-app-sign-out.PNG "Sign out command in Android mobile app")
 
-## I see the following message when I install Connected Store: "It's taking longer than usual to validate your license. Please contact your administrator or sign up here."
+## I see the following message when I install Connected Spaces: "It's taking longer than usual to validate your license. Please contact your administrator or sign up here."
 
 If you see this message, the account that you used to sign in doesn't have a valid Connected Store license. This issue can occur when the browser automatically signs you in by using your work account. 
 
-To work around this issue, start a new Guest browser session, and then [go to the Connected Store setup page](https://ppe.connectedstore.dynamics.com/). Sign in by using the account that you created when you signed up for Connected Store.
+To work around this issue, start a new Guest browser session, and then [go to the Connected Spaces setup page](https://ppe.connectedstore.dynamics.com/). Sign in by using the account that you created when you signed up for Connected Spaces.
 
 ![You're browsing as a Guest message.](media/known-issues-guest-browser.PNG "You're browsing as a Guest message")
 
@@ -95,12 +95,12 @@ The sign-up form for a new Azure Active Directory (Azure AD) account doesn't acc
 
 ## You receive an error when you select the Users link on the order receipt page
 
-When you sign up for Connected Store by using an existing Azure AD tenant admin account, the **Users** link on the order receipt page might not work.
+When you sign up for Connected Spaces by using an existing Azure AD tenant admin account, the **Users** link on the order receipt page might not work.
 
 ![Users link on the order receipt page.](media/known-issues-users-link.PNG "Users link on the order receipt page")
 
-To work around this issue, select **Continue**, and then [install Connected Store](admin-install-web-app.md).
+To work around this issue, select **Continue**, and then [install Connected Spaces](admin-install-web-app.md).
 
 ## See also
 
-[Connected Store FAQ](faq.md)
+[Connected Spaces FAQ](faq.md)
