@@ -1,6 +1,6 @@
-- name: Dynamics 365 Connected Store Preview
+- name: Dynamics 365 Connected Spaces Preview
   items:
-    - name: Overview of Dynamics 365 Connected Store Preview
+    - name: Overview of Dynamics 365 Connected Spaces Preview
       href: index.md
     - name: Get started
       href: get-started.md
@@ -10,7 +10,7 @@
       items:
         - name: Create a new Azure Active Directory tenant
           href: admin-create-new-tenant.md         
-        - name: Install Connected Store
+        - name: Install Connected Spaces
           href: admin-install-web-app.md
         - name: Order the gateway
           href: admin-request-ase.md 
