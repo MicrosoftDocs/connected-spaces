@@ -1,23 +1,23 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Dynamics 365 Connected Store Preview web app to get insights on your store
+description: Learn how to use the Dynamics 365 Connected Spaces Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 07/08/2020
 ms.topic: article
-title: Use the Dynamics 365 Connected Store Preview web app to get insights on your store
+title: Use the Dynamics 365 Connected Spaces Preview web app to get insights on your store
 ms.reviewer: v-brycho
 ---
 
-# Use the Analytics page in the Dynamics 365 Connected Store Preview web app to get insights on your retail store
+# Use the Analytics page in the Dynamics 365 Connected Spaces Preview web app to get insights on your retail store
 
 [!INCLUDE[banner](includes/banner.md)]
 
-Microsoft Dynamics 365 Connected Store Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
+Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
 
 > [!IMPORTANT]
-> To use the web app, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Store supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
+> To use the web app, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
 
-Connected Store supports the following camera skills: 
+Connected Spaces supports the following camera skills: 
 
 - Shopper analytics
 
