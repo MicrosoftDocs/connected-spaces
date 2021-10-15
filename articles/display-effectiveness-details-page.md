@@ -1,22 +1,22 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to view the Display effectiveness details page in the Dynamics 365 Connected Store Preview web app to get insights on your store
+description: Learn how to view the Display effectiveness details page in the Dynamics 365 Connected Spaces Preview web app to get insights on your store
 ms.author: labryan
 ms.date: 11/13/2020
 ms.topic: article
-title: View the Display effectiveness details page in the Dynamics 365 Connected Store Preview web app
+title: View the Display effectiveness details page in the Dynamics 365 Connected Spaces Preview web app
 ms.reviewer: v-brycho
 ---
 
-# View the Display effectiveness details page in the Dynamics 365 Connected Store Preview web app
+# View the Display effectiveness details page in the Dynamics 365 Connected Spaces Preview web app
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Display effectiveness skill zone, which is available from the [Display effectiveness summary page](display-effectiveness-summary-page.md). 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Spaces Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Display effectiveness skill zone, which is available from the [Display effectiveness summary page](display-effectiveness-summary-page.md). 
 
 ## View the Display effectiveness details page
 
-To see details for a specific Display effectiveness zone in Microsoft Dynamics 365 Connected Store, select the desired display name at the bottom of the 
+To see details for a specific Display effectiveness zone in Microsoft Dynamics 365 Connected Spaces, select the desired display name at the bottom of the 
 [Display effectiveness summary page](display-effectiveness-summary-page.md).
 
 ![Details for specific display effectiveness zone.](media/analytics-29.PNG "Details for specific display effectiveness zone")
