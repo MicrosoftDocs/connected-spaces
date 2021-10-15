@@ -1,18 +1,18 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to set your store's operating hours in Dynamics 365 Connected Store Preview
+description: Learn how to set your store's operating hours in Dynamics 365 Connected Spaces Preview
 ms.author: labryan
 ms.date: 11/06/2020
 ms.topic: article
-title: Set your store's operating hours in Dynamics 365 Connected Store Preview
+title: Set your store's operating hours in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 ---
 
-# Set your store's operating hours in Dynamics 365 Connected Store Preview
+# Set your store's operating hours in Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use the web app in Microsoft Dynamics 365 Connected Store Preview to set your store's operating hours. If you don't set your operating hours, by default, the Connected Store dashboards will include after-hours data (when your store is being cleaned and restocked).
+You can use the web app in Microsoft Dynamics 365 Connected Spaces Preview to set your store's operating hours. If you don't set your operating hours, by default, the Connected Spaces dashboards will include after-hours data (when your store is being cleaned and restocked).
 
 1. In the web app, select the appropriate store from the list at the top of the screen.
 
