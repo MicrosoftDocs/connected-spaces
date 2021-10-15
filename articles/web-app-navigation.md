@@ -1,18 +1,18 @@
 ---
 author: lkbryant-MSFT
-description: Learn about the left navigation pane in the Dynamics 365 Connected Store Preview web app
+description: Learn about the left navigation pane in the Dynamics 365 Connected Spaces Preview web app
 ms.author: labryan
 ms.date: 07/08/2020
 ms.topic: article
-title: Find your way around the Dynamics 365 Connected Store Preview web app
+title: Find your way around the Dynamics 365 Connected Spaces Preview web app
 ms.reviewer: v-brycho
 ---
 
-# Find your way around the Dynamics 365 Connected Store Preview web app
+# Find your way around the Dynamics 365 Connected Spaces Preview web app
 
 [!INCLUDE[banner](includes/banner.md)]
 
-The Microsoft Dynamics 365 Connected Store Preview web app includes a left navigation pane that you can use to access the pages in the app.
+The Microsoft Dynamics 365 Connected Spaces Preview web app includes a left navigation pane that you can use to access the pages in the app.
 
 ![Left navigation pane.](media/navigation.PNG "Left navigation pane")
 
@@ -26,7 +26,7 @@ The following table describes each button in the left navigation pane.
 |**Analytics**|This button functions the same way as the **Home** button.|
 |**Skills**|You can configure measurements for a set of skill zones in your store. You can customize and manage these zones to populate data on the dashboards. Currently, measurement configuration is available [only in the mobile app](mobile-app-add-camera-skill-zones.md).|
 |**Settings**|Change settings for stores, users, and devices.|
-|**Contact Us**|Use this page if you have questions or just want to provide feedback to the Connected Store team! You can also find a link to the legal notices document on this page.| 
+|**Contact Us**|Use this page if you have questions or just want to provide feedback to the Connected Spaces team! You can also find a link to the legal notices document on this page.| 
 
 ## Next steps
 
