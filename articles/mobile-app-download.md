@@ -1,21 +1,21 @@
 ---
 author: alissapolucha
-description: Download the mobile app for Dynamics 365 Connected Store Preview
+description: Download the mobile app for Dynamics 365 Connected Spaces Preview
 ms.author: alissag
 ms.date: 07/13/2021
 ms.topic: article
-title: Download the Dynamics 365 Connected Store Preview mobile app
+title: Download the Dynamics 365 Connected Spaces Preview mobile app
 ms.reviewer: v-brycho
 ---
 
-# Download the Dynamics 365 Connected Store (public preview) mobile app
+# Download the Dynamics 365 Connected Spaces (public preview) mobile app
 
 [!INCLUDE[banner](includes/banner.md)]
 
 > [!IMPORTANT]
-> The Connected Store mobile app is no longer available for download. Go to [Dynamics 365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
+> The Connected Spaces mobile app is no longer available for download. Go to [Dynamics 365 Connected Spaces](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
 
-Keep the following in mind before using the Microsoft Dynamics 365 Connected Store (public preview) mobile app:
+Keep the following in mind before using the Microsoft Dynamics 365 Connected Spaces (public preview) mobile app:
 
 - Make sure that your cameras, network, and Azure Stack Edge Pro (2 GPU) have been installed for your store. 
 
@@ -28,7 +28,7 @@ Keep the following in mind before using the Microsoft Dynamics 365 Connected Sto
 latest experience, security, and bug fixes.
 
 > [!NOTE]
-> The Connected Store mobile app will also run on new Apple silicon-based devices. Microsoft has not validated full compatibility for the preview release. 
+> The Connected Spaces mobile app will also run on new Apple silicon-based devices. Microsoft has not validated full compatibility for the preview release. 
 
 To download the app for your device, go to the Apple App Store or Google Play Store, or use the following direct links: 
 
