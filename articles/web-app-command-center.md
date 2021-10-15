@@ -1,18 +1,18 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Command Center in Dynamics 365 Connected Store Preview to set up an email notification when maximum store occupancy thresholds are exceeded.
+description: Learn how to use the Command Center in Dynamics 365 Connected Spaces Preview to set up an email notification when maximum store occupancy thresholds are exceeded.
 ms.author: labryan
 ms.date: 11/06/2020
 ms.topic: article
-title: Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification
+title: Use the Command Center in the Dynamics 365 Connected Spaces Preview web app to set up a maximum store occupancy notification
 ms.reviewer: v-brycho
 ---
 
-# Use the Command Center in the Dynamics 365 Connected Store Preview web app to set up a maximum store occupancy notification 
+# Use the Command Center in the Dynamics 365 Connected Spaces Preview web app to set up a maximum store occupancy notification 
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Store Preview mobile app. When you set the **Maximum Occupancy** value, 
+You can set the maximum occupancy threshold for a store in the Microsoft Dynamics 365 Connected Spaces Preview mobile app. When you set the **Maximum Occupancy** value, 
 you'll see the following items on the [**Shopper Analytics Summary** page](shopper-analytics-summary-page.md):
 
 - **Over capacity** card
@@ -56,7 +56,7 @@ remains above the maximum occupancy threshold.
     
 5. Select the Connected Store widget to load the template, and then select **Continue**.
 
-    ![Continue button for Connected Store flow.](media/command-center-continue-button.PNG "Continue button for Connected Store flow")
+    ![Continue button for Connected Spaces flow.](media/command-center-continue-button.PNG "Continue button for Connected Spaces flow")
 
 7. At this point, you'll see all the components included in the **Send alert** flow. There are many components, but you only need to set the following two items:
 
