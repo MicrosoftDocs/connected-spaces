@@ -1,18 +1,18 @@
 ---
 author: kfrankc-ms
-description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview.
+description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview.
 ms.author: frch
 ms.date: 12/14/2020
 ms.topic: article
-title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview
+title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 --- 
 
-# Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Store Preview
+# Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynamics 365 Connected Store Preview, you'll need to prepare your network and install the device. If you haven't already ordered the gateway, see [Order the Azure Stack Edge Pro gateway](admin-request-ase.md). 
+After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynamics 365 Connected Spaces Preview, you'll need to prepare your network and install the device. If you haven't already ordered the gateway, see [Order the Azure Stack Edge Pro gateway](admin-request-ase.md). 
 
 > [!IMPORTANT]
 > This document provides helpful guidelines, but it is your responsibility to ensure you are properly securing and maintaining the equipment and infrastructure located on your premises, including Azure Stack Edge Pro, your cameras, network, and video feeds from your cameras.
@@ -20,9 +20,9 @@ After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynami
 ## Azure Stack Edge Pro installation requirements	
 
 > [!NOTE]
-> The Azure Stack Edge Pro gateway that you order for Connected Store Preview can only be used for Connected Store Preview. You can't deploy any other resources to Azure Stack Edge Pro during the preview. 
+> The Azure Stack Edge Pro gateway that you order for Connected Spaces Preview can only be used for Connected Spaces Preview. You can't deploy any other resources to Azure Stack Edge Pro during the preview. 
 
-The following table shows tips for installing and connecting the Azure Stack Edge Pro gateway for Dynamics 365 Connected Store.
+The following table shows tips for installing and connecting the Azure Stack Edge Pro gateway for Dynamics 365 Connected Spaces.
 
 |Requirement|Description|
 |----------------|--------------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ The following table shows tips for installing and connecting the Azure Stack Edg
 |Airflow|Azure Stack Edge Pro requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
 |Power|Azure Stack Edge Pro requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of Azure Stack Edge Pro. [Learn more about power requirements](/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge Pro uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge Pro where people perform daily operations which may be affected by prolonged noise exposure.|
-|Network|Azure Stack Edge Pro requires a 5-megabits-per-second internet connection for data flow to the Dynamics 365 Connected Store services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge Pro to the LAN.<br><br>The default port communication for Azure IoT Hub should be Advanced Message Queuing Protocol (AMQP) over port 5671. If this port can't be opened because of firewall policies, use AMQP over web sockets (port 443). In addition to using [URL patterns for firewall rules](/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add one more domain name when they use the Connected Store: `https://*.monitoring.azure.com`. This domain name is required so that Connected Store can receive telemetry information about the health of the Azure Stack Edge Pro appliance.|
+|Network|Azure Stack Edge Pro requires a 5-megabits-per-second internet connection for data flow to the Dynamics 365 Connected Spaces services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge Pro to the LAN.<br><br>The default port communication for Azure IoT Hub should be Advanced Message Queuing Protocol (AMQP) over port 5671. If this port can't be opened because of firewall policies, use AMQP over web sockets (port 443). In addition to using [URL patterns for firewall rules](/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add one more domain name when they use the Connected Spaces: `https://*.monitoring.azure.com`. This domain name is required so that Connected Spaces can receive telemetry information about the health of the Azure Stack Edge Pro appliance.|
 |Operating temperatures|See the [Azure Stack Edge Pro technical specifications](/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
 
 ## Site preparation	
@@ -74,7 +74,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 ## Install and connect Azure Stack Edge Pro	
 
 > [!NOTE]
-> [Download and install the Dynamics 365 Connected Store mobile app](mobile-app-download.md) before you start.
+> [Download and install the Dynamics 365 Connected Spaces mobile app](mobile-app-download.md) before you start.
 
 1. Unpack and install Azure Stack Edge Pro using the following instructions: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-install
 
