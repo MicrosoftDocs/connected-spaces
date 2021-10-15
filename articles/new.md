@@ -1,14 +1,14 @@
 ---
 author: alwinv
-description: Learn about what's new in Microsoft Dynamics 365 Connected Store Preview
+description: Learn about what's new in Microsoft Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
 ms.date: 12/08/2020
 ms.topic: article
-title: What's new in Dynamics 365 Connected Store Preview
+title: What's new in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 ---
 
-# What's new in Dynamics 365 Connected Store Preview
+# What's new in Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
@@ -25,4 +25,4 @@ The November 6 release includes the following new features.
 
 ## Next step
 
-[Get started with Dynamics 365 Connected Store Preview](get-started.md)
+[Get started with Dynamics 365 Connected Spaces Preview](get-started.md)
