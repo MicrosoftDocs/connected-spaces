@@ -27,7 +27,7 @@ Welcome to the Microsoft Dynamics 365 Connected Spaces Preview! This article des
 
 Connected Spaces consists of several interconnected web and mobile applications, an Azure cloud service, and hardware that you install at your store.
 
-![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-cs-works.png "Illustration of retail store, Azure cloud service and Power Platorm components")
+![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-cs-works.png "Illustration of retail store, Azure cloud service and Power Platform components")
  
 In each of your retail stores, you’ll:
 
