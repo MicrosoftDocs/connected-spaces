@@ -2,10 +2,10 @@
 author: lkbryant-MSFT
 description: Learn how to use the Command Center in Dynamics 365 Connected Spaces Preview to set up an email notification when maximum store occupancy thresholds are exceeded.
 ms.author: labryan
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
 title: Use the Command Center in the Dynamics 365 Connected Spaces Preview web app to set up a maximum store occupancy notification
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Use the Command Center in the Dynamics 365 Connected Spaces Preview web app to set up a maximum store occupancy notification 
