@@ -2,10 +2,10 @@
 author: lkbryant-MSFT
 description: Learn how to view the Display effectiveness summary page in the Dynamics 365 Connected Spaces Preview web app to get insights on your store
 ms.author: labryan
-ms.date: 11/13/2020
+ms.date: 11/02/2021
 ms.topic: article
 title: View the Display effectiveness summary page in the Dynamics 365 Connected Spaces Preview web app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # View the Display effectiveness summary page in the Dynamics 365 Connected Spaces Preview web app
