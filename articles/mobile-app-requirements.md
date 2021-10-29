@@ -31,8 +31,6 @@ Using the app on an older operating system may cause compatibility issues. If yo
 
 [Overview of the mobile app](mobile-app-overview.md)
 
-[Download the app](mobile-app-download.md)
-
 [Create a store](mobile-app-create-store.md)
 
 [Pair a gateway](mobile-app-pair-gateway.md)
