@@ -2,10 +2,10 @@
 author: alissapolucha
 description: Overview of the mobile app for Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 7/13/2021
+ms.date: 11/02/2021
 ms.topic: article
 title: Overview of Dynamics 365 Connected Spaces Preview mobile app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ms.custom: "intro-internal"
 ---
 
