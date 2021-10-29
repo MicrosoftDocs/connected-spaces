@@ -13,6 +13,7 @@ ms.custom: "intro-internal"
 
 [!INCLUDE[banner](includes/banner.md)]
 
+
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4GRQM]
 
 Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
