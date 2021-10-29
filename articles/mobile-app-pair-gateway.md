@@ -2,10 +2,10 @@
 author: alissapolucha
 description: Learn how to use the Dynamics 365 Connected Spaces Preview mobile app to pair a gateway so you can connect LP cameras.
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
 title: Pair a gateway with the Dynamics 365 Connected Spaces Preview mobile app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Pair a gateway with the Dynamics 365 Connected Spaces Preview mobile app
