@@ -2,10 +2,10 @@
 author: kfrankc-ms
 description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: frch
-ms.date: 03/09/2021
+ms.date: 11/02/2021
 ms.topic: article
 title: Dynamics 365 Connected Spaces Preview FAQ
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Dynamics 365 Connected Spaces Preview FAQ
