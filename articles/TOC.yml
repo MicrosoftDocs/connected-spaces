@@ -7,19 +7,7 @@
     - name: What's new
       href: new.md    
     - name: 1. Setup
-      items:
-        - name: Create a new Azure Active Directory tenant
-          href: admin-create-new-tenant.md         
-        - name: Install Connected Spaces
-          href: admin-install-web-app.md
-        - name: Order the gateway
-          href: admin-request-ase.md 
-        - name: Launch the app and explore the Contoso sample store
-          href: launch-app.md         
-        - name: Prepare user accounts
-          href: admin-prepare-user-accounts.md 
-        - name: Give users permissions
-          href: admin-user-accounts.md 
+      href: setup-coming.md
     - name: 2. Create your camera plan
       items:
         - name: Checklist
