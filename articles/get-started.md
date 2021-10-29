@@ -49,6 +49,3 @@ The Connected Spaces table of contents is organized to make it easy to get up an
 
 At the end of each article, you'll see a **Next step** heading that includes a link for the suggested next step to take.
 
-## Next step
-
-[Start the setup process by creating a new Azure Active Directory tenant](admin-create-new-tenant.md)
