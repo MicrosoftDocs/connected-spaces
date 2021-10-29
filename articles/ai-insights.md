@@ -16,7 +16,7 @@ Microsoft Dynamics 365 Connected Spaces leverages industry-leading computer visi
 
 ## How AI works to produce insights
 
-The Connected Spaces edge gateway includes computer vision skills (AI models) that detect human presence and movement from in-store camera video footage to derive data such as people count and dwell time. The derived data (or inference data) is sent to the Connected Spaces cloud to generate insights. The Connected Spaces cloud service and web app is a multi-tenant software as a service (SaaS) that processes the data from Connected Spaces edge gateway, and correlates with other business data to generate aggregate and actionable insights for each customer.
+The edge device includes computer vision skills (AI models) that detect human presence and movement from in-store camera video footage to derive data such as people count and dwell time. The derived data (or inference data) is sent to the Connected Spaces cloud to generate insights. The Connected Spaces service and web app is a multi-tenant software as a service (SaaS) that processes the data from Connected Spaces edge gateway, and correlates with other business data to generate aggregate and actionable insights for each customer.
 
 - The computer vision AI skills goal is exclusively to detect and locate human presence in video footage and outputs a bounding box around a human body. Connected Spaces AI skills that detect people and their dwell or wait times in certain zones of the store do not attempt to detect faces or discover the identities or demographics of shoppers and other individuals at your retail location. 
 
@@ -30,7 +30,7 @@ The Connected Spaces edge gateway includes computer vision skills (AI models) th
 
    - Confidence score for the detection
 
-- All the inferencing by the AI skills are processed in memory on the edge gateway without writing to disks so that no video footage is stored or sent to the cloud.
+- All of the inferencing by the AI skills are depersonalized and processed in memory on the edge gateway. This inference data is stored in Microsoft Dataverse in the customer's Microsoft Power Platform environment for the customer to manage themselves. Customers also have the option to store their video data on the Power Platform as well.
 
 - The inferenced data output from the AI skills are sent to the Connected Spaces cloud. This output does not include data that could identify individuals. Data sent to the cloud includes event data and pseudonymous identifiers that are then aggregated to deliver insights from the Connected Spaces cloud service through the Connected Spaces web app.
 
