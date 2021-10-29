@@ -2,10 +2,10 @@
 author: alissapolucha
 description: Learn how to create a store by using the Dynamics 365 Connected Spaces Preview mobile app
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
 title: Create a store with the Dynamics 365 Connected Spaces Preview mobile app 
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Create a store with the Dynamics 365 Connected Spaces Preview mobile app
