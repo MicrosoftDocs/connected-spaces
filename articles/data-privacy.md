@@ -23,7 +23,7 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 - **Connected Spaces cloud service and app** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Spaces web app that provides insights for the retailer. The edge device sends the inference data to the Connected Spaces service so that it can be correlated with the retailer’s business data (for example, store business hours, camera zone name) and aggregated to generate actionable insights regarding retail operations. Customers can then use the Connected Spaces web app to view the resulting insights data stored in the Connected Spaces cloud for Shopping analytics, Display effectiveness, and Queue management insights. 
 
-- **Microsoft Dataverse storage** – A Dataverse database in the customer’s Power Platform environment. The customer’s inference data is stored in Microsoft Dataverse for easy access by the customer. The customer also has the option to store and manage their video data in Microsoft Dataverse.
+- **Microsoft Dataverse storage** – A database in the customer’s Power Platform environment. The customer’s inference data is stored in Microsoft Dataverse for easy access by the customer. The customer also has the option to store and manage their video data in Microsoft Dataverse.
 
 ## What data does Connected Spaces process?  
 
