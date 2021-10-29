@@ -13,14 +13,6 @@ ms.custom: "intro-internal"
 
 [!INCLUDE[banner](includes/banner.md)]
 
-> [!NOTE]
-> Effective November 2020:
->
-> - Common Data Service has been renamed to Microsoft Dataverse. For more information, see [Power Automate Blog](https://aka.ms/PAuAppBlog).
-> - Some terminology in Microsoft Dataverse has been updated. For example, *entity* is now *table* and *field* is now *column*. For more information, see [Terminology updates](/powerapps/maker/data-platform/data-platform-intro).
->
-> This topic will be updated soon to reflect the latest terminology.
-
 Welcome to the Microsoft Dynamics 365 Connected Spaces Preview! This article describes how Connected Spaces works, and the overall process for acquiring, installing, configuring, and using Connected Spaces. 
 
 ## How Dynamics 365 Connected Spaces works
@@ -42,6 +34,8 @@ The cloud service:
 - Processes the datapoints into aggregated observational data.
 
 - Sends the processed data on a regular basis to Microsoft Dataverse in your Microsoft Power Platform environment.
+
+- Processes and sends video streams and video stream metadata to Microsoft Dataverse in your Microsoft Power Platform environment. Customers can choose to have their video data streamed to Microsoft Dataverse.  
 
 The Power Platform environment:
 
