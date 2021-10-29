@@ -22,8 +22,6 @@ What do you want to do?
 
 - [Learn about operating system requirements for using the app](mobile-app-requirements.md)
 
-- [Download the app](mobile-app-download.md)
-
 - [Add a store](mobile-app-create-store.md)
 
 - [Pair a gateway](mobile-app-pair-gateway.md)
