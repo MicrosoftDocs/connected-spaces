@@ -2,10 +2,10 @@
 author: alissapolucha
 description: Download the mobile app for Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 07/13/2021
+ms.date: 11/02/2021
 ms.topic: article
 title: Download the Dynamics 365 Connected Spaces Preview mobile app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Download the Dynamics 365 Connected Spaces (public preview) mobile app
