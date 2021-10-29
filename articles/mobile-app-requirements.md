@@ -25,7 +25,7 @@ You can use Microsoft Dynamics 365 Connected Spaces Preview on the devices/opera
 Using the app on an older operating system may cause compatibility issues. If you have any problems with the app, make sure that your operating system is up-to-date.
 
 > [!IMPORTANT]
-> To use the mobile app, you also need to have the **Connected Store Admin** user role. For more information, see [Give permissions to users](admin-user-accounts.md).
+> To use the mobile app, you also need to have the **Connected Store Admin** user role. 
 
 ## Next steps
 
