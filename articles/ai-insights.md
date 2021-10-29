@@ -36,10 +36,10 @@ The edge device includes computer vision skills (AI models) that detect human pr
 
 The following list shows the insights that retail customers can retrieve from the above components of Connected Spaces. The insights are aggregated, and no individual shoppers are identified or tracked.
 
-> **1. Shopper analytics.** Includes insights around footfalls and occupancy such as total footfall across the store or busiest day of the week. 
+> **1. Shopper analytics.** Includes insights around customers entering the store and occupancy such as total footfall across the store or busiest day of the week. 
 
-> **2. Display effectiveness.** Includes insights around shopper engagement for endcap or promotion display such as the display with longest average dwell time or total footfall across displays. 
+> **2. Display effectiveness.** Includes insights around shopper engagement for endcap or promotion display such as the largest increase or decrease in display traffic. 
 
-> **3. Queue management.**  Includes insights around queue wait time and lengths such as longest queue across the store or average wait time across all queues. 
+> **3. Queue management.**  Includes insights around queue wait time and lengths such as the largest increase or decrease in queue throughput. 
 
 
