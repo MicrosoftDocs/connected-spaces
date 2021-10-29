@@ -1,6 +1,6 @@
 
 
-# Set up Dynamics 365 Connected Spaces (Coming soon)
+# Set up Dynamics 365 Connected Spaces (Coming soon!)
 
 [!INCLUDE[banner](includes/banner.md)]
 
