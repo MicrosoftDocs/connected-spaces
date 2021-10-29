@@ -2,10 +2,10 @@
 author: lkbryant-MSFT
 description: Learn about the left navigation pane in the Dynamics 365 Connected Spaces Preview web app
 ms.author: labryan
-ms.date: 07/08/2020
+ms.date: 11/02/2021
 ms.topic: article
 title: Find your way around the Dynamics 365 Connected Spaces Preview web app
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Find your way around the Dynamics 365 Connected Spaces Preview web app
