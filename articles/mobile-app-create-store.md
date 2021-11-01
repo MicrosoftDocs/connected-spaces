@@ -15,9 +15,6 @@ ms.reviewer: v-bholmes
 After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store with the 
 Microsoft Dynamics 365 Connected Spaces Preview mobile app. 
 
->[!NOTE]
->[Download the mobile app if you haven't already](mobile-app-download.md).
-
 ## Create a store
 
 1. On the **Stores** page, tap the **+** sign.
