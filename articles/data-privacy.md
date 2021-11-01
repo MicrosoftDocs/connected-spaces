@@ -17,7 +17,7 @@ ms.reviewer: v-bholmes
 
 Dynamics 365 Connected Spaces Preview has three components, and each has been designed with privacy, security, and compliance in mind. 
 
-![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.png "Illustration of retail store, Azure cloud service and Power Platorm components")
+![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platorm components")
 
 - **Edge device** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge device processes video data from the in-store camera locally on the device (at the edge) and uses AI models to draw conclusions from that video footage ("inferences") without identifying individuals to generate inference data. 
 
