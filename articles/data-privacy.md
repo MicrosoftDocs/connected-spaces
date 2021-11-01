@@ -19,7 +19,7 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platorm components")
 
-- **Edge device** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge device processes video data from the in-store camera locally on the device (at the edge) and uses AI models to draw conclusions from that video footage ("inferences") without identifying individuals to generate inference data. 
+- **Edge gateway** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge gateway processes video data from the in-store camera locally on the device (at the edge) and uses AI models to draw conclusions from that video footage ("inferences") without identifying individuals to generate inference data. 
 
 - **Connected Spaces cloud service and app** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Spaces web app that provides insights for the retailer. The edge device sends the inference data to the Connected Spaces service so that it can be correlated with the retailer’s business data (for example, store business hours, camera zone name) and aggregated to generate actionable insights regarding retail operations. Customers can then use the Connected Spaces web app to view the resulting insights data stored in the Connected Spaces service for Shopping analytics, Display effectiveness, and Queue management insights. 
 
@@ -27,11 +27,11 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 ## What data does Connected Spaces process?  
 
-In the retail store(s), the Connected Spaces edge device is used to process the following types of data:
+In the retail store(s), the Connected Spaces edge gateway is used to process the following types of data:
 
 - **Video stream** – The video stream from customers’ in-store cameras is processed in memory, in real time, on the Connected Spaces edge device to generate inference data and is stored in Microsoft Dataverse in the customer's Microsoft Power Platform environment. **Every customer has the ability to choose if video data is stored in their cloud and to manage it. Go to Settings > Privacy Information to change where video is stored.**
 
-- **Inference data** – This is the event data output by AI skills (models) running on the edge device that describe an inferred event. Event data includes data such as a time stamp, notation about the type of event (for example, "entry" or "exit" crossing line or zones), a rectangle “bounding box” that coordinates the area tracked within the camera frame, a confidence score that indicates confidence of the “bounding box” being a person, and a pseudonymous identifier associated with the “bounding box”. 
+- **Inference data** – This is the event data output by AI skills (models) running on the edge gateway that describe an inferred event. Event data includes data such as a time stamp, notation about the type of event (for example, "entry" or "exit" crossing line or zones), a rectangle “bounding box” that coordinates the area tracked within the camera frame, a confidence score that indicates confidence of the “bounding box” being a person, and a pseudonymous identifier associated with the “bounding box”. 
  
 In the Connected Spaces cloud service on Azure, the following types of data are processed at the instructions of the customer to provide the service:
 
@@ -47,9 +47,9 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
    - Zone – such as Front Entrance, Aisle 1 display, and so on
 
-- **Configuration data** – This is information about the retailer’s store and the Connected Spaces edge device configuration that is used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills). 
+- **Configuration data** – This is information about the retailer’s store and the Connected Spaces edge gateway configuration that is used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills). 
 
-- **Telemetry data** – This is information about the health of the edge device, the Connected Spaces cloud service, and the Connected Spaces mobile app. 
+- **Telemetry data** – This is information about the health of the edge gateway, the Connected Spaces cloud service, and the Connected Spaces mobile app. 
 
 ## How does Connected Spaces process data?
 
