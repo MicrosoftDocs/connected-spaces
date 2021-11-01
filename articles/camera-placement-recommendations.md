@@ -193,7 +193,7 @@ using a retractable belt barrier to help guide the queue direction and ensure th
 
 ## Placement of in-store cameras and video storage
 
-Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once a customer’s cameras are in place, Dynamics 365 Connected Spaces will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)). Microsoft Dynamics 365 Connected Spaces stores video footage in Microsoft Dataverse in your Power Platform environment. You can choose not to upload video footage to Microsoft Dataverse by changing your privacy preferences in Settings.
+Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once your  cameras are in place, Dynamics 365 Connected Spaces will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)). Microsoft Dynamics 365 Connected Spaces stores video footage in Microsoft Dataverse in your Power Platform environment. You can choose not to upload video footage to Microsoft Dataverse by changing your privacy preferences in Settings.
 
 ## Next step
 
