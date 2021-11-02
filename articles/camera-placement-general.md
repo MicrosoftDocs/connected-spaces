@@ -1,18 +1,18 @@
 ---
 author: kfrankc-ms
-description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Store Preview.
-ms.author: frch
-ms.date: 03/09/2021
+description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Spaces Preview.
+ms.author: alwinv
+ms.date: 11/02/2021
 ms.topic: article
-title: Scenarios for placing cameras to use with Dynamics 365 Connected Store Preview
-ms.reviewer: v-brycho
+title: Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
+ms.reviewer: v-bholmes
 ---
 
-# Scenarios for placing cameras to use with Dynamics 365 Connected Store Preview
+# Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-The main scenarios for camera placement in Microsoft Dynamics 365 Connected Store Preview include the following zones:
+The main scenarios for camera placement in Microsoft Dynamics 365 Connected Spaces Preview include the following zones:
 
 - End caps (Display effectiveness skill zone)
 

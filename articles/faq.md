@@ -1,14 +1,14 @@
 ---
 author: kfrankc-ms
-description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Store Preview.
-ms.author: frch
-ms.date: 03/09/2021
+description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Spaces Preview.
+ms.author: alwinv
+ms.date: 11/02/2021
 ms.topic: article
-title: Dynamics 365 Connected Store Preview FAQ
-ms.reviewer: v-brycho
+title: Dynamics 365 Connected Spaces Preview FAQ
+ms.reviewer: v-bholmes
 ---
 
-# Dynamics 365 Connected Store Preview FAQ
+# Dynamics 365 Connected Spaces Preview FAQ
 
 [!INCLUDE[banner](includes/banner.md)]
 
@@ -51,19 +51,19 @@ To change the Internet Protocol (IP) range that is used to get the list of avail
 
 To use the mobile app, you must have the **Connected Store Admin** role. If you sign in by using the **Connected Store Viewers** role, you can view the list of stores, but you can't view any gateways in those stores. [Learn how to assign a user role](admin-user-accounts.md).
 
-## How do I use my existing Azure Active Directory tenant to sign up for Connected Store? 
+## How do I use my existing Azure Active Directory tenant to sign up for Connected Spaces? 
 
 If you want to use your company's existing Microsoft Azure Active Directory (Azure AD) tenant to sign up, the global admin on your team must complete these steps:
 
 1. Complete the sign-up by using their user account, which has Azure AD tenant administrator permissions.
 
-2. Assign a six-month trial license to Microsoft Dynamics 365 Connected Store.
+2. Assign a six-month trial license to Microsoft Dynamics 365 Connected Spaces.
 
 3. Assign client licenses to Azure AD user accounts.
 
-Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Store, you can [sign up by using a new test Azure AD tenant](admin-create-new-tenant.md) in the UK or US.
+Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Spaces, you can [sign up by using a new test Azure AD tenant](admin-create-new-tenant.md) in the UK or US.
 
-1. Go to the Connected Store setup page.
+1. Go to the Connected Spaces setup page.
 
 2. In the **Let's set up your account** step, enter your company email address, and then select **Next**.
 
@@ -77,7 +77,7 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
     ![Continue button.](media/faq-continue.PNG "Continue button")
 
-    The web page verifies that you have permissions to sign up on behalf of your company. If you do, it redirects you to portal.office.com, where you can get the license for Connected Store.
+    The web page verifies that you have permissions to sign up on behalf of your company. If you do, it redirects you to portal.office.com, where you can get the license for Connected Spaces.
 
 5. On the Office **Check out** page, select **Try now** to get the trial license for your company.
 
@@ -93,9 +93,9 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
     
     - Assigns a client license for this trial to your admin user account.
 
-6. [Install Connected Store](admin-install-web-app.md).
+6. [Install Connected Spaces](admin-install-web-app.md).
 
-## How do I notify shoppers and employees about the use of Dynamics 365 Connected Store in my store?
+## How do I notify shoppers and employees about the use of Dynamics 365 Connected Spaces in my store?
 
 While shoppers and employees may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and concerns, potentially impacting trust in your brand. For tips for building shopper and employee trust through a notice and disclosure strategy, refer to the best practices outlined in our two guides, [Communicate with shoppers](communication-plan.md) and [Communicate with employees](employee-plan.md).
 

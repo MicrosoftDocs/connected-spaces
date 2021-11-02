@@ -1,20 +1,20 @@
 ---
 author: alwinv
-description: Learn about what to communicate with your employees if you're using Dynamics 365 Connected Store Preview.
+description: Learn about what to communicate with your employees if you're using Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 03/09/2021
+ms.date: 11/02/2021
 ms.topic: article
-title: Communicate with your employees about the use of Dynamics 365 Connected Store Preview in your store
-ms.reviewer: v-brycho
+title: Communicate with your employees about the use of Dynamics 365 Connected Spaces Preview in your store
+ms.reviewer: v-bholmes
 ---
 
-# Communicating with your employees about the use of Dynamics 365 Connected Store
+# Communicating with your employees about the use of Dynamics 365 Connected Spaces
 
 [!INCLUDE[banner](includes/banner.md)]
 
 > [!NOTE]
 > This article is provided for informational purposes only. It should not be treated as definitive or as legal advice. We strongly recommend seeking specialist legal advice 
-when implementing Dynamics 365 Connected Store. [See Compliance and responsible use for details](compliance.md).
+when implementing Dynamics 365 Connected Spaces. [See Compliance and responsible use for details](compliance.md).
 
 When it comes to the use of cameras in retail settings, employees have many of the same questions and concerns as shoppers about what data is collected and how it's used. 
 Employees also have additional concerns about how the technology will affect their day-to-day work and whether cameras may be used to monitor their performance. 
@@ -28,13 +28,13 @@ Based on our research, we’re sharing practices that we’ve found successful i
 
 - Works within the context of your store and your scenario.
 
-- Accurately reflects all of your data collection and processing practices, including those outside of Dynamics 365 Connected Store.
+- Accurately reflects all of your data collection and processing practices, including those outside of Dynamics 365 Connected Spaces.
 
 - Complies with **all laws and regulations** that apply to your use case and in your geographic location, including specific requirements related to notice, disclosure, and consent. Microsoft cannot be held liable for your failure to comply with applicable laws and regulations.
 
 ## What to disclose
 
-Our research shows that employees may have a common set of questions regarding Dynamics 365 Connected Store, and transparent disclosure can help build their trust. Because Dynamics 365 Connected Store is built with privacy in mind, it does not store any video footage, does not analyze or attempt to detect faces, and does not identify individuals. Our research shows that this information is reassuring to employees when it’s disclosed in clear and accessible ways. 
+Our research shows that employees may have a common set of questions regarding Dynamics 365 Connected Spaces, and transparent disclosure can help build their trust. Because Dynamics 365 Connected Spaces is built with privacy in mind, it does not store any video footage, does not analyze or attempt to detect faces, and does not identify individuals. Our research shows that this information is reassuring to employees when it’s disclosed in clear and accessible ways. 
 
 A disclosure strategy can build trust by answering employees’ questions and helping them understand the following:
 
@@ -60,11 +60,11 @@ A disclosure strategy can build trust by answering employees’ questions and he
 
 - How can employees best respond to shopper questions or concerns?
 
-Many of these answers may be similar to the ones you provide to shoppers (see [Communicate with shoppers](communication-plan.md) for other tips based on our user research). Note that answers to these questions will depend not only on how your store uses Dynamics 365 Connected Store, but also how you use other technologies that might affect the employee experience, including technologies you cover in other disclosure strategies. 
+Many of these answers may be similar to the ones you provide to shoppers (see [Communicate with shoppers](communication-plan.md) for other tips based on our user research). Note that answers to these questions will depend not only on how your store uses Dynamics 365 Connected Spaces, but also how you use other technologies that might affect the employee experience, including technologies you cover in other disclosure strategies. 
 
 ## When and where to disclose
 
-Our research shows that it is most effective to notify employees about Dynamics 365 Connected Store when the technology is being integrated, and then provide disclosure materials that are available for employees to review anytime. 
+Our research shows that it is most effective to notify employees about Dynamics 365 Connected Spaces when the technology is being integrated, and then provide disclosure materials that are available for employees to review anytime. 
 
 The following suggestions represent a range of practices that have been designed to be flexible so that you can choose options that make sense in the unique context of your store. 
 
@@ -82,11 +82,11 @@ The following suggestions represent a range of practices that have been designed
 
 - Provide frontline workers with talking points or scripts for responding to shoppers’ questions and concerns about the use of video technology. 
 
-- Include information about Dynamics 365 Connected Store in new employee onboarding.
+- Include information about Dynamics 365 Connected Spaces in new employee onboarding.
 
 ## Design tips and examples
 
-Refer to the guidelines for [communicating with shoppers](communication-plan.md) for tips on presenting information about Dynamics 365 Connected Store in a way that makes it easy to understand. The following examples build on those guidelines with additional tips for communicating with employees. The images are for explanatory purposes only.
+Refer to the guidelines for [communicating with shoppers](communication-plan.md) for tips on presenting information about Dynamics 365 Connected Spaces in a way that makes it easy to understand. The following examples build on those guidelines with additional tips for communicating with employees. The images are for explanatory purposes only.
 
 ### Example: Employee FAQ (Printed)
 
@@ -94,8 +94,8 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 |Tip|Why?|
 |--------------------------------------------------------|-------------------------------------------------------|
-|✔ **DO** explain that Dynamics 365 Connected Store is not intended and won’t be used to monitor employee behavior or evaluate employee performance|Workplace surveillance is a top employee concern. Dynamics 365 Connected Store is not designed or intended for use in—and should not be used to make—decisions affecting employment, including performance evaluation, compensation, rewards, seniority, or other rights or entitlements. Our research shows that you can build trust by reiterating how Dynamics 365 Connected Store protects the privacy of individuals (see [Data and Privacy](data-privacy.md)), and by assuring employees that you will not use insights for employee monitoring or decisions that affect their employment. You are solely responsible for use of the product in compliance with all applicable laws.|
-|✔ **DO** explain how Dynamics 365 Connected Store will affect employees’ day-to-day work|Employees expect to get information on how their daily work will be impacted.|
+|✔ **DO** explain that Dynamics 365 Connected Spaces is not intended and won’t be used to monitor employee behavior or evaluate employee performance|Workplace surveillance is a top employee concern. Dynamics 365 Connected Spaces is not designed or intended for use in—and should not be used to make—decisions affecting employment, including performance evaluation, compensation, rewards, seniority, or other rights or entitlements. Our research shows that you can build trust by reiterating how Dynamics 365 Connected Spaces protects the privacy of individuals (see [Data and Privacy](data-privacy.md)), and by assuring employees that you will not use insights for employee monitoring or decisions that affect their employment. You are solely responsible for use of the product in compliance with all applicable laws.|
+|✔ **DO** explain how Dynamics 365 Connected Spaces will affect employees’ day-to-day work|Employees expect to get information on how their daily work will be impacted.|
 |✔ **DO** offer a way to learn more|Employees appreciate being able to ask additional questions, for example by contacting a manager or an HR team.|
 
 ### Example: Explaining how employees’ work is affected
@@ -106,8 +106,8 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 |--------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** give specific examples of how employees' responsibilities and tasks might change|Vague answers may be ignored or create confusion and distrust. |
 |✔ **DO** describe measures taken to prevent technology misuse|Employees may have concerns regarding the misuse of technology by the company or managers, and appreciate knowing what preventive measures and policies are in place.  |
-|✔ **DO** provide details on how Dynamics 365 Connected Store benefits both store operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
-|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Store, video footage is not accessible by humans and is not stored. Insights, which are statistics derived from video footage and which are aggregated and anonymized before anyone sees them, are visible to humans and are stored. |
+|✔ **DO** provide details on how Dynamics 365 Connected Spaces benefits both store operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
+|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Spaces, video footage is not accessible by humans and is not stored. Insights, which are statistics derived from video footage and which are aggregated and anonymized before anyone sees them, are visible to humans and are stored. |
 |✔ **DO** use simple, concise, non-technical language|Simple language helps make the content more accessible to all employees, including those who aren’t native speakers. |
 
 ### Example: Helping employees respond to shoppers’ concerns

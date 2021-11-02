@@ -1,21 +1,21 @@
 ---
 author: alissapolucha
-description: Learn about the requirements for using the Dynamics 365 Connected Store Preview mobile app
+description: Learn about the requirements for using the Dynamics 365 Connected Spaces Preview mobile app
 ms.author: alissag
-ms.date: 7/13/2021
+ms.date: 11/02/2021
 ms.topic: article
-title: Requirements for using the Dynamics 365 Connected Store Preview mobile app
-ms.reviewer: v-brycho
+title: Requirements for using the Dynamics 365 Connected Spaces Preview mobile app
+ms.reviewer: v-bholmes
 ---
 
-# Requirements for using the Dynamics 365 Connected Store Preview mobile app
+# Requirements for using the Dynamics 365 Connected Spaces Preview mobile app
 
 [!INCLUDE[banner](includes/banner.md)]
 
 > [!IMPORTANT]
-> The Connected Store mobile app is no longer available for download. Go to [Dynamics 365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
+> The Connected Spaces mobile app is no longer available for download. Go to [Dynamics 365 Connected Spaces](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
 
-You can use Microsoft Dynamics 365 Connected Store Preview on the devices/operating systems shown in the following table.
+You can use Microsoft Dynamics 365 Connected Spaces Preview on the devices/operating systems shown in the following table.
 
 |Device|Operating system|
 |----------------|-----------------|
@@ -25,13 +25,11 @@ You can use Microsoft Dynamics 365 Connected Store Preview on the devices/operat
 Using the app on an older operating system may cause compatibility issues. If you have any problems with the app, make sure that your operating system is up-to-date.
 
 > [!IMPORTANT]
-> To use the mobile app, you also need to have the **Connected Store Admin** user role. For more information, see [Give permissions to users](admin-user-accounts.md).
+> To use the mobile app, you also need to have the **Connected Store Admin** user role. 
 
 ## Next steps
 
 [Overview of the mobile app](mobile-app-overview.md)
-
-[Download the app](mobile-app-download.md)
 
 [Create a store](mobile-app-create-store.md)
 
