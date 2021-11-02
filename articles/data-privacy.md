@@ -47,15 +47,15 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
    - Zone – such as Front Entrance, Aisle 1 display, and so on
 
-- **Configuration data** – This is information about the retailer’s store and the Connected Spaces edge gateway configuration that is used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills). 
+- **Configuration data** – This is information about the retailer’s store and the edge gateway configuration used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills). 
 
-- **Telemetry data** – This is information about the health of the edge gateway, the Connected Spaces cloud service, and the Connected Spaces mobile app. 
+- **Telemetry data** – This is information about the health of the edge gateway, the Connected Spaces cloud service, and the Connected Spaces app. 
 
 ## How does Connected Spaces process data?
 
 Dynamics 365 Connected Spaces processes data as instructed by the customer to provide the Connected Spaces solution.  
 
-Customers use the Connected Spaces web app to configure their store. They connect cameras, draw skills, and configure their store settings with the web app. After the configuration is completed, video footage from the paired cameras is streamed directly to the Connected Spaces edge device, installed on the customers’ premises, to create inference data using AI skills. The AI skills (models) running on customers’ premises are pre-trained "out of the box" and not trained with the customer's specific video data unless a customer specifically instructs Microsoft to do so and grants Microsoft the right to access its video feed to enhance the underlying AI skill models.
+Customers use the Connected Spaces app to configure their store. They connect cameras, draw skill zones, and configure their store settings in this web page. After the configuration is completed, video footage from the paired cameras is streamed directly to the Connected Spaces edge gateway, installed on the customers’ premises, to create inference data using AI skills. The AI skills (models) running on customers’ premises are pre-trained "out of the box" and not trained with the customer's specific video data unless a customer specifically instructs Microsoft to do so and grants Microsoft the right to access its video feed to enhance the underlying AI skill models.
 
 The AI skills running locally on the edge device detect and track unidentified people’s movements in the video feed based on algorithms that identify the presence of one or more humans. The algorithms generate events when a person moves in or out of designated zones in the camera’s field of view and outputs the coordinates of the person’s body into a bounding box. For each bounding box movement detected in a camera zone, the AI skill output inference data includes the following:
 
@@ -67,7 +67,7 @@ The AI skills running locally on the edge device detect and track unidentified p
 
 - Confidence score for the detection 
 
-The AI data inferencing is performed locally in memory on the Connected Spaces edge device near real time. This inferenced data is then sent to the Connected Spaces service for further processing and aggregation with other customer business data and configuration data to deliver insights that are accessible through the Connected Spaces web app.  
+The AI data inferencing is performed locally in memory on the Connected Spaces edge gateway near real time. This inferenced data is then sent to the Connected Spaces service for further processing and aggregation with other customer business data and configuration data to deliver insights that are accessible through the Connected Spaces web app.  
 
 Customer data processed in the Connected Spaces cloud is used to provide customers with the Connected Spaces service, including by providing insights about retail locations, and also to improve and troubleshoot the Connected Spaces cloud service and other operations incident to delivering the services (for example, managing your account, internal reporting, and improving core functionality such as privacy and accessibility). The customer may delete the data at any time in their Microsoft Dataverse instance. While Dynamics 365 Connected Spaces is still in a preview phase, some privacy measures may differ from controls in place for Microsoft commercial cloud services. However, for any personal data sent to the Connected Spaces cloud service, Microsoft provides the contractual commitments required by Article 28 of the GDPR. For more information, see [Privacy and Personal Data for Microsoft Dynamics 365 and GDPR Overview](https://docs.microsoft.com/dynamics365/get-started/gdpr/).
 
