@@ -1,7 +1,7 @@
 ---
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Spaces Preview
-ms.author: frch
+ms.author: alwinv
 ms.date: 11/02/2021
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Spaces Preview
