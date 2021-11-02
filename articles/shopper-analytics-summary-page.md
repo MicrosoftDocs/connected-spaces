@@ -1,21 +1,21 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to view the Shopper analytics summary page in the Dynamics 365 Connected Store Preview web app to get insights on your store
+description: Learn how to view the Shopper analytics summary page in the Dynamics 365 Connected Spaces Preview web app to get insights on your store
 ms.author: labryan
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
-title: View the Shopper analytics summary page in the Dynamics 365 Connected Store Preview web app
-ms.reviewer: v-brycho
+title: View the Shopper analytics summary page in the Dynamics 365 Connected Spaces Preview web app
+ms.reviewer: v-bholmes
 ---
 
-# View the Shopper analytics summary page in the Dynamics 365 Connected Store Preview web app
+# View the Shopper analytics summary page in the Dynamics 365 Connected Spaces Preview web app
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Store Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the summary page for the Shopper analytics skill zone. 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Spaces Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the summary page for the Shopper analytics skill zone. 
 
 > [!IMPORTANT]
-> To use the web app, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Store supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
+> To use the web app, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
 
 ## View the Shopper analytics summary page
 

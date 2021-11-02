@@ -1,18 +1,18 @@
 ---
 author: kfrankc-ms
-description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Store Preview
-ms.author: frch
-ms.date: 12/07/2020
+description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Spaces Preview
+ms.author: alwinv
+ms.date: 11/02/2021
 ms.topic: article
-title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Store Preview
-ms.reviewer: v-brycho
+title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Spaces Preview
+ms.reviewer: v-bholmes
 ---
 
-# Connect Azure Stack Edge Pro (2 GPU) to your network for use with Dynamics 365 Connected Store Preview
+# Connect Azure Stack Edge Pro (2 GPU) to your network for use with Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Store Preview. If you're working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
+After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
 
 ## Connect Azure Stack Edge and configure the network
 
@@ -56,7 +56,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
         > [!NOTE]
         > Make sure that the IP addresses are available. If the compute VMs must compete for an IP address, you will receive an error because of the inconsistent connection.
 
-    4. In the **Kubernetes external service IPs** field, assign the external service IP addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed. At a minimum, you must allocate at least one external IP address to configure the Connected Store service. In the screenshot example above, one IP address is allocated. 
+    4. In the **Kubernetes external service IPs** field, assign the external service IP addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed. At a minimum, you must allocate at least one external IP address to configure the Connected Spaces service. In the screenshot example above, one IP address is allocated. 
 
     5. Select **Apply**.
 
@@ -71,7 +71,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     3. Optional: Include an authentication address to handle secure proxy communications.
 
     > [!NOTE]
-    > If you plan to use a web proxy, contact the Connected Store team so that we can prepare your deployment.
+    > If you plan to use a web proxy, contact the Connected Spaces team so that we can prepare your deployment.
 
 5. In the left pane, select **Device**, and then select **Apply**. You don't have to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won't work.
 

@@ -1,25 +1,25 @@
 ---
 author: kfrankc-ms
-description: Learn how to place LP cameras for use with Dynamics 365 Connected Store Preview, including height, mounting angle, and camera-to-focal-point distance
-ms.author: frch
+description: Learn how to place LP cameras for use with Dynamics 365 Connected Spaces Preview, including height, mounting angle, and camera-to-focal-point distance
+ms.author: alwinv
 ms.date: 03/09/2021
 ms.topic: article
-title: Camera placement suggestions for Dynamics 365 Connected Store Preview
+title: Camera placement suggestions for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 ---
 
-# Camera placement suggestions for Dynamics 365 Connected Store Preview
+# Camera placement suggestions for Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
 > [!NOTE]
-> The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Store. [See Compliance and responsible use](compliance.md). 
+> The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Spaces. [See Compliance and responsible use](compliance.md). 
 
-This topic provides camera placement suggestions for Microsoft Dynamics 365 Connected Store Preview. It includes general guidelines, and also specific suggestions for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
+This topic provides camera placement suggestions for Microsoft Dynamics 365 Connected Spaces Preview. It includes general guidelines, and also specific suggestions for height, angle, and camera-to-focal-point-distance to enable the [scenarios and insight goals](camera-placement-general.md).
 
 ## General guidelines
 
-Consider the following general guidelines when positioning cameras for Connected Store:
+Consider the following general guidelines when positioning cameras for Connected Spaces:
 
 - **Lighting height.** Place cameras below lighting fixtures so the fixtures don’t block the cameras.
 
@@ -39,7 +39,7 @@ optimized for potential store changes to reduce camera re-positioning.
 
 ## Height, focal-point distance, and angle
 
-You need to consider three things when deciding how to install a camera for Dynamics 365 Connected Store:
+You need to consider three things when deciding how to install a camera for Dynamics 365 Connected Spaces:
 
 - Camera height
 
@@ -193,7 +193,7 @@ using a retractable belt barrier to help guide the queue direction and ensure th
 
 ## Placement of in-store cameras and video storage
 
-Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once a customer’s cameras are in place, Dynamics 365 Connected Store will gather and analyze observational signals, location and line of business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)) and Microsoft Dynamics 365 Connected Store does not store video footage from the customer’s in-store cameras. 
+Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once your  cameras are in place, Dynamics 365 Connected Spaces will gather and analyze observational signals, location, and line-of-business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)). Microsoft Dynamics 365 Connected Spaces stores video footage in Microsoft Dataverse in your Power Platform environment. You can choose not to upload video footage to Microsoft Dataverse by changing your privacy preferences in Settings.
 
 ## Next step
 

@@ -1,18 +1,18 @@
 ---
 author: alissapolucha
-description: Learn how to use the Dynamics 365 Connected Store Preview mobile app to pair a gateway so you can connect LP cameras.
+description: Learn how to use the Dynamics 365 Connected Spaces Preview mobile app to pair a gateway so you can connect LP cameras.
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
-title: Pair a gateway with the Dynamics 365 Connected Store Preview mobile app
-ms.reviewer: v-brycho
+title: Pair a gateway with the Dynamics 365 Connected Spaces Preview mobile app
+ms.reviewer: v-bholmes
 ---
 
-# Pair a gateway with the Dynamics 365 Connected Store Preview mobile app
+# Pair a gateway with the Dynamics 365 Connected Spaces Preview mobile app
 
 [!INCLUDE[banner](includes/banner.md)]
 
-Before you can pair a gateway with the Microsoft Dynamics 365 Connected Store Preview mobile app, you need to:
+Before you can pair a gateway with the Microsoft Dynamics 365 Connected Spaces Preview mobile app, you need to:
 
 1. [Install Azure Stack Edge Pro (2 GPU)](ase-install.md)
 
@@ -45,7 +45,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
 4.	Enter **aka.ms/activategateway** into your laptop web browser that’s connected to the gateway, and then select **Sign in**.
 
-5.	Enter your Dynamics 365 Connected Store credentials.
+5.	Enter your Dynamics 365 Connected Spaces credentials.
      
 6.	Enter the serial number from the mobile app.
  
@@ -54,7 +54,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 7.	Select the store you created earlier in the mobile app, and then select **Submit**.
 
     > [!IMPORTANT]
-    > Make sure to press the **Submit** button just once. When you press **Submit**, Connected Store starts the process to generate the activation key. It takes a few minutes to generate the key. 
+    > Make sure to press the **Submit** button just once. When you press **Submit**, Connected Spaces starts the process to generate the activation key. It takes a few minutes to generate the key. 
 
     ![Select store name.](media/select-store-name.PNG "Select store name")
 
@@ -74,7 +74,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
 
     ![Device activated notification.](media/device-activated.PNG "Device activated notification")
  
-    The Dynamics 365 Connected Store modules will begin downloading on the gateway. This can take up to 60 minutes. You'll know that the gateway is connected when it appears in the **Gateways** page in the mobile app. 
+    The Dynamics 365 Connected Spaces modules will begin downloading on the gateway. This can take up to 60 minutes. You'll know that the gateway is connected when it appears in the **Gateways** page in the mobile app. 
     
     ![Gateways page in mobile app showing gateway is paired.](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
     

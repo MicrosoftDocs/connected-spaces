@@ -1,22 +1,19 @@
 ---
 author: alissapolucha
-description: Learn how to create a store by using the Dynamics 365 Connected Store Preview mobile app
+description: Learn how to create a store by using the Dynamics 365 Connected Spaces Preview mobile app
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
-title: Create a store with the Dynamics 365 Connected Store Preview mobile app 
-ms.reviewer: v-brycho
+title: Create a store with the Dynamics 365 Connected Spaces Preview mobile app 
+ms.reviewer: v-bholmes
 ---
 
-# Create a store with the Dynamics 365 Connected Store Preview mobile app
+# Create a store with the Dynamics 365 Connected Spaces Preview mobile app
 
 [!INCLUDE[banner](includes/banner.md)]
 
 After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store with the 
-Microsoft Dynamics 365 Connected Store Preview mobile app. 
-
->[!NOTE]
->[Download the mobile app if you haven't already](mobile-app-download.md).
+Microsoft Dynamics 365 Connected Spaces Preview mobile app. 
 
 ## Create a store
 

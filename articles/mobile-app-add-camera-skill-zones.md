@@ -1,18 +1,18 @@
 ---
 author: alissapolucha
-description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Store Preview by using the mobile app.
+description: Learn how to add camera skill zones (Display effectiveness, Queue management, or Shopper analytics) to Dynamics 365 Connected Spaces Preview by using the mobile app.
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
-title: Add skill zones to a camera using the Dynamics 365 Connected Store Preview mobile app
-ms.reviewer: v-brycho
+title: Add skill zones to a camera using the Dynamics 365 Connected Spaces Preview mobile app
+ms.reviewer: v-bholmes
 ---
 
-# Add skill zones to a camera using the Dynamics 365 Connected Store Preview mobile app
+# Add skill zones to a camera using the Dynamics 365 Connected Spaces Preview mobile app
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use customizable skill zones in Microsoft Dynamics 365 Connected Store Preview to have your camera collect physical data based on the needs of your store. You can add or update your skill zones at any time using the mobile app.
+You can use customizable skill zones in Microsoft Dynamics 365 Connected Spaces Preview to have your camera collect physical data based on the needs of your store. You can add or update your skill zones at any time using the mobile app.
 
 Skill zones let you specify the types of data to collect, and exactly which areas within your camera view to collect that data. You can use the mobile app to set up custom zones with one of three available skills.
 

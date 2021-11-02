@@ -1,18 +1,18 @@
 ---
 author: alissapolucha
-description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Store Preview
+description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 11/02/2021
 ms.topic: article
-title: Connect a camera to a gateway in Dynamics 365 Connected Store Preview
-ms.reviewer: v-brycho
+title: Connect a camera to a gateway in Dynamics 365 Connected Spaces Preview
+ms.reviewer: v-bholmes
 ---
 
-# Connect a camera to a gateway in the Dynamics 365 Connected Store Preview mobile app
+# Connect a camera to a gateway in the Dynamics 365 Connected Spaces Preview mobile app
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Store Preview mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Store-approved camera on the same network as your gateway.
+After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Spaces Preview mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Spaces-approved camera on the same network as your gateway.
 
 If your store has multiple gateways, you’ll need to access them one-by-one to see all the connected or available cameras. You can pair up to 10 cameras per gateway. If you need more cameras for your store, contact your account manager to request an additional gateway.
 
