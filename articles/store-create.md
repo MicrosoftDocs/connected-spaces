@@ -50,6 +50,6 @@ Now you're ready to connect cameras to your store.
  
 ## Next steps
 
-[Connect cameras](cameras-connect-gateway.md)
+[Connect cameras](cameras-connect.md)
 
 [Add camera skills](cameras-add-skills.md)
