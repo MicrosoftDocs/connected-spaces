@@ -70,8 +70,6 @@ The subscript in this card describes the absolute change in this value for the c
 
 ![Largest increase in display traffic card.](media/analytics-largest-increase-display-traffic.jpg "Largest increase in display traffic card")
 
-The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day was compared to the daily average entries during the selected time frame. 
-
 **Largest decrease in display traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
 
 ![Largest decrease in display traffic card.](media/analytics-largest-decrease-display-traffic.jpg "Largest decrease in display traffic card")
