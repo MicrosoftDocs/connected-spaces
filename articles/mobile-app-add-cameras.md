@@ -1,88 +1,99 @@
 ---
 author: alissapolucha
-description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Spaces Preview
+description: Learn how to connect an LP camera to a store in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 11/02/2021
+ms.date: 11/06/2020
 ms.topic: article
-title: Connect a camera to a gateway in Dynamics 365 Connected Spaces Preview
-ms.reviewer: v-bholmes
+title: Connect a camera to a store in Dynamics 365 Connected Spaces Preview
+ms.reviewer: v-brycho
 ---
 
-# Connect a camera to a gateway in the Dynamics 365 Connected Spaces Preview mobile app
+# Connect a camera to a store in the Dynamics 365 Connected Spaces Preview 
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you've paired a gateway to your store in the Microsoft Dynamics 365 Connected Spaces Preview mobile app, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You won’t be able to find or add a camera if it isn’t available on the gateway network. You can connect any Connected-Spaces-approved camera on the same network as your gateway.
+After you've paired a gateway to your store, you can connect your cameras. Keep in mind that cameras are connected to a specific gateway. You can connect any camera approved for Connected Spaces on the same network as your gateway.
 
-If your store has multiple gateways, you’ll need to access them one-by-one to see all the connected or available cameras. You can pair up to 10 cameras per gateway. If you need more cameras for your store, contact your account manager to request an additional gateway.
+## Prerequisites
 
-If you haven't already installed your cameras, see: 
+You need to do the following before you can connect cameras to a gateway:
 
-- [Checklist for placing cameras](camera-placement-checklist.md)
+- [Install the cameras](install-cameras).
 
-- [Install your cameras](install-cameras.md)
+- Gather the RTSP URLs and credentials for all the cameras you want to connect.
 
-## Connect a camera to a gateway
+- Have access to a previously configured gateway.
 
-1. On the **Gateways** page, tap the gateway you want to add a camera to. This opens the **Cameras** page.   
+- Connect your computer to the same network as your gateway.
 
-2. On the **Cameras** page, tap the **+** button. 
+## Connect a camera
 
-    ![Plus sign button.](media/add-camera.PNG "Plus sign button")
+1. On the **Devices** page, select **Add cameras**. 
+
+    ![Add camera button highlighted.](media/add-camera-command.jpg "Add camera button highlighted")
     
-2. To get the list of available cameras, enter the starting and ending IP addresses, and the RTSP port. For more information on IP range and port, see [Prepare your network for Azure Stack Edge Pro](ase-install.md).
+2. On the **Add camera** page, you'll see the list of prerequisites that you must do before you can connect a camera. 
 
-    ![Camera IP range and port.](media/camera-ip-range.PNG "Camera IP range and port")
+    ![Screenshot of Get started page showing prerequisites.](media/add-camera-prerequisites.jpg "Screenshot of Get started page showing prerequisites")
+
+    If you've completed these steps, select **Start** to begin connecting cameras. 
  
-3. Select an available camera, and then tap the **+** sign  next to it. (You’ll see the camera feed after you sign in).
+3. In the **Connecting cameras** page, fill in the fields in the **Connect camera** pane on the right side of the page for each camera that you want to add.
 
-   > [!TIP]
-   > To add multiple cameras that use the same sign-in credentials, tap a camera image, tap the button to the left of each camera you want to add, and then tap the **+** button in the upper-right corner of the page.
+    ![Screenshot of Connecting cameras page.](media/connecting-cameras-page.jpg "Screenshot of Connecting cameras page")
+
+    Use the following information to fill in the fields:
+
+    1. In the **RTSP URL** field, enter the RTSP URL for your camera.
+
+    2. In the **Username** and **Password** fields, enter the current username and password for the camera (supplied by your IT administrator).
+
+    3. In the **Camera name** field, enter a friendly name for your camera to help identify it by location. 
+
+    4. In the **Camera view image** field, select **Upload image** to upload an image of the camera's field of view.
     
-    ![Add multiple cameras.](media/add-cameras.PNG "Add multiple cameras")
- 
-4.	Enter the current username and password for the camera (supplied by your IT administrator), and then select **Apply** (or **Apply All** if you selected multiple cameras).
- 
-    ![Authentication screen.](media/camera-authentication.PNG "Authentication screen")
+     > [!NOTE]
+     > An uploaded image is used to define where you want the AI skill to collect data. We recommend uploading an image that doesn't capture any personal data in the field of view. The image is compressed if it's larger than 2 MB.
+
+    5. Select **Connect** to add the camera. The camera will appear in the middle of the screen under **All cameras**. 
+
+       ![Screenshot showing two cameras added under All cameras heading.](media/cameras-added.jpg "Screenshot showing two cameras added under All cameras heading")
+
+    6. Repeat the above steps for each camera that you want to add.
+
+4. When you're finished adding cameras, under **All cameras**, select the button next to each camera you want to connect, and then select **Next** at the bottom of the page. 
+
+    ![Screenshot showing two cameras selected.](media/selected-camera.jpg "Screenshot showing two cameras selected")
     
-After connecting a camera to a gateway, you can [add a camera skill zone](mobile-app-add-camera-skill-zones.md).
+5. On the **Review and finish** page, review the details, and then select **Add** to add the cameras.
 
-## Get more information about a camera
+     ![Screenshot of Review and finish page.](media/cameras-review-finish.jpg "Screenshot of Review and finish page")
+     
+ 6. Select **Finish** to complete the camera connection process.
 
-To get more information about a camera:
-
-1. On the **Cameras** page, tap the **Actions** button.
-
-2. Tap **Info** at the bottom of the page.
-
-    ![Info button.](media/camera-info.PNG "Info button")
- 
-3. Review and/or edit the information.
-
-    ![Camera fields.](media/camera-fields.PNG "Camera fields")
- 
-    The following table describes each field:
-
-    |Field|Description|
-    |-------------------|----------------------------------------------------|
-    |**Name**|The friendly name of the camera|
-    |**Network**|The IP Address. For more information, see [prepare your network and install Azure Stack Edge Pro](ase-install.md).|
-    |**Credentials**|The username and password for the camera|
+    ![Screenshot of Finish page.](media/cameras-finish.jpg "Screenshot of Finish page")
     
-    >[!IMPORTANT]
-    >If you rename a camera by changing the name in the **Name** field, make sure to enter a user name and password. If you don't enter a user name and password, the new name will be saved, but the camera will be disconnected.
+## Edit camera details
 
-4.	When you’re finished, select the check mark in the upper-right corner of the page to go back to the **Cameras** page.
+You can edit the details for any camera from the **Devices** page. 
 
-## Sort the Cameras list
+1. Select the button for the Action menu (...), and then select **Camera details**. 
 
-If you have a lot of cameras in your Cameras list, you might want to sort the list to find the camera you're looking for. 
+    ![Screenshot of Action button and Camera details command.](media/camera-details.jpg "Screenshot of Action button and Camera details command")
+    
+2. Make any changes in the pane on the right side of the screen, and then select **Save**.
 
-To sort the Cameras list:
+     ![Screenshot of pane on right side of the screen.](media/camera-details-edit.jpg "Screenshot of pane on right side of the screen")
+     
+## Remove a camera
 
-- Select the **Sort** ![Filter button.](media/filter-button.PNG "Filter button") button at the top of the **Cameras** page.
- 
+1. Select the button for the Action menu (...), and then select **Remove**. 
+
+    ![Screenshot of Action button and Remove command.](media/camera-details.jpg "Screenshot of Action button and Remove command")
+    
+    > [!NOTE]
+    > This will permanently remove the camera. To add the camera back again, on the **Devices** page, select **Add cameras** as described earlier in this article. 
+
 ## Next step
 
-[Add camera skill zones](mobile-app-add-camera-skill-zones.md)
-
+[Add camera skills](mobile-app-add-camera-skill-zones.md)
