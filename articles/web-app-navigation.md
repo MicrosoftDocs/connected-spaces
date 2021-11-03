@@ -2,7 +2,7 @@
 author: lkbryant-MSFT
 description: Learn about the left navigation pane in the Dynamics 365 Connected Spaces Preview web app
 ms.author: labryan
-ms.date: 11/02/2021
+ms.date: 07/08/2020
 ms.topic: article
 title: Find your way around the Dynamics 365 Connected Spaces Preview web app
 ms.reviewer: v-bholmes
@@ -12,21 +12,18 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-The Microsoft Dynamics 365 Connected Spaces Preview web app includes a left navigation pane that you can use to access the pages in the app.
+The Microsoft Dynamics 365 Connected Spaces Preview website includes a left navigation pane that you can use to access the pages in the app.
 
-![Left navigation pane.](media/navigation.PNG "Left navigation pane")
+![Left navigation pane.](media/web-app-navigation.jpg "Left navigation pane")
 
 The following table describes each button in the left navigation pane.
 
 |Item|Description|
 |-----------------|-----------------------------------------------------------|
-|**Home**|Go to the [**Analytics** page](web-app-get-insights.md).<br><br>**Important:** This is not the preferred method for going to the **Analytics** page. If you have more than one store that you're monitoring, the app will reset to the store that's at the top of the list in the **Store selector** menu.<br>![Store selector menu](media/analytics-50.PNG "Store selector menu")<br>Any changes made to the date picker will also reset the view to the default. The preferred method for getting to the **Analytics** page is to use the breadcrumb. This will preserve your view preferences.<br>![Breadcrumb example](media/analytics-49.PNG "Breadcrumb example")|
-|**Recent**|Show the history of the pages you visited most recently.|
-|**Pinned**|Pin items from the list of most recently visited pages to access them more quickly.|
-|**Analytics**|This button functions the same way as the **Home** button.|
-|**Skills**|You can configure measurements for a set of skill zones in your store. You can customize and manage these zones to populate data on the dashboards. Currently, measurement configuration is available [only in the mobile app](mobile-app-add-camera-skill-zones.md).|
-|**Settings**|Change settings for stores, users, and devices.|
-|**Contact Us**|Use this page if you have questions or just want to provide feedback to the Connected Spaces team! You can also find a link to the legal notices document on this page.| 
+|**Analytics**|Analytics includes the dashboards and filters to view data collected from camera skills, by store.|
+|**Alerts**|Coming soon!|
+|**Skills**|You can configure measurements for a set of camera skills in your store. You can customize and manage these skills to populate data on the dashboards.|
+|**Settings**|Change settings and details for your stores.|
 
 ## Next steps
 
