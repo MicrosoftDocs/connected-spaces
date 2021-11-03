@@ -44,7 +44,7 @@ You need to do the following before you can connect your cameras to a gateway:
 
     1. In the **RTSP URL** field, enter the RTSP URL for your camera.
 
-    2. In the **Username** and **Password** fields, enter the current username and password for the camera (supplied by your IT administrator).
+    2. In the **Username** and **Password** fields, enter the username and password for the camera supplied by your IT administrator.
 
     3. In the **Camera name** field, enter a friendly name for your camera to help identify it by location. 
 
