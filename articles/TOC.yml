@@ -43,7 +43,7 @@
         - name: Connect a camera to the gateway
           href: cameras-add-gateway.md
         - name: Add camera skill zones
-          href: cameras-add-skills.md
+          href: cameras-add-skill-zones.md
     - name: 5. Get insights
       items: 
         - name: Find your way around
