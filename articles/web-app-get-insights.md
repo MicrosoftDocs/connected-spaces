@@ -35,7 +35,7 @@ The **Analytics** page, which is organized by skill (Shopper analytics, Queue ma
 
 ## Filter by date
 
-By default, the **Analytics** page shows the last 7 days, but you can select a custom date range or choose from other pre-selected ranges in the **Date** filter. 
+By default, the **Analytics** page shows the last 7 days, but you can select a custom date range or choose from other pre-selected ranges by using the **Date** filter. 
 
 ![Screenshot of filter by date.](media/analytics-filter-by-date.jpg "Screenshot of filter by date")
 
