@@ -32,7 +32,7 @@ You need to do the following before you can connect your cameras to a gateway:
 
     ![Add camera button highlighted.](media/add-camera-command.jpg "Add camera button highlighted")
     
-2. On the **Add camera** page, you'll see the list of prerequisites that you must do before you can connect a camera. If you've already completed these steps, select **Start** to begin connecting cameras. 
+2. On the **Add camera** page, you'll see the list of prerequisites that you must do before you can connect cameras. If you've already completed these steps, select **Start** to begin connecting cameras. 
 
     ![Screenshot of Get started page showing prerequisites.](media/add-camera-prerequisites.jpg "Screenshot of Get started page showing prerequisites")    
  
