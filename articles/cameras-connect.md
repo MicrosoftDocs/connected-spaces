@@ -94,4 +94,4 @@ You can edit the details for any camera from the **Devices** page.
 
 ## Next step
 
-[Add camera skills](mobile-app-add-camera-skill-zones.md)
+[Add camera skills](cameras-add-skills.md)
