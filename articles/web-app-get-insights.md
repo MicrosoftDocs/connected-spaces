@@ -47,7 +47,7 @@ By default, the skill type filter shows all skill types, but you can select a sk
 
 ## Highlights cards
 
-Each skill type includes highlight cards with an information buttons that you can hover over to get additional details.
+Each skill type includes highlight cards with information buttons that you can hover over to get additional details.
 
 ![Information buttons.](media/analytics-information-buttons.jpg "Information buttons")
 
