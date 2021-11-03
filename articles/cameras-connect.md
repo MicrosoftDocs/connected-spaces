@@ -51,7 +51,7 @@ You need to do the following before you can connect your cameras to a gateway:
     4. In the **Camera view image** field, select **Upload image** to upload an image of the camera's field of view.
     
      > [!NOTE]
-     > An uploaded image is used to define where you want the AI skill to collect data. We recommend uploading an image that doesn't capture any personal data in the field of view. The image is compressed if it's larger than 2 MB.
+     > An uploaded image is used to define where you want the AI skill to collect data. Microsoft recommends uploading an image that doesn't capture any personal data in the field of view. The image is compressed if it's larger than 2 MB.
 
     5. Select **Connect** to add the camera. The camera will appear in the middle of the screen under **All cameras**. 
 
