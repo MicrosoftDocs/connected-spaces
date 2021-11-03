@@ -1,25 +1,13 @@
-- name: Dynamics 365 Connected Store Preview
+- name: Dynamics 365 Connected Spaces Preview
   items:
-    - name: Overview of Dynamics 365 Connected Store Preview
+    - name: Overview of Dynamics 365 Connected Spaces Preview
       href: index.md
     - name: Get started
       href: get-started.md
     - name: What's new
       href: new.md    
-    - name: 1. Setup
-      items:
-        - name: Create a new Azure Active Directory tenant
-          href: admin-create-new-tenant.md         
-        - name: Install Connected Store
-          href: admin-install-web-app.md
-        - name: Order the gateway
-          href: admin-request-ase.md 
-        - name: Launch the app and explore the Contoso sample store
-          href: launch-app.md         
-        - name: Prepare user accounts
-          href: admin-prepare-user-accounts.md 
-        - name: Give users permissions
-          href: admin-user-accounts.md 
+    - name: 1. Setup (Coming soon!)
+      href: set-coming.md 
     - name: 2. Create your camera plan
       items:
         - name: Checklist
@@ -36,15 +24,21 @@
           href: ase-connect.md
         - name: Install cameras
           href: install-cameras.md
-    - name: 4. Add a store and connect cameras 
+    - name: 4. Add a store/connect cameras with the mobile app 
       items:
+        - name: Overview
+          href: mobile-app-overview.md
+        - name: Requirements
+          href: mobile-app-requirements.md          
         - name: Create a store
-          href: store-create.md
+          href: mobile-app-create-store.md
+        - name: Pair a gateway
+          href: mobile-app-pair-gateway.md
         - name: Connect a camera to the gateway
-          href: cameras-add-gateway.md
+          href: mobile-app-add-cameras.md
         - name: Add camera skill zones
-          href: cameras-add-skills.md
-    - name: 5. Get insights
+          href: mobile-app-add-camera-skill-zones.md
+    - name: 5. Get insights with the web app
       items: 
         - name: Find your way around
           href: web-app-navigation.md
@@ -75,11 +69,7 @@
         - name: Shoppers
           href: communication-plan.md
         - name: Employees
-          href: employee-plan.md
-    - name: FAQ
-      href: faq.md
-    - name: Known issues
-      href: known-issues.md
+          href: employee-plan.md    
     - name: AI and insights
       href: ai-insights.md
     - name: Data and privacy
