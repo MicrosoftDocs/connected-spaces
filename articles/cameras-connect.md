@@ -1,14 +1,14 @@
 ---
 author: alissapolucha
-description: Learn how to connect an LP camera to a store in Dynamics 365 Connected Spaces Preview
+description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
 ms.date: 11/06/2020
 ms.topic: article
-title: Connect a camera to a store in Dynamics 365 Connected Spaces Preview
-ms.reviewer: v-brycho
+title: Connect a camera to a gateway in Dynamics 365 Connected Spaces Preview
+ms.reviewer: v-bholmes
 ---
 
-# Connect a camera to a store in the Dynamics 365 Connected Spaces Preview 
+# Connect a camera to a gateway in Dynamics 365 Connected Spaces Preview 
 
 [!INCLUDE[banner](includes/banner.md)]
 
