@@ -17,7 +17,7 @@ Microsoft Dynamics 365 Connected Spaces Preview.
 
 ## Create a store
 
-When you sign in to Connected Spaces with your admin credentials, the **Set up my store** page automatically appears.
+When you sign in to Connected Spaces with your admin credentials for the first time (and if you haven't already created a store), the **Set up my store** page automatically appears.
 
 ![Create store prompt.](media/create-store-prompt.jpg "Create store prompt")
 
@@ -25,7 +25,7 @@ On the **Set up my store** page:
 
 1. In the **Store name** field, enter a friendly name for your store.
 
-2. In the **Max occupancy** field, set the total store capacity. This is the total number of people across all entrances at one time. 
+2. In the **Max occupancy** field, set the maximum number of people allowed in the store at one time. Connected Spaces uses computer vision to calculate entrances and exits and notifies you if the maximum occupancy value is exceeded.
 
 3. In the **Time zone** field, set the time zone for your store.
 
