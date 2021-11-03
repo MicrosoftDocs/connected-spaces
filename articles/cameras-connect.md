@@ -18,7 +18,7 @@ After you've paired a gateway to your store, you can connect your cameras to the
 
 You need to do the following before you can connect your cameras to a gateway:
 
-- [Install the cameras](cameras-install.md).
+- [Install the cameras](install-cameras.md).
 
 - Gather the RTSP URLs and credentials for all the cameras you want to connect.
 
