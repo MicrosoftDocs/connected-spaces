@@ -101,7 +101,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 ![Shopper analytics graphs section of Analytics page.](media/analytics-shopper-analytics-graphs.jpg "Shopper analytics graphs section of Analytics page")
 
 > [!TIP]
-> You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
+> You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
 **Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
 
