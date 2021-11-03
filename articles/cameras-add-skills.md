@@ -57,7 +57,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     > [!TIP]
     > If you need to start over at any point when drawing a skill zone, select **Reset**. See also [Tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-areas). 
 
-    When you're done drawing the skill area, select **Next**. 
+    When you're done drawing the skill zone, select **Next**. 
 
 7. In the **Add details** section:
 
