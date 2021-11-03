@@ -1,21 +1,21 @@
 ---
 author: lkbryant-MSFT
-description: Learn how to use the Dynamics 365 Connected Spaces Preview web app to get insights on your store
+description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your store
 ms.author: labryan
-ms.date: 11/02/2021
+ms.date: 07/08/2020
 ms.topic: article
-title: Use the Dynamics 365 Connected Spaces Preview web app to get insights on your store
+title: Use Dynamics 365 Connected Spaces Preview to get insights on your store
 ms.reviewer: v-bholmes
 ---
 
-# Use the Analytics page in the Dynamics 365 Connected Spaces Preview web app to get insights on your retail store
+# Use the Analytics page in Dynamics 365 Connected Spaces Preview to get insights on your store
 
 [!INCLUDE[banner](includes/banner.md)]
 
-Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your retail store. This article describes how to get insights from your store using the **Analytics** page in the web app. 
+Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your store. This article describes how to get insights from your store using the **Analytics** page. 
 
 > [!IMPORTANT]
-> To use the web app, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
+> To use Connected Spaces, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
 
 Connected Spaces supports the following camera skills: 
 
@@ -25,37 +25,31 @@ Connected Spaces supports the following camera skills:
 
 - Queue management
  
-For a quick overview of how to get insights, scan the screens in this and other web app articles. For a more thorough understanding, read through each section and experiment!
+For a quick overview of how to get insights, scan the screens in this and other articles. 
 
 ## Analytics page overview
 
-After entering your credentials in the web app, you’ll see the **Analytics** page. This page provides a sense of the store’s overall performance across the skill-configured zones. 
+The **Analytics** page, which is organized by skill (Shopper analytics, Queue management, and Display effectiveness), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and charts on the right for each skill instance. 
 
-The **Analytics** page includes a banner at the top that highlights key takeaways from all skill-configured zones. Below the banner, the page displays two visualizations per skill that illustrate general trends for those skills.
+![Analytics page.](media/analytics-overview.jpg "Analytics page")
 
-![Analytics page.](media/analytics-1.PNG "Analytics page")
+## Filter by date
 
-By default, the **Analytics** page shows the last 30 days, but you can select a custom date range or choose from other pre-selected ranges by using the date picker in the upper-right corner of the page. 
+By default, the **Analytics** page shows the last 7 days, but you can select a custom date range or choose from other pre-selected ranges in the **Date** filter. 
 
-![Date picker.](media/analytics-1A.PNG "Date picker")
+![Screenshot of filter by date.](media/analytics-filter-by-date.jpg "Screenshot of filter by date")
 
-## Highlights banner
+## Filter by skill type
 
-The highlights banner at the top of the **Analytics** page shows the general rhythm of the store. The banner includes two cards for each configured skill. 
+By default, the skill type filter shows all skill types, but you can select a skill type (Shopper analytics, Queue management, or Display effectiveness) in the **Skill** filter.
 
-![Highlights banner.](media/analytics-3.PNG "Highlights banner")
+![Screenshot of filter by skill type.](media/analytics-filter-by-skill-type.jpg "Screenshot of filter by skill type")
 
-1.	Shopper analytics
+## Highlights cards
 
-2.	Display effectiveness
+Each skill type includes highlight cards with an information buttons that you can hover over to get additional details.
 
-3.	Queue management
-
-<br>
-
-Each card in the banner has an information icon that you can hover over to get additional details.
-
-![Information icon.](media/analytics-4.PNG "Information icon")
+![Information buttons.](media/analytics-information-buttons.jpg "Information buttons")
 
 **Store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
 
@@ -72,18 +66,23 @@ The subscript in the card describes the percent change in this value for the cur
 
 The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day was compared to the daily average entries during the selected time frame. 
 
-**Busiest display.** This card highlights the name of the display that had the greatest number of people during the selected timeframe, along with the people count. 
+**Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
 
-![Busiest display card.](media/analytics-7.PNG "Busiest display card")
+![Largest increase in display traffic card.](media/analytics-largest-increase-display-traffic.jpg "Largest increase in display traffic card")
 
-> [!NOTE]
-> Because there are several factors that can contribute to a change in value (for example, the number of displays in the store or a change in display configuration), the application does not include a comparison subscript.
+The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day was compared to the daily average entries during the selected time frame. 
 
-**Most engaging display.** This card highlights the name of the display where people dwelled longer on average, along with the amount of time. 
+**Largest decrease in display traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
 
-![Most engaging display card.](media/analytics-8.PNG "Most engaging display card")
+![Largest decrease in display traffic card.](media/analytics-largest-decrease-display-traffic.jpg "Largest decrease in display traffic card")
 
-The subscript in this card describes the absolute change in this value for the current time frame compared to average dwell time for all displays during the selected time frame. The triangle to the left of the subscript indicates whether this change was positive or negative. 
+**Largest increase in visit time.** This card highlights the display with the largest increase in visit time as compared to all other displays over the previous time period.  
+
+![Largest increase in visit time card.](media/analytics-largest-increase-visit-time.jpg "Largest increase in visit time card")
+
+**Largest decrease in visit time.** This card highlights the display with the largest decrease in visit time as compared to all other displays over the previous time period.  
+
+![Largest increase in visit time card.](media/analytics-largest-decrease-visit-time.jpg "Largest increase in visit time card")
 
 **Longest queue.** This card highlights the queue that was occupied by the most number of people across all queues for the selected time frame, along with the name of the queue and the date on which the value was observed. 
 
@@ -97,11 +96,11 @@ The subscript in this card describes the absolute change in this value for the c
 
 ## Graphs on the Analytics page
 
-Below the highlights banner, the **Analytics** page shows two data graphs for each skill, starting with Shopper analytics.
+To the right of the highlight cards are graphs for each skill, starting with Shopper analytics.
 
 ### Shopper analytics graphs
 
-![Shopper analytics graphs section of Analytics page.](media/analytics-48.PNG "Shopper analytics graphs section of Analytics page")
+![Shopper analytics graphs section of Analytics page.](media/analytics-shopper-analytics-graphs.jpg "Shopper analytics graphs section of Analytics page")
 
 > [!TIP]
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
@@ -112,15 +111,15 @@ Below the highlights banner, the **Analytics** page shows two data graphs for ea
 
 ### Display effectiveness graphs
 
-![Display effectiveness graphs section of Analytics page.](media/analytics-14.PNG "Display effectiveness graphs section of Analytics page")
+![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
 
-**Total entries across displays by [time slice (day, hour)].** This graph shows the total number of people that entered the Display effectiveness zones across the entire store. The dotted line is the average number of entries across Display effectiveness zones during the selected time frame.
+**Entries**. This chart shows the number of people entering the skill zone over the time period selected.
 
-**Average engagement across displays by [time slice (day, hour)].** This graph shows the average time, in seconds, that people engaged (dwelled) within Display effectiveness zones across the entire store. The dotted line is the average engagement (dwell) time for all Display effectiveness zones during the selected time frame.
+**Visit time**. This chart shows the average dwell time of the people who entered the skill zone over the time period selected.
 
 ### Queue management graphs
 
-![Shopper management graphs section of Analytics page.](media/analytics-15.PNG "Shopper management graphs section of Analytics page")
+![Queue management graphs section of Analytics page.](media/analytics-queue-management-graphs.jpg "Queue management graphs section of Analytics page")
 
 **Longest queue across store by [time slice (day, hour)].** This graph shows the people count of the queue that had the most people for the selected time frame. 
 
