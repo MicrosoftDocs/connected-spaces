@@ -25,7 +25,7 @@ On the **Set up my store** page:
 
 1. In the **Store name** field, enter a friendly name for your store.
 
-2. In the **Maximum occupancy** field, set the total store capacity. This is the total number of people across all entrances at one time. 
+2. In the **Max occupancy** field, set the total store capacity. This is the total number of people across all entrances at one time. 
 
 3. In the **Time zone** field, set the time zone for your store.
 
