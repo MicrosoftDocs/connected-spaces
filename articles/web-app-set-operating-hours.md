@@ -24,7 +24,7 @@ You can set your store's operating hours in Microsoft Dynamics 365 Connected Spa
 
     ![Screenshot of Edit button highlighted.](media/edit-store-hours.jpg "Screenshot of Edit button highlighted")
     
-3. In the right side of the screen, under **Edit details**, scroll down to the **Store hours** section, and then:
+3. On the right side of the screen, under **Edit details**, scroll down to the **Store hours** section, and then:
 
     - Select the check box next to the day of the week to set or remove operating hours for that day.
     - In the **From** and **To** fields, enter opening and closing times for data collection. 
