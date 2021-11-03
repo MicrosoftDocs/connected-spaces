@@ -150,7 +150,7 @@ The following examples show poorly defined **Queue management** skill zones.
 
 ## Manage your skills
 
-You can view all the skills that have been created for your store on the **Skills** page. For each skill, the page shows the camera image, friendly name, type of skill (Display effectiveness, Shopper analytics, or Queue management), whether the skill is active or inactive, and the date the skill was last updated.
+Use the **Skills** page to view all the skills created for your store. For each skill, the page shows the camera image, friendly name, type of skill (Display effectiveness, Shopper analytics, or Queue management), whether the skill is active or inactive, and the date the skill was last updated.
 
 ![Screenshot of skills page showing multiple skills.](media/skills-management.jpg "Screenshot of skills page showing multiple skills")
 
