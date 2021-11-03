@@ -50,6 +50,6 @@ Now you're ready to connect cameras to your store.
  
 ## Next steps
 
-[Connect cameras](mobile-app-add-cameras.md)
+[Connect cameras](cameras-connect-gateway.md)
 
-[Add camera skills](mobile-app-add-camera-skill-zones.md)
+[Add camera skills](cameras-add-skills.md)
