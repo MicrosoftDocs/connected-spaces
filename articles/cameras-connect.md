@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you've paired a gateway to your store, you can connect your cameras. Keep in mind that cameras are connected to a specific gateway. You can connect any camera approved for Connected Spaces on the same network as your gateway.
+After you've paired a gateway to your store, you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You can connect any camera approved for Connected Spaces on the same network as your gateway.
 
 ## Prerequisites
 
