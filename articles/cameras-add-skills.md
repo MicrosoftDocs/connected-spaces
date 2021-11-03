@@ -44,9 +44,9 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     > [!NOTE]
     > If you don't see any cameras, you need to [connect your cameras to a gateway](cameras-connect.md) before adding skills.
     
-4. Draw a skill area to track customer behavior.
+4. Draw a skill zone to track customer behavior.
 
-    ![Screenshot of drawing a skill area for a Display effectiveness skill.](media/draw-skill-area.jpg "Screenshot of drawing a skill area for a Display effectiveness skill")
+    ![Screenshot of drawing a skill zone for a Display effectiveness skill.](media/draw-skill-area.jpg "Screenshot of drawing a skill zone for a Display effectiveness skill")
 
     - For a **Display effectiveness** skill, drag the zone endpoints to resize the polygon and move it where you want it. Use the tips on the right side of the page to learn  about best practices.
 
@@ -55,7 +55,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     - For a **Queue management** skill, drag the zone endpoints to resize the zone and move it where you want it.
 
     > [!TIP]
-    > If you need to start over at any point when drawing a skill zone, select **Reset**. See also [Tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-areas). 
+    > If you need to start over at any point when drawing a skill zone, select **Reset**. See also [Tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones). 
 
     When you're done drawing the skill zone, select **Next**. 
 
