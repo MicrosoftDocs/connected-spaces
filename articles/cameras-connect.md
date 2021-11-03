@@ -4,11 +4,11 @@ description: Learn how to connect an LP camera to a gateway in Dynamics 365 Conn
 ms.author: alissag
 ms.date: 11/06/2020
 ms.topic: article
-title: Connect a camera to a gateway in Dynamics 365 Connected Spaces Preview
+title: Connect your cameras to a gateway in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Connect a camera to a gateway in Dynamics 365 Connected Spaces Preview 
+# Connect your cameras to a gateway in Dynamics 365 Connected Spaces Preview 
 
 [!INCLUDE[banner](includes/banner.md)]
 
@@ -26,7 +26,7 @@ You need to do the following before you can connect your cameras to a gateway:
 
 - Connect your computer to the same network as your gateway.
 
-## Connect a camera
+## Connect cameras
 
 1. On the **Devices** page, select **Add cameras**. 
 
