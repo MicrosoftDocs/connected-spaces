@@ -27,7 +27,7 @@ Each gateway supports up to 10 cameras with a maximum of one skill for each came
 
 ## Create a skill
 
-Connected store includes a wizard that makes it easy to set up and customize skills. 
+Connected Spaces includes a wizard that makes it easy to set up and customize skills. 
 
 1.	On the **Skills** page, select **Add skill**. 
 
