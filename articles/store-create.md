@@ -12,8 +12,8 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store with the 
-Microsoft Dynamics 365 Connected Spaces Preview web app. 
+After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store in 
+Microsoft Dynamics 365 Connected Spaces Preview. 
 
 ## Create a store
 
