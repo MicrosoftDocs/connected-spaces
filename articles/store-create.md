@@ -40,7 +40,7 @@ On the **Set up my store** page:
 
 7. Select **Next**.
 
-8. Make sure all the store details are correct, and then select **Create store**.
+8. Make sure that all the store details are correct, and then select **Create store**.
 
     ![Create store review.](media/create-store-review.jpg "Create store review")  
     
