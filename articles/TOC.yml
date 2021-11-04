@@ -28,8 +28,8 @@
           href: store-create.md
         - name: Connect a camera to the gateway
           href: cameras-connect.md
-        - name: Add camera skill zones
-          href: cameras-add-skill-zones.md
+        - name: Add camera skills
+          href: cameras-add-skills.md
     - name: 5. Get insights
       items: 
         - name: Find your way around
