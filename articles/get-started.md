@@ -45,7 +45,5 @@ The Power Platform environment:
 
 The Connected Spaces table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the preview and install the software, start with the first article in the Setup section and then proceed in order through the articles in the table of contents.
 
-![Screen shot of Connected Spaces table of contents with first setup step highlighted.](media/setup-first-step.PNG "Screen shot of Connected Spaces table of contents with first setup step highlighted")
-
 At the end of each article, you'll see a **Next step** heading that includes a link for the suggested next step to take.
 
