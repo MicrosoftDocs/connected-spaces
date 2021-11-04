@@ -12,7 +12,6 @@ ms.custom: "intro-internal"
 # Overview of Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
-<br>
 
 [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4GRQM]
 
