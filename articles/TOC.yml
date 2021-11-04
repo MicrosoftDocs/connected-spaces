@@ -5,7 +5,7 @@
     - name: Get started
       href: get-started.md
     - name: 1. Setup (Coming soon!)
-      href: setup-coming.md
+      href: set-coming.md 
     - name: 2. Create your camera plan
       items:
         - name: Checklist
@@ -22,12 +22,12 @@
           href: ase-connect.md
         - name: Install cameras
           href: install-cameras.md
-    - name: 4. Add a store/connect cameras with the mobile app
+    - name: 4. Add a store/connect cameras with the mobile app 
       items:
         - name: Overview
           href: mobile-app-overview.md
         - name: Requirements
-          href: mobile-app-requirements.md
+          href: mobile-app-requirements.md          
         - name: Create a store
           href: mobile-app-create-store.md
         - name: Pair a gateway
@@ -67,7 +67,7 @@
         - name: Shoppers
           href: communication-plan.md
         - name: Employees
-          href: employee-plan.md
+          href: employee-plan.md    
     - name: AI and insights
       href: ai-insights.md
     - name: Data and privacy
