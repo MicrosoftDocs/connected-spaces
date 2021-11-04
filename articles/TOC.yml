@@ -31,12 +31,8 @@
         - name: Add camera skills
           href: cameras-add-skills.md
     - name: 5. Get insights
-      items: 
-        - name: Find your way around
-          href: website-overview.md
-        - name: Set your store's operating hours
-          href: web-app-set-operating-hours.md
-        - name: Analytics page
+      items:         
+        - name: Use the Analytics page to get insights
           href: web-app-get-insights.md
         - name: Shopper analytics
           items: 
@@ -56,6 +52,8 @@
                href: queue-management-details-page.md
         - name: Use the Command Center to set up notifications
           href: web-app-command-center.md
+        - name: Set your store's operating hours
+          href: web-app-set-operating-hours.md
     - name: 6. Communicate with shoppers and employees
       items: 
         - name: Shoppers
