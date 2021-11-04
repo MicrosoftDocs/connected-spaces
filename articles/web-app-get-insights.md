@@ -14,9 +14,6 @@ ms.reviewer: v-bholmes
 
 Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your store. This article describes how to get insights from your store using the **Analytics** page. 
 
-> [!IMPORTANT]
-> To use Connected Spaces, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
-
 Connected Spaces supports the following camera skills: 
 
 - Shopper analytics
@@ -26,6 +23,9 @@ Connected Spaces supports the following camera skills:
 - Queue management
  
 For a quick overview of how to get insights, scan the screens in this and other articles. 
+
+> [!IMPORTANT]
+> To use Connected Spaces, you must use a supported browser and the browser must have the most up-to-date version installed. Connected Spaces supports Chromium-based browsers (Chrome, Opera, and Edge), Firefox, and Safari. Internet Explorer is not supported. 
 
 ## Analytics page overview
 
