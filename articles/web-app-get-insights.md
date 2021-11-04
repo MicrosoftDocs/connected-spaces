@@ -96,7 +96,7 @@ The subscript in this card describes the absolute change in this value for the c
 
 To the right of the highlight cards are graphs for each skill, starting with Shopper analytics.
 
-### Shopper analytics graphs
+### Shopper Analytics graphs
 
 ![Shopper analytics graphs section of Analytics page.](media/analytics-shopper-analytics-graphs.jpg "Shopper analytics graphs section of Analytics page")
 
@@ -107,7 +107,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 **Peak footfall by [time slice (day, hour)].**  This graph shows the maximum number of people that were in the store on an hourly basis, taking into account the flow of people into AND out of the store, for the selected time frame.
 
-### Display effectiveness graphs
+### Display Effectiveness graphs
 
 ![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
 
@@ -115,7 +115,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 **Visit time**. This chart shows the average dwell time of the people who entered the skill zone over the time period selected.
 
-### Queue management graphs
+### Queue Management graphs
 
 ![Queue management graphs section of Analytics page.](media/analytics-queue-management-graphs.jpg "Queue management graphs section of Analytics page")
 
