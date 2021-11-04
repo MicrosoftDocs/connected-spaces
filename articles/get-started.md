@@ -17,7 +17,7 @@ Welcome to the Microsoft Dynamics 365 Connected Spaces Preview! This article des
 
 ## How Dynamics 365 Connected Spaces works
 
-Connected Spaces consists of the Connected Spaces app, an Azure cloud service, Microsoft Dataverse, and hardware that you install at your store.
+Connected Spaces consists of the Azure Stack Edget gateway, Connected Spaces app, an Azure cloud service, Microsoft Dataverse, and camera hardware that you install at your store.
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platform components")
  
