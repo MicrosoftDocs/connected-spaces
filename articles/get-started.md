@@ -25,7 +25,7 @@ In each of your retail stores, you’ll:
 
 - Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway will receive video from the cameras connected to it, analyze it, and transform your customer activity into pseudonymous datapoints.
 
-- Use the mobile app to create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
+- Create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 
 The cloud service:
 
@@ -39,7 +39,7 @@ The cloud service:
 
 The Power Platform environment:
 
-- Stores the incoming data and makes it available for the Connected Spaces web app. You’ll use the web app to view analytics reports about activity in your stores.
+- Stores the incoming data and makes it available for the Connected Spaces, where you can view analytics reports about activity in your stores.
 
 ## How Connected Spaces documentation is organized
 
