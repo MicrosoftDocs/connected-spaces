@@ -5,7 +5,7 @@
     - name: Get started
       href: get-started.md
     - name: 1. Setup (Coming soon!)
-      href: set-coming.md 
+      href: setup-coming.md 
     - name: 2. Create your camera plan
       items:
         - name: Checklist
