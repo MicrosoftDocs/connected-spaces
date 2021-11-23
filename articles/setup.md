@@ -64,5 +64,6 @@ Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision 
 ## What's next?
 
 - [Learn about camera placement](camera-placement-checklist.md)
+- [Learn about camera installation](install-cameras.md)
 - [Connect cameras to a gateway](cameras-connect.md)
 - [Add skills](cameras-add-skills.md)
