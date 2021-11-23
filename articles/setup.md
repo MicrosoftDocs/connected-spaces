@@ -26,7 +26,7 @@ ms.reviewer: v-bholmes
 
   ![Screenshot of Get started page.](media/setup-installing-message.jpg "Screenshot of Get started page")
 
-  ![Screenshot of message "Setting up your account for Connected Spaces".](media/setup-installing-message.jpg "Screenshot of message "Setting up your account for Connected Spaces")
+  ![Screenshot of message Setting up your account for Connected Spaces.](media/setup-installing-message.jpg "Screenshot of message Setting up your account for Connected Spaces")
    
 4. Select **Add a store**.
 
