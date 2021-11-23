@@ -16,7 +16,7 @@ Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision 
 
 ## Set up Connected Spaces Preview
 
-1. Go to xxx and so xxx.
+1. Go to xxx and do xxx.
 
 2. Sign in with xxx.
 
