@@ -1,10 +1,10 @@
 ---
 author: alwinv
-description: Learn how to set up Dynamics 365 Connected Spaces coming soon!
+description: Learn how to set up Dynamics 365 Connected Spaces
 ms.author: alwinv
 ms.date: 11/02/2021
 ms.topic: article
-title: Set up Dynamics 365 Connected Spaces (Coming soon!)
+title: Set up Dynamics 365 Connected Spaces
 ms.reviewer: v-bholmes
 ---
 
@@ -12,4 +12,8 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-Watch this page for instructions on setting up Dynamics 365 Connected Spaces!
+1. Go to xxx.
+
+2. On the Get started page, select **Get started**.
+
+
