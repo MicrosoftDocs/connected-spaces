@@ -1,16 +1,20 @@
 ---
 author: alwinv
-description: Learn how to set up Dynamics 365 Connected Spaces
+description: Learn how to set up Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
 ms.date: 11/02/2021
 ms.topic: article
-title: Set up Dynamics 365 Connected Spaces
+title: Set up Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Set up Dynamics 365 Connected Spaces
+# Set up Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
+
+Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. [Learn more about Connected Spaces capabilities](index.md).
+
+## Set up Connected Spaces Preview
 
 1. Go to xxx.
 
@@ -34,7 +38,7 @@ ms.reviewer: v-bholmes
 
     - Enter a descriptive name for the store to distinguish it from your other stores.
 
-    - In the **Max occupancy** field, enter the total number of people that will be allowed in your store at one time. Connected Store uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
+    - In the **Max occupancy** field, enter the total number of people that will be allowed in your store at one time. Connected Spaces uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
 
     - Select a time zone.
 
@@ -46,8 +50,8 @@ ms.reviewer: v-bholmes
    
 6. On the **Gateways** page, do one of the following:
 
-    - If you haven't already intalled a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. A gateway must be installed to use Connected Store.  
-    - If you have already installed a gateway, or if you haven't already installed a gateway but you plan to install the gateway later, select **Next** to continue with the Connected Store setup.
+    - If you haven't already intalled a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. A gateway must be installed to use Connected Spaces.  
+    - If you have already installed a gateway, or if you haven't already installed a gateway but you plan to install the gateway later, select **Next** to continue with the Connected Spaces setup.
 
         ![Screenshot of Gateways page.](media/setup-gateways.jpg "Screenshot of Gateways page")
         
@@ -56,3 +60,9 @@ ms.reviewer: v-bholmes
     ![Screenshot of Gateways page.](media/setup-review.jpg "Screenshot of Gateways page")
     
 8. On the **Store created** page, select **Done**.
+
+## What's next?
+
+- [Learn about camera placement and installation]()
+- [Connect cameras to a gateway]()
+- [Add skills]()
