@@ -20,12 +20,14 @@ Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision 
 
 2. Sign in with xxx.
 
-2. In the **Permissions requested** dialog box, select **Accept**
+2. In the **Permissions requested** dialog box, select **Accept**.
 
     ![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
     
     > [!NOTE]
     > This dialog box may appear more than once. If this happens, wait a few minutes for the permissions to be applied, and then try to sign in again.
+
+   You'll see the Connected Store logo and a progress bar at the bottom of the screen, and then the Welcome page will appear. 
 
 2. On the Welcome page, select **Get started**.
 
