@@ -38,7 +38,7 @@ ms.reviewer: v-bholmes
 
     - Select a time zone.
 
-    - Enter an address, city, and region.
+    - Enter an address, city, and country/region.
     
     - Select **Next** when you've finished entering your store details.
 
