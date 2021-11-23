@@ -38,7 +38,7 @@ The trial duration is 180 days, and can include up to 25 cameras.
 
 ### How do I start using the trial?
 
-After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, visit the links in the [Additional resources](trial-signup.md) on the trial setup page.
+After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to user guides and tutorials. To learn more, see the links in the [Additional resources](trial-signup.md) section of the trial setup page.
 
 ### What features are available in the trial?
 
