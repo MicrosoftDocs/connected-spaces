@@ -1,13 +1,13 @@
 - name: Dynamics 365 Connected Store Preview
   items:
     - name: Overview of Dynamics 365 Connected Store Preview
-      href: index.md
-    - name: Get started
-      href: get-started.md
-    - name: Trial sign up
+      href: index.md    
+    - name: Sign up for a free trial
       href: trial-signup.md
     - name: Trial FAQ
       href: trial-faq.md
+    - name: Get started
+      href: get-started.md
     - name: 1. Set up Dynamics 365 Connected Spaces
       href: setup.md 
     - name: 2. Create your camera plan
