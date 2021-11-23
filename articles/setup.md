@@ -18,6 +18,10 @@ Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision 
 
 1. Go to xxx.
 
+2. sljksljs
+
+    ![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
+
 2. On the Welcome page, select **Get started**.
 
    ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
