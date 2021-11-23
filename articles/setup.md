@@ -24,6 +24,8 @@ ms.reviewer: v-bholmes
 
     - If the message says **You have a free 180-day trial**, go to the next step. 
 
+  ![Screenshot of Get started page.](media/setup-installing-message.jpg "Screenshot of Get started page")
+
   ![Screenshot of message "Setting up your account for Connected Spaces".](media/setup-installing-message.jpg "Screenshot of message "Setting up your account for Connected Spaces")
    
 4. Select **Add a store**.
