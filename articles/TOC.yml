@@ -4,7 +4,7 @@
       href: index.md
     - name: Get started
       href: get-started.md
-    - name: 1. Setup (Coming soon!)
+    - name: 1. Set up Dynamics 365 Connected Spaces
       href: setup-coming.md 
     - name: 2. Create your camera plan
       items:
