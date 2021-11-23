@@ -29,3 +29,7 @@ ms.reviewer: v-bholmes
 4. Select **Add a store**.
 
    ![Screenshot of Get started page.](media/setup-add-store.jpg "Screenshot of Get started page")
+
+5. In the next page, enter the details for your store.
+
+     ![Screenshot of Store details page.](media/setup-store details.jpg "Screenshot of Store details page")
