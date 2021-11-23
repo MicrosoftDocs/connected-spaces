@@ -4,6 +4,10 @@
       href: index.md
     - name: Get started
       href: get-started.md
+    - name: Trial sign up
+      href: trial-signup.md
+    - name: Trial FAQ
+      href: trial-faq.md
     - name: 1. Set up Dynamics 365 Connected Spaces
       href: setup.md 
     - name: 2. Create your camera plan
