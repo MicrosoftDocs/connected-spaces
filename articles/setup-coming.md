@@ -14,6 +14,6 @@ ms.reviewer: v-bholmes
 
 1. Go to xxx.
 
-2. On the Get started page, select **Get started**.
+2. On the **Get started** page, select **Get started**.
 
    ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
