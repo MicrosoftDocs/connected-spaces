@@ -40,8 +40,6 @@ Your trial environment includes all of the Dynamics 365 Connected Spaces feature
 
 - [Set up Dynamics 365 Connected Store after signing up for a trial](setup.md)
 - [Get started with Connected Store](get-started.md)
-- [Learn how to place cameras for your store](camera-placement-checklist.md)
-- [Install cameras](install-cameras.md)
 - [Connect cameras to a gateway](cameras-connect.md)
 - [Add camera skills](cameras-add-skills.md)
 
