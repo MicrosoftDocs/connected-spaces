@@ -18,6 +18,6 @@ ms.reviewer: v-bholmes
 
    ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
 
-3. On the **You don't have a store yet** page, select **Add store**.
+3. On the next page, select **Add store**.
 
    ![Screenshot of Get started page.](media/setup-add-store.jpg "Screenshot of Get started page")
