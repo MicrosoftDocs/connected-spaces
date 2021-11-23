@@ -18,6 +18,14 @@ ms.reviewer: v-bholmes
 
    ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
 
-3. On the next page, select **Add store**.
+3. On the next page, look for a message in the upper-left corner of the page, and then do one of the following:
+
+    - If the message says **Setting up your account for Connected Spaces**, wait until the software is installed.
+
+    - If the message says **You have a free 180-day trial**, go to the next step. 
+
+   ![Screenshot of message: "Setting up your account for Connected Spaces".](media/setup-installing-message.jpg "Screenshot of message: "Setting up your account for Connected Spaces"")
+   
+4. Select **Add a store**.
 
    ![Screenshot of Get started page.](media/setup-add-store.jpg "Screenshot of Get started page")
