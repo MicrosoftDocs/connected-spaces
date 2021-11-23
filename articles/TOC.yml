@@ -5,7 +5,7 @@
     - name: Get started
       href: get-started.md
     - name: 1. Set up Dynamics 365 Connected Spaces
-      href: setup-coming.md 
+      href: setup.md 
     - name: 2. Create your camera plan
       items:
         - name: Checklist
