@@ -54,3 +54,5 @@ ms.reviewer: v-bholmes
 7. On the **Review and create store** page, select **View more** to review all the details for your store, and then if everything looks OK, select **Create store**.
 
     ![Screenshot of Gateways page.](media/setup-review.jpg "Screenshot of Gateways page")
+    
+8. On the **Store created** page, select **Done**.
