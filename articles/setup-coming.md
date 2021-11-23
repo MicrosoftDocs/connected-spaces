@@ -8,7 +8,7 @@ title: Set up Dynamics 365 Connected Spaces
 ms.reviewer: v-bholmes
 ---
 
-# Set up Dynamics 365 Connected Spaces (Coming soon!)
+# Set up Dynamics 365 Connected Spaces
 
 [!INCLUDE[banner](includes/banner.md)]
 
