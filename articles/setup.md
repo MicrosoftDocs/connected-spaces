@@ -32,7 +32,7 @@ ms.reviewer: v-bholmes
 
 5. On the **Store Details** page:
 
-    - Enter a descriptive name for the store to distinguish it from other stores.
+    - Enter a descriptive name for the store to distinguish it from your other stores.
 
     - Enter a value in the **Max occupancy** field. Connected Store uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
 
