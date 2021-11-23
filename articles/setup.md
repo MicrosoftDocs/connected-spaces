@@ -33,3 +33,10 @@ ms.reviewer: v-bholmes
 5. In the next page, enter the details for your store.
 
    ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
+   
+3. On the **Gateways** page, do one of the following:
+
+    - If you haven't already intalled a gateway, select **Order gateways on Azure Portal** to learn about and order an Azure Stack Edge device. You must install a gateway to use Dynamics 365 Connected Store.  
+    - If you have already installed a gateway, or if you haven't already installed a gateway but you plan to install the gateway later, select **Next**.
+
+        ![Screenshot of Gateways page.](media/setup-gateways.jpg "Screenshot of Gateways page")
