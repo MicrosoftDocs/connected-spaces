@@ -31,12 +31,18 @@ ms.reviewer: v-bholmes
    ![Screenshot of Get started page.](media/setup-add-store.jpg "Screenshot of Get started page")
 
 5. On the **Store Details** page:
-    - Enter a descriptive name for the store to distinguish it from other stores.
-    - Enter a value in the **Max occupancy** field. Connected Store uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
-    - Enter an address for the store.
-    - 
 
-   ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
+    - Enter a descriptive name for the store to distinguish it from other stores.
+
+    - Enter a value in the **Max occupancy** field. Connected Store uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
+
+    - Select a time zone.
+
+    - Enter an address, city, and region.
+    
+    - Select **Next** when you've finished entering your store details.
+
+      ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
    
 6. On the **Gateways** page, do one of the following:
 
