@@ -38,11 +38,13 @@ The trial takes a few moments to load, and then you can start using the app.
 
 Your trial environment includes all of the Dynamics 365 Connected Spaces features. The links below guide you through some of the key features.
 
-- [Get started](get-started.md)
-- [Placeholder for other features to highlight]()
+- [Set up Dynamics 365 Connected Store after signing up for a trial](setup.md)
+- [Get started with Connected Store](get-started.md)
+- [Learn how to place cameras for your store](camera-placement-checklist.md)
+- [Install cameras](install-cameras.md)
+- [Connect cameras to a gateway](cameras-connect.md)
+- [Add camera skills](cameras-add-skills.md)
 
 ## Additional resources
 
-- [Explore training on Microsoft Learn](/learn/browse/?filter-products=dynamics-<!--filter for your product name-->)
-- [Watch videos on the product playlist](<!--If applicable, include a link to the product’s playlist on YouTube-->)
 - [Trial FAQ](trial-faq.md)
