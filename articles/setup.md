@@ -30,9 +30,12 @@ ms.reviewer: v-bholmes
 
    ![Screenshot of Get started page.](media/setup-add-store.jpg "Screenshot of Get started page")
 
-5. On the **Store Details** page, enter the details for your store.
+5. On the **Store Details** page, enter the details for your store, and then select **Next**.
 
    ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
+
+    > [!NOTE]
+    > Connected Store uses computer vision together with the the value in the **Max occupancy** field to alert you if your store exceeds maximum capacity at any time. 
    
 6. On the **Gateways** page, do one of the following:
 
