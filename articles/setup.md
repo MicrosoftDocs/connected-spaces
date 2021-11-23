@@ -32,4 +32,4 @@ ms.reviewer: v-bholmes
 
 5. In the next page, enter the details for your store.
 
-   ![Screenshot of Store details page.](media/setup-store details.jpg "Screenshot of Store details page")
+   ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
