@@ -34,7 +34,7 @@ ms.reviewer: v-bholmes
 
     - Enter a descriptive name for the store to distinguish it from your other stores.
 
-    - Enter a value in the **Max occupancy** field. Connected Store uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
+    - In the **Max occupancy** field, enter the total number of people that will be allowed in your store at one time. Connected Store uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
 
     - Select a time zone.
 
