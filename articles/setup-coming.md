@@ -16,4 +16,4 @@ ms.reviewer: v-bholmes
 
 2. On the Get started page, select **Get started**.
 
-
+   ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
