@@ -46,7 +46,7 @@ ms.reviewer: v-bholmes
    
 6. On the **Gateways** page, do one of the following:
 
-    - If you haven't already intalled a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. You must install a gateway to use Dynamics 365 Connected Store.  
+    - If you haven't already intalled a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. A gateway must be installed to use Connected Store.  
     - If you have already installed a gateway, or if you haven't already installed a gateway but you plan to install the gateway later, select **Next** to continue with the Connected Store setup.
 
         ![Screenshot of Gateways page.](media/setup-gateways.jpg "Screenshot of Gateways page")
