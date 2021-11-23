@@ -16,11 +16,16 @@ Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision 
 
 ## Set up Connected Spaces Preview
 
-1. Go to xxx.
+1. Go to xxx and so xxx.
 
-2. sljksljs
+2. Sign in with xxx.
+
+2. In the **Permissions requested** dialog box, select **Accept**
 
     ![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
+    
+    > [!NOTE]
+    > This dialog box may appear more than once. If this happens, wait a few minutes for the permissions to be applied, and then try to sign in again.
 
 2. On the Welcome page, select **Get started**.
 
