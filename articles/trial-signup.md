@@ -29,7 +29,7 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 
 1. Go to the [trial overview page](<!--Link to the trial page-->) and select the **Try for free** button.
 
-2. Follow the onscreen guidance to enter the 
+2. Follow the on-screen guidance to enter the 
 [email name associated with your Microsoft account](https://support.microsoft.com/windows/what-is-a-microsoft-account-4a7c48e9-ff5a-e9c6-5a5c-1a57d66c3bfa) and your contact information.
 
 The trial takes a few moments to load, and then you can start using the app.
