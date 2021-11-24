@@ -37,7 +37,7 @@ The following table shows tips for installing and connecting the Azure Stack Edg
 
 In addition to using [URL patterns for firewall rules](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add the following URLs to use the Connected Spaces:
 
-|URL|Used for|
+|URL|Description|
 |----------------------------------------------|-----------------------------------------------|
 |https://*.monitoring.azure.com*|Required so that Connected Spaces can receive telemetry information about the health of the Azure Stack Edge Pro device.|
 |https://*.cognitiveservices.azure.com*/|Needed to use computer vision APIs|
