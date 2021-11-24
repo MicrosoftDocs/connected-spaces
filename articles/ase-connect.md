@@ -25,17 +25,19 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     device_settings.json
 
 3. Fill in the values in the device_settings.json file.
+
+     ![Windows Remote Management settings.](media/ase-connect-windows-remote-management.jpg "Windows Remote Management settings")
  
     |Field|Value|
     |------------------------------------------|-----------------------------------------------------------------------------------|
     |AzureSubscriptionName|The Azure subscription name you created the Resource Group in|
-    |AzureResourceGroupName|The Azure Resource Group Name you created the ASE Resource in|
-    |AzureResourceDeviceName|The name of the ASE resource you created|
-    |DeviceSerialNumber|The serial number would show up on the side of the phsyical device or the LocalUI of the device|
-    |DeviceIp|The IP your device is set to|
-    |KubernetesNodeIpRangeStart|The first of two sequential free IPs on your network|
-    |KubernetesNodeIpRangeEnd|The Last of two sequential free IPs on your network|
-    |KubernetesServiceIp|Another free IP on your network|
+    |AzureResourceGroupName|The Azure Resource Group Name you created the Asure Stack Edge Resource in|
+    |AzureResourceDeviceName|The name of the Azure Stack Edge resource you created|
+    |DeviceSerialNumber|The serial number on the side of the phsyical device or the LocalUI of the device|
+    |DeviceIp|The IP address that your device is set to|
+    |KubernetesNodeIpRangeStart|The first of two sequential free IP addresses on your network|
+    |KubernetesNodeIpRangeEnd|The Last of two sequential free IP addresses on your network|
+    |KubernetesServiceIp|Another free IP address on your network|
     |ComputeNode|The number of compute nodes on your device; "2" is a solid base value|
     |ActivationKey|	The key that was generated using the Azure resource|
 
