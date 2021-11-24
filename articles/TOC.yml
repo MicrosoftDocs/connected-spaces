@@ -33,11 +33,11 @@
         - name: Connect a camera to the gateway
           href: cameras-connect.md
         - name: Add camera skills
-          href: cameras-add-skills.md        
-        - name: Use the Analytics page to get insights
-          href: web-app-get-insights.md        
+          href: cameras-add-skills.md          
         - name: Set your store's operating hours
           href: web-app-set-operating-hours.md
+    - name: Use the Analytics page to get insights
+          href: web-app-get-insights.md     
     - name: Communicate with shoppers and employees
       items: 
         - name: Shoppers
