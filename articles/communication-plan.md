@@ -99,7 +99,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 |-------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** explain how insights are used to improve the shopper experience|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to an improved shopper experience.|
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
-|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (for which in Dynamics 365 Connected Spaces provides certain options related to its use and storage) and “insights” (which are anonymized data-driven statistics derived from AI processing of video footage) helps customers understand how data is protected.|
+|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (for which Dynamics 365 Connected Spaces provides certain options related to its use and storage) and “insights” (which are anonymized data-driven statistics derived from AI processing of video footage) helps customers understand how data is protected.|
 |✔ **DO** use simple, clear language to explain technical concepts |To build trust, use simple and accessible language that accurately explains the technology. Technical terms (such as “AI” and “the cloud”) may be confusing for shoppers and may lead to inaccurate assumptions.|
 
 
