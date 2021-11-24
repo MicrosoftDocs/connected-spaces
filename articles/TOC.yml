@@ -33,28 +33,10 @@
         - name: Connect a camera to the gateway
           href: cameras-connect.md
         - name: Add camera skills
-          href: cameras-add-skills.md
-    - name: Get insights
-      items:         
-        - name: Use the Analytics page to get insights
-          href: web-app-get-insights.md
-        - name: Shopper analytics
-          items: 
-             - name: Summary page
-               href: shopper-analytics-summary-page.md
-        - name: Display effectiveness
-          items: 
-             - name: Summary page
-               href: display-effectiveness-summary-page.md
-             - name: Details page
-               href: display-effectiveness-details-page.md
-        - name: Queue management
-          items: 
-             - name: Summary page
-               href: queue-management-summary-page.md
-             - name: Details page
-               href: queue-management-details-page.md
-        - name: Set your store's operating hours
+          href: cameras-add-skills.md        
+    - name: Use the Analytics page to get insights
+          href: web-app-get-insights.md        
+    - name: Set your store's operating hours
           href: web-app-set-operating-hours.md
     - name: Communicate with shoppers and employees
       items: 
