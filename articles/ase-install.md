@@ -89,24 +89,17 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 ## Install and connect Azure Stack Edge Pro	
 
-> [!NOTE]
-> [Download and install the Dynamics 365 Connected Spaces mobile app](mobile-app-download.md) before you start.
+> [NOTE] 
+> This step will be completed by your Microsoft Solution Implementation partner. Please reach out to your partner directly. 
 
 1. Unpack and install Azure Stack Edge Pro using the following instructions: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-install
 
-2. To connect Azure Stack Edge Pro to the network switch:
+2. [Tutorial: Install Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-install)
 
-    a. Install your network PoE switch in close proximity to Azure Stack Edge Pro.
-    
-    b. Use the following tutorial to connect Azure Stack Edge Pro to the network switch: https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-connect-setup-activate
-    
-    c. As shown in the Azure Stack Edge Pro documentation, connect Azure Stack Edge Pro to PORT 3 if you have an SFP cable, or PORT 2 if you have an RJ45 cable. Connect the other end to the dedicated network switch.
-    
-    d. Connect the laptop you're using to configure Azure Stack Edge to PORT 1.
-    
-    > [!NOTE]
-    > Configure the Ethernet adapter on your computer to connect to the Azure Stack Edge Pro device with a static IP address of 192.168.100.5 and subnet 255.255.255.0. In addition, confirm that Azure Stack Edge Pro has connectivity to the NTP server.
+3. [Tutorial: Connect to Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
+
+4. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
     
 ## Next step
 
-[Connect Azure Stack Edge Pro to your network](ase-connect.md)
+[Run the activation script]()
