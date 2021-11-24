@@ -12,15 +12,9 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. [Learn more about Connected Spaces capabilities](index.md).
+After you've [signed up for a free trial](trial-signup.md) and selected the **Launch Trial** button, you can set up Microsoft Dynamics 365 Connected Spaces Preview by using the procedure below. 
 
-## Set up Connected Spaces Preview
-
-1. Go to xxx and do xxx.
-
-2. Sign in with xxx.
-
-2. In the **Permissions requested** dialog box, select **Accept**.
+1. In the **Permissions requested** dialog box, select **Accept**.
 
     ![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
     
