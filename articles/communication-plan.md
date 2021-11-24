@@ -32,9 +32,9 @@ Based on our research, we’re sharing practices that we’ve found successful i
 
 ## What to disclose
 
-Our research shows that shoppers often have a common set of questions about technologies used in stores, and transparent disclosure can help foster their trust. What you choose to disclose to shoppers will depend on the unique context of your store and the range of technologies that you use.
+Our research shows that shoppers often have a common set of questions about technologies used in stores, and transparent disclosure can help foster their trust. What you choose to disclose to shoppers will depend on the unique context of your store, the range of technologies that you use, and applicable legal requirements.
 
-Dynamics 365 Connected Spaces does not store any video footage, does not analyze or attempt to detect faces, and does not identify individuals—and clear and accessible disclosure materials can help make this information easy for shoppers to learn about. Our research shows that a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
+Dynamics 365 Connected Spaces gives customers the option to opt out of managing and storing their video footage in the cloud and instead keep it on premises. Connected Store does not analyze or attempt to detect faces, and does not identify individuals. Clear and accessible disclosure materials can help make this information easy for shoppers to learn about. Our research shows that a disclosure strategy can build trust by helping shoppers understand: (1) That a technology is in use; (2) What that technology does; (3) How personal data is protected.
 
 Specifically, our research shows that shoppers are more comfortable with Dynamics 365 Connected Spaces when they understand the following:
 
@@ -99,7 +99,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 |-------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** explain how insights are used to improve the shopper experience|If you’re able to provide a clear value proposition to shoppers, they will understand the concept of insights better when they can see clearly how insights translate to an improved shopper experience.|
 |✔ **DO** use graphics to help explain unfamiliar concepts|Text is not sufficient to build understanding of less-familiar concepts such as anonymization and aggregation.|
-|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (which in Dynamics 365 Connected Spaces is not accessible by humans and is not stored) and “insights” (which are anonymized data-driven statistics derived from AI processing of video footage, and which are stored and visible to humans) helps customers understand how data is protected.|
+|✔ **DO** differentiate between “video footage” and “insights” |Outlining the difference between “video footage” (for which in Dynamics 365 Connected Spaces provides certain options related to its use and storage) and “insights” (which are anonymized data-driven statistics derived from AI processing of video footage) helps customers understand how data is protected.|
 |✔ **DO** use simple, clear language to explain technical concepts |To build trust, use simple and accessible language that accurately explains the technology. Technical terms (such as “AI” and “the cloud”) may be confusing for shoppers and may lead to inaccurate assumptions.|
 
 
