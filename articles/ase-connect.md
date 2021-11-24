@@ -48,7 +48,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 5. Change your directory to the Customer folder containing all the scripts using this command:
 
-    'cd "<File Path to folder>"'
+    '''cd "<File Path to folder>"'''
 
 6. Run the ase_up_customer.ps1 script you downloaded earlier.
 
