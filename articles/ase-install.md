@@ -102,8 +102,8 @@ Use the following tutorials to install and connect Azure Stack Edge Pro:
 
 4. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
 
-   > [!NOTE]
-   > Stop after the configuration section. DO NOT ENABLE COMPUTE NETWORK.
+   > [!IMPORTANT]
+   > Stop after the **Configure network** section of this tutorial. DO NOT COMPLETE THE **ENABLE COMPUTE NETWORK** SECTION.
     
 ## Next step
 
