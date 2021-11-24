@@ -30,8 +30,19 @@ The following table shows tips for installing and connecting the Azure Stack Edg
 |Airflow|Azure Stack Edge Pro requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
 |Power|Azure Stack Edge Pro requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750 Watt maximum power draw of Azure Stack Edge Pro. [Learn more about power requirements](/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge Pro uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge Pro where people perform daily operations which may be affected by prolonged noise exposure.|
-|Network|Azure Stack Edge Pro requires a 5-megabits-per-second internet connection for data flow to the Dynamics 365 Connected Spaces services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). A Power Over Ethernet (PoE) switch is also required for the IP cameras to connect Azure Stack Edge Pro to the LAN.<br><br>The default port communication for Azure IoT Hub should be Advanced Message Queuing Protocol (AMQP) over port 5671. If this port can't be opened because of firewall policies, use AMQP over web sockets (port 443). In addition to using [URL patterns for firewall rules](/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add one more domain name when they use the Connected Spaces: `https://*.monitoring.azure.com`. This domain name is required so that Connected Spaces can receive telemetry information about the health of the Azure Stack Edge Pro appliance.|
+|Network|Azure Stack Edge Pro requires a 5-megabits-per-second internet connection for data flow to the Dynamics 365 Connected Spaces services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). See also [Adding URLs to allow lists for firewalls](ase-install.md#adding-urls-to-allow-lists-for-firewalls) below.<br><br>If this port can't be opened because of firewall policies, use AMQP over web sockets (port 443).|
 |Operating temperatures|See the [Azure Stack Edge Pro technical specifications](/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
+
+## Adding URLs to allow lists for firewalls
+
+In addition to using [URL patterns for firewall rules](/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add the following URLs to use the Connected Spaces:
+
+|URL|Used for|
+|----------------------------------------------|-----------------------------------------------|
+|https://*.monitoring.azure.com*|Required so that Connected Spaces can receive telemetry information about the health of the Azure Stack Edge Pro device.|
+|https://*.cognitiveservices.azure.com*/|Needed to use computer vision APIs|
+|https://csppe*.azurewebsites.net*|Provides access to the Connected Spaces reality services|
+|https://csprod*azurewebsites.net*|Provides access to the Connected Spaces reality services|
 
 ## Site preparation	
 This section covers what you need to know to prepare your site for Azure Stack Edge Pro installation and configuration.
