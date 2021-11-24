@@ -14,6 +14,56 @@ ms.reviewer: v-bholmes
 
 After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
 
+## Initial setups and checks
+
+1. Follow [the Windows Remote Management instructions](https://docs.microsoft.com/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to install Windows Remote in your environment.
+
+2. Pull the following files from this storage account (will need to update as the account hasn’t been created yet):
+
+    ase_up_customer.ps1
+    ase_up_customer_utility.ps1
+    device_settings.json
+
+3. Fill in the values in the device_settings.json file.
+ 
+    |Field|Value|
+    |------------------------------------------|-----------------------------------------------------------------------------------|
+    |AzureSubscriptionName|The Azure subscription name you created the Resource Group in|
+    |AzureResourceGroupName|The Azure Resource Group Name you created the ASE Resource in|
+    |AzureResourceDeviceName|The name of the ASE resource you created|
+    |DeviceSerialNumber|The serial number would show up on the side of the phsyical device or the LocalUI of the device|
+    |DeviceIp|The IP your device is set to|
+    |KubernetesNodeIpRangeStart|The first of two sequential free IPs on your network|
+    |KubernetesNodeIpRangeEnd|The Last of two sequential free IPs on your network|
+    |KubernetesServiceIp|Another free IP on your network|
+    |ComputeNode|The number of compute nodes on your device; "2" is a solid base value|
+    |ActivationKey|	The key that was generated using the Azure resource|
+
+
+4. With the fields set open a Powershell window as an Administrator. 
+5. Change your directory to the Customer folder containing all the scripts using this command:
+cd "<File Path to folder>"
+6. Run the script you downloaded earlier: ase_up_customer.ps1
+7. You will be prompted to enter a password, this is the password that was used when setting up the Azure Stack Edge Device initially. 
+8. You will also be prompted to log in to azure, use the same login you used to create the resources in your subscription.
+9. Once the script completes Microsoft will take over for the final piece before you are ready for use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Connect Azure Stack Edge and configure the network
 
 1. Use your laptop and the following documentation to connect Azure Stack Edge Pro and configure the network: https://docs.microsoft.com/azure/databox-online/azure-stack-edge-deploy-connect-setup-activate
