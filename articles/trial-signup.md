@@ -27,19 +27,17 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 
 **To sign up for the trial**:
 
-1. Go to the [trial overview page](<!--Link to the trial page-->) and select the **Try for free** button.
+1. Go to the [trial overview page](<!--Link to the trial page-->), and select **Start your free trial**.
 
 2. Follow the on-screen guidance to enter the 
 [email name associated with your Microsoft account](https://support.microsoft.com/windows/what-is-a-microsoft-account-4a7c48e9-ff5a-e9c6-5a5c-1a57d66c3bfa) and your contact information.
 
-The trial takes a few moments to load, and then you can start using the app.
+3. After you select the **Launch Trial** button, [go to the instructions for setting up Connected Spaces](setup.md). 
 
 ## What to try
 
-Your trial environment includes all of the Dynamics 365 Connected Spaces features. The links below guide you through some of the key features.
+Your trial environment includes all of the Dynamics 365 Connected Spaces features. The links below guide you through some of the key features after you've finished setting up Connected Spaces and created a store.
 
-- [Set up Dynamics 365 Connected Store after signing up for a trial](setup.md)
-- [Get started with Connected Store](get-started.md)
 - [Connect cameras to a gateway](cameras-connect.md)
 - [Add camera skills](cameras-add-skills.md)
 
