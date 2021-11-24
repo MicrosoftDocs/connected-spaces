@@ -44,7 +44,7 @@ In addition to using [URL patterns for firewall rules](https://docs.microsoft.co
 |https://csppe*.azurewebsites.net*|Provides access to the Connected Spaces reality services|
 |https://csprod*azurewebsites.net*|Provides access to the Connected Spaces reality services|
 
-See also these links for other URLS to add to the allowed list:
+See also these links for other URLs to add to the allowed list:
 
 - [URL patterns for gateway feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
 - [URL patterns for computer feature](https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
