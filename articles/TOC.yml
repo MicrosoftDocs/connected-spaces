@@ -34,9 +34,9 @@
           href: cameras-connect.md
         - name: Add camera skills
           href: cameras-add-skills.md        
-    - name: Use the Analytics page to get insights
+        - name: Use the Analytics page to get insights
           href: web-app-get-insights.md        
-    - name: Set your store's operating hours
+        - name: Set your store's operating hours
           href: web-app-set-operating-hours.md
     - name: Communicate with shoppers and employees
       items: 
