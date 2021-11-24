@@ -40,10 +40,10 @@ In addition to using [URL patterns for firewall rules](https://docs.microsoft.co
 |URL|Description|
 |----------------------------------------------|-----------------------------------------------|
 |'https://*.monitoring.azure.com'|Required so that Connected Spaces can receive telemetry information about the health of the Azure Stack Edge Pro device|
-|https://*.cognitiveservices.azure.com*/|Needed to use computer vision APIs|
-|https://csppe*.azurewebsites.net*|Provides access to the Connected Spaces reality services|
-|https://csprod*azurewebsites.net*|Provides access to the Connected Spaces reality services|
-|https://dev.azure.com/ppedynamicscrm|PRovides access to the Git-Ops repository|
+|'https://*.cognitiveservices.azure.com'/|Needed to use computer vision APIs|
+|'https://csppe*.azurewebsites.net'|Provides access to the Connected Spaces reality services|
+|'https://csprod*azurewebsites.net'|Provides access to the Connected Spaces reality services|
+|'https://dev.azure.com/ppedynamicscrm'|Provides access to the Git-Ops repository|
 
 See also these links for other URLs to add to the allowed list:
 
