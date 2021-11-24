@@ -20,8 +20,8 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 2. Pull the following files from this storage account (will need to update as the account hasn’t been created yet):
 
-    ase_up_customer.ps1
-    ase_up_customer_utility.ps1
+    ase_up_customer.ps1<br>
+    ase_up_customer_utility.ps1<br>
     device_settings.json
 
 3. Fill in the values in the device_settings.json file.
