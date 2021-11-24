@@ -126,12 +126,4 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 **Average wait time across all queues by [time slice (day, hour)].** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all Queue management zones during the selected time frame.
 
-## Next steps
 
-Learn about these web app pages:
-
-[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
-[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
-[Display effectiveness details page](display-effectiveness-details-page.md)<br>
-[Queue management summary page](queue-management-summary-page.md)<br>
-[Queue management details page](queue-management-details-page.md)
