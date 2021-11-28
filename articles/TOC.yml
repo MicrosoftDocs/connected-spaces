@@ -37,7 +37,7 @@
         - name: Set your store's operating hours
           href: web-app-set-operating-hours.md
     - name: Use the Analytics page to get insights
-          href: web-app-get-insights.md     
+      href: web-app-get-insights.md     
     - name: Communicate with shoppers and employees
       items: 
         - name: Shoppers
