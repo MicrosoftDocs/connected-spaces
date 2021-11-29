@@ -27,7 +27,7 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 
 **To sign up for the trial**:
 
-1. Go to the [trial overview page](https://dynamics.microsoft.com/connected-spaces/overview/), and select **Try for free**.
+1. Go to the [trial overview page](https://dynamics.microsoft.com/connected-spaces/overview/), and then select **Try for free**.
 
 2. Follow the on-screen guidance to enter the 
 [email name associated with your Microsoft account](https://support.microsoft.com/windows/what-is-a-microsoft-account-4a7c48e9-ff5a-e9c6-5a5c-1a57d66c3bfa) and your contact information.
