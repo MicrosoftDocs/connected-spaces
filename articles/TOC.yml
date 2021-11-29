@@ -52,3 +52,5 @@
       href: compliance.md
     - name: Security
       href: security.md
+    - name: Known issues
+      href: known-issues.md
