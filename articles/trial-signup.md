@@ -32,7 +32,7 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 2. Follow the on-screen guidance to enter the 
 [email name associated with your Microsoft account](https://support.microsoft.com/windows/what-is-a-microsoft-account-4a7c48e9-ff5a-e9c6-5a5c-1a57d66c3bfa) and your contact information.
 
-3. After you select the **Launch Trial** button, [go to the instructions for setting up Connected Spaces](setup.md). 
+3. After you select the **Launch Trial** button, [go to the instructions for setting up Dynamics 365 Connected Spaces](setup.md). 
 
 ## What to try
 
