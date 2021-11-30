@@ -1,8 +1,8 @@
-- name: Dynamics 365 Connected Store Preview
+- name: Dynamics 365 Connected Spaces Preview
   items:
-    - name: Overview of Dynamics 365 Connected Store Preview
+    - name: Overview of Dynamics 365 Connected Spaces Preview
       href: index.md 
-    - name: Get started
+    - name: How Dynamics 365 Connected Spaces works
       href: get-started.md
     - name: Sign up for a free trial
       href: trial-signup.md
