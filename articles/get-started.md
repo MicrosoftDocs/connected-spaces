@@ -9,15 +9,11 @@ ms.reviewer: v-bholmes
 ms.custom: "intro-internal"
 ---
 
-# Get started with Dynamics 365 Connected Spaces Preview
+# How Dynamics 365 Connected Spaces works
 
 [!INCLUDE[banner](includes/banner.md)]
 
-Welcome to the Microsoft Dynamics 365 Connected Spaces Preview! This article describes how Connected Spaces works, and the overall process for acquiring, installing, configuring, and using Connected Spaces. 
-
-## How Dynamics 365 Connected Spaces works
-
-Connected Spaces consists of the Connected Spaces website, an Azure cloud service, Microsoft Dataverse, and camera hardware that you install at your store.
+[Dynamics 365 Connected Spaces](index.md) consists of the Connected Spaces web app, an Azure cloud service, Microsoft Dataverse, and camera hardware that you install at your store.
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platform components")
  
@@ -41,9 +37,7 @@ The Power Platform environment:
 
 - Stores the incoming data and makes it available for the Connected Spaces, where you can view analytics reports about activity in your stores.
 
-## How Connected Spaces documentation is organized
+## Next step
 
-The Connected Spaces table of contents is organized to make it easy to get up and running quickly with the hardware and software described above. When you're ready to sign up for the preview and install the software, start with the first article in the Setup section and then proceed in order through the articles in the table of contents.
-
-At the end of each article, you'll see a **Next step** heading that includes a link for the suggested next step to take.
+[Sign up for a free trial](trial-signup.md)
 
