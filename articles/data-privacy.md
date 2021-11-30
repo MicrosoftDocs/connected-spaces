@@ -41,15 +41,9 @@ In the retail store(s), the Azure Stack Edge gateway is used to process the foll
    
    - Event type: line crossing, zone enter or exit, zone dwell 
 
-<!--zone dwell time?-->
-
    - Values: Crossing direction, dwell time, dwell frames, orientation, speed, frame 
-
-<!--Is "frame" different from "dwell frame"?-->
    
-   - Rectangle “bounding box” points, width & height - area tracked within the camera frame 
-
-<!--"Rectangle "bounding box" width and height. This is the area tracked within the camera frame"?-->
+   - Rectangle “bounding box” points, width, and height (area tracked within the camera frame) 
    
    - Confidence score: confidence of the “bounding box” being a person
 
@@ -63,13 +57,9 @@ In the retail store(s), the Azure Stack Edge gateway is used to process the foll
  
    - Time stamps for the start and end of the 30-second time window
    
-   - Values over that time: entries, exits, dwells, dwell time, visits, visit time, peak occupancy, occupancy change
+   - Values over that time: entries, exits, dwells, zone dwell time, visits, visit time, peak occupancy, occupancy change
 
-<!--zone dwell time?-->
-   
-   - AI skill type: store traffic, display effectiveness, queue management
-
-<!--Aren't we using "Shopper analytics" vs. "Store traffic"?-->
+   - AI skill type: shopper analytics, display effectiveness, queue management
 
    - Zone: such as "Front entrance", "Aisle 1 display", and so on
 
@@ -92,11 +82,9 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
    - Type: entrance, display, queue, venue
 
-   - Value sums, averages and maximums over the hour: ewell time, dwells, enters, exits, visits, visit time, occupancy, occupancy change, over capacity
+   - Value sums, averages and maximums over the hour: dwell time, dwells, enters, exits, visits, visit time, occupancy, occupancy change, over capacity
 
-   - AI skill type: store traffic, display effectiveness, queue managment
-
-<!--Shopper Analytics vs. Store Traffic"?-->
+   - AI skill type: shopper analytics, display effectiveness, queue managment
 
    - Zone, such as "Front entrance", "Aisle 1 display", and so on
 
@@ -127,9 +115,7 @@ In Microsoft Dataverse cloud storage, the customer data is stored and can be man
 
     - Configuration data
     - Insight data (hourly summaries)
-    - Index data to access the HyperStore table (rows with PK value of HyperAsset or HyperTrack)
-
-<!--What does "PK" stand for?-->
+    - Index data to access the HyperStore table (rows with primary key value of HyperAsset or HyperTrack)
 
 ## How does Connected Spaces process data?
 
