@@ -27,11 +27,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
    ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
 
-3. On the next page, look for a message in the upper-left corner of the page, and then do one of the following:
-
-    - If the message says "Setting up your account for Connected Spaces", wait until the software is installed.
-
-    - If the message says "You have a free 180-day trial", go to the next step. 
+3. On the next page, look for a message in the upper-left corner of the page. If the message says "Setting up your account for Connected Spaces", wait until the account setup is finished. If the account setup is finished, go to the next step. 
 
      ![Screenshot of Setting up your account for Connected Spaces message.](media/setup-installing-message.jpg "Screenshot of Setting up your account for Connected Spaces message")
   
@@ -43,7 +39,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
     - Enter a descriptive name for the store to distinguish it from your other stores.
 
-    - In the **Max occupancy** field, enter the total number of people that will be allowed in your store at one time. Connected Spaces uses this value together with computer vision and artificial intelligence to alert you if your store exceeds maximum capacity at any time.
+    - Optional: In the **Max occupancy** field, enter the total number of people that will be allowed in your store at one time. 
 
     - Select a time zone.
 
@@ -55,7 +51,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
    
 6. On the **Gateways** page, do one of the following:
 
-    - If you haven't already intalled a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. A gateway must be installed to use Connected Spaces.  
+    - If you haven't already installed a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. A gateway must be installed to use Connected Spaces.  
     - If you have already installed a gateway, or if you haven't already installed a gateway but you plan to install the gateway later, select **Next** to continue with the Connected Spaces setup.
 
         ![Screenshot of Gateways page.](media/setup-gateways.jpg "Screenshot of Gateways page")
