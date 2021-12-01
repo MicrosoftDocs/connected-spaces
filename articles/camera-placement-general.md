@@ -14,11 +14,11 @@ ms.reviewer: v-bholmes
 
 The main scenarios for camera placement in Microsoft Dynamics 365 Connected Spaces Preview include the following zones:
 
-- End caps (Display effectiveness skill zone)
+- End caps (Display effectiveness skill)
 
-- Queues (Queue management skill zone)
+- Queues (Queue management skill)
 
-- Entrances (Shopper analytics skill zone)
+- Entrances (Shopper analytics skill)
 
 The following table provides more detail on the three available skills:
 
