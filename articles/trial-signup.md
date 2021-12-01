@@ -1,6 +1,6 @@
 ---
-title: "Sign up for a free trial - Dynamics 365 Connected Spaces| Microsoft Docs"
-description: "Learn how to quickly sign up for and start a free Dynamics 365 Connected Spaces trial. Explore the app with tours and videos, and find additional learning resources."
+title: "Sign up for a free trial - Dynamics 365 Connected Spaces Preview| Microsoft Docs"
+description: "Learn how to quickly sign up for and start a free Dynamics 365 Connected Spaces Preview trial. Explore the app with tours and videos, and find additional learning resources."
 author: alwinv
 ms.author: alwinv
 ms.date: 12/02/2021
@@ -9,18 +9,9 @@ ms.custom: template-trial-setup
 ms.reviewer: v-bholmes
 ---
 
-<!--Remove all the comments in this template before you merge to the main branch.-->
-
-<!--This template provides the basic structure of a product trial setup get started page.
-For Project Beethoven, we are focusing on the following core principles:
-- Keep the trial sign up page minimal and consistent with this template
-- Link out to additional information where possible
-- Reuse content on the FAQ page by using the platform include statement
-To provide feedback on this template, contact [Alex Ferguson](mailto:alex.ferguson@microsoft.com).-->
-
 # Sign up for a free Dynamics 365 Connected Spaces trial
 
-Dynamics 365 Connected Spaces offers a free 180-day trial. After a quick sign-up, you'll have access to all of the app's key features. The trial allows you to test the app 
+Dynamics 365 Connected Spaces Preview offers a free 180-day trial. After a quick sign-up, you'll have access to all of the app's key features. The trial allows you to test the app 
 with your own customer data. [Learn more about Dynamics 365 Connected Spaces features](index.md)
 
 **To sign up for the trial**:
