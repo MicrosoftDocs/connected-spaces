@@ -3,7 +3,7 @@
     - name: Overview of Dynamics 365 Connected Spaces Preview
       href: index.md 
     - name: How Dynamics 365 Connected Spaces works
-      href: get-started.md
+      href: how-cs-works.md
     - name: Sign up for a free trial
       href: trial-signup.md
     - name: Set up Dynamics 365 Connected Spaces
