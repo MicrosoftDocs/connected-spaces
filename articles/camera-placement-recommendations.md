@@ -39,7 +39,7 @@ optimized for potential store changes to reduce camera re-positioning.
 
 ## Height, focal-point distance, and angle
 
-You need to consider three things when deciding how to install a camera for Dynamics 365 Connected Spaces:
+Consider three things when deciding how to install a camera for Dynamics 365 Connected Spaces:
 
 - Camera height
 
