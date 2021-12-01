@@ -72,12 +72,4 @@ To see data values for each queue, hover over the graph.
 
 ![Graph of 3 longest queues with underlying data displayed.](media/analytics-28D.PNG "Graph of 3 longest queues with underlying data displayed")
 
-## Next steps
 
-Learn about these web app pages:
-
-[Analytics page](web-app-get-insights.md)<br>
-[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
-[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
-[Display effectiveness details page](display-effectiveness-details-page.md)<br>
-[Queue management details page](queue-management-details-page.md)
