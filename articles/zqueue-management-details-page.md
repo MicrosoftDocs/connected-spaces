@@ -12,11 +12,11 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Spaces Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Queue management skill zone, which is available from the [Queue management summary page](queue-management-summary-page.md). 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Spaces Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Queue management skill zone, which is available from the Queue management summary page. 
 
 ## View the Queue management details page
 
-To see the details for a specific queue, select the desired queue in the **All queues** table at the bottom of the [Queue management summary page](queue-management-summary-page.md).
+To see the details for a specific queue, select the desired queue in the **All queues** table at the bottom of the Queue management summary page.
 
 ![All queues table.](media/analytics-29A.PNG "All queues table")
 
@@ -64,12 +64,4 @@ To see data values for timepoint, hover over the graph.
 
 ![Longest queue at Queue 1 graph with underlying data displayed.](media/analytics-29C.PNG "Longest queue at Queue 1 graph with underlying data displayed")
 
-## Next steps
 
-Learn about these web app pages:
-
-[Analytics page](web-app-get-insights.md)<br>
-[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
-[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
-[Display effectiveness details page](display-effectiveness-details-page.md)<br>
-[Queue management summary page](queue-management-summary-page.md)<br>
