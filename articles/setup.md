@@ -33,7 +33,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
   
 4. Select **Add a store**.
 
-   ![Screenshot of Get started page.](media/setup-add-store.jpg "Screenshot of Get started page")
+   ![Screenshot of Get started page with Add a store highlighted.](media/setup-add-store.jpg "Screenshot of Get started page with Add a store highlighted")
 
 5. On the **Store Details** page:
 
@@ -58,7 +58,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
         
 7. On the **Review and create store** page, select **View more** to review all the details for your store, and then if everything looks OK, select **Create store**.
 
-    ![Screenshot of Gateways page.](media/setup-review.jpg "Screenshot of Gateways page")
+    ![Screenshot of Review and create store page.](media/setup-review.jpg "Screenshot of Review and create store page")
     
 8. On the **Store created** page, select **Done**.
 
