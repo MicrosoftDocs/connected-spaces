@@ -23,6 +23,4 @@ The November 6 release includes the following new features.
 |[Improved skills management in the mobile app](/dynamics365-release-plan/2020wave2/commerce/dynamics365-connected-store/improved-skill-management-mobile-app)|Yes|
 |[Customize Power Automate flow to send email notifications when store occupancy threshold is exceeded](/dynamics365-release-plan/2020wave2/commerce/dynamics365-connected-store/trigger-power-automate-workflows-based-alerts)|Yes|
 
-## Next step
 
-[Get started with Dynamics 365 Connected Spaces Preview](get-started.md)
