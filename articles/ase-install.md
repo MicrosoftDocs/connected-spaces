@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynamics 365 Connected Spaces Preview, you'll need to prepare your network and install the device. If you haven't already ordered the gateway, see [Order the Azure Stack Edge Pro gateway](admin-request-ase.md). 
+After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynamics 365 Connected Spaces Preview, you'll need to prepare your network and install the device. 
 
 > [!IMPORTANT]
 > This document provides helpful guidelines, but it is your responsibility to ensure you are properly securing and maintaining the equipment and infrastructure located on your premises, including Azure Stack Edge Pro, your cameras, network, and video feeds from your cameras.
