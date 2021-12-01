@@ -63,7 +63,7 @@ camera view, and then adjust the height as necessary.
 
 ## Camera-to-focal-point distance
 
-*Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
+Camera-to-focal-point distance is the linear distance from the focal point (or center focal point of the point of interest) to the 
 camera. 
 
 ![Camera-to-focal-point-distance.](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
