@@ -42,5 +42,5 @@ Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/re
 ## Next steps
 
 - [Sign up for a free trial](trial-signup.md)
-- [Learn more about how Connected Spaces works](get-started.md)
+- [Learn more about how Connected Spaces works](how-cs-works.md)
 
