@@ -118,7 +118,7 @@ The following illustration simulates camera views using the leftmost (-) and rig
 |----------------------------------------------------------|-----------------------------------------------------|
 |![Leftmost camera angle](media/camera-angle-left.PNG "Leftmost camera angle")|![Rightmost camera angle](media/camera-angle-right.PNG "Rightmost camera angle")|
 
-The following illustration shows camera placement and mounting angles from a birds-eye view.
+The following illustration shows camera placement and mounting angles from above.
 
 ![Bird's eye view.](media/camera-angle-top.PNG "Bird's eye view")
  
