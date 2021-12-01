@@ -33,7 +33,7 @@
         - name: Requirements
           href: mobile-app-requirements.md          
         - name: Create a store
-          href: mobile-app-create-store.md
+          href: store-create.md
         - name: Pair a gateway
           href: mobile-app-pair-gateway.md
         - name: Connect a camera to the gateway
