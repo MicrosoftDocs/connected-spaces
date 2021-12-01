@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 Dynamics 365 Connected Spaces Preview offers a free 180-day trial. After a quick sign-up, you'll have access to all of the app's key features. The trial allows you to test the app 
 with your own customer data. [Learn more about Dynamics 365 Connected Spaces features](index.md)
 
-**To sign up for the trial**:
+## Sign up for the trial
 
 1. Go to the [trial overview page](https://dynamics.microsoft.com/connected-spaces/overview/), and then select **Try for free**.
 
