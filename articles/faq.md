@@ -61,7 +61,7 @@ If you want to use your company's existing Microsoft Azure Active Directory (Azu
 
 3. Assign client licenses to Azure AD user accounts.
 
-Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Spaces, you can [sign up by using a new test Azure AD tenant](admin-create-new-tenant.md) in the UK or US.
+Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Spaces, you can sign up by using a new test Azure AD tenant in the UK or US.
 
 1. Go to the Connected Spaces setup page.
 
@@ -93,7 +93,7 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
     
     - Assigns a client license for this trial to your admin user account.
 
-6. [Install Connected Spaces](admin-install-web-app.md).
+6. Install Connected Spaces.
 
 ## How do I notify shoppers and employees about the use of Dynamics 365 Connected Spaces in my store?
 
