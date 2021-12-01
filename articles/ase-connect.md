@@ -46,7 +46,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
      ![Screenshot of Windows Powershell window.](media/ase-connect-powershell.jpg "Screenshot of Windows Powershell window")
 
-5. Change your directory to the Customer folder containing all the scripts using this command:
+5. Change your directory to the customer folder containing all the scripts using this command:
 
      ![Screenshot of cd command.](media/ase-connect-change-directory.jpg "Screenshot of cd command")
 
