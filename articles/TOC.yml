@@ -27,11 +27,7 @@
         - name: Install cameras
           href: install-cameras.md
     - name: Add a store and connect cameras 
-      items:
-        - name: Overview
-          href: mobile-app-overview.md
-        - name: Requirements
-          href: mobile-app-requirements.md          
+      items:              
         - name: Create a store
           href: store-create.md
         - name: Pair a gateway
