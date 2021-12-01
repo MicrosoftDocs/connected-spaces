@@ -1,7 +1,7 @@
 ---
 author: alissapolucha
 description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your store
-ms.author: allissag
+ms.author: alissag
 ms.date: 12/02/2021
 ms.topic: article
 title: Use Dynamics 365 Connected Spaces Preview to get insights on your store
