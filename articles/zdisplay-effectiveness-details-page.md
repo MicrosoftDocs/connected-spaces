@@ -12,12 +12,12 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Spaces Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Display effectiveness skill zone, which is available from the [Display effectiveness summary page](display-effectiveness-summary-page.md). 
+You can use the [**Analytics** page](web-app-get-insights.md) in the Microsoft Dynamics 365 Connected Spaces Preview web app to get insights on your retail store. The **Analytics** page includes insights for the Shopper analytics, Display effectiveness, and Queue management camera skill zones. This article focuses on the details page for the Display effectiveness skill zone, which is available from the Display effectiveness summary page. 
 
 ## View the Display effectiveness details page
 
 To see details for a specific Display effectiveness zone in Microsoft Dynamics 365 Connected Spaces, select the desired display name at the bottom of the 
-[Display effectiveness summary page](display-effectiveness-summary-page.md).
+Display effectiveness summary page.
 
 ![Details for specific display effectiveness zone.](media/analytics-29.PNG "Details for specific display effectiveness zone")
 
@@ -92,12 +92,4 @@ configuration.
 > You can hover over the information icon for any graph to get more information about the graph. You can also hover over a point 
 in a graph to reveal details.
 
-## Next steps
 
-Learn about these web app pages:
-
-[Analytics page](web-app-get-insights.md)<br>
-[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
-[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
-[Queue management summary page](queue-management-summary-page.md)<br>
-[Queue management details page](queue-management-details-page.md)
