@@ -1,8 +1,8 @@
 ---
 author: kfrankc-ms
 description: Review a checklist for placing and installing LP cameras for use with Dynamics 365 Connected Spaces Preview.
-ms.author: alwinv
-ms.date: 11/02/2021
+ms.author: rapaj
+ms.date: 12/02/2021
 ms.topic: article
 title: Checklist for placing and installing cameras for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
