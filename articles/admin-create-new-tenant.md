@@ -2,10 +2,10 @@
 author: alwinv
 description: Learn how to create a new Azure Active Directory tenant to use with Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
-ms.date: 07/08/2020
+ms.date: 12/02/2021
 ms.topic: article
 title: Create a new Azure Active Directory tenant for Dynamics 365 Connected Spaces Preview
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Create a new Azure Active Directory tenant for the Dynamics 365 Connected Spaces Preview
