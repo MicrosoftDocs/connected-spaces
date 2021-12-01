@@ -28,12 +28,18 @@
           href: install-cameras.md
     - name: Add a store and connect cameras 
       items:
+        - name: Overview
+          href: mobile-app-overview.md
+        - name: Requirements
+          href: mobile-app-requirements.md          
         - name: Create a store
-          href: store-create.md
+          href: mobile-app-create-store.md
+        - name: Pair a gateway
+          href: mobile-app-pair-gateway.md
         - name: Connect a camera to the gateway
           href: cameras-connect.md
         - name: Add camera skills
-          href: cameras-add-skills.md          
+          href: cameras-add-skills.md
         - name: Set your store's operating hours
           href: web-app-set-operating-hours.md
     - name: Use the Analytics page to get insights
