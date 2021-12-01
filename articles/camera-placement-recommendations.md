@@ -182,7 +182,7 @@ Fixture queue lines use shelving to guide shoppers and to enable impulse buying.
 ![Fixture queues.](media/fixture-queue.PNG "Fixture queues")
 
 This style of queue formation restricts the camera’s view of customers because it blocks customers from the waist down. 
-To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 
+To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and to capture a complete view of 
 customers.
 
 #### Organic queues
