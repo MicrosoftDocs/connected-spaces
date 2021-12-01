@@ -45,7 +45,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
     - Enter an address, city, country/region, and state.
     
-    - Select **Next** when you've finished entering your store details.
+    - Select **Next** when you're finished entering your store details.
 
       ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
    
