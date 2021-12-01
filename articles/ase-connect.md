@@ -30,16 +30,16 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
  
     |Field|Value|
     |------------------------------------------|-----------------------------------------------------------------------------------|
-    |AzureSubscriptionName|The Azure subscription name you created the Resource Group in|
-    |AzureResourceGroupName|The Azure Resource Group Name you created the Asure Stack Edge Resource in|
+    |AzureSubscriptionName|The Azure subscription name you created the resource group in|
+    |AzureResourceGroupName|The Azure resource group name you created the Asure Stack Edge resource in|
     |AzureResourceDeviceName|The name of the Azure Stack Edge resource you created|
     |DeviceSerialNumber|The serial number on the side of the phsyical device or the LocalUI of the device|
     |DeviceIp|The IP address that your device is set to|
     |KubernetesNodeIpRangeStart|The first of two sequential free IP addresses on your network|
-    |KubernetesNodeIpRangeEnd|The Last of two sequential free IP addresses on your network|
+    |KubernetesNodeIpRangeEnd|The last of two sequential free IP addresses on your network|
     |KubernetesServiceIp|Another free IP address on your network|
     |ComputeNode|The number of compute nodes on your device; "2" is a solid base value|
-    |ActivationKey|	The key that was generated using the Azure resource|
+    |ActivationKey|The key that was generated using the Azure resource|
 
 
 4. After filling in the field values, open a Powershell window as an administrator. 
