@@ -76,9 +76,9 @@ You'll need the following LAN information when you configure Azure Stack Edge Pr
 
 You'll need to secure a range of static IP addresses for your edge hardware (cameras and gateway). 
 
-- The IP cameras require a range of 10 IP addresses. To enable future camera expansion, we recommend securing additional IP addresses. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
+- The IP cameras require a range of 10 IP addresses. To enable future camera expansion, we recommend securing additional IP addresses. If possible, assign these static IP addresses in sequence to make troubleshooting easier. 
 
-- Azure Stack Edge Pro requires 4 static IP addresses initially. If possible, assign these static IP addresses in sequence for ease of troubleshooting. 
+- Azure Stack Edge Pro requires 4 static IP addresses initially. If possible, assign these static IP addresses in sequence to make troubleshooting easier. 
 
 ### Check power and ventilation 
 
