@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 11/02/2021
+ms.date: 12/02/2021
 ms.topic: article
 title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
