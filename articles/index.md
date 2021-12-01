@@ -39,7 +39,8 @@ The preview release enables the following scenarios to make retail store operati
 
 Microsoft is committed to [responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). These scenarios are powered by an innovative computer vision technology for people counting and dwell time measurement without individual shoppers being identified or having their facial characteristics analyzed.   
 
-## Next step
+## Next steps
 
-[Learn how to get started with Dynamics 365 Connected Spaces Preview](get-started.md)
+[Sign up for a free trial]{trial-signup.md)
+[Learn more about how Connected Spaces works](get-started.md)
 
