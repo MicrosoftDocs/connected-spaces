@@ -39,12 +39,4 @@ To download the app for your device, go to the Apple App Store or Google Play St
 > [!IMPORTANT]
 > Make sure to use the latest version of the mobile app. If you use an older version of the app, you might experience limited functionality. To ensure your app is up-to-date, go to the app store links above. 
 
-## Next steps
 
-[Create a store](mobile-app-create-store.md)
-
-[Pair a gateway](mobile-app-pair-gateway.md)
-
-[Connect cameras to the gateway](mobile-app-add-cameras.md)
-
-[Add camera skill zones](mobile-app-add-camera-skill-zones.md)
