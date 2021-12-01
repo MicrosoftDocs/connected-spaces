@@ -17,9 +17,9 @@ ms.custom: "intro-internal"
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platform components")
  
-In each of your retail stores, you’ll:
+In each of your retail stores, you:
 
-- Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway will receive video from the cameras connected to it, analyze it, and transform your customer activity into pseudonymous datapoints.
+- Install and activate an Azure Stack Edge Pro (2 GPU) gateway. The gateway receives video from the cameras connected to it, analyzes it, and transforms your customer activity into pseudonymous datapoints.
 
 - Create a store, pair the gateway to the store, and configure your store’s cameras to track activity in the store.
 
@@ -35,9 +35,11 @@ The cloud service:
 
 The Power Platform environment:
 
-- Stores the incoming data and makes it available for the Connected Spaces, where you can view analytics reports about activity in your stores.
+- Stores the incoming data and makes it available for Connected Spaces, where you can view analytics reports about activity in your stores.
 
-## Next step
+## Next steps
 
-[Sign up for a free trial](trial-signup.md)
+- [Sign up for a free trial](trial-signup.md)
+- [Trial FAQ](trial-faq.md)
+
 
