@@ -80,7 +80,7 @@ The subscript in this card describes the absolute change in this value for the c
 
 **Largest decrease in visit time.** This card highlights the display with the largest decrease in visit time as compared to all other displays over the previous time period.  
 
-![Largest increase in visit time card.](media/analytics-largest-decrease-visit-time.jpg "Largest increase in visit time card")
+![Largest decrease in visit time card.](media/analytics-largest-decrease-visit-time.jpg "Largest decrease in visit time card")
 
 **Longest queue.** This card highlights the queue that was occupied by the most number of people across all queues for the selected time frame, along with the name of the queue and the date on which the value was observed. 
 
