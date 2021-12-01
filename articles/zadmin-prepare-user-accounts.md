@@ -52,7 +52,4 @@ When you've finished, select **Next**.
     
 9. Select **Close**.
 
-## Next step
 
-[Give users permissions to use Connected Spaces](admin-user-accounts.md)
-    
