@@ -1,10 +1,10 @@
 ---
 author: alwinv
-description: Learn how to get started with Dynamics 365 Connected Spaces Preview by signing up for the preview, installing the software, and ordering Azure Stack Edge
+description: Learn about the different components required for Dynamics 365 Connected Spaces and how it works
 ms.author: alwinv
 ms.date: 11/02/2021
 ms.topic: article
-title: Get started with Dynamics 365 Connected Spaces Preview
+title: How Dynamics 365 Connected Spaces works
 ms.reviewer: v-bholmes
 ms.custom: "intro-internal"
 ---
