@@ -27,7 +27,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
    ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
 
-3. On the next page, look for a message in the upper-left corner of the page. If the message says "Setting up your account for Connected Spaces", wait until the account setup is finished. If the account setup is finished, go to the next step. 
+3. On the next page, look for a message in the upper-left corner of the page. If the message says "Setting up your account for Connected Spaces," wait until the account setup is finished. If the account setup is finished, go to the next step. 
 
      ![Screenshot of Setting up your account for Connected Spaces message.](media/setup-installing-message.jpg "Screenshot of Setting up your account for Connected Spaces message")
   
