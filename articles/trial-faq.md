@@ -3,12 +3,10 @@ title: "Trial FAQ - Dynamics 365 Connected Spaces | Microsoft Docs"
 description: "Solutions to common questions related to Dynamics 365 Connected Spaces trial setup and management. Learn how to resolve platform and app-specific issues."
 author: alwinv
 ms.author: alwinv
-ms.date: 12/01/2021
+ms.date: 12/02/2021
 ms.topic: get-started
-ms.service: <!--Required. The cloud application the page is about.-->
 ms.custom: template-trial-faq 
 ms.reviewer: v-bholmes
-ms.subservice: <!--Optional. The more granular service to which the content belongs.-->
 ---
 
 <!--Remove all the comments in this template before you merge to the main branch.-->
