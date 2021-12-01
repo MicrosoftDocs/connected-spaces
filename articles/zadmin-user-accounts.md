@@ -36,7 +36,7 @@ The following table describes the privileges that each role grants.
 |**Connected Store Viewer**|	Use the Connected Spaces web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices <br>- View store settings, such as operating hours, time zone, and address<br>|
 |**Connected Store Admin**|	Use the Connected Spaces mobile app to:<br><br>- Create stores and edit store information<br>- Pair gateways and edit gateway information<br>- Connect cameras to a gateway and edit camera information<br>- Create and modify camera skill zones<br><br>Use the Connected Spaces web app to:<br><br>- View the analytics dashboard, which provides insights on Shopper analytics, Display effectiveness, and Queue management camera skill zones<br>- View the health status of gateway devices<br>- View and modify store settings, such as operating hours, time zone, and address|
 |**Common Data Service User**|	Use the Connected Spaces web app.<br><br>[Learn more about this security role](/power-platform/admin/database-security#predefined-security-roles)<br>|
-|**Environment Maker**|	Use the Command Center to [set up a maximum store occupancy notification by customizing a Power Automate flow](web-app-command-center.md).<br><br>[Learn more about this security role](/power-platform/admin/database-security#predefined-security-roles)|
+|**Environment Maker**|	Use the Command Center to set up a maximum store occupancy notification by customizing a Power Automate flow.<br><br>[Learn more about this security role](/power-platform/admin/database-security#predefined-security-roles)|
 
 ## Assign a Connected Spaces security role to a user account
 
