@@ -76,12 +76,3 @@ To see data values for each display, hover over the graph.
 
 ![Example data displayed on hovering.](media/3-busiest-displays.PNG "Example data displayed on hovering")
 
-## Next steps
-
-Learn about these web app pages:
-
-[Analytics page](web-app-get-insights.md)<br>
-[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
-[Display effectiveness details page](display-effectiveness-details-page.md)<br>
-[Queue management summary page](queue-management-summary-page.md)<br>
-[Queue management details page](queue-management-details-page.md)
