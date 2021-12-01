@@ -8,11 +8,11 @@ title: Install a camera to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Install a camera to use with Dynamics 365 Connected Spaces Preview
+# Install cameras to use with Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-This article describes how to install and configure a Loss Prevention (LP) camera to use with Microsoft Dynamics 365 Connected Spaces Preview.
+This article describes how to install and configure Loss Prevention (LP) cameras to use with Microsoft Dynamics 365 Connected Spaces Preview.
 
 ## Supported cameras
 
