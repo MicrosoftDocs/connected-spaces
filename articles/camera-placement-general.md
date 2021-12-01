@@ -20,7 +20,7 @@ The main scenarios for camera placement in Microsoft Dynamics 365 Connected Spac
 
 - Entrances (Shopper analytics skill)
 
-The following table provides more detail on the three available skills:
+The following table provides more detail on the three available skills.
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
