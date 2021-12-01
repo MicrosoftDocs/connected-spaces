@@ -51,7 +51,7 @@ It's also important to know the direction that the majority of people walk (pers
 
 ![Person walking direction.](media/person-walking-direction.PNG "Person walking direction")
 
-The following illustration shows the elevation view for person walking direction. This illustration (and the diagrams below) show a camera’s “field of vision” relative to the zone (or “sensing area”) from which raw video footage will be used to analyze observational signals, location, and line of business data to produce actionable insights.
+The following illustration shows the elevation view for person walking direction. This illustration (and the diagrams below) show a camera’s field of vision relative to the zone (or “sensing area”) from which raw video footage will be used to analyze observational signals, location, and line of business data to produce actionable insights.
 
 ![Elevation and plan view.](media/person-walking-direction-2.PNG "Elevation and plan view")
 
