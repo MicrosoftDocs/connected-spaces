@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 11/06/2020
+ms.date: 12/02/2021
 ms.topic: article
 title: Connect your cameras to a gateway in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
