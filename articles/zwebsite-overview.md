@@ -25,13 +25,4 @@ The following table describes each button in the left navigation pane.
 |**Skills**|You can configure measurements for a set of camera skills in your store. You can customize and manage these skills to populate data on the dashboards.|
 |**Settings**|Change settings and details for your stores.|
 
-## Next steps
 
-Learn about these web app pages:
-
-[Analytics page](web-app-get-insights.md)<br>
-[Shopper analytics summary page](shopper-analytics-summary-page.md)<br>
-[Display effectiveness summary page](display-effectiveness-summary-page.md)<br>
-[Display effectiveness details page](display-effectiveness-details-page.md)<br>
-[Queue management summary page](queue-management-summary-page.md)<br>
-[Queue management details page](queue-management-details-page.md)
