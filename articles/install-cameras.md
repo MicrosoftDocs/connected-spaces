@@ -50,7 +50,7 @@ Use the steps below in addition to your local standards and requirements for ins
     
 4.	Remove the camera from the packaging.
 
-5.	Pre-configure the camera by setting up a temporary PoE switch, connecting your laptop to the switch, and then connecting the camera to the switch through an ethernet cable.
+5.	Pre-configure the camera by setting up a temporary PoE switch, connect your laptop to the switch, and then connect the camera to the switch through an Ethernet cable.
 
 6.	Change the default username/password as instructed by the camera manufacturer documentation, to align with your corporate security guidelines.
 
