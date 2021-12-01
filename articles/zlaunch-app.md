@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you have [installed the Microsoft Dynamics 365 Connected Spaces Preview web app](admin-install-web-app.md), you can launch the app and start familiarizing yourself with the Connected Spaces dashboards and analytics by exploring the Contoso sample store. You can switch back and forth between the Contoso sample store and your own store as you explore the different dashboards that provide insights into your store's performance. 
+After you have installed the Microsoft Dynamics 365 Connected Spaces Preview web app, you can launch the app and start familiarizing yourself with the Connected Spaces dashboards and analytics by exploring the Contoso sample store. You can switch back and forth between the Contoso sample store and your own store as you explore the different dashboards that provide insights into your store's performance. 
 
 ![Contoso sample store screen.](media/navigation.PNG "Contoso Sample Store screen")
 
