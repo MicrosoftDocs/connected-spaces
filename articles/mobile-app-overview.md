@@ -18,14 +18,8 @@ After [preparing your network and installing Azure Stack Edge Pro (2 GPU)](ase-i
 > [!IMPORTANT]
 > The Connected Spaces mobile app is no longer available for download. Go to [Dynamics 365 Connected Spaces](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.  
 
-What do you want to do?
 
-- [Learn about operating system requirements for using the app](mobile-app-requirements.md)
 
-- [Add a store](mobile-app-create-store.md)
 
-- [Pair a gateway](mobile-app-pair-gateway.md)
 
-- [Connect cameras to the gateway](mobile-app-add-cameras.md)
 
-- [Add camera skill zones](mobile-app-add-camera-skill-zones.md)
