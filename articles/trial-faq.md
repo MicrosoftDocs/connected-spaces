@@ -9,18 +9,7 @@ ms.custom: template-trial-faq
 ms.reviewer: v-bholmes
 ---
 
-<!--Remove all the comments in this template before you merge to the main branch.-->
-
-<!--This template provides the basic structure of a trial frequently asked questions page. The first part of this page contains app-specific questions and answers. The second half of the page contains platform-specific issues that are pulled from a shared include statement to avoid duplicating information.
-For Project Beethoven, we are focusing on the following core principles:
-- Keep the frequently asked questions page minimal and consistent with this template
-- Link out to additional information where possible
-- Reuse content on the FAQ page by using the platform include statement
-To provide feedback on this template, contact [Alex Ferguson](mailto:alex.ferguson@microsoft.com).-->
-
 # Dynamics 365 Connected Spaces trial FAQ
-
-<!--The include statement is particular to your repo. Check your repo to ensure that this is the proper location of the file.-->
 
 [!INCLUDE[trial-faq-platform](includes/trial-faq-platform.md)]
 
@@ -36,12 +25,12 @@ The trial duration is 180 days, and can include up to 25 cameras.
 
 ### How do I start using the trial?
 
-After you sign up for the trial, you will arrive on the app's main screen. The main screen provides links to how-to content. To learn more, see the links in the [Additional resources](trial-signup.md) section of the trial setup page.
+After you sign up for the trial and select the **Launch trial** button, you can [set up Dynamics 365 Connected Store Preview](setup.md) and then you can start trying it out. To learn more, see the links in the [Trial signup](trial-signup.md) page.
 
 ### What features are available in the trial?
 
-All Dynamics 365 Connected Spaces features are available for the trial. 
+All Dynamics 365 Connected Spaces Preview features are available for the trial. 
 
 ### How long does the trial last?
 
-The Dynamics 365 Connected Spaces trial lasts 180 days. 
+The Dynamics 365 Connected Spaces Preview trial lasts 180 days. 
