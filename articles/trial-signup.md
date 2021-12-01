@@ -32,6 +32,7 @@ Your trial environment includes all of the Dynamics 365 Connected Spaces feature
 
 - [Connect cameras to a gateway](cameras-connect.md)
 - [Add camera skills](cameras-add-skills.md)
+- [Get insights on your store](web-app-get-insights.md)
 
 ## Additional resources
 
