@@ -78,13 +78,10 @@ To set up a new test Azure Active Directory tenant, you’ll:
     
     - Assign a client license for this trial to the admin user account    
     
-10. Under **You’re all set**, select **Let’s go**, and then go to the next step: [Install Connected Spaces Preview](admin-install-web-app.md).  
+10. Under **You’re all set**, select **Let’s go**, and then go to the next step: Install Connected Spaces Preview.  
 
     ![Let's go button.](media/lets-go.PNG "Let's go button")
 
-## Next step
-
-[Install Connected Spaces Preview](admin-install-web-app.md)
 
 
 
