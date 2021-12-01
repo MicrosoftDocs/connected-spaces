@@ -15,7 +15,7 @@ ms.reviewer: v-bholmes
 
 ### Can I convert the trial to a paid license?
 
-Dynamics 365 Connected Spaces is currently offered for Preview. When the product is released (GA), you'll be able to convert the trial to a paid license. 
+Dynamics 365 Connected Spaces is currently offered for Preview. When the product is released for general availability (GA), you'll be able to convert the trial to a paid license. 
 
 ### What are the trial limits and quotas?
 
