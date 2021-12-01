@@ -28,7 +28,7 @@ The following table provides more detail on the three available skills.
 |**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
 |**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
 
-To plan for the scenarios in your space, you need to understand each zone and the way customers interact with the zone and how environmental factors impact that zone.
+To plan for the scenarios in your space, you need to understand each zone, the way customers interact with the zone, and how environmental factors impact that zone.
 
 ## End caps
 
@@ -48,7 +48,7 @@ For queue cameras, consider the following:
 
 - Is the queue defined with shelving, barriers, or ropes? 
 
-- If undefined, where does the queue typically form, and which direction(s) does it go during busy times?
+- If undefined, where does the queue typically form and which direction(s) does it go during busy times?
 
 - How long is the queue and what direction does the line form?
 
