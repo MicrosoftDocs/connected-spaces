@@ -49,7 +49,7 @@ To change the Internet Protocol (IP) range that is used to get the list of avail
 
 ## I don't have the Connected Store Admin role. How can I view a gateway in the mobile app?
 
-To use the mobile app, you must have the **Connected Store Admin** role. If you sign in by using the **Connected Store Viewers** role, you can view the list of stores, but you can't view any gateways in those stores. [Learn how to assign a user role](admin-user-accounts.md).
+To use the mobile app, you must have the **Connected Store Admin** role. If you sign in by using the **Connected Store Viewers** role, you can view the list of stores, but you can't view any gateways in those stores. 
 
 ## How do I use my existing Azure Active Directory tenant to sign up for Connected Spaces? 
 
