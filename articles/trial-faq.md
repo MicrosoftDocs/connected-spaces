@@ -21,7 +21,7 @@ Dynamics 365 Connected Spaces is currently offered for Preview. When the product
 
 The trial duration is 180 days, and can include up to 25 cameras.
 
-## Dynamics 365 Connected Spaces-specific questions
+## Dynamics 365 Connected Spaces Preview-specific questions
 
 ### How do I start using the trial?
 
