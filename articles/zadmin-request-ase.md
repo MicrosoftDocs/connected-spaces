@@ -14,9 +14,9 @@ ms.reviewer: v-brycho
 
 This procedure describes step 3 of the setup process for Microsoft Dynamics 365 Connected Spaces Preview. Before completing this procedure, make sure to:
 
-1. [Create a new Azure Active Directory tenant for the preview](admin-create-new-tenant.md)
+1. Create a new Azure Active Directory tenant for the preview.
 
-2. [Install Dynamics 365 Connected Spaces](admin-install-web-app.md)
+2. Install Dynamics 365 Connected Spaces.
 
 ## Order Azure Stack Edge
 
@@ -33,7 +33,4 @@ Connected Spaces uses the Azure Stack Edge Pro (2 GPU) gateway to transform vide
      
    The Connected Spaces team will contact you when the request is received. After you receive your Azure Stack Edge Pro gateway, you can [prepare your network and install it](ase-install.md).
  
-## Next steps
 
-[Launch the app and explore the Contoso sample store](launch-app.md)<br>
-[Prepare user accounts](admin-prepare-user-accounts.md)
