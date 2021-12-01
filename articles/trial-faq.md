@@ -25,7 +25,7 @@ The trial duration is 180 days, and can include up to 25 cameras.
 
 ### How do I start using the trial?
 
-After you sign up for the trial and select the **Launch trial** button, you can [set up Dynamics 365 Connected Store Preview](setup.md), and then you can start trying it out. To learn more, see the links in the [Trial signup](trial-signup.md) page.
+After you sign up for the trial and select the **Launch Trial** button, you can [set up Dynamics 365 Connected Store Preview](setup.md), and then you can start trying it out. To learn more, see the links in the [Trial signup](trial-signup.md) page.
 
 ### What features are available in the trial?
 
