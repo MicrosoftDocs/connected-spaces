@@ -34,7 +34,7 @@ Dynamics 365 Connected Spaces supports the following LP cameras:
    
 ## Install a camera	
 
-Use the steps below in addition to your local standards and requirements for installing ethernet.
+Use the steps below in addition to your local standards and requirements for installing Ethernet.
 
 > [!NOTE]
 > If you’re using Axis cameras, create your ONVIF user profile before installing the cameras.
