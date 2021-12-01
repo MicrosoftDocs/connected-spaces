@@ -75,7 +75,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
 9. Select **Finish** to create the skill. 
 
-    ![Screenshot of Review and add section.](media/skill-finish.jpg "Screenshot of Review and add section")
+    ![Screenshot of Finish.](media/skill-finish.jpg "Screenshot of Finish")
 
 ## Tips for drawing skill zones
 
@@ -164,13 +164,13 @@ Select a column title to sort on a column.
     
 2. In the **Edit skill** pane on the right side of the screen, make any changes, and then select **Save**. 
 
-    ![Screenshot showing Actions column and Edit command.](media/skills-edit-skill-pane.jpg "Screenshot showing Actions column and Edit command")
+    ![Screenshot of Edit skill pane.](media/skills-edit-skill-pane.jpg "Screenshot of Edit skill pane")
 
 ## Delete a skill
 
 1. On the **Skills** page, in the **Actions** column, select the three dots (...) button, and then select **Delete**.
 
-    ![Screenshot showing Actions column and Edit command.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command")
+    ![Screenshot showing Actions column and Edit command again.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command again")
     
     > [!NOTE]
     > Deleting a skill will permanently remove it from Azure Stack Edge, the Connected Spaces website, and all collected data in the dashboards. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
