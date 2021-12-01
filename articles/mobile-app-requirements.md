@@ -27,14 +27,4 @@ Using the app on an older operating system may cause compatibility issues. If yo
 > [!IMPORTANT]
 > To use the mobile app, you also need to have the **Connected Store Admin** user role. 
 
-## Next steps
 
-[Overview of the mobile app](mobile-app-overview.md)
-
-[Create a store](mobile-app-create-store.md)
-
-[Pair a gateway](mobile-app-pair-gateway.md)
-
-[Connect cameras to the gateway](mobile-app-add-cameras.md)
-
-[Add camera skill zones](mobile-app-add-camera-skill-zones.md)
