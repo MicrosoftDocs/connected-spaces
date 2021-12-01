@@ -18,7 +18,7 @@ Before you can pair a gateway with the Microsoft Dynamics 365 Connected Spaces P
 
 2. [Connect Azure Stack Edge Pro to your network](ase-connect.md)
 
-3. [Create a store with the mobile app](mobile-app-create-store.md)
+3. Create a store with the mobile app
 
 ## Pair a gateway
 
@@ -78,7 +78,7 @@ To complete this procedure, you'll use the mobile app and your laptop, which sho
     
     ![Gateways page in mobile app showing gateway is paired.](media/gateway-paired.PNG "Gateways page in mobile app showing gateway is paired") 
     
-    After Azure Stack Edge Pro is connected, you can [connect your cameras](mobile-app-add-cameras.md) and [add camera skill zones](mobile-app-add-camera-skill-zones.md). 
+    After Azure Stack Edge Pro is connected, you can connect your cameras and add camera skill zones. 
     
 > [!NOTE]
 > The gateways paired to your store can’t be shared between the different stores of your organization. To pair an available gateway, contact your account admin.
@@ -105,8 +105,4 @@ To sort the Gateways list:
 
 - Select the **Sort** ![Filter button.](media/filter-button.PNG "Filter button") button at the top of the **Gateways** page.
 
-## Next steps
 
-[Connect cameras to the gateway](mobile-app-add-cameras.md)
-
-[Add camera skill zones](mobile-app-add-camera-skill-zones.md)
