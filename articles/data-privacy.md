@@ -84,7 +84,7 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
    - Value sums, averages and maximums over the hour: dwell time, dwells, enters, exits, visits, visit time, occupancy, occupancy change, over capacity
 
-   - AI skill type: shopper analytics, display effectiveness, queue managment
+   - AI skill type: shopper analytics, display effectiveness, queue management
 
    - Zone, such as "Front entrance", "Aisle 1 display", and so on
 
