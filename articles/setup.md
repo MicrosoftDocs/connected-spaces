@@ -62,7 +62,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
     
 8. On the **Store created** page, select **Done**.
 
-## What's next?
+## Next steps
 
 - [Learn about camera placement](camera-placement-checklist.md)
 - [Learn about camera installation](install-cameras.md)
