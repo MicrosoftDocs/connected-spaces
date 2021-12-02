@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-## I can’t change the Save video data to the cloud option, because it is disabled:
+## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
  
 ![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
 
