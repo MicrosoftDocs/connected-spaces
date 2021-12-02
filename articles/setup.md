@@ -62,6 +62,8 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
     
 8. On the **Store created** page, select **Done**.
 
+    ![Screenshot of Done page.](media/setup-review.jpg "Screenshot of Done page")
+
 ## Next steps
 
 - [Learn about camera placement](camera-placement-checklist.md)
