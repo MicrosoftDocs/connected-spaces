@@ -31,9 +31,9 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |Field|Value|
     |------------------------------------------|-----------------------------------------------------------------------------------|
     |AzureSubscriptionName|The Azure subscription name you created the resource group in|
-    |AzureResourceGroupName|The Azure resource group name you created the Asure Stack Edge resource in|
+    |AzureResourceGroupName|The Azure resource group name you created the Azure Stack Edge resource in|
     |AzureResourceDeviceName|The name of the Azure Stack Edge resource you created|
-    |DeviceSerialNumber|The serial number on the side of the phsyical device or the LocalUI of the device|
+    |DeviceSerialNumber|The serial number on the side of the physical device or the LocalUI of the device|
     |DeviceIp|The IP address that your device is set to|
     |KubernetesNodeIpRangeStart|The first of two sequential free IP addresses on your network|
     |KubernetesNodeIpRangeEnd|The last of two sequential free IP addresses on your network|
