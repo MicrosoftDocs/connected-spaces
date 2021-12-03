@@ -30,8 +30,6 @@
       items:              
         - name: Create a store
           href: store-create.md
-        - name: Pair a gateway
-          href: mobile-app-pair-gateway.md
         - name: Connect a camera to the gateway
           href: cameras-connect.md
         - name: Add camera skills
