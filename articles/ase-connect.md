@@ -14,19 +14,17 @@ ms.reviewer: v-bholmes
 
 After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you might want to contact them for support with this step. 
 
-## Initial setups and checks
+## Initial setup
 
 1. Follow [the Windows Remote Management instructions](https://docs.microsoft.com/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to install Windows Remote Management in your environment.
 
-2. Pull the following files from this storage account (will need to update as the account hasn’t been created yet):
+2. Contact the Connected Spaces team to get the customized deployment scripts and executables. 
 
-    ase_up_customer.ps1<br>
-    ase_up_customer_utility.ps1<br>
-    device_settings.json
-
-3. Fill in the values in the device_settings.json file.
+3. One of the files you'll receive from the Connected Spaces team will be the device_settings.json file. 
 
      ![Windows Remote Management settings.](media/ase-connect-windows-remote-management.jpg "Windows Remote Management settings")
+
+    Update that file with the values from the following table. 
  
     |Field|Value|
     |------------------------------------------|-----------------------------------------------------------------------------------|
@@ -40,7 +38,6 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |KubernetesServiceIp|Another free IP address on your network|
     |ComputeNode|The number of compute nodes on your device; "2" is a solid base value|
     |ActivationKey|The key that was generated using the Azure resource|
-
 
 4. After filling in the field values, open a Powershell window as an administrator. 
 
