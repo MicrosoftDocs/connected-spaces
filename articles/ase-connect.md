@@ -36,24 +36,28 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |KubernetesNodeIpRangeStart|The first of two sequential free IP addresses on your network|
     |KubernetesNodeIpRangeEnd|The last of two sequential free IP addresses on your network|
     |KubernetesServiceIp|Another free IP address on your network|
-    |ComputeNode|The number of compute nodes on your device; "2" is a solid base value|
+    |ComputeNode|The number of compute nodes on your device; "2" is the default value.|
     |ActivationKey|The key that was generated using the Azure resource|
 
 4. After filling in the field values, open a Powershell window as an administrator. 
 
      ![Screenshot of Windows Powershell window.](media/ase-connect-powershell.jpg "Screenshot of Windows Powershell window")
 
-5. Change your directory to the customer folder containing all the scripts using this command:
+5. Change your directory to the customer folder containing all the files requested in step 2 by using the following command:
 
      ![Screenshot of cd command.](media/ase-connect-change-directory.jpg "Screenshot of cd command")
 
-6. Run the ase_up_customer.ps1 script you downloaded earlier.
+6. Run the following command to kick off the script to configure and activate your device:
+
+    './ase_up_customer.ps1'
 
 7. When prompted to enter a password, enter the password that was used to set up the Azure Stack Edge device initially. 
 
-8. When prompted to sign in to Azure, use the same login you used to create the resources in your subscription.
+8. When prompted to sign in to Azure, use the same credentials you used to create the resources in your subscription.
 
-9. After the script has completed, Microsoft will complete the final process before you are ready for use.
+    You'll know that the script is complete when you rPowershell window accepts input again. The last message you'll see from the script is: "Arc setup starting..."
+
+9. After the script has completed, contact Microsoft to take over for the final steps to set up your environment. 
 
 ## Next step
 
