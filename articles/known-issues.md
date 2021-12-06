@@ -29,7 +29,7 @@ Select **Consent on behalf of your organization**, and then select **Accept**.
 The prompt will appear again. Select **Consent on behalf of your organization** again, and then select **Accept** again.
 
 > [!NOTE]
-> If you're an admin and you'd would like to instead grant individual approval to each user that needs permissions, use [these instructions to configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow).
+> If you're an admin and you'd like to instead grant individual approval to each user that needs permissions, use [these instructions to configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow).
 
 ## I'm prompted to accept permissions multiple times when I start up the Connected Spaces web app
 
