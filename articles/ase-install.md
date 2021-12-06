@@ -95,17 +95,13 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 Use the following tutorials to install and connect Azure Stack Edge Pro:
 
-1. [Tutorial: Install Azure Stack Edge Pro FPGA](https://docs.microsoft.com/azure/databox-online/data-box-edge-deploy-install)
+1. [Tutorial: Install Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-install)
 
-2. [Tutorial: Install Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-install)
+2. [Tutorial: Connect to Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
 
-3. [Tutorial: Connect to Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
-
-4. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
+3. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
 
    > [!IMPORTANT]
    > Stop after the **Configure network** section of this tutorial. **DO NOT COMPLETE THE ENABLE COMPUTE NETWORK SECTION.**
     
-## Next step
 
-[Run the activation script]()
