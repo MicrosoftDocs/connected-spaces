@@ -49,7 +49,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 6. Run the following command to kick off the script to configure and activate your device:
 
-    './ase_up_customer.ps1'
+    ./ase_up_customer.ps1
 
 7. When prompted to enter a password, enter the password that was used to set up the Azure Stack Edge device initially. 
 
