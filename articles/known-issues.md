@@ -20,7 +20,7 @@ When signing in to the Connected Spaces web app for the first time, you might se
 
 To give permission to the Connected Spaces web app, sign up with a user account that has Azure Active Directory Global Administrator permissions (or have your admin sign in with those permissions). 
 
-When you sign in to the Connected Spaces web app, you'll see the **Permissions Requested** prompt.
+When you sign in to the Connected Spaces web app with the appropriate permissions, you'll see the **Permissions Requested** prompt.
 
 ![Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted.](media/setup-admin-consent.jpg "Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted")
 
