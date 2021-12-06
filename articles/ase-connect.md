@@ -20,11 +20,11 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 2. Contact the Connected Spaces team to get the customized deployment scripts and executables. 
 
-3. One of the files you'll receive from the Connected Spaces team will be the device_settings.json file. 
+    One of the files you'll receive from the Connected Spaces team is the device_settings.json file. 
 
-     ![Windows Remote Management settings.](media/ase-connect-windows-remote-management.jpg "Windows Remote Management settings")
+    ![Windows Remote Management settings.](media/ase-connect-windows-remote-management.jpg "Windows Remote Management settings")
 
-    Update that file with the values from the following table. 
+3. Update the device_settings.json file with the values from the following table. 
  
     |Field|Value|
     |------------------------------------------|-----------------------------------------------------------------------------------|
