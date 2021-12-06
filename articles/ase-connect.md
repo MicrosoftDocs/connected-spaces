@@ -55,7 +55,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 8. When prompted to sign in to Azure, use the same credentials you used to create the resources in your subscription.
 
-    You'll know that the script is complete when you rPowershell window accepts input again. The last message you'll see from the script is: "Arc setup starting..."
+    You'll know that the script is complete when you Powershell window accepts input again. The last message you'll see from the script is: "Arc setup starting..."
 
 9. After the script has completed, contact Microsoft to take over for the final steps to set up your environment. 
 
