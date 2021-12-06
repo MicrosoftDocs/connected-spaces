@@ -12,6 +12,14 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
+## I'm prompted to accept permissions multiple times when I start up the Connected Spaces web app
+
+When signing in to Connected Spaces web app for the first time, this prompt might appear more than once:
+
+![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
+
+If this happens, wait a few minutes for the permissions to be applied and then try to sign in again.
+
 ## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
  
 ![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
@@ -58,14 +66,6 @@ When using Connected Spaces, make sure you're using the web app in the geographi
 | United Kingdom | https://cspperegionaluksouth.azurewebsites.net/ |
 
 Doing this will ensure that Connected Spaces will be able to process your customer data within your company's geographic region.
-
-## I'm prompted to accept permissions multiple times when I start up the Connected Spaces web app
-
-When signing in to Connected Spaces web app for the first time, this prompt might appear more than once:
-
-![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
-
-If this happens, wait a few minutes for the permissions to be applied and then try to sign in again.
 
 ## Changing the time zone for a store only affects the data collected after making the change
 
