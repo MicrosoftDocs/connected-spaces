@@ -16,13 +16,13 @@ ms.reviewer: v-bholmes
 
 When signing in to the Connected Spaces web app for the first time, you might see a prompt explaining that you need admin approval.
 
-SCREEN SHOT GOES HERE
+![Screenshot of Need admin approval dialog box.](media/setup-need-admin-approval.jpg "Screenshot of Need admin approval dialog box")
 
 To give permission to the Connected Spaces web app, have your admin sign up with a user account that has Azure Active Directory Global Administrator permissions. When they sign in to the Connected Spaces web app, they will see the permissions prompt.
 
 The admin selects **Consent on behalf of your organization**, and then selects **Accept**.
 
-SCREEN SHOT GOES HERE
+![Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted.](media/setup-admin-consent.jpg "Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted")
 
 The prompt will appear again. Select **Consent on behalf of your organization** again, and then select **Accept** again.
 
