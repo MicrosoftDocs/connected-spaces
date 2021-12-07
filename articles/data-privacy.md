@@ -130,7 +130,7 @@ In Microsoft Dataverse cloud storage, the customer data is stored and can be man
     - Insight data (hourly summaries)
     - Index data to access the HyperStore table (rows with primary key value of HyperAsset or HyperTrack)
 
-The customer can manage the data at any time in their Microsoft Dataverse instance. [Learn more about responding to Data Subject Rigths (DSR) requests for Microsoft Dataverse customer data](https://docs.microsoft.com/power-platform/admin/common-data-service-gdpr-dsr-guide). When handling DSRs for data such as video data or inference data, customers might need to use a date and time to narrow down the data searches since the data does not have any direct association with a particular person’s identity.
+The customer can manage the data at any time in their Microsoft Dataverse instance. [Learn more about responding to Data Subject Rights (DSR) requests for Microsoft Dataverse customer data](https://docs.microsoft.com/power-platform/admin/common-data-service-gdpr-dsr-guide). When handling DSRs for data such as video data or inference data, customers might need to use a date and time to narrow down the data searches since the data does not have any direct association with a particular person’s identity.
 
 ## How does Connected Spaces process data?
 
