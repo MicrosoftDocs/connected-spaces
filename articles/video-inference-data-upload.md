@@ -35,3 +35,6 @@ Uploading video and inference data to Microsoft Dataverse provides the following
 
 - **Ensures measurable quality.** With video and inference data uploaded to the cloud, quality of data can be ensured and measured. 
 
+## See also
+
+[Data and privacy](data-privacy.md)
