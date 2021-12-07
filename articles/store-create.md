@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to create a store in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 12/02/2021
+ms.date: 12/07/2021
 ms.topic: article
 title: Create a store in Dynamics 365 Connected Spaces Preview 
 ms.reviewer: v-bholmes
