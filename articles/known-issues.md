@@ -77,7 +77,7 @@ Now you can sign back in to the Connected Spaces web app with the newly enabled 
 
 ## The Connected Spaces app is running in the wrong geographic region
 
-When using Connected Spaces, make sure you're using the web app in the geographic region that your company's AAD tenant and user accounts are in:
+When using Connected Spaces, make sure you're using the web app in the geographic region that your company's AAD tenant and user accounts are in.
 
 | Your AAD account region | Connected Spaces web app URL |
 | --- | --- |
