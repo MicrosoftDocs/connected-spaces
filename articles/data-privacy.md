@@ -73,7 +73,7 @@ Customers are in control of Azure Stack Edge, which processes the data described
 
 - A copy of configuration data is also kept in sync on Azure Stack Edge. It mirrors the configuration data stored in the customer’s Dataverse storage, and is kept in sync daily after each store’s working hours.
 
-All of this data is stored in local storage, and is not easily accessible by customers from their Azure Stack Edge resource on the Azure Portal. Customers that need to delete all the data on their Azure Stack Edge can follow these instructions for Azure Stack Edge device reset and reactivation.
+All of this data is stored in local storage, and is not easily accessible by customers from their Azure Stack Edge resource on the Azure Portal. Customers that need to delete all the data on their Azure Stack Edge can follow [these instructions for Azure Stack Edge device reset and reactivation](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-reset-reactivate-device).
 
 > [!NOTE] 
 > After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video and inference data is stored. [Learn more](video-inference-data-upload.md)
