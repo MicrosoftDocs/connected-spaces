@@ -17,24 +17,17 @@ Initial processing of video and inference data occurs on the customer's premises
 
     SCREEN SHOT GOES HERE 
 
-3.	To confirm select the check box and hit Submit. If you want to keep controls as is, Select Cancel.
+3.	In the **Change upload preference** dialog box, select **Submit**.  
+
+To confirm that your request has been sent, you'll see a message at the top of the **Privacy information** pane. The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear and the controls no longer available. 
  
+## Benefits of uploading video and inference data 
 
-5.	Requesting your video and inference data upload preference may take several days to change. The controls will be disabled until the change has occurred.
+Uploading video and inference data to the Microsoft Dataverse provides the following benefits:
 
- 
+- **Empowers future extensibility.** With video uploaded to the cloud, upcoming innovative features may require video data to be powered. Without this, you may not have access to these features and their capabilities when released.
 
-6.	To confirm that your request has been sent, you will see a message bar in the Privacy Information section notifying you of the request to turn video and inference data upload on/off. 
- 
-7.	When the change has occurred the message bar shown above will no longer be visible and the controls no longer available. 
+- **Enables improved troubleshooting.** With video and inference uploaded to the cloud, when unexpected issues or challenges arise, video and inference data may be needed to help troubleshoot and provide fixes. 
 
-Benefits of Uploading Video and Inference Data 
-•	Empowers Future Extensibility 
-With video uploaded to the cloud, upcoming innovative features may require video data to be powered. Without this, you may not have access to these features and their capabilities when released.
-
-•	Enables Improved Troubleshooting 
-With video and inference uploaded to the cloud, when unexpected issues or challenges arise, video and inference data may be needed to help troubleshoot and provide fixes. 
-
-•	Ensures Measurable Quality 
-With video and inference data uploaded to the cloud, quality of data can be ensured and measured. 
+- **Ensures measurable auality.** With video and inference data uploaded to the cloud, quality of data can be ensured and measured. 
 
