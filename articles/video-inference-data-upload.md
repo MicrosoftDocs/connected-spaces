@@ -29,7 +29,7 @@ To confirm that your request has been sent, you'll also see a message at the top
 
 ![Screenshot of Privacy information pane with message at top](media/video-upload-message.jpg "Screenshot of Privacy information pane with message at top")
 
-The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear and the controls will no longer available. 
+The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear. 
  
 ## Benefits of uploading video and inference data 
 
