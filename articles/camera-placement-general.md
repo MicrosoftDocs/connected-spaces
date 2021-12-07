@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 12/02/2021
+ms.date: 12/07/2021
 ms.topic: article
 title: Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
