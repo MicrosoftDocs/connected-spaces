@@ -29,7 +29,7 @@ For a quick overview of how to get insights, scan the screens in this and other 
 
 ## Analytics page overview
 
-The **Analytics** page, which is organized by skill (Shopper analytics, Queue management, and Display effectiveness), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and charts on the right for each skill instance. 
+The **Analytics** page, which is organized by skill (Shopper analytics, Queue management, and Display effectiveness), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
 
 ![Analytics page.](media/analytics-overview.jpg "Analytics page")
 
@@ -111,9 +111,9 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
 
-**Entries**. This chart shows the number of people entering the skill zone over the time period selected.
+**Entries**. This graph shows the number of people entering the skill zone over the time period selected.
 
-**Visit time**. This chart shows the average dwell time of the people who entered the skill zone over the time period selected.
+**Visit time**. This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
 
 ### Queue Management graphs
 
