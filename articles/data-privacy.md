@@ -21,7 +21,7 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 <!--If "web app" is the correct term, suggest changing the diagram to show "web app" under the first graphic for the Connected Spaces column. Perhaps it should just say "Connected Spaces" as the column heading, and then "Web app" under the first graphic and "Azure cloud service" under the second graphic.-->
 
-- **Azure Stack Edge gateway** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway computing device installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge gateway processes video data from the in-store camera locally on the device (at the edge) and uses AI models to draw conclusions from that video footage ("inferences") without identifying individuals to generate inference data. 
+- **Azure Stack Edge gateway** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway computing device installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge gateway processes video data from the in-store camera locally on the device (at the edge) and uses AI models to generate data that can be used to infer a particular event (“inference data” or “event data”) from that video footage. Inference data includes information about what occurred in a snippet of input video but does not include images or video. For example, it includes data such as a time stamp, location relative to user-defined lines and zones, and bounding box coordinates that can be used to infer presence of a person (for example, PersonCrossingZone). Inference data is generated without identifying individuals.
 
 - **Connected Spaces cloud service and web app** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Spaces web app that provides insights for the retailer. The edge gateway sends the inference data to the Connected Spaces cloud service so that it can be correlated with the retailer’s business data (for example, store business hours, camera zone name) and aggregated to generate actionable insights regarding retail operations. The Connected Spaces cloud service saves the inference data and insight data to the customer's Microsoft Dataverse storage. Customers can then use the Connected Spaces web app to view the resulting insights data for shopper analytics, display effectiveness, and queue management insights.
 
@@ -31,9 +31,9 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 ### Retail store(s)
 
-In the retail store(s), the Azure Stack Edge gateway is used to process the following types of data:
+In the retail store(s), customers use the Azure Stack Edge gateway to process the following types of data:
 
-- **Video stream:** The video stream from customers’ in-store cameras is processed in memory, in real time, on the customer's Azure Stack Edge gateway to generate inference data and is stored in the local file system temporarily while it's being processed.
+- **Video stream:** The video stream from customers’ in-store cameras is processed in memory, in near real time, on the customer's Azure Stack Edge gateway to generate inference data.
 
 - **Inference data:** This is the event data output by AI skills (models) running on the edge gateway that describe an inferred person event. Event data includes:
 
@@ -53,7 +53,7 @@ In the retail store(s), the Azure Stack Edge gateway is used to process the foll
 
    - Identifiers: camera, zone, inference
 
-- **Insight data:** The inference data described above is depersonalized and aggregated into event counts for every 30 seconds of time. Insight data includes:
+- **Insight data:** The inference data described above is depersonalized and aggregated into event counts for every 30 seconds of time. Insight data does not include pseudonymous identifiers or bounding box geometry data. Insight data includes:
  
    - Time stamps for the start and end of the 30-second time window
    
