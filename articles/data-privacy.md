@@ -65,8 +65,19 @@ In the retail store(s), customers use the Azure Stack Edge gateway to process th
 
    - Identifiers: store, camera, customer AAD tenant, insight
 
-> [!NOTE]
-> Customers can choose whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video is stored.
+-	**Configuration data:** This is information about the retailer’s store and the edge gateway configuration used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills).
+
+The data described above is processed on the Azure Stack Edge on the customers’ premises. Customers are responsible for securing their equipment and network, and Microsoft’s privacy and security commitments only apply to data processed in environments controlled by Microsoft (for example, the Connected Spaces cloud service and the Dataverse cloud service described below).
+
+Customers are in control of Azure Stack Edge, which processes the data described above. Connected Spaces software running on the customer’s Azure Stack Edge stores this customer data locally:
+
+- Incoming Video stream data, processed inference data and insight data is stored temporarily for up to 72 hours.
+
+- A copy of configuration data is also kept in sync on Azure Stack Edge. It mirrors the configuration data stored in the customer’s Dataverse storage, and is kept in sync daily after each store’s working hours.
+
+All of this data is stored in local storage, and is not easily accessible by customers from their Azure Stack Edge resource on the Azure Portal. Customers that need to delete all the data on their Azure Stack Edge can follow these instructions for Azure Stack Edge device reset and reactivation.
+
+> [!NOTE] After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video and inference data is stored. [Learn more]()
 
 ### Connected Spaces cloud service
 
@@ -76,7 +87,7 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 - **Inference data:** The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
 
-- **Insight data:** The insight data described above is aggregated further into hourly summaries and correlated with other business data (for example, total enter events during the 9 AM hour for the entire store) and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. The customer can delete the data at any time in accordance with applicable legal obligations. Insight data includes: 
+- **Insight data:** The insight data described above is aggregated further into hourly summaries and correlated with other business data (for example, total entry events during the 9 AM hour for the entire store) and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. Insight data includes: 
 
    - Time stamp, summarized by hour or other time interval
 
@@ -98,6 +109,8 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 - **Telemetry data:** This is information about the health of the edge gateway, the Connected Spaces cloud service, and the Connected Spaces web app. 
 
+- The cloud service processes the data as it arrives for each hourly aggregation and does not store the data in the Connected Spaces cloud.
+
 ### Microsoft Dataverse cloud storage
 
 In Microsoft Dataverse cloud storage, the customer data is stored and can be managed by the customer. These Microsoft Dataverse tables are created to store the customer data:
@@ -116,6 +129,8 @@ In Microsoft Dataverse cloud storage, the customer data is stored and can be man
     - Configuration data
     - Insight data (hourly summaries)
     - Index data to access the HyperStore table (rows with primary key value of HyperAsset or HyperTrack)
+
+The customer can manage the data at any time in their Microsoft Dataverse instance. [Learn more about responding to Data Subject Rigths (DSR) requests for Microsoft Dataverse customer data](https://docs.microsoft.com/power-platform/admin/common-data-service-gdpr-dsr-guide). When handling DSRs for data such as video data or inference data, customers might need to use a date and time to narrow down the data searches since the data does not have any direct association with a particular person’s identity.
 
 ## How does Connected Spaces process data?
 
