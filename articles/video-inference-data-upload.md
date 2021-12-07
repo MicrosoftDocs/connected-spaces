@@ -23,11 +23,11 @@ To confirm that your request has been sent, you'll see a message at the top of t
  
 ## Benefits of uploading video and inference data 
 
-Uploading video and inference data to the Microsoft Dataverse provides the following benefits:
+Uploading video and inference data to Microsoft Dataverse provides the following benefits:
 
-- **Empowers future extensibility.** With video uploaded to the cloud, upcoming innovative features may require video data to be powered. Without this, you may not have access to these features and their capabilities when released.
+- **Empowers future extensibility.** Upcoming features may require video data to be powered. If you don't upload video and inference data, you may not have access to these features when released.
 
 - **Enables improved troubleshooting.** With video and inference uploaded to the cloud, when unexpected issues or challenges arise, video and inference data may be needed to help troubleshoot and provide fixes. 
 
-- **Ensures measurable auality.** With video and inference data uploaded to the cloud, quality of data can be ensured and measured. 
+- **Ensures measurable quality.** With video and inference data uploaded to the cloud, quality of data can be ensured and measured. 
 
