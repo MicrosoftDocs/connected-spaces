@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to add skills (Display effectiveness, Queue management, or Shopper analytics) to collect data in Dynamics 365 Connected Spaces Preview.
 ms.author: alissag
-ms.date: 12/02/2021
+ms.date: 12/07/2021
 ms.topic: article
 title: Add skills to collect data in Dynamics 365 Connected Spaces Preview 
 ms.reviewer: v-bholmes
