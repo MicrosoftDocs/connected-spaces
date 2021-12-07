@@ -158,7 +158,7 @@ Select a column title to sort on a column.
 
 ## Edit a skill
 
-1. On the **Skills** page, in the **Actions** column, select the three dots (...) button, and then select **Edit**.
+1. On the **Skills** page, select the **More options** button (...), and then select **Edit**.
 
     ![Screenshot showing Actions column and Edit command.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command")
     
@@ -168,7 +168,7 @@ Select a column title to sort on a column.
 
 ## Delete a skill
 
-1. On the **Skills** page, in the **Actions** column, select the three dots (...) button, and then select **Delete**.
+1. On the **Skills** page, select the **More options** button (...), and then select **Delete**.
 
     ![Screenshot showing Actions column and Edit command again.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command again")
     
