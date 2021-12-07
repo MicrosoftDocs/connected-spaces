@@ -1,8 +1,8 @@
 ---
 author: kfrankc-ms
 description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Spaces Preview.
-ms.author: alwinv
-ms.date: 11/02/2021
+ms.author: rapraj
+ms.date: 12/07/2021
 ms.topic: article
 title: Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -14,13 +14,13 @@ ms.reviewer: v-bholmes
 
 The main scenarios for camera placement in Microsoft Dynamics 365 Connected Spaces Preview include the following zones:
 
-- End caps (Display effectiveness skill zone)
+- End caps (Display effectiveness skill)
 
-- Queues (Queue management skill zone)
+- Queues (Queue management skill)
 
-- Entrances (Shopper analytics skill zone)
+- Entrances (Shopper analytics skill)
 
-The following table provides more detail on the three available skills:
+The following table provides more detail on the three available skills.
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
@@ -28,7 +28,7 @@ The following table provides more detail on the three available skills:
 |**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
 |**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
 
-To plan for the scenarios in your space, you need to understand each zone and the way customers interact with the zone and how environmental factors impact that zone.
+To plan for the scenarios in your space, you need to understand each zone, the way customers interact with the zone, and how environmental factors impact that zone.
 
 ## End caps
 
@@ -48,7 +48,7 @@ For queue cameras, consider the following:
 
 - Is the queue defined with shelving, barriers, or ropes? 
 
-- If undefined, where does the queue typically form, and which direction(s) does it go during busy times?
+- If undefined, where does the queue typically form and which direction(s) does it go during busy times?
 
 - How long is the queue and what direction does the line form?
 

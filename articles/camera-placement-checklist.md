@@ -1,8 +1,8 @@
 ---
 author: kfrankc-ms
 description: Review a checklist for placing and installing LP cameras for use with Dynamics 365 Connected Spaces Preview.
-ms.author: alwinv
-ms.date: 11/02/2021
+ms.author: rapraj
+ms.date: 12/07/2021
 ms.topic: article
 title: Checklist for placing and installing cameras for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -15,7 +15,7 @@ ms.reviewer: v-bholmes
 > [!NOTE]
 > The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Microsoft Dynamics 365 Connected Spaces. [See Compliance and responsible use](compliance.md).
 
-Dynamics 365 Connected Spaces Preview can use new cameras or existing Loss Prevention (LP) cameras installed within your retail space to process shopper actions as shoppers move and interact within your store.
+Dynamics 365 Connected Spaces Preview can use new or existing Loss Prevention (LP) cameras installed within your retail space to process shopper actions as shoppers move and interact within your store.
 
 When determining where to place your cameras, we suggest using this checklist:
 

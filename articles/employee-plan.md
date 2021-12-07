@@ -1,16 +1,14 @@
 ---
 author: alwinv
 description: Learn about what to communicate with your employees if you're using Dynamics 365 Connected Spaces Preview.
-ms.author: alwinv
-ms.date: 11/02/2021
+ms.author: rapraj
+ms.date: 12/07/2021
 ms.topic: article
 title: Communicate with your employees about the use of Dynamics 365 Connected Spaces Preview in your store
 ms.reviewer: v-bholmes
 ---
 
 # Communicating with your employees about the use of Dynamics 365 Connected Spaces
-
-[!INCLUDE[banner](includes/banner.md)]
 
 > [!NOTE]
 > This article is provided for informational purposes only. It should not be treated as definitive or as legal advice. We strongly recommend seeking specialist legal advice 
@@ -34,7 +32,7 @@ Based on our research, we’re sharing practices that we’ve found successful i
 
 ## What to disclose
 
-Our research shows that employees may have a common set of questions regarding Dynamics 365 Connected Spaces, and transparent disclosure can help build their trust. Because Dynamics 365 Connected Spaces is built with privacy in mind, it does not store any video footage, does not analyze or attempt to detect faces, and does not identify individuals. Our research shows that this information is reassuring to employees when it’s disclosed in clear and accessible ways. 
+Our research shows that employees may have a common set of questions regarding Dynamics 365 Connected Spaces, and transparent disclosure can help build their trust. Because Dynamics 365 Connected Spaces is built with privacy in mind, it gives customers the option to opt out of managing and storing any video footage, does not analyze or attempt to detect faces, and does not identify individuals. Our research shows that this information is reassuring to employees when it’s disclosed in clear and accessible ways. 
 
 A disclosure strategy can build trust by answering employees’ questions and helping them understand the following:
 
@@ -107,7 +105,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 |✔ **DO** give specific examples of how employees' responsibilities and tasks might change|Vague answers may be ignored or create confusion and distrust. |
 |✔ **DO** describe measures taken to prevent technology misuse|Employees may have concerns regarding the misuse of technology by the company or managers, and appreciate knowing what preventive measures and policies are in place.  |
 |✔ **DO** provide details on how Dynamics 365 Connected Spaces benefits both store operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
-|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Spaces, video footage is not accessible by humans and is not stored. Insights, which are statistics derived from video footage and which are aggregated and anonymized before anyone sees them, are visible to humans and are stored. |
+|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Spaces, you have the option to manage and store video footage. Insights, which are statistics derived from video footage and which are aggregated and anonymized before anyone sees them, are visible to humans and are stored. |
 |✔ **DO** use simple, concise, non-technical language|Simple language helps make the content more accessible to all employees, including those who aren’t native speakers. |
 
 ### Example: Helping employees respond to shoppers’ concerns

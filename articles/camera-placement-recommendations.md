@@ -1,11 +1,11 @@
 ---
 author: kfrankc-ms
 description: Learn how to place LP cameras for use with Dynamics 365 Connected Spaces Preview, including height, mounting angle, and camera-to-focal-point distance
-ms.author: alwinv
-ms.date: 03/09/2021
+ms.author: rapraj
+ms.date: 12/07/2021
 ms.topic: article
 title: Camera placement suggestions for Dynamics 365 Connected Spaces Preview
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Camera placement suggestions for Dynamics 365 Connected Spaces Preview
@@ -39,7 +39,7 @@ optimized for potential store changes to reduce camera re-positioning.
 
 ## Height, focal-point distance, and angle
 
-You need to consider three things when deciding how to install a camera for Dynamics 365 Connected Spaces:
+Consider three things when deciding how to install a camera for Dynamics 365 Connected Spaces:
 
 - Camera height
 
@@ -51,7 +51,7 @@ It's also important to know the direction that the majority of people walk (pers
 
 ![Person walking direction.](media/person-walking-direction.PNG "Person walking direction")
 
-The following illustration shows the elevation view for person walking direction. This illustration (and the diagrams below) show a camera’s “field of vision” relative to the zone (or “sensing area”) from which raw video footage will be used to analyze observational signals, location, and line of business data to produce actionable insights.
+The following illustration shows the elevation view for person walking direction. This illustration (and the diagrams below) show a camera’s field of vision relative to the zone (or “sensing area”) from which raw video footage will be used to analyze observational signals, location, and line of business data to produce actionable insights.
 
 ![Elevation and plan view.](media/person-walking-direction-2.PNG "Elevation and plan view")
 
@@ -63,7 +63,7 @@ camera view, and then adjust the height as necessary.
 
 ## Camera-to-focal-point distance
 
-*Camera-to-focal-point distance* is the linear distance from the focal point (or center focal point of the point of interest) to the 
+Camera-to-focal-point distance is the linear distance from the focal point (or center focal point of the point of interest) to the 
 camera. 
 
 ![Camera-to-focal-point-distance.](media/camera-to-focal-point.PNG "Camera-to-focal-point-distance")
@@ -118,7 +118,7 @@ The following illustration simulates camera views using the leftmost (-) and rig
 |----------------------------------------------------------|-----------------------------------------------------|
 |![Leftmost camera angle](media/camera-angle-left.PNG "Leftmost camera angle")|![Rightmost camera angle](media/camera-angle-right.PNG "Rightmost camera angle")|
 
-The following illustration shows camera placement and mounting angles from a birds-eye view.
+The following illustration shows camera placement and mounting angles from above.
 
 ![Bird's eye view.](media/camera-angle-top.PNG "Bird's eye view")
  
@@ -182,7 +182,7 @@ Fixture queue lines use shelving to guide shoppers and to enable impulse buying.
 ![Fixture queues.](media/fixture-queue.PNG "Fixture queues")
 
 This style of queue formation restricts the camera’s view of customers because it blocks customers from the waist down. 
-To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and capture a complete view of 
+To ensure the highest quality data, mount the cameras to avoid the shelving as much as possible and to capture a complete view of 
 customers.
 
 #### Organic queues
@@ -193,8 +193,8 @@ using a retractable belt barrier to help guide the queue direction and ensure th
 
 ## Placement of in-store cameras and video storage
 
-Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once your  cameras are in place, Dynamics 365 Connected Spaces will gather and analyze observational signals, location, and line-of-business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)). Microsoft Dynamics 365 Connected Spaces stores video footage in Microsoft Dataverse in your Power Platform environment. You can choose not to upload video footage to Microsoft Dataverse by changing your privacy preferences in Settings.
+Images in this guide are intended to represent a potential placement of a customer’s in-store camera(s) by the customer, but camera placement is your responsibility. Once your  cameras are in place, Dynamics 365 Connected Spaces will gather and analyze observational signals, location, and line-of-business data to produce actionable insights. Microsoft does not control or recommend particular placement of in-store cameras ([see Compliance and responsible use](compliance.md)). Connected Spaces stores video footage in Microsoft Dataverse in your Power Platform environment. You can choose not to upload video footage to Microsoft Dataverse by changing your privacy preferences in Settings.
 
 ## Next step
 
-After you receive your Azure Stack Edge Pro (2 GPU) device, you can [prepare your network and install it](ase-install.md).
+After you receive your Azure Stack Edge Pro (2 GPU) device, learn how to [prepare your network and install the device](ase-install.md).
