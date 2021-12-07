@@ -1,8 +1,8 @@
 ---
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Spaces Preview
-ms.author: alwinv
-ms.date: 11/02/2021
+ms.author: rapraj
+ms.date: 12/07/2021
 ms.topic: article
 title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -12,81 +12,55 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you may want to contact them for support with this step. 
+After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you might want to contact them for support with this step. 
 
-## Connect Azure Stack Edge and configure the network
+## Initial setup
 
-1. Use your laptop and the following documentation to connect Azure Stack Edge Pro and configure the network: https://docs.microsoft.com/azure/databox-online/azure-stack-edge-deploy-connect-setup-activate
+1. Follow [the Windows Remote Management instructions](https://docs.microsoft.com/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to install Windows Remote Management in your environment.
 
-    After signing in to Azure Stack Edge Pro, next to **Network**, select **Not configured** to start the configuration process.
+2. Contact the Connected Spaces team to get the customized deployment scripts and executables. 
 
-    ![Configure command.](media/ase-configure-network.PNG "Configure command")
+    One of the files you'll receive from the Connected Spaces team is the device_settings.json file.
 
-2. In the **Network** screen:
+    ![Windows Remote Management settings.](media/ase-connect-windows-remote-management.jpg "Windows Remote Management settings")
 
-    1. Select the port that you connected your network to when you [installed Azure Stack Edge](ase-install.md) (Port 2 if you have an RJ45 cable or Port 3 if you have an SFP cable).
+3. Update the device_settings.json file with the values from the following table. 
+ 
+    |Field|Value|
+    |------------------------------------------|-----------------------------------------------------------------------------------|
+    |AzureSubscriptionName|The Azure subscription name you created the resource group in|
+    |AzureResourceGroupName|The Azure resource group name you created the Azure Stack Edge resource in|
+    |AzureResourceDeviceName|The name of the Azure Stack Edge resource you created|
+    |DeviceSerialNumber|The serial number on the side of the physical device or the LocalUI of the device|
+    |DeviceIp|The IP address that your device is set to|
+    |KubernetesNodeIpRangeStart|The first of two sequential free IP addresses on your network|
+    |KubernetesNodeIpRangeEnd|The last of two sequential free IP addresses on your network|
+    |KubernetesServiceIp|Another free IP address on your network|
+    |ComputeNode|The number of compute nodes on your device; "2" is the default value.|
+    |ActivationKey|The key that was generated using the Azure resource|
 
-        ![Network screen.](media/ase-network.PNG "Network screen")
-
-    2. In the **Network settings** pane on the right of the screen, **DHCP** should be selected by default. If Dynamic Host Configuration Protocol (DHCP) is enabled in your environment, network interfaces are automatically configured. These interfaces include an Internet Protocol (IP) address, subnet, gateway, and Domain Name Service (DNS).
-
-        If DHCP isn't enabled in your environment, you can assign static IP addresses as required. On the **Static** tab, enter the IP addresses in the **Subnet mask**, **Gateway**, **Primary DNS**, and **Secondary DNS** fields. When you've finished, select **Apply**. [See the Azure Stack Edge Pro GPU setup documentation to learn more](/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy#configure-network).
-
-        ![Network settings pane.](media/ase-network-settings.PNG "Network settings pane")
-
-        > [!NOTE]
-        > This is the information you recorded when you [installed Azure Stack Edge Pro](ase-install.md).
-
-3. In the left pane, select **Compute**.
-
-    ![Compute command selected in the left pane.](media/ase-compute.PNG "Compute command selected in the left pane")
-
-    In the **Compute** screen:
-
-    1. Select the port that you want to open to the Compute networks. This port will probably be Port 2, which is the outward-facing IP address for the device.
-
-        ![Port 2 highlighted in the Compute screen.](media/ase-compute-port-2.PNG "Port 2 highlighted in the Compute screen")
-
-    2. On the right side of the screen, under **Enabled for compute**, select **Yes**.
-
-    3. In the **Network settings (Port 2)** screen, in the **Kubernetes node IPs** field, assign static IP addresses for the compute virtual machine (VM) on the device. For a one-node device, provide a contiguous range of at least two contiguous IPV4 addresses.
-
-        ![Network settings (Port 2) screen.](media/ase-compute-apply.PNG "Network settings (Port 2) screen")
-
-        > [!NOTE]
-        > Make sure that the IP addresses are available. If the compute VMs must compete for an IP address, you will receive an error because of the inconsistent connection.
-
-    4. In the **Kubernetes external service IPs** field, assign the external service IP addresses. These contiguous IP addresses are for services that you want to expose outside the Kubernetes cluster. Specify the static IP range, depending on the number of services that are exposed. At a minimum, you must allocate at least one external IP address to configure the Connected Spaces service. In the screenshot example above, one IP address is allocated. 
-
-    5. Select **Apply**.
-
-4. In the left pane, select **Web proxy**. By default, the **Web proxy** tab is set to **Disable**. If you require a proxy address to establish a consistent connection between Azure resources and the device:
-
-    1. Switch the tab to **Enable**.
-
-        ![Web proxy tab set to Enable.](media/ase-web-proxy-authentication-address.PNG "Web proxy tab set to Enable")
-
-    2. In the **Web proxy URL** field, enter a URL.
-
-    3. Optional: Include an authentication address to handle secure proxy communications.
+4. After filling in the field values, open a Powershell window as an administrator. 
 
     > [!NOTE]
-    > If you plan to use a web proxy, contact the Connected Spaces team so that we can prepare your deployment.
+    > You must have administrator privileges on your computer to open PowerShell. 
 
-5. In the left pane, select **Device**, and then select **Apply**. You don't have to make any changes in the **Device** screen, but you must select **Apply**. Otherwise, the activation won't work.
+     ![Screenshot of Windows PowerShell window.](media/ase-connect-powershell.jpg "Screenshot of Windows PowerShell window")
 
-    ![Device screen.](media/ase-device.PNG "Device screen")
+5. Use the following command to change your directory to the customer folder containing the files that you requested in step 2.
 
-    > [!NOTE]
-    > At this time, you can't change the device name.
+     ![Screenshot of cd command.](media/ase-connect-change-directory.jpg "Screenshot of cd command")
 
-6. In the left pane, select **Update server**, and then select **Apply**. (You don't have to make any changes in this screen.)
+6. Run the following command to kick off the script to configure and activate your device:
 
-    ![Update server screen.](media/ase-update-server.PNG "Update server screen")
+    ./ase_up_customer.ps1
 
-7. In the left pane, select **Time**, select the correct time zone, and then select **Apply**.
+7. When prompted to enter a password, enter the password that was used to set up the Azure Stack Edge device initially. 
 
-    ![Time screen.](media/ase-select-time-zone.PNG "Time screen")
+8. When prompted to sign in to Azure, use the same credentials you used to create the resources in your subscription.
+
+    You'll know that the script is complete when the PowerShell window accepts input again. The last message you'll see from the script is: "Arc setup starting..."
+
+9. After the script has completed, contact Microsoft to take over for the final steps to set up your environment. 
 
 ## Next step
 

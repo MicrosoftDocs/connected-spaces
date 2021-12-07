@@ -1,29 +1,33 @@
 ---
-author: lkbryant-MSFT
+author: alissapolucha
 description: Learn how to set your store's operating hours in Dynamics 365 Connected Spaces Preview
-ms.author: labryan
-ms.date: 11/02/2021
+ms.author: alissag
+ms.date: 12/07/2021
 ms.topic: article
 title: Set your store's operating hours in Dynamics 365 Connected Spaces Preview
-ms.reviewer: v-bholmes
+ms.reviewer: v-brycho
 ---
 
 # Set your store's operating hours in Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-You can use the web app in Microsoft Dynamics 365 Connected Spaces Preview to set your store's operating hours. If you don't set your operating hours, by default, the Connected Spaces dashboards will include after-hours data (when your store is being cleaned and restocked).
+You can set your store's operating hours in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your operating hours, by default, Connected Spaces will set your store hours for every day of the week to 6:00 am – 8:00 pm in your store's time zone.
 
-1. In the web app, select the appropriate store from the list at the top of the screen.
+## Set operating hours
 
-2. In the left navigation pane, select **Settings**.
+1. On the left side of the screen, select the arrow next to **Settings**, and then select **Store details**.
 
-3. On the **Store** tab, in the **Operating Hours** field, enter your hours of operation.
+    ![Screenshot of Settings and operating hours](media/view-store-hours.jpg "Screenshot of Settings and operating hours")
 
-    ![Operating hours field in web app Settings.](media/web-app-settings-operating-hours.PNG "Operating hours field in web app Settings")
+2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, scroll down to the **Store hours** section.
+
+    ![Screenshot of Edit button highlighted.](media/edit-store-hours.jpg "Screenshot of Edit button highlighted")
     
-    > [!IMPORTANT]
-    > Any changes you make to settings for the Contoso sample store will affect settings for other stores. For this reason, we don't recommend changing the settings for the sample store.
-    
+3. In the **Store hours** section: 
 
+    - Select the check box next to the day of the week to set or remove operating hours for that day.
+    - In the **From** and **To** fields, enter opening and closing times for data collection. 
+
+4. Select **Save**. 
 

@@ -31,7 +31,7 @@ Yes, if you need a new skill zone, you can reconfigure an existing zone. However
 
 Be sure to create the largest skill zone that you can, so that it covers the specific floor area that you're interested in but **excludes** areas that you aren't interested in. In this way, you help increase the accuracy of the data that is collected and prevent false positives from areas that you don't want to track. Be careful when you place the corners of your polygon. Make sure that they aren't outside the area that you want to track.
 
-[See tips for drawing skill zones](mobile-app-add-camera-skill-zones.md#tips-for-drawing-skill-zones).
+[See tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones).
 
 ## How do I change the IP range that the gateway uses to scan for cameras?
 
@@ -49,7 +49,7 @@ To change the Internet Protocol (IP) range that is used to get the list of avail
 
 ## I don't have the Connected Store Admin role. How can I view a gateway in the mobile app?
 
-To use the mobile app, you must have the **Connected Store Admin** role. If you sign in by using the **Connected Store Viewers** role, you can view the list of stores, but you can't view any gateways in those stores. [Learn how to assign a user role](admin-user-accounts.md).
+To use the mobile app, you must have the **Connected Store Admin** role. If you sign in by using the **Connected Store Viewers** role, you can view the list of stores, but you can't view any gateways in those stores. 
 
 ## How do I use my existing Azure Active Directory tenant to sign up for Connected Spaces? 
 
@@ -61,7 +61,7 @@ If you want to use your company's existing Microsoft Azure Active Directory (Azu
 
 3. Assign client licenses to Azure AD user accounts.
 
-Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Spaces, you can [sign up by using a new test Azure AD tenant](admin-create-new-tenant.md) in the UK or US.
+Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the United States (US). If your company's tenant is registered in another country or region, **the sign-up will fail**. If you're the global admin for your organization and want to try out Connected Spaces, you can sign up by using a new test Azure AD tenant in the UK or US.
 
 1. Go to the Connected Spaces setup page.
 
@@ -93,7 +93,7 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
     
     - Assigns a client license for this trial to your admin user account.
 
-6. [Install Connected Spaces](admin-install-web-app.md).
+6. Install Connected Spaces.
 
 ## How do I notify shoppers and employees about the use of Dynamics 365 Connected Spaces in my store?
 

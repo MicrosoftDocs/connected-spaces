@@ -1,18 +1,18 @@
 ---
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Spaces Preview
-ms.author: alwinv
-ms.date: 11/02/2021
+ms.author: rapraj
+ms.date: 12/07/2021
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Install a camera to use with Dynamics 365 Connected Spaces Preview
+# Install cameras to use with Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
-This article describes how to install and configure a Loss Prevention (LP) camera to use with Microsoft Dynamics 365 Connected Spaces Preview.
+This article describes how to install and configure Loss Prevention (LP) cameras to use with Microsoft Dynamics 365 Connected Spaces Preview.
 
 ## Supported cameras
 
@@ -34,7 +34,7 @@ Dynamics 365 Connected Spaces supports the following LP cameras:
    
 ## Install a camera	
 
-Use the steps below in addition to your local standards and requirements for installing ethernet.
+Use the steps below in addition to your local standards and requirements for installing Ethernet.
 
 > [!NOTE]
 > If you’re using Axis cameras, create your ONVIF user profile before installing the cameras.
@@ -50,7 +50,7 @@ Use the steps below in addition to your local standards and requirements for ins
     
 4.	Remove the camera from the packaging.
 
-5.	Pre-configure the camera by setting up a temporary PoE switch, connecting your laptop to the switch, and then connecting the camera to the switch through an ethernet cable.
+5.	Pre-configure the camera by setting up a temporary PoE switch, connect your laptop to the switch, and then connect the camera to the switch through an Ethernet cable.
 
 6.	Change the default username/password as instructed by the camera manufacturer documentation, to align with your corporate security guidelines.
 
@@ -73,7 +73,4 @@ Use the steps below in addition to your local standards and requirements for ins
    
     ![ONVIF media profile.](media/ONVIF.PNG "ONVIF media profile")
  
-When you’re finished mounting and installing the camera per the manufacturer’s documentation, and if you have already installed Azure Stack Edge Pro (2 GPU) and connected it to the network, you’re ready to [add a store with the mobile app, and then pair a gateway to the store](mobile-app-create-store.md).
-
-> [!IMPORTANT]
-> The Connected Spaces mobile app is no longer available for download. Go to [Dynamics 365 Connected Spaces](https://dynamics.microsoft.com/en-us/ai/connected-store/) for the latest product news and updates.
+When you’re finished mounting and installing the camera per the manufacturer’s documentation, and if you have already installed Azure Stack Edge Pro (2 GPU) and connected it to the network, you’re ready to [add a store](store-create.md).
