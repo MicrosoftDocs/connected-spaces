@@ -15,7 +15,7 @@ ms.reviewer: v-bholmes
 
 Dynamics 365 Connected Spaces Preview was designed with compliance, privacy, security, and confidentiality in mind, but some responsibilities are fully within our customers’ control. It is your responsibility to:
 
-- Install and position cameras in your retail locations, and in doing so take care to avoid sensitive areas or locations that point to public spaces outside your store(s) such as streets or mall concourses and to limit collection of data not needed by Dynamics 365 Connected Spaces; 
+- Install and position cameras in your retail locations, and in doing so take care to avoid sensitive areas or locations that point to public spaces outside your store(s) such as streets or mall concourses, and to limit collection of data not needed by Dynamics 365 Connected Spaces; 
 
 - Inform people in your retail locations with conspicuous notices about video recording and use of AI (taking note that in some jurisdictions simply placing conspicuous notices may be insufficient). Review our [Communicate with shoppers](communication-plan.md) and [Communicate with employees](employee-plan.md) guides for tips to consider for your notice and disclosure strategy ;
 
