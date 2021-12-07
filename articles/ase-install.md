@@ -102,4 +102,6 @@ Use the following tutorials to install and connect Azure Stack Edge Pro:
    > [!IMPORTANT]
    > Stop after the **Configure network** section of this tutorial. **DO NOT COMPLETE THE ENABLE COMPUTE NETWORK SECTION.**
     
+## Next step
 
+- [Connect your Azure Stack Edge Pro device to the network](ase-connect.md)
