@@ -64,7 +64,7 @@ The subscript in the card describes the percent change in this value for the cur
 
 ![Busiest day card.](media/analytics-6.PNG "Busiest day card")
 
-The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day was compared to the daily average entries during the selected time frame. 
+The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day were compared to the daily average entries during the selected time frame. 
 
 **Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
 
