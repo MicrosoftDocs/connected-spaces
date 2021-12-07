@@ -10,8 +10,6 @@ ms.reviewer: v-bholmes
 
 # Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 
-[!INCLUDE[banner](includes/banner.md)]
-
 After you receive your Azure Stack Edge Pro (2 GPU) gateway for Microsoft Dynamics 365 Connected Spaces Preview, you'll need to prepare your network and install the device. 
 
 > [!IMPORTANT]
