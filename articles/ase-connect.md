@@ -42,9 +42,9 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 4. After filling in the field values, open a Powershell window as an administrator. 
 
     > [!NOTE]
-    > You must have administrator privileges on your computer to open Powershell. 
+    > You must have administrator privileges on your computer to open PowerShell. 
 
-     ![Screenshot of Windows Powershell window.](media/ase-connect-powershell.jpg "Screenshot of Windows Powershell window")
+     ![Screenshot of Windows PowerShell window.](media/ase-connect-powershell.jpg "Screenshot of Windows PowerShell window")
 
 5. Use the following command to change your directory to the customer folder containing the files tht you requested in step 2.
 
