@@ -25,7 +25,7 @@ On the **Set up my store** page:
 
 1. In the **Store name** field, enter a friendly name for your store.
 
-2. In the **Max occupancy** field, set the maximum number of people allowed in the store at one time. Connected Spaces uses computer vision to calculate entrances and exits and notifies you if the maximum occupancy value is exceeded.
+2. In the **Max occupancy** field, set the maximum number of people allowed in the store at one time. 
 
 3. In the **Time zone** field, set the time zone for your store.
 
