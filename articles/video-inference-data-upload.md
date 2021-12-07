@@ -1,3 +1,13 @@
+---
+author: alwinv
+description: Learn how to turn off or on upload of video and inference data to the cloud in Microsoft Dynamics 365 Connected Spaces
+ms.author: alwinv
+ms.date: 12/07/2021
+ms.topic: article
+title: Choose whether to upload video and inference data to the cloud in Dynamics 365 Connected Spaces
+ms.reviewer: v-bholmes
+---
+
 # Choose whether to upload video and inference data to the cloud in Dynamics 365 Connected Spaces
 
 After local processing, insights data is uploaded to the Microsoft Dynamics 365 Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. You can control whether you want to upload video data and inference data to your Microsoft Dataverse cloud storage and manage it. 
