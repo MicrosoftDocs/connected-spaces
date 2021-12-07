@@ -19,7 +19,11 @@ After local processing, insights data is uploaded to the Microsoft Dynamics 365 
 
 3.	In the **Change upload preference** dialog box, select **Submit**.  
 
-To confirm that your request has been sent, you'll see a message at the top of the **Privacy information** pane. The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear and the controls will no longer available. 
+To confirm that your request has been sent, you'll see a message at the top of the **Privacy information** pane. 
+
+SCREEN SHOT GOES HERE
+
+The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear and the controls will no longer available. 
  
 ## Benefits of uploading video and inference data 
 
