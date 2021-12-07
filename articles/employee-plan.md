@@ -10,8 +10,6 @@ ms.reviewer: v-bholmes
 
 # Communicating with your employees about the use of Dynamics 365 Connected Spaces
 
-[!INCLUDE[banner](includes/banner.md)]
-
 > [!NOTE]
 > This article is provided for informational purposes only. It should not be treated as definitive or as legal advice. We strongly recommend seeking specialist legal advice 
 when implementing Dynamics 365 Connected Spaces. [See Compliance and responsible use for details](compliance.md).
