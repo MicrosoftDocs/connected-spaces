@@ -11,19 +11,23 @@ After local processing, insights data is uploaded to the Microsoft Dynamics 365 
 
 1.	Go to **Settings** > **Privacy information**.
 
-    SCREEN SHOT GOES HERE 
+    ![Privacy information command highlighted on right side of screen.](media/video-upload-privacy-information.jpg "Privacy information command highlighted on right side of screen")
 
 2.	On the right side of the screen, in the **Privacy information** pane, turn the **Save video data to the cloud** setting off or on, and then select **Save**. 
 
-    SCREEN SHOT GOES HERE 
+     ![Screenshot with Save video data to the cloud setting highlighted](media/video-upload-save-video-data-cloud.jpg "Screenshot with Save video data to the cloud setting highlighted")
 
 3.	In the **Change upload preference** dialog box, select **Submit**.  
 
-    SCREEN SHOT GOES HERE
+    ![Screenshot of Change upload preference dialog box](media/video-upload-submit.jpg "Screenshot of Change upload preference dialog box")
+    
+    You'll see the following confirmation
+    
+     ![Screenshot of Change upload preference dialog box with information about request sent](media/video-upload-request-sent.jpg "Screenshot of Change upload preference dialog box with information about request sent")
 
-To confirm that your request has been sent, you'll see a message at the top of the **Privacy information** pane. 
+To confirm that your request has been sent, you'll also see a message at the top of the **Privacy information** pane. 
 
-SCREEN SHOT GOES HERE
+![Screenshot of Privacy information pane with message at top](media/video-upload-message.jpg "Screenshot of Privacy information pane with message at top")
 
 The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear and the controls will no longer available. 
  
