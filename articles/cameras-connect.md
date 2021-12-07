@@ -75,7 +75,7 @@ You need to do the following before you can connect your cameras to a gateway:
 
 You can edit the details for any camera from the **Devices** page. 
 
-1. Select the button for the Action menu (...), and then select **Camera details**. 
+1. Select the **More options** button, (...), and then select **Camera details**. 
 
     ![Screenshot of Action button and Camera details command.](media/camera-details.jpg "Screenshot of Action button and Camera details command")
     
