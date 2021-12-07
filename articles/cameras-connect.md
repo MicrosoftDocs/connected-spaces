@@ -85,7 +85,7 @@ You can edit the details for any camera from the **Devices** page.
      
 ## Remove a camera
 
-1. Select the button for the Action menu (...), and then select **Remove**. 
+1. Select the **More options** button (...), and then select **Remove**. 
 
     ![Screenshot of Action button and Remove command.](media/camera-details.jpg "Screenshot of Action button and Remove command")
     
