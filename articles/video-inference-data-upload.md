@@ -13,7 +13,7 @@ After local processing, insights data is uploaded to the Microsoft Dynamics 365 
 
     SCREEN SHOT GOES HERE 
 
-2.	On the right side of the screen, in the **Privacy information** pane, turn the **Save video data to the cloud** off or on, and then select **Save**. 
+2.	On the right side of the screen, in the **Privacy information** pane, turn the **Save video data to the cloud** setting off or on, and then select **Save**. 
 
     SCREEN SHOT GOES HERE 
 
