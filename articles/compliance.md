@@ -29,5 +29,5 @@ Microsoft is committed to six core principles for the responsible development an
 
 Consistent with these responsible AI principles, you should communicate with your customers about the purposes, strengths and limitations, and intended uses of Microsoft Dynamics 365 Connected Spaces.  
 
-If you have concerns, questions, or would like to learn more, we’d love to work with you. Contact us [here](mailto:respinnovfeedback@microsoft.com).
+If you have concerns, questions, or would like to learn more, we’d love to work with you. [Contact us](mailto:respinnovfeedback@microsoft.com).
 
