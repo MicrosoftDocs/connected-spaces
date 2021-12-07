@@ -173,7 +173,7 @@ Select a column title to sort on a column.
     ![Screenshot showing Actions column and Edit command again.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command again")
     
     > [!NOTE]
-    > Deleting a skill will permanently remove it from Azure Stack Edge, the Connected Spaces website, and all collected data in the dashboards. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
+    > Deleting a skill will permanently remove it from Azure Stack Edge, the Connected Spaces web app, and all collected data in the dashboards. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
 
 ## Next step
 
