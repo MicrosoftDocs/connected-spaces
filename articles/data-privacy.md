@@ -77,7 +77,8 @@ Customers are in control of Azure Stack Edge, which processes the data described
 
 All of this data is stored in local storage, and is not easily accessible by customers from their Azure Stack Edge resource on the Azure Portal. Customers that need to delete all the data on their Azure Stack Edge can follow these instructions for Azure Stack Edge device reset and reactivation.
 
-> [!NOTE] After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video and inference data is stored. [Learn more]()
+> [!NOTE] 
+> After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video and inference data is stored. [Learn more]()
 
 ### Connected Spaces cloud service
 
