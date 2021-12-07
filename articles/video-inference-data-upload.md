@@ -5,7 +5,7 @@ After local processing, insights data is uploaded to the Microsoft Dynamics 365 
 [Initial processing of video and inference data occurs on the customer's premises on an edge gateway device to generate aggregated insights data](data-privacy.md). Video, inference data, and insight data is streamed to your Microsoft Dataverse cloud storage by default. Use of the service is not possible without cloud processing of insight data, but you can choose to turn your video and inference data upload off or on in the Connected Spaces web app. This request takes several days to complete. 
 
 > [!NOTE]
-> Turning video upload off might adversely affect the user experience of Connected Spaces. It impacts your ability to use certain features of the service and to detect and troubleshoot data quality issues (see [Benefits of uploading video and inference data]()).
+> Turning video upload off might adversely affect the user experience of Connected Spaces. It impacts your ability to use certain features of the service and to detect and troubleshoot data quality issues (see [Benefits of uploading video and inference data](video-inference-data-upload.md#benefits-of-uploading-video-and-inference-data)).
 
 ## Turn video upload off or on
 
