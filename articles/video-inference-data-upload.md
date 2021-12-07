@@ -19,6 +19,8 @@ After local processing, insights data is uploaded to the Microsoft Dynamics 365 
 
 3.	In the **Change upload preference** dialog box, select **Submit**.  
 
+    SCREEN SHOT GOES HERE
+
 To confirm that your request has been sent, you'll see a message at the top of the **Privacy information** pane. 
 
 SCREEN SHOT GOES HERE
