@@ -7,19 +7,17 @@ Initial processing of video and inference data occurs on the customer's premises
 > [!NOTE]
 > Turning video upload off might adversely affect the user experience of Connected Spaces. It impacts your ability to use certain features of the service and to detect and troubleshoot data quality issues (see [Benefits of uploading video and inference data]()).
 
-1.	Navigate to Settings > Privacy Information. Select Privacy Information.
- 
+## Turn video upload off or on
 
-2.	Select the toggle below Save video data to the cloud to change your video and inference data upload preference. 
- 
+1.	Go to **Settings** > **Privacy information**.
 
-3.	To save and confirm your video and inference data upload option, Select Save.
+    SCREEN SHOT GOES HERE 
 
+2.	On the right side of the screen, in the **Privacy information** pane, turn the **Save video data to the cloud** off or on, and then select **Save**. 
 
- 
+    SCREEN SHOT GOES HERE 
 
-
-4.	To confirm select the check box and hit Submit. If you want to keep controls as is, Select Cancel.
+3.	To confirm select the check box and hit Submit. If you want to keep controls as is, Select Cancel.
  
 
 5.	Requesting your video and inference data upload preference may take several days to change. The controls will be disabled until the change has occurred.
