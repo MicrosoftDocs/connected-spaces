@@ -51,20 +51,16 @@ Each skill type includes highlight cards with information buttons that you can h
 
 ![Information buttons.](media/analytics-information-buttons.jpg "Information buttons")
 
-**Store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
+**Change in store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
 
 ![Store entries card.](media/analytics-5.PNG "Store entries card")
 
-The subscript in the card describes the percent change in this value for the current time frame compared to the previous time frame of equal duration. The triangle to the left of the subscript indicates whether the change was positive or negative. 
-
 >[!NOTE]
-> If there’s insufficient data to draw a comparison, no information is displayed in the subscript area. This is true for all cards on the **Analytics** and other pages.
+> If there’s insufficient data, no information is displayed in the card. This is true for all cards on the **Analytics** and other pages.
 
-**Busiest day.** This card highlights the day and date within the selected time frame that had the greatest number of people, along with the people count. 
+**Busiest day.** This card highlights the day of the week and date within the selected time frame that had the greatest number of people, along with the people count. 
 
 ![Busiest day card.](media/analytics-6.PNG "Busiest day card")
-
-The subscript in this card describes the absolute change in this value for the current time frame compared to average entries across all displays during the selected time frame. The triangle to the left of the subscript indicates how much greater entries for the highlighted day were compared to the daily average entries during the selected time frame. 
 
 **Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
 
@@ -82,15 +78,13 @@ The subscript in this card describes the absolute change in this value for the c
 
 ![Largest decrease in visit time card.](media/analytics-largest-decrease-visit-time.jpg "Largest decrease in visit time card")
 
-**Longest queue.** This card highlights the queue that was occupied by the most number of people across all queues for the selected time frame, along with the name of the queue and the date on which the value was observed. 
+**Change in queue traffic.** This card shows the percentage increase or decrease for queue traffic as compared to the previous time period.
 
 ![Longest queue card.](media/analytics-9.PNG "Longest queue card")
 
-**Slowest queue.** This card highlights the maximum wait (dwell) time for a queue across all queues for a selected time frame, along with the name of the queue and the date on which the value was observed. 
+**Change in queue wait time.** This card shows the percentage increase or decrease for the queue wait time as compared to the previous time period. 
 
 ![Slowest queue card.](media/analytics-10.PNG "Slowest queue card")
-
-The subscript in this card describes the absolute change in this value for the current time frame compared to average wait (dwell) time across all queues during the selected time frame. The triangle to the left of the subscript indicates whether the change was positive or negative.
 
 ## Graphs on the Analytics page
 
@@ -103,27 +97,29 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 > [!TIP]
 > You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. The dotted line is the average number of entries for the store during the selected time frame. 
+**Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. 
 
-**Peak footfall by [time slice (day, hour)].**  This graph shows the maximum number of people that were in the store on an hourly basis, taking into account the flow of people into AND out of the store, for the selected time frame.
+**Peak footfall entires power hour by [time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
+
+**Footfall at each queue by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across each Shopper analytics skill, individually. 
 
 ### Display Effectiveness graphs
 
 ![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
 
-**Entries**. This graph shows the number of people entering the skill zone over the time period selected.
+**Entries by [time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
 
-**Visit time**. This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
+**Visit time by [time slice (day, hour)].** This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
 
 ### Queue Management graphs
 
 ![Queue management graphs section of Analytics page.](media/analytics-queue-management-graphs.jpg "Queue management graphs section of Analytics page")
 
-**Longest queue across store by [time slice (day, hour)].** This graph shows the people count of the queue that had the most people for the selected time frame. 
+**Total enters across all queues by [time slice (day, hour)].** The total number of people who entered all queues, by day.
 
-> [!NOTE]
-> The solution can only capture people within the camera’s field of view. This value could be underestimated if the queue length extends beyond the field of view.
+**Hourly queues wait time by [time slice (day, hour)].** The hourly breakdown of average queue wait times, by day for all queues.
 
-**Average wait time across all queues by [time slice (day, hour)].** This graph shows the average time people spend, in seconds, in a queue across the store for the selected time frame. The dotted line is the average wait time for all Queue management zones during the selected time frame.
+**Queue enters by individual queues time by [time slice (day, hour)].** The total number of queue entries for each specific queue.
+
 
 
