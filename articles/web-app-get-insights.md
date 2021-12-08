@@ -60,7 +60,7 @@ Each skill type includes highlight cards with information buttons that you can h
 
 **Busiest day.** This card highlights the day of the week and date within the selected time frame that had the greatest number of people, along with the people count. 
 
-![Busiest day card.](media/analytics-6.PNG "Busiest day card")
+![Busiest day card.](media/busiest-day.jpg "Busiest day card")
 
 **Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
 
@@ -80,11 +80,11 @@ Each skill type includes highlight cards with information buttons that you can h
 
 **Change in queue traffic.** This card shows the percentage increase or decrease for queue traffic as compared to the previous time period.
 
-![Longest queue card.](media/analytics-9.PNG "Longest queue card")
+![Change in queue traffic card.](media/change-queue-traffic.jpg "Change in queue traffic card")
 
 **Change in queue wait time.** This card shows the percentage increase or decrease for the queue wait time as compared to the previous time period. 
 
-![Slowest queue card.](media/analytics-10.PNG "Slowest queue card")
+![Change in queue wait time card.](media/change-queue-wait-time.jpg "Change in queue wait time card")
 
 ## Graphs on the Analytics page
 
