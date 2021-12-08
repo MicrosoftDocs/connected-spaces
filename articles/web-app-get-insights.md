@@ -107,7 +107,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
 
-**Entries [by time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
+**Enters [by time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
 
 **Visit time [by time slice (day, hour)].** This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
 
