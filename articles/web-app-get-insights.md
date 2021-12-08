@@ -53,7 +53,7 @@ Each skill type includes highlight cards with information buttons that you can h
 
 **Change in store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
 
-![Store entries card.](media/analytics-5.PNG "Store entries card")
+![Change in store entries card.](media/change-store-entries.jpg "Change in store entries card")
 
 >[!NOTE]
 > If there’s insufficient data, no information is displayed in the card. This is true for all cards on the **Analytics** and other pages.
