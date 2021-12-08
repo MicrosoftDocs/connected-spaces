@@ -68,7 +68,7 @@ Each skill type includes highlight cards with information buttons that you can h
 
 **Largest decrease in display traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
 
-![Largest decrease in display traffic card.](media/analytics-largest-decrease-display-traffic.jpg "Largest decrease in display traffic card")
+![Largest decrease in display traffic card.](media/largest-decrease-display-traffic.jpg "Largest decrease in display traffic card")
 
 **Largest increase in visit time.** This card highlights the display with the largest increase in visit time as compared to all other displays over the previous time period.  
 
