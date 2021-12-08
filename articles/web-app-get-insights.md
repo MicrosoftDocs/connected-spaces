@@ -117,7 +117,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 **Total enters across all queues [by time slice (day, hour)].** The total number of people who entered all queues, by day.
 
-**Hourly queues wait time [by time slice (day, hour)].** The hourly breakdown of average queue wait times, by day for all queues.
+**Hourly queue wait time [by time slice (day, hour)].** The hourly breakdown of average queue wait times, by day for all queues.
 
 **Queue enters by individual queues time [by time slice (day, hour)].** The total number of queue entries for each specific queue.
 
