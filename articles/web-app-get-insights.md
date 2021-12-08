@@ -97,29 +97,29 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 > [!TIP]
 > You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total entries across store by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. 
+**Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. 
 
-**Peak footfall entires power hour by [time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
+**Peak footfall entires power hour [by time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
 
-**Footfall at each queue by [time slice (day, hour)].** This graph shows the total number of people that entered the store, across each Shopper analytics skill, individually. 
+**Footfall at each queue [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across each Shopper analytics skill, individually. 
 
 ### Display Effectiveness graphs
 
 ![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
 
-**Entries by [time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
+**Entries [by time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
 
-**Visit time by [time slice (day, hour)].** This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
+**Visit time [by time slice (day, hour)].** This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
 
 ### Queue Management graphs
 
 ![Queue management graphs section of Analytics page.](media/analytics-queue-management-graphs.jpg "Queue management graphs section of Analytics page")
 
-**Total enters across all queues by [time slice (day, hour)].** The total number of people who entered all queues, by day.
+**Total enters across all queues [by time slice (day, hour)].** The total number of people who entered all queues, by day.
 
-**Hourly queues wait time by [time slice (day, hour)].** The hourly breakdown of average queue wait times, by day for all queues.
+**Hourly queues wait time [by time slice (day, hour)].** The hourly breakdown of average queue wait times, by day for all queues.
 
-**Queue enters by individual queues time by [time slice (day, hour)].** The total number of queue entries for each specific queue.
+**Queue enters by individual queues time [by time slice (day, hour)].** The total number of queue entries for each specific queue.
 
 
 
