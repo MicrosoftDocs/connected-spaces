@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about what to communicate with your shoppers about if you're using Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 12/07/2021
+ms.date: 12/09/2021
 ms.topic: article
 title: Communicate with your shoppers about the use of Dynamics 365 Connected Spaces Preview in your store
 ms.reviewer: v-bholmes
