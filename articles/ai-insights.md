@@ -30,9 +30,9 @@ The edge device includes computer vision skills (AI models) that detect human pr
 
    - Confidence score for the detection
 
-- All of the inferencing by the AI skills is depersonalized and processed in memory on the edge gateway. This inference data is stored in Microsoft Dataverse in the customer's Microsoft Power Platform environment for the customer to manage themselves. Customers also have the option to store their video data on the Power Platform.
+- Inferencing by the AI skills of video footage occurs locally in memory on the edge gateway. This inference data does not include data that could identify individuals. Customers have the option to store and manage their video data and derived inference data in Microsoft Dataverse in the customer's Power Platform envieonment.
 
-- The inferenced data output from the AI skills are sent to the Connected Spaces cloud service. This output does not include data that could identify individuals. Data sent to the cloud includes event data and pseudonymous identifiers that are then aggregated to deliver insights from the Connected Spaces cloud service through the Connected Spaces web app. Customers also have the option to have video data sent to the cloud for QA and extensibility purposes.
+- The inferenced data output from the AI skills is depersonalized and aggregated into insight data, which is sent to the Connected Spaces cloud service. In the cloud, insight data is aggregated further into hourly summaires and correlated with other business data and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. 
 
 The following list shows the insights that retail customers can retrieve from the above components of Connected Spaces. The insights are aggregated, and no individual shoppers are identified or tracked.
 
