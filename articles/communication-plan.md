@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about what to communicate with your shoppers about if you're using Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 12/07/2021
+ms.date: 12/09/2021
 ms.topic: article
 title: Communicate with your shoppers about the use of Dynamics 365 Connected Spaces Preview in your store
 ms.reviewer: v-bholmes
@@ -86,7 +86,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 |✔ **DO** consider introducing a concept such as “learning store” |Our studies show that a clear description of a “learning store” (for example, a store that uses insights to “learn” how to provide better customer service) helps shoppers understand the technology as a whole. |  
 |✔ **DO** consider the local context|Some terms or concepts may have different cultural or language connotations in your local area.|
 |✔ **DO** offer a way to learn more|Shoppers appreciate being able to ask additional questions, for example through email or a phone number.|
-|✔ **DO** provide accurate and transparent information about whether--and how--personal data is being processed|Shoppers need clear, factual information about how personal data is used, including whether they may be tracked or identified while shopping. For example:<br><br>- Phrasing like “your shopping experience” may lead shoppers to wrongly believe they are being personally identified.<br>- Phrasing like “aggregate data about shopping patterns” may help shoppers understand that in Dynamics 365 Connected Spaces they are not uniquely identified, and their faces are not being detected or analyzed.|
+|✔ **DO** provide accurate and transparent information about whether--and how--personal data is being processed|Shoppers need clear, factual information about how personal data is used, including whether they may be tracked or identified while shopping. For example:<br><br>- Phrasing like “your shopping experience” may lead shoppers to wrongly believe they are being personally identified.<br>- Phrasing like “aggregate data about shopping patterns” may help shoppers understand that in Dynamics 365 Connected Spaces they are not uniquely identified.|
 
 
 ### Example: Explaining what technology is in use and how it works
@@ -107,7 +107,7 @@ These tips are based on Microsoft research studies conducted on sample Dynamics 
 
 |Tip|Why?|
 |--------------------------------------------------------|-------------------------------------------------------|
-|✔ **DO** clearly state whether personally identifiable information is stored, and if so, provide information about how long it is retained.|Shoppers’ primary concern around data privacy is the collection of personally identifiable information without their consent.|
+|✔ **DO** clearly state whether personally identifiable information is stored, and if so, provide information about how long it is retained.|Shoppers’ primary concern around data privacy is the collection and use of personally identifiable information.|
 |✔ **DO** provide examples of what you do and do not do with information|Especially when it comes to topics of higher privacy concern, shoppers show better understanding when examples are highlighted. For example, describe how Display effectiveness data may be used to improve product display arrangements.|
 |✔ **DO** use words that accurately reflect your practices and also provide flexibility for how technologies or your practices might evolve in the future|Keep in mind that technologies, practices, and perceptions may evolve over time, so using absolutes such as “never” or “not ever” may not seem realistic or trustworthy to shoppers.  Frequently revisit and update disclosure materials to make sure they reflect your practices as they or the technologies you use may change.|
 
