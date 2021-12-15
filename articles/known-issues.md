@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 12/07/2021
+ms.date: 12/14/2021
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -81,8 +81,8 @@ When using Connected Spaces, make sure you're using the web app in the geographi
 
 | Your AAD account region | Connected Spaces web app URL |
 | --- | --- |
-| United States | https://cspperegionalwestus.azurewebsites.net/ |
-| United Kingdom | https://cspperegionaluksouth.azurewebsites.net/ |
+| United States | https://us.ppe.connectedspaces.dynamics.com/ |
+| United Kingdom | https://uk.ppe.connectedspaces.dynamics.com/ |
 
 Doing this will ensure that Connected Spaces will be able to process your customer data within your company's geographic region.
 
