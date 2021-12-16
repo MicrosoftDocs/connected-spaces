@@ -12,33 +12,6 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-## Need admin approval when signing in to Connected Spaces for the first time
-
-When signing in to the Connected Spaces web app for the first time, you might see a prompt explaining that you need admin approval.
-
-![Screenshot of Need admin approval dialog box.](media/setup-need-admin-approval.jpg "Screenshot of Need admin approval dialog box")
-
-To give permission to the Connected Spaces web app, sign up with a user account that has Azure Active Directory Global Administrator permissions (or have your admin sign in with those permissions). 
-
-When you sign in to the Connected Spaces web app with the appropriate permissions, you'll see the **Permissions Requested** prompt.
-
-![Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted.](media/setup-admin-consent.jpg "Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted")
-
-Select **Consent on behalf of your organization**, and then select **Accept**.
-
-The prompt will appear again. Select **Consent on behalf of your organization** again, and then select **Accept** again.
-
-> [!NOTE]
-> If you're an admin and you'd like to instead grant individual approval to each user that needs permissions, use [these instructions to configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow).
-
-## I'm prompted to accept permissions multiple times when I start up the Connected Spaces web app
-
-When signing in to Connected Spaces web app for the first time, this prompt might appear more than once:
-
-![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
-
-If this happens, wait a few minutes for the permissions to be applied and then try to sign in again.
-
 ## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
  
 ![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
