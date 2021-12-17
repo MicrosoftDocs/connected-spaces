@@ -1,6 +1,6 @@
 ---
 author: alwinv
-description: Introduction to Dynamics 365 Connected Spaces Preview (Video)
+description: Introduction to Dynamics 365 Connected Spaces Preview (contains video)
 ms.author: alwinv
 ms.date: 12/07/2021
 ms.topic: article
