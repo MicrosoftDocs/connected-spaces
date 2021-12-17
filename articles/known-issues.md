@@ -12,33 +12,6 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-## Need admin approval when signing in to Connected Spaces for the first time
-
-When signing in to the Connected Spaces web app for the first time, you might see a prompt explaining that you need admin approval.
-
-![Screenshot of Need admin approval dialog box.](media/setup-need-admin-approval.jpg "Screenshot of Need admin approval dialog box")
-
-To give permission to the Connected Spaces web app, sign up with a user account that has Azure Active Directory Global Administrator permissions (or have your admin sign in with those permissions). 
-
-When you sign in to the Connected Spaces web app with the appropriate permissions, you'll see the **Permissions Requested** prompt.
-
-![Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted.](media/setup-admin-consent.jpg "Screenshot of Permissions requested dialog box with the Consent on behalf of your organization check box highlighted")
-
-Select **Consent on behalf of your organization**, and then select **Accept**.
-
-The prompt will appear again. Select **Consent on behalf of your organization** again, and then select **Accept** again.
-
-> [!NOTE]
-> If you're an admin and you'd like to instead grant individual approval to each user that needs permissions, use [these instructions to configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow).
-
-## I'm prompted to accept permissions multiple times when I start up the Connected Spaces web app
-
-When signing in to Connected Spaces web app for the first time, this prompt might appear more than once:
-
-![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
-
-If this happens, wait a few minutes for the permissions to be applied and then try to sign in again.
-
 ## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
  
 ![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
@@ -53,25 +26,27 @@ This setting may also be disabled if your user account doesn't have admin permis
 
 3.	Select **Enterprise applications**.
 
-4.	Select the **LiveAI** name link to view the application with this Application Id: 762320d4-bb27-47f4-bb73-826007f397dc.
+4. Select **Microsoft Applications" from the **Application Type** drop down list and select "Apply"
 
-5.	Select **Users and groups**.
+5.	Select the **Dynamics 365 Connected Store Flow Integration** name link to view the application.
 
-6.	Select **Add user/group**.
+6.	Select **Users and groups**.
 
-7.	Under **Users**, select **None Selected**. In the panel that opens:
+7.	Select **Add user/group**.
+
+8.	Under **Users**, select **None Selected**. In the panel that opens:
 
     1.	Select the user name you want to enable.
 
     2.	Select **Select** to confirm your choice.
 
-8.	Under **Select a role**, make sure “Administrators” is shown. If not, select **None Selected**, and then in the panel that opens:
+9.	Under **Select a role**, make sure “Administrators” is shown. If not, select **None Selected**, and then in the panel that opens:
 
     1.	Select **Administrators**.
 
     2.	Select **Select** to confirm your choice.
 
-9.	Select **Assign** at the bottom of the page.
+10.	Select **Assign** at the bottom of the page.
 
 Now you can sign back in to the Connected Spaces web app with the newly enabled account. The option should be enabled.
 
