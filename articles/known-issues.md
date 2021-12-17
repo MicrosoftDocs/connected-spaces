@@ -16,39 +16,9 @@ ms.reviewer: v-bholmes
  
 ![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
 
-If the **Save video data to the cloud** setting has been recently changed, it will be disabled for several days until our service has completed the requested change. Wait for a day or two and try again.
+If the **Save video data to the cloud** setting has been recently changed, it will be disabled for several days until our service has completed the requested change. Wait for a day or two and try again. 
 
-This setting may also be disabled if your user account doesn't have admin permissions for Dynamics 365 Connected Spaces Preview. To assign the admin role to your user account, contact your Azure Active Directory account administrator who has System Admin or Global Admin permissions, and then have them follow these steps:
-
-1.	Sign in to the [Azure Active Directory Admin Center](https://aad.portal.azure.com/) (the account must have System Admin or Global Admin permissions).
-
-2.	Select **Azure Active Directory**.
-
-3.	Select **Enterprise applications**.
-
-4. Select **Microsoft Applications" from the **Application Type** drop down list and select "Apply"
-
-5.	Select the **Dynamics 365 Connected Store Flow Integration** name link to view the application.
-
-6.	Select **Users and groups**.
-
-7.	Select **Add user/group**.
-
-8.	Under **Users**, select **None Selected**. In the panel that opens:
-
-    1.	Select the user name you want to enable.
-
-    2.	Select **Select** to confirm your choice.
-
-9.	Under **Select a role**, make sure “Administrators” is shown. If not, select **None Selected**, and then in the panel that opens:
-
-    1.	Select **Administrators**.
-
-    2.	Select **Select** to confirm your choice.
-
-10.	Select **Assign** at the bottom of the page.
-
-Now you can sign back in to the Connected Spaces web app with the newly enabled account. The option should be enabled.
+If you are already working with our team to set up your first edge gateway, let us team know and we can process the requested setting change.
 
 ## The Connected Spaces app is running in the wrong geographic region
 
