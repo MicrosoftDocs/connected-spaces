@@ -18,7 +18,7 @@ ms.reviewer: v-bholmes
 
 If the **Save video data to the cloud** setting has been recently changed, it will be disabled for several days until our service has completed the requested change. Wait for a day or two and try again. 
 
-If you are already working with our team to set up your first edge gateway, let us team know and we can process the requested setting change.
+If you are ready to set up your edge gateway and need to change this setting, please let your contact on our team know, and we can process the requested setting change directly.
 
 ## The Connected Spaces app is running in the wrong geographic region
 
