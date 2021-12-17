@@ -14,14 +14,7 @@ ms.reviewer: v-bholmes
 
 After you've [signed up for a free trial](trial-signup.md) and selected the **Launch Trial** button, you can set up Microsoft Dynamics 365 Connected Spaces Preview by using this procedure. 
 
-1. In the **Permissions requested** dialog box, select **Accept**.
-
-    ![Screenshot of Permissions requested dialog box.](media/setup-permissions-requested.jpg "Screenshot of Permissions requested dialog box")
-    
-    > [!NOTE]
-    > This dialog box may appear more than once. If this happens, wait a few minutes for the permissions to be applied, and then try to sign in again. [Learn more about known issues with the Permissions prompt](known-issues.md)
-
-   You'll see the Connected Spaces logo and a progress bar at the bottom of the screen, and then the Welcome page will appear. 
+1. You'll see the Connected Spaces logo and a progress bar at the bottom of the screen, and then the Welcome page will appear. 
 
 2. On the Welcome page, select **Get started**.
 
