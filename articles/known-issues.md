@@ -20,7 +20,7 @@ The minimum resolution required for Dynamics 365 Connected Spaces is 1024 x 1366
 
 You may see the following message when you try to sign up for a free trial: "Your company doesn't allow team members to sign up with their work email." 
 
-SCREEN SHOT GOES HERE
+![Screenshot of Let's get started dialog box showing error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box showing error message")
 
 To complete the trial sign-up, you'll need to work with your Azure Active Directory administrator and have them [sign up for the trial](trial-signup.md). 
 
