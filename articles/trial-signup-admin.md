@@ -2,21 +2,21 @@
 
 Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](trial-signup.md). Some companies restrict employees from using work email to sign up for trials, however. If that’s true  for your company, you'll see the following message when you try to sign up for the trial:
 
-SCREEN SHOT GOES HERE
+![Screenshot of Let's get started dialog box with error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box with error message")
 
-I this case, you'll need to work with your Azure Active Directory admin to sign up for the Connected Spaces trial, using the following procedure.
+In this case, you'll need to work with your Azure Active Directory admin to sign up for the Connected Spaces trial, using the following procedure.
 
 1. The System Admin or Global Admin will need to acquire a Connected Spaces viral license for their company by going to the following site: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
 
-    SCREEN SHOT GOES HERE
+    ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
   
-2. The System Admin or Global Admin can then assign viral licenses to any users that need to use the Connected Spaces web app, through their normal process on the 
-[Microsoft 365 admin portal](https://admin.microsoft.com/#/users).
+2. The System Admin or Global Admin can then assign viral licenses to any users that need to use the Connected Spaces web app, through their normal process in the 
+[Microsoft 365 admin center](https://admin.microsoft.com/#/users).
 
-    SCREEN SHOT GOES HERE
+    ![Screenshot of Microsoft 365 admin center.](media/admin-trial-signup-admin-portal.jpg "Screenshot of Microsoft 365 admin center")
  
 3. Then any user assigned a viral license can sign up by using the [Connected Spaces "Try for free" link](https://dynamics.microsoft.com/connected-spaces/overview/). 
 
-    SCREEN SHOT GOES HERE
+    ![Screenshot of Connected Spaces marketing page with Try for free link.](media/admin-trial-signup-try-for-free.jpg "Screenshot of Screenshot of Connected Spaces marketing page with Try for free link")
 
  
