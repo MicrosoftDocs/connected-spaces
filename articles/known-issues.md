@@ -16,7 +16,7 @@ ms.reviewer: v-bholmes
 
 The minimum resolution required for Dynamics 365 Connected Spaces is 1024 x 1366. If you use a device that has a lower resolution (for example, a mobile phone), screen items (scroll bars and buttons, for example) may not render properly. Apple iPad Pros have a screen resolution of 1024 x 1366. 
 
-## My company doesn't allow team members to sign up with work email
+## My company doesn't allow team members to sign up with a work email address
 
 You may see the following message when you try to sign up for a free trial: "Your company doesn't allow team members to sign up with their work email." 
 
