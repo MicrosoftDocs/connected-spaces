@@ -16,6 +16,14 @@ ms.reviewer: v-bholmes
 
 The minimum resolution required for Dynamics 365 Connected Spaces is 1024 x 1366. If you use a device that has a lower resolution (for example, a mobile phone), screen items (scroll bars and buttons, for example) may not render properly. Apple iPad Pros have a screen resolution of 1024 x 1366. 
 
+## My company doesn't allow team members to sign up with work email
+
+You may see the following message when you try to sign up for a free trial: "Your company doesn't allow team members to sign up with their work email." 
+
+SCREEN SHOT GOES HERE
+
+To complete the trial sign-up, you'll need to work with your Azure Active Directory administrator and have them [sign up for the trial](trial-signup.md). 
+
 ## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
  
 ![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
