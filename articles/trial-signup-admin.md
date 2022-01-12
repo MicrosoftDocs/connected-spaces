@@ -6,7 +6,7 @@ Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](t
 
 In this case, you'll need to work with your Azure Active Directory admin to sign up for the Connected Spaces trial, using the following procedure.
 
-1. The System Admin or Global Admin will need to acquire a Connected Spaces viral license for their company by going to the following site: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
+1. The System Admin or Global Admin will need to acquire a Dynamics 365 Connected Spaces viral license for their company by going to the following site: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
 
     ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
   
