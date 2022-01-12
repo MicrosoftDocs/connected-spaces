@@ -20,7 +20,7 @@ In this case, you'll need to work with your Azure Active Directory admin to sign
 
     ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
   
-2. The System Admin or Global Admin can then assign viral licenses to any users that need to use the Connected Spaces web app, through their normal process in the 
+2. The System Admin or Global Admin can then assign the viral license to any user that needs to use the Connected Spaces web app, through the normal process in the 
 [Microsoft 365 admin center](https://admin.microsoft.com/#/users).
 
     ![Screenshot of Microsoft 365 admin center.](media/admin-trial-signup-admin-portal.jpg "Screenshot of Microsoft 365 admin center")
