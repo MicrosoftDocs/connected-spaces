@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # Obtain a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
 
-Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](trial-signup.md). Some companies restrict employees from using work email to sign up for trials, however. If that’s true  for your company, a user will see the following message when they try to sign up for the trial:
+Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](trial-signup.md). Some companies restrict employees from using work email to sign up for trials, however. If that’s true  for your company, a user will see the following message when they try to sign up for the free trial:
 
 ![Screenshot of Let's get started dialog box with error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box with error message")
 
