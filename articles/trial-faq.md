@@ -34,3 +34,7 @@ All Dynamics 365 Connected Spaces Preview features are available for the trial.
 ### How long does the trial last?
 
 The Dynamics 365 Connected Spaces Preview trial lasts 180 days. 
+
+### What if my company doesn't allow me to sign up with my work email address?
+
+You can have your [Azure Active Directory admin assign a special license so you can sign up for the free trial](trial-signup-admin.md). 
