@@ -1,20 +1,20 @@
 ---
 author: alwinv
-description: Learn how to sign up as a system admin for a free trial of Dynamics 365 Connected Spaces Preview if you're not able to use your work email.
+description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
 ms.date: 12/09/2021
 ms.topic: article
-title: Sign up as a system admin for a free trial of Dynamics 365 Connected Spaces Preview
+title: Obtain a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Sign up as a system admin for a free trial of Dynamics 365 Connected Spaces Preview
+# Obtain a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
 
 Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](trial-signup.md). Some companies restrict employees from using work email to sign up for trials, however. If that’s true  for your company, you'll see the following message when you try to sign up for the trial:
 
 ![Screenshot of Let's get started dialog box with error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box with error message")
 
-In this case, you'll need to work with your Azure Active Directory admin to sign up for the Connected Spaces trial, using the following procedure.
+In this case, your Azure Active Directory admin will need to use the following procedure to obtain and assign a viral license so you can sign up for the free trial. 
 
 1. The System Admin or Global Admin will need to acquire a Dynamics 365 Connected Spaces viral license for their company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
 
