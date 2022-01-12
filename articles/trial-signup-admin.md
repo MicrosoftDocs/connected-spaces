@@ -15,7 +15,7 @@ In this case, you'll need to work with your Azure Active Directory admin to sign
 
     ![Screenshot of Microsoft 365 admin center.](media/admin-trial-signup-admin-portal.jpg "Screenshot of Microsoft 365 admin center")
  
-3. Then any user assigned a viral license can sign up by using the [Connected Spaces "Try for free" link](https://dynamics.microsoft.com/connected-spaces/overview/). 
+3. After a user is a assigned a viral license, they can sign up by using the [Connected Spaces "Try for free" link](https://dynamics.microsoft.com/connected-spaces/overview/). 
 
     ![Screenshot of Connected Spaces marketing page with Try for free link.](media/admin-trial-signup-try-for-free.jpg "Screenshot of Screenshot of Connected Spaces marketing page with Try for free link")
 
