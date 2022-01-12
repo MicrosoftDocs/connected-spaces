@@ -1,4 +1,4 @@
-## Sign up as a system admin for a free trial of Dynamics 365 Connected Spaces Preview
+# Sign up as a system admin for a free trial of Dynamics 365 Connected Spaces Preview
 
 Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](trial-signup.md). Some companies restrict employees from using work email to sign up for trials, however. If that’s true  for your company, you'll see the following message when you try to sign up for the trial:
 
