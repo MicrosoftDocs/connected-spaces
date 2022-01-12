@@ -22,7 +22,7 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 [email name associated with your Microsoft account](https://support.microsoft.com/windows/what-is-a-microsoft-account-4a7c48e9-ff5a-e9c6-5a5c-1a57d66c3bfa) and your contact information.
 
     > [!NOTE]
-    > If you see a message that says "Your company doesn't allow team members to sign up with their work email", [your Azure Active Directory admin can assign you a special license so you can sign up for the trial](trial-signup-admin-md).   
+    > If you see a message that says "Your company doesn't allow team members to sign up with their work email", [your Azure Active Directory admin can assign you a special license so you can sign up for the trial](trial-signup-admin.md).   
 
 3. After you select the **Launch Trial** button, [go to the instructions for setting up Dynamics 365 Connected Spaces Preview](setup.md). 
 
