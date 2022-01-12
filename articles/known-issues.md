@@ -22,7 +22,7 @@ You may see the following message when you try to sign up for a free trial: "You
 
 ![Screenshot of Let's get started dialog box showing error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box showing error message")
 
-To complete the trial sign-up, you'll need to work with your Azure Active Directory administrator and have them [sign up for the trial](trial-signup.md). 
+To complete the trial sign-up, [your Azure Active Directory administrator can assign you a special license so you can sign up for the trial](trial-signup-admin.md). 
 
 ## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
  
