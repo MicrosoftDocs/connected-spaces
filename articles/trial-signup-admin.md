@@ -21,7 +21,7 @@ In this case, you'll need to work with your Azure Active Directory admin to sign
     
 ## See also
 
-- [Sign up for a free trial of Dynamics 365 Connected Spaces](trial-signup.md)
+- [Sign up for a free Dynamics 365 Connected Spaces Preview trial](trial-signup.md)
 - [Trial FAQ](trial-faq.md)
 
  
