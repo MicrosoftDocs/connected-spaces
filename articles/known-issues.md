@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 01/11/2022
+ms.date: 01/13/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 
 ## When I connect a camera and configure a skill, screen items aren't rendering properly
 
-The minimum resolution required for Dynamics 365 Connected Spaces is 1024 x 1366. If you use a device that has a lower resolution (for example, a mobile phone), screen items (scroll bars and buttons, for example) may not render properly. Apple iPad Pro devices have a screen resolution of 1024 x 1366. 
+The minimum resolution required for Dynamics 365 Connected Spaces Preview is 1024 x 1366. If you use a device that has a lower resolution (for example, a mobile phone), screen items (scroll bars and buttons, for example) may not render properly. Apple iPad Pro devices have a screen resolution of 1024 x 1366. 
 
 ## My company doesn't allow team members to sign up with a work email address
 
