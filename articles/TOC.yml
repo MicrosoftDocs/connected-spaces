@@ -28,7 +28,7 @@
           href: ase-connect.md
         - name: Install cameras
           href: install-cameras.md
-    - name: Add a store and connect cameras 
+    - name: Add a store, connect cameras, and add skills 
       items:              
         - name: Create a store
           href: store-create.md
