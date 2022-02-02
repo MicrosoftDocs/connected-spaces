@@ -49,10 +49,10 @@
         "almostdunh",
         "AshleyWoodruff"
       ],
-      "breadcrumb_path": "/dynamics365/connected-store/breadcrumb/toc.json",
+      "breadcrumb_path": "/dynamics365/connected-spaces/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/connected-store-public",
+      "feedback_github_repo": "MicrosoftDocs/connected-spaces",
       "feedback_product_url": "https://experience.dynamics.com/ideas/categories/?forum=73076511-12de-e911-a814-000d3a4f1244&forumName=Dynamics%20365%20Connected%20Store",
       "recommendations": "true"
     },
