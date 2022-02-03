@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 01/13/2022
+ms.date: 02/03/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -24,22 +24,14 @@ You may see the following message when you try to sign up for a free trial: "You
 
 To complete the trial sign-up, [your Azure Active Directory administrator can assign you a special license so you can sign up for the trial](trial-signup-admin.md). 
 
-## I can’t turn the Save video data to the cloud setting to Off because the setting is disabled
- 
-![Screenshot of Save video data to the cloud setting.](media/known-issues-cloud-storage.jpg "Screenshot of Save video data to the cloud setting")
-
-If the **Save video data to the cloud** setting has been recently changed, it will be disabled for several days until our service has completed the requested change. Wait for a day or two and try again. 
-
-If you're ready to set up your edge gateway and need to change this setting, contact your Connected Spaces representative. We'll process the change directly.
-
 ## The Connected Spaces app is running in the wrong geographic region
 
 When using Connected Spaces, make sure you're using the web app in the geographic region that your company's AAD tenant and user accounts are in.
 
 | Your AAD account region | Connected Spaces web app URL |
 | --- | --- |
-| United States | https://us.ppe.connectedspaces.dynamics.com/ |
-| United Kingdom | https://uk.ppe.connectedspaces.dynamics.com/ |
+| United States | https://us.connectedspaces.dynamics.com/ |
+| United Kingdom | https://uk.connectedspaces.dynamics.com/ |
 
 Doing this will ensure that Connected Spaces will be able to process your customer data within your company's geographic region.
 
