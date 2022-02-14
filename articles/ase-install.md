@@ -93,8 +93,11 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 Use the following tutorials to install and connect Azure Stack Edge Pro:
 
-1. [Tutorial: Install Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-install)
+1. [Tutorial: Install Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-install). 
 
+   > [!IMPORTANT]
+   > Skip the section titled "For the Azure Stack Edge resource" under "Prerequisites" since we will activate the device in a different way, as described below
+ 
 2. [Tutorial: Connect to Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
 
 3. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
