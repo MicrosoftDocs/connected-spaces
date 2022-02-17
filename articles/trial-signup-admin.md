@@ -16,16 +16,40 @@ Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](t
 
 In this case, an Azure Active Directory admin will need to use the following procedure to obtain and assign a viral license so a user can sign up for the free trial. 
 
-1. The System Admin or Global Admin will need to acquire a Dynamics 365 Connected Spaces viral license for their company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
+1. The System Admin or Global Admin will need to temporarily turn off the viral license block policy by running these commands using Azure PowerShell:
+   ```
+   # Unblock/block adhoc (aka “Viral”) Licenses in Active Directory
+   # one time installation of the PowerShell module
+   Install-Module -Name MSOnline
+    
+   # sign in with azure aad account
+   $Msolcred = Get-credential
+   Connect-MsolService -Credential $MsolCred
+    
+   # Set Allow adhoc subscription TRUE
+   Get-MsolCompanyInformation | fl AllowAdHocSubscriptions
+   Set-MsolCompanySettings -AllowAdHocSubscriptions $true
+   Get-MsolCompanyInformation | fl AllowAdHocSubscriptions
+   ```
+
+2. The System Admin or Global Admin will need to acquire a Dynamics 365 Connected Spaces viral license for their company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
 
     ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
   
-2. The System Admin or Global Admin can then assign the viral license to any user that needs to use the Connected Spaces web app, through the normal process in the 
+3. The System Admin or Global Admin can then turn off the viral license block policy by running these commands using Azure PowerShell:
+
+   ```
+   # Set Allow adhoc subscription FALSE
+   Set-MsolCompanySettings -AllowAdHocSubscriptions $false
+   Get-MsolCompanyInformation | fl AllowAdHocSubscriptions
+   ```
+
+4. The System Admin or Global Admin can then assign the viral license to any user that needs to use the Connected Spaces web app, through the normal process in the 
 [Microsoft 365 admin center](https://admin.microsoft.com/#/users).
 
     ![Screenshot of Microsoft 365 admin center.](media/admin-trial-signup-admin-portal.jpg "Screenshot of Microsoft 365 admin center")
  
-3. After a user is assigned a viral license, they can sign up by using the [Connected Spaces "Try for free" link](https://dynamics.microsoft.com/connected-spaces/overview/). 
+5. After a user is assigned a viral license, they can sign up by using the [Connected Spaces "Try for free" link](https://dynamics.microsoft.com/connected-spaces/overview/). 
 
     ![Screenshot of Connected Spaces marketing page with Try for free link.](media/admin-trial-signup-try-for-free.jpg "Screenshot of Screenshot of Connected Spaces marketing page with Try for free link")
     
