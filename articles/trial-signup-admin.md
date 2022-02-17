@@ -16,6 +16,8 @@ Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](t
 
 In this case, an Azure Active Directory admin will need to use the following procedure to obtain and assign a viral license so a user can sign up for the free trial. 
 
+## Obtain and assign a viral license
+
 1. The System Admin or Global Admin will need to temporarily turn off the viral license block policy by running these commands using Azure PowerShell:
    ```
    # Unblock/block adhoc (aka “Viral”) Licenses in Active Directory
