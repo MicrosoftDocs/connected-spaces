@@ -8,16 +8,6 @@ title: Obtain and assign a viral license to enable users to sign up for a free t
 ms.reviewer: v-bholmes
 ---
 
----
-author: alwinv
-description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Connected Spaces Preview
-ms.author: alwinv
-ms.date: 01/13/2022
-ms.topic: article
-title: Obtain and assign a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
-ms.reviewer: v-bholmes
----
-
 # Obtain and assign a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
 
 Anyone can [sign up for a free trial of Dynamics 365 Connected Spaces Preview](trial-signup.md). Some companies restrict employees from using work email to sign up for trials, however. If that’s true  for your company, a user will see the following message when they try to sign up for the free trial.
