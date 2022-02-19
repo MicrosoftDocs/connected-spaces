@@ -21,7 +21,7 @@ In this case, an Azure Active Directory admin will need to use the following pro
 > [!NOTE]
 > You must be an Azure Active Directory System Admin or Global Admin to do this procedure.  
 
-1. Temporarily turn off the viral license block policy by running these commands using Azure PowerShell:
+1. Temporarily allow viral licenses by running these commands using Azure PowerShell:
    ```
    # Unblock/block adhoc (aka “Viral”) Licenses in Active Directory
    # one time installation of the PowerShell module
@@ -41,7 +41,7 @@ In this case, an Azure Active Directory admin will need to use the following pro
 
     ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
   
-3. Turn off the viral license block policy by running these commands using Azure PowerShell:
+3. Block viral licenses again by running these commands using Azure PowerShell:
 
    ```
    # Set Allow adhoc subscription FALSE
