@@ -33,7 +33,7 @@ The following table shows tips for installing and connecting the Azure Stack Edg
 
 ## Adding URLs to allow lists for firewalls
 
-In addition to using [URL patterns for firewall rules](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add the following URLs to use Connected Spaces.
+In addition to using [URL patterns for firewall rules](/azure/databox-online/azure-stack-edge-system-requirements#url-patterns-for-gateway-feature), customers that have a firewall that has allow lists of fully qualified domain names (FQDNs) will have to add the following URLs to use Connected Spaces.
 
 |URL|Description|
 |----------------------------------------------|-----------------------------------------------|
@@ -45,8 +45,8 @@ In addition to using [URL patterns for firewall rules](https://docs.microsoft.co
 
 See also these links for other URLs to add to the allowed list:
 
-- [URL patterns for gateway feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
-- [URL patterns for compute feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
+- [URL patterns for gateway feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
+- [URL patterns for compute feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
 
 ## Site preparation	
 This section covers what you need to know to prepare your site for Azure Stack Edge Pro installation and configuration.
@@ -93,11 +93,11 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 Use the following tutorials to install and connect Azure Stack Edge Pro:
 
-1. [Tutorial: Install Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-install)
+1. [Tutorial: Install Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-install)
 
-2. [Tutorial: Connect to Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
+2. [Tutorial: Connect to Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
 
-3. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
+3. [Tutorial: Configure network for Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-configure-network-compute-web-proxy)
 
    > [!IMPORTANT]
    > Stop after the **Configure network** section of this tutorial. **DO NOT COMPLETE THE ENABLE COMPUTE NETWORK SECTION.**
