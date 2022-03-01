@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 12/07/2021
+ms.date: 03/01/2021
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -94,6 +94,9 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 Use the following tutorials to install and connect Azure Stack Edge Pro:
 
 1. [Tutorial: Install Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-install)
+
+    > [!IMPORTANT]
+    > In the **Prerequisites** section of this tutorial, skip the **For the Azure Stack Edge resource** subsection since the device will be activated in a different way, as described below.
 
 2. [Tutorial: Connect to Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
 
