@@ -96,7 +96,7 @@ Use the following tutorials to install and connect Azure Stack Edge Pro:
 1. [Tutorial: Install Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-install)
 
     > [!IMPORTANT]
-    > In the **Prerequisites** section of this tutorial, skip the **For the Azure Stack Edge resource** section since the device will be activated in a different way, as describe below.
+    > In the **Prerequisites** section of this tutorial, skip the **For the Azure Stack Edge resource** section since the device will be activated in a different way, as described below.
 
 2. [Tutorial: Connect to Azure Stack Edge Pro with GPU](/azure/databox-online/azure-stack-edge-gpu-deploy-connect)
 
