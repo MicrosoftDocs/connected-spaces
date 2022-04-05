@@ -23,6 +23,10 @@ The trial duration is 180 days, and can include up to 25 cameras.
 
 ## Dynamics 365 Connected Spaces Preview-specific questions
 
+### How do I sign up for the trial without a Microsoft 365 tenant?
+
+You must sign up using an Azure Active Directory email account. You can [create a free Azure Active Directory tenant](https://signup.azure.com).
+
 ### How do I start using the trial?
 
 After you sign up for the trial and select the **Launch Trial** button, you can [set up Dynamics 365 Connected Store Preview](setup.md), and then you can start trying it out. To learn more, see the links in the [Trial signup](trial-signup.md) page.
@@ -35,6 +39,4 @@ All Dynamics 365 Connected Spaces Preview features are available for the trial.
 
 The Dynamics 365 Connected Spaces Preview trial lasts 180 days. 
 
-### What if my company doesn't allow me to sign up with my work email address?
 
-You can have your [Azure Active Directory admin assign a special license so you can sign up for the free trial](trial-signup-admin.md). 
