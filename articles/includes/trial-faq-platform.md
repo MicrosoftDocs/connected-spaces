@@ -1,5 +1,5 @@
 ## Sign-up
-<!---
+
 ### Which email address I should use to sign up?
 
 If your company has an existing relationship with Microsoft and you're allowed to do self-service trials, use your company email address. We'll establish your 
