@@ -65,7 +65,7 @@ Some common customer motivations for using Dynamics 365 Connected Spaces Preview
 
 The edge device includes computer vision skills (AI models) that detect human presence and movement from in-store camera video footage to derive data such as people count and dwell time. The derived data (or inference data) is sent to the Connected Spaces cloud to generate insights. The Connected Spaces service and web app is a multi-tenant software as a service (SaaS) that processes the data from the Connected Spaces edge gateway and correlates with other business data to generate aggregate and actionable insights for each customer. 
 
-- The goal of computer vision AI skills is exclusively to detect and locate human presence in video footage and outputs a bounding box around a human body. Connected Spaces AI skills that detect people and their dwell or wait times in certain zones of the store do not detect faces or discover the identities or demographics of shoppers and other individuals at your retail location. 
+- The goal of computer vision AI skills is exclusively to detect and locate human presence in video footage and output a bounding box around a human body. Connected Spaces AI skills that detect people and their dwell or wait times in certain zones of the store do not detect faces or discover the identities or demographics of shoppers and other individuals at your retail location. 
 
 - For each bounding box movement detected in a camera zone, the AI model outputs event data, including the following: 
 
