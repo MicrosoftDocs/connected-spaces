@@ -8,7 +8,7 @@ title: Transparency Note for Dynamics 365 Connected Spaces
 ms.reviewer: v-bholmes
 ---
 
-# Transparency Note for Dynamics 365 Connected Spaces 
+# Transparency Note for Dynamics 365 Connected Spaces Preview
 
 ## What is a Transparency Note? 
 
