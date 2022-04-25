@@ -1,10 +1,10 @@
 ---
 author: alwinv
-description: Learn about how Microsoft is putting AI principles into practice for Microsoft Dynamics 365 Connected Spaces
+description: Learn about how Microsoft is putting AI principles into practice for Microsoft Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
 ms.date: 04/25/2022
 ms.topic: article
-title: Transparency Note for Dynamics 365 Connected Spaces  
+title: Transparency Note for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
