@@ -45,7 +45,7 @@ People Tracking is used to detect when a person enters a **Region of Interest**.
 
 ### Example use cases 
 
-The preview release of Dynamics 365 Connected Spaces Preview enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
+The preview release of Dynamics 365 Connected Spaces enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
 - **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement as defined by time spent in front of display. 
 
