@@ -23,13 +23,11 @@ resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources).
 
 ## Introduction to Dynamics 365 Connected Spaces Preview
 
-Microsoft Dynamics 365 Connected Spaces brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, 
-Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
+Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces Preview delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
 
 ### The Basics of Dynamics 365 Connected Spaces Preview
 
-Dynamics 365 Connected Spaces aims to provide actionable analytics to brick-and-mortar retail businesses, analytics that support maintaining a healthy business and 
-improving in-store experiences for shoppers and associates. 
+Dynamics 365 Connected Spaces Preview aims to provide actionable analytics to brick-and-mortar retail businesses, analytics that support maintaining a healthy business and improving in-store experiences for shoppers and associates. 
 
 #### How it works
 
@@ -38,7 +36,7 @@ improving in-store experiences for shoppers and associates.
 |![Graphic of store cameras.](media/transparency-note-cameras.jpg "Graphic of store cameras")|![Screenshot of end cap display with overlaid zone.](media/transparency-note-zone-line-skills.jpg "Screenshot of end cap display with overlaid zone")|![Analytics screenshot.](media/transparency-note-analytics.jpg "Analytics screenshot")|
 |Customers connect the system to cameras installed in their physical space. Video from these cameras is processed on an edge device and may be stored in a tenanted cloud environment (if a customer chooses).|Users can specify zones or lines in the field of view of a camera. A **person tracking AI “skill”** detects when people enter, exit or cross into these areas. Aggregated metrics are stored in a tenanted database. | Users view metrics and configure alerts related to volume and timing of people crossing/entering lines and zones. The intended use of this data is to evaluate display effectiveness, queue length, and store occupancy. |
 
-Dynamics 365 Connected Spaces offers three out-of-box skills: **Display Effectiveness**, **Queue Management**, and **Shopper Analytics**. All three skills rely on an AI system called [Spatial Analysis](https://docs.microsoft.com/azure/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview) that ingests video and uses computer vision AI models to detect people and infer events when people interact with regions of interest. 
+Dynamics 365 Connected Spaces Preview offers three out-of-box skills: **Display Effectiveness**, **Queue Management**, and **Shopper Analytics**. All three skills rely on an AI system called [Spatial Analysis](https://docs.microsoft.com/azure/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview) that ingests video and uses computer vision AI models to detect people and infer events when people interact with regions of interest. 
 To understand how this works, it is important to define a set of key components that make up this pipeline. 
 
 Two key AI components of the system are **People Detection** and **People Tracking**. The People Detection component looks at a frame of video and determines whether there are people in the frame by generating a bounding box around a human body. The People Tracking component consumes the outputs from people detection and uses temporal logic to track the coordinates of a bounding box as a detected person moves around the user-defined space. It does not track people across multiple cameras, attempt to discover identities or demographics of detected people, or use facial recognition or gait tracking. If a person exits the field of view for longer than approximately one minute and then re-enters the view, the system will perceive them as a new person. 
@@ -47,7 +45,7 @@ People Tracking is used to detect when a person enters a **Region of Interest**.
 
 ### Example Use Cases 
 
-The preview release of Dynamics 365 Connected Spaces enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
+The preview release of Dynamics 365 Connected Spaces Preview enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
 - **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement as defined by time spent in front of display. 
 
@@ -55,7 +53,7 @@ The preview release of Dynamics 365 Connected Spaces enables the following scena
 
 - **Shopper analytics.** Understand traffic patterns into and around the store to allow retailers to plan for shift management and inventory. 
 
-Some common customer motivations for using Dynamics 365 Connected Spaces include: 
+Some common customer motivations for using Dynamics 365 Connected Spaces Preview include: 
 
 - Collecting observational datapoints and aggregated metrics about how people move through retail spaces. 
 
@@ -106,7 +104,7 @@ For computer vision AI models, several factors beyond core model accuracy can af
 
 - Cameras should be setup to yield high quality images, avoiding lighting conditions outside the recommended operating range that result in over or under exposure of images. 
 
-More detailed guidance on best practices for [drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones) and [camera placement](camera-placement-recommendations.md) is available in the Dynamics 365 Connected Spaces documentation. 
+More detailed guidance on best practices for [drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones) and [camera placement](camera-placement-recommendations.md) is available in the Dynamics 365 Connected Spaces Preview documentation. 
 
 ### Guidelines for choosing a use case  
 
@@ -132,7 +130,7 @@ More detailed guidance on best practices for [drawing skill zones](cameras-add-s
 
 ## Contact us 
 
-If you have any questions or comments, please post them in the [Dynamics 365 Connected Spaces Community Forums](https://community.dynamics.com/).  
+If you have any questions or comments, please post them in the [Dynamics 365 Connected Spaces Preview Community Forums](https://community.dynamics.com/).  
 
 ## About this document 
 
