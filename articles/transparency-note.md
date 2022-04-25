@@ -98,7 +98,7 @@ For computer vision AI models, several factors beyond core model accuracy can af
 
 - Camera placement should maximize the chance of a good view of people in the space and reduce the likelihood of occlusion.  
 
-- Often objects or people will block the view of a camera, occluding part of a scene. This will impact the accuracy of the system, especially if occlusions occur in a region of interest. The system has a limited ability to re-identify a person after they have been occluded. Cameras should be setup to minimize occlusions as much as possible. 
+- Often objects or people will block the view of a camera, occluding part of a scene. This will impact the accuracy of the system, especially if occlusions occur in a region of interest. The system has a limited ability to re-identify a person after they have been occluded. Cameras should be set up to minimize occlusions as much as possible. 
 
 - Zone and line placement designate a specific region of interest for generating insights. The region should be optimized to cover the largest area possible without including any area that you do not care about. Too small a region can result in unreliable data. 
 
