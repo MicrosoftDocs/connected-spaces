@@ -33,7 +33,7 @@ improving in-store experiences for shoppers and associates.
 
 #### How it works
 
-|Cameras|Zone & Line "Skills"|Analytics|
+|Cameras|Zone and line "skills"|Analytics|
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 |![Graphic of store cameras.](media/transparency-note-cameras.jpg "Graphic of store cameras")|![Screenshot of end cap display with overlaid zone.](media/transparency-note-zone-line-skills.jpg "Screenshot of end cap display with overlaid zone")|![Analytics screenshot.](media/transparency-note-analytics.jpg "Analytics screenshot")|
 |Customers connect the system to cameras installed in their physical space. Video from these cameras is processed on an edge device and may be stored in a tenanted cloud environment (if a customer chooses).|Users can specify zones or lines in the field of view of a camera. A **person tracking AI “skill”** detects when people enter, exit or cross into these areas. Aggregated metrics are stored in a tenanted database. | Users view metrics and configure alerts related to volume and timing of people crossing/entering lines and zones. The intended use of this data is to evaluate display effectiveness, queue length, and store occupancy. |
