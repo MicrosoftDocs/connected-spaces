@@ -31,7 +31,7 @@ Dynamics 365 Connected Spaces delivers real-time actionable recommendations that
 Dynamics 365 Connected Spaces aims to provide actionable analytics to brick-and-mortar retail businesses, analytics that support maintaining a healthy business and 
 improving in-store experiences for shoppers and associates. 
 
-How it works.
+#### How it works
 
 |Cameras|Zone & Line "Skills"|Analytics|
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
