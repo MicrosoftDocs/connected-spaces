@@ -47,7 +47,7 @@ People Tracking is used to detect when a person enters a **Region of Interest**.
 
 The preview release of Dynamics 365 Connected Spaces enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
-- **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement as defined by time spent in front of display. 
+- **Display effectiveness.** Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement as defined by time spent in front of the display. 
 
 - **Queue management.** Monitor queue wait time and queue lengths to improve shopper experience and provide informed insights for employee shift management. 
 
