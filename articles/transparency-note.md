@@ -25,7 +25,7 @@ resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources).
 
 Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces Preview delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
 
-### The Basics of Dynamics 365 Connected Spaces Preview
+### The basics of Dynamics 365 Connected Spaces Preview
 
 Dynamics 365 Connected Spaces Preview aims to provide actionable analytics to brick-and-mortar retail businesses, analytics that support maintaining a healthy business and improving in-store experiences for shoppers and associates. 
 
@@ -43,7 +43,7 @@ Two key AI components of the system are **People Detection** and **People Tracki
 
 People Tracking is used to detect when a person enters a **Region of Interest**. For Connected Spaces, a Region of Interest is either a user-defined polygonal zone or a line. When a person interacts with a Region of Interest, an event is generated that includes information about what occurred in the input video (but does not include any images or video). Events are aggregated to produce the analytics and actionable insights displayed in the Connected Spaces dashboards. 
 
-### Example Use Cases 
+### Example use cases 
 
 The preview release of Dynamics 365 Connected Spaces Preview enables the following scenarios to make retail store operations more efficient and improve customer experiences: 
 
@@ -59,7 +59,7 @@ Some common customer motivations for using Dynamics 365 Connected Spaces Preview
 
 - Leveraging analytics reports to optimize their retail spaces and plan operations. 
 
-## Characteristics and Limitations 
+## Characteristics and limitations 
 
 ### How AI works to produce insights  
 
