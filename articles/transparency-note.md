@@ -36,7 +36,7 @@ Dynamics 365 Connected Spaces Preview aims to provide actionable analytics to br
 |![Graphic of store cameras.](media/transparency-note-cameras.jpg "Graphic of store cameras")|![Screenshot of end cap display with overlaid zone.](media/transparency-note-zone-line-skills.jpg "Screenshot of end cap display with overlaid zone")|![Analytics screenshot.](media/transparency-note-analytics.jpg "Analytics screenshot")|
 |Customers connect the system to cameras installed in their physical space. Video from these cameras is processed on an edge device and may be stored in a tenanted cloud environment (if a customer chooses).|Users can specify zones or lines in the field of view of a camera. A **person tracking AI “skill”** detects when people enter, exit or cross into these areas. Aggregated metrics are stored in a tenanted database. | Users view metrics and configure alerts related to volume and timing of people crossing/entering lines and zones. The intended use of this data is to evaluate display effectiveness, queue length, and store occupancy. |
 
-Dynamics 365 Connected Spaces Preview offers three out-of-box skills: **Display effectiveness**, **Queue management**, and **Shopper analytics**. All three skills rely on an AI system called [Spatial Analysis](https://docs.microsoft.com/azure/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview) that ingests video and uses computer vision AI models to detect people and infer events when people interact with regions of interest. 
+Dynamics 365 Connected Spaces Preview offers three out-of-box skills: **Display effectiveness**, **Queue management**, and **Shopper analytics**. All three skills rely on an AI system called [Spatial Analysis](/azure/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview) that ingests video and uses computer vision AI models to detect people and infer events when people interact with regions of interest. 
 To understand how this works, it is important to define a set of key components that make up this pipeline. 
 
 Two key AI components of the system are **People Detection** and **People Tracking**. The People Detection component looks at a frame of video and determines whether there are people in the frame by generating a bounding box around a human body. The People Tracking component consumes the outputs from people detection and uses temporal logic to track the coordinates of a bounding box as a detected person moves around the user-defined space. It does not track people across multiple cameras, attempt to discover identities or demographics of detected people, or use facial recognition or gait tracking. If a person exits the field of view for longer than approximately one minute and then re-enters the view, the system will perceive them as a new person. 
@@ -126,7 +126,7 @@ More detailed guidance on best practices for [drawing skill zones](cameras-add-s
 
 [Microsoft principles for developing and deploying facial recognition technology](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/12/MSFT-Principles-on-Facial-Recognition.pdf) 
 
-[Microsoft Azure Learning courses on Responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/) 
+[Microsoft Azure Learning courses on Responsible AI](/learn/paths/responsible-ai-business-principles/) 
 
 ## Contact us 
 
