@@ -21,12 +21,12 @@ use Transparency Notes when developing or deploying your own system, or share th
 Microsoft’s Transparency Notes are part of a broader effort at Microsoft to put our AI Principles into practice. To find out more, visit [Microsoft’s responsible AI 
 resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources). 
 
-## Introduction to Dynamics 365 Connected Spaces 
+## Introduction to Dynamics 365 Connected Spaces Preview
 
 Microsoft Dynamics 365 Connected Spaces brings together computer vision and AI to help transform the retail store experience. By utilizing data from video cameras, 
 Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make retail store operations more efficient and improve customer experiences. 
 
-### The Basics of Dynamics 365 Connected Spaces 
+### The Basics of Dynamics 365 Connected Spaces Preview
 
 Dynamics 365 Connected Spaces aims to provide actionable analytics to brick-and-mortar retail businesses, analytics that support maintaining a healthy business and 
 improving in-store experiences for shoppers and associates. 
