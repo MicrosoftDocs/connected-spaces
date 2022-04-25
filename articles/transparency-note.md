@@ -102,7 +102,7 @@ For computer vision AI models, several factors beyond core model accuracy can af
 
 - Zone and line placement designate a specific region of interest for generating insights. The region should be optimized to cover the largest area possible without including any area that you do not care about. Too small a region can result in unreliable data. 
 
-- Cameras should be setup to yield high quality images, avoiding lighting conditions outside the recommended operating range that result in over or under exposure of images. 
+- Cameras should be set up to yield high-quality images, avoiding lighting conditions outside the recommended operating range that result in over or under exposure of images. 
 
 More detailed guidance on best practices for [drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones) and [camera placement](camera-placement-recommendations.md) is available in the Dynamics 365 Connected Spaces Preview documentation. 
 
