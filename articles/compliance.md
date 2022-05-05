@@ -27,7 +27,7 @@ Before using Dynamics 365 Connected Spaces, you must have all the proper rights 
 
 Microsoft is committed to six core principles for the responsible development and deployment of AI technologies: fairness, reliability and safety, privacy and security, inclusiveness, transparency and accountability. The principles are described at [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?rtc=1&activetab=pivot1%3aprimaryr6). 
 
-Consistent with these responsible AI principles, you should communicate with your customers about the purposes, strengths and limitations, and intended uses of Microsoft Dynamics 365 Connected Spaces. Review the [Dynamics 365 Connected Spaces Transparency Note](https://docs.microsoft.com/dynamics365/connected-spaces/transparency-note) to better understand how AI works in Dynamics 365 Connected Spaces and for more information on responsible use of this product. 
+Consistent with these responsible AI principles, you should communicate with your customers about the purposes, strengths and limitations, and intended uses of Microsoft Dynamics 365 Connected Spaces. Review the [Dynamics 365 Connected Spaces Transparency Note](transparency-note) to better understand how AI works in Dynamics 365 Connected Spaces and for more information on responsible use of this product. 
 
 If you have concerns, questions, or would like to learn more, we’d love to work with you. [Contact us](mailto:respinnovfeedback@microsoft.com).
 
