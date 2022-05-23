@@ -2,42 +2,73 @@
 author: kfrankc-ms
 description: Learn how to connect Azure Stack Edge to your network to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 12/07/2021
+ms.date: 05/24/2022
 ms.topic: article
-title: Connect Azure Stack Edge to your network for use with Dynamics 365 Connected Spaces Preview
+title: Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Connect Azure Stack Edge Pro (2 GPU) to your network for use with Dynamics 365 Connected Spaces Preview
+# Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
 
 After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to connect it to your network and configure the network for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you might want to contact them for support with this step. 
 
-## Initial setup
+> [!NOTE]
+> Contact your Connected Spaces Implementation Partner to add your Azure subscription ID to the Preview list.
 
-1. Follow [the Windows Remote Management instructions](/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to install Windows Remote Management in your environment.
+## Create a service principle
 
-2. Contact the Connected Spaces team to get the customized deployment scripts and executables. 
+1. Follow [the Windows Remote Management instructions](/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to verify that Windows Remote Management is installed and configured in your environment.
 
-    One of the files you'll receive from the Connected Spaces team is the device_settings.json file.
+2. Create a [service principal](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals#service-principal-object) in Azure Active Directory to use with Connected Spaces. To do this:
 
-    ![Windows Remote Management settings.](media/ase-connect-windows-remote-management.jpg "Windows Remote Management settings")
+    1. In the Azure Portal, select **Azure Active Directory**.
 
-3. Update the device_settings.json file with the values from the following table. 
+        SCREENSHOT GOES HERE
+        
+    2. Select **App registrations** on the left side of the screen, and then select **New registration**. 
+
+        SCREENSHOT GOES HERE
+        
+    3. In the **Register an application** screen, enter a name for the application, and then under **Supported account types**, select the **Accounts in this organizational directory only (Microsoft only - Single tenant)** option. 
+
+        SCREENSHOT GOES HERE
+
+        > [!NOTE]
+        > You can reuse the same service principal for multiple Azure Stack Edge devices. 
+
+## Add a gateway device
+
+1. In the Connected Spaces web app, select the **Devices** tab, and then select **Add gateway**. 
+
+    SCREENSHOT GOES HERE
+
+2. In the **Add device** screen, select **Next**.
+
+    SCREENSHOT GOES HERE
+
+3. Under **Add device details**, fill in the fields using the following information for assistance. 
  
-    |Field|Value|
+    |Field|Description|
     |------------------------------------------|-----------------------------------------------------------------------------------|
-    |AzureSubscriptionName|The Azure subscription name you created the resource group in|
-    |AzureResourceGroupName|The Azure resource group name you created the Azure Stack Edge resource in|
-    |AzureResourceDeviceName|The name of the Azure Stack Edge resource you created|
-    |DeviceSerialNumber|The serial number on the side of the physical device or the LocalUI of the device|
-    |DeviceIp|The IP address that your device is set to|
-    |KubernetesNodeIpRangeStart|The first of two sequential free IP addresses on your network|
-    |KubernetesNodeIpRangeEnd|The last of two sequential free IP addresses on your network|
-    |KubernetesServiceIp|Another free IP address on your network|
-    |ComputeNode|The number of compute nodes on your device; "2" is the default value.|
-    |ActivationKey|The key that was generated using the Azure resource|
+    |AzureTenantID|The ID of the directory/tenant for the Azure Account being used|  
+    |SubscriptionID|The ID of the Azure subscription to install Managed App| 
+    |ResourceGroupName|The name of the resource group to install Managed App| 
+    |DeviceIP|The local IP address of the Azure Stack Edge device (for example: 192.168.1.100)| 
+    |DeviceSerialNumber|The serial number for the device (listed on the side of the physical device) or the local UI on the device (accessible by using the IP address for the device).| 
+    |ComputeNode|The device interface number to install the compute node to, which should match the port number used to connect to the network (for example: 2)|
+    |KubernetesNodeIpRangeStart|The first IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
+    |KubernetesNodeIpRangeEnd|The second and last IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
+    |KubernetesServiceIp|A range of open IP addresses on the same network that kubernetes can use for service endpoints. This can be a range of 1 single IP address (for example: 192.168.1.104-192.168.1.104)| 
+    |Location|The location to create resources in (for example: eastus)| 
+    |Service Principal App ID|Application ID of the enterprise app from the [service principal step](#create-a-service-principle)| 
+    |Service Principal Object ID|Object ID of the enterprise app from the [service principal step](#create-a-service-principle)| 
+
+
+
+
+
 
 4. After filling in the field values, open a Powershell window as an administrator. 
 
