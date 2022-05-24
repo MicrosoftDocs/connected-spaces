@@ -48,50 +48,54 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     SCREENSHOT GOES HERE
 
-3. Under **Add device details**, fill in the fields using the following information for assistance. 
+3. Use the information in the following table to fill in the information in the **Add device details** screen. 
  
     |Field|Description|
     |------------------------------------------|-----------------------------------------------------------------------------------|
-    |AzureTenantID|The ID of the directory/tenant for the Azure Account being used|  
-    |SubscriptionID|The ID of the Azure subscription to install Managed App| 
-    |ResourceGroupName|The name of the resource group to install Managed App| 
-    |DeviceIP|The local IP address of the Azure Stack Edge device (for example: 192.168.1.100)| 
-    |DeviceSerialNumber|The serial number for the device (listed on the side of the physical device) or the local UI on the device (accessible by using the IP address for the device).| 
-    |ComputeNode|The device interface number to install the compute node to, which should match the port number used to connect to the network (for example: 2)|
-    |KubernetesNodeIpRangeStart|The first IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
-    |KubernetesNodeIpRangeEnd|The second and last IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
-    |KubernetesServiceIp|A range of open IP addresses on the same network that kubernetes can use for service endpoints. This can be a range of 1 single IP address (for example: 192.168.1.104-192.168.1.104)| 
+    |Azure Tenant ID|The ID of the directory/tenant for the Azure Account being used|  
+    |Subscription ID|The ID of the Azure subscription to install Managed App| 
+    |Resource Group Name|The name of the resource group to install Managed App| 
+    |Device IP|The local IP address of the Azure Stack Edge device (for example: 192.168.1.100)| 
+    |Device Serial Number|The serial number for the device (listed on the side of the physical device) or the local UI on the device (accessible by using the IP address for the device).| 
+    |Compute Node|The device interface number to install the compute node to, which should match the port number used to connect to the network (for example: 2)|
+    |Kubernetes Node IP Range Start|The first IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
+    |Kubernetes Node IP Range End|The second and last IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
+    |Kubernetes Service IP|A range of open IP addresses on the same network that kubernetes can use for service endpoints. This can be a range of 1 single IP address (for example: 192.168.1.104-192.168.1.104)| 
     |Location|The location to create resources in (for example: eastus)| 
-    |Service Principal App ID|Application ID of the enterprise app from the [service principal step](#create-a-service-principle)| 
+    |Service Principal Application ID|Application ID of the enterprise app from the [service principal step](#create-a-service-principle)| 
     |Service Principal Object ID|Object ID of the enterprise app from the [service principal step](#create-a-service-principle)| 
 
+    When you're done fill in the fields, select **Next**.
 
+    SCREENSHOT GOES HERE
 
+4. If all the conditions for the values are met, you'll see a message that says that "Connected Spaces is generating your Azure Stack Edge installation script." This script is specific for the network and device.
 
+    SCREENSHOT GOES HERE
 
+5.  After the script is generated, you'll see a message that says **Azure Stack Edgge script generated**. Select **Download script** to download and store it on a device that has access to the Azure Stack Edge device, either through remote access by being on the same network as the device or through a physical connection using an ethernet cable to the Azure Stack Edge device. The Azure Stack Edge activation script will be namee "AzureGatewayAcivationScript.ps1".
 
-4. After filling in the field values, open a Powershell window as an administrator. 
+    SCREENSHOT GOES HERE
 
-    > [!NOTE]
-    > You must have administrator privileges on your computer to open PowerShell. 
+6. Open a ‘Powershell Terminal’ as an administrator, go to the location where the file is saved, and then run the script. You’ll be prompted to sign in a few times. Sign in as the admin user that set up the Azure subscription.  
 
-     ![Screenshot of Windows PowerShell window.](media/ase-connect-powershell.jpg "Screenshot of Windows PowerShell window")
+    The script does the following: 
 
-5. Use the following command to change your directory to the customer folder containing the files that you requested in step 2.
+    1. Adds permission to the created service principal. 
 
-     ![Screenshot of cd command.](media/ase-connect-change-directory.jpg "Screenshot of cd command")
+    2. Launches Managed App, which creates resources in the customer sub. 
 
-6. Run the following command to kick off the script to configure and activate your device:
+    3. Downloads a compressed file containing an executable to support Azure Stack Edge activation. 
 
-    ./ase_up_customer.ps1
+    4. Activates the Azure Stack Edge device.
 
-7. When prompted to enter a password, enter the password that was used to set up the Azure Stack Edge device initially. 
+    5. Sets up the device for a Kubernetes Cluster. 
 
-8. When prompted to sign in to Azure, use the same credentials you used to create the resources in your subscription.
+    6. Initializes the Kubernetes environment. 
 
-    You'll know that the script is complete when the PowerShell window accepts input again. The last message you'll see from the script is: "Arc setup starting..."
+    7. Installs Arc. 
 
-9. After the script has completed, contact Microsoft to take over for the final steps to set up your environment. 
+    8. Prints a message of successful completion of this step.   
 
 ## Next step
 
