@@ -89,7 +89,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     4. Activates the Azure Stack Edge device.
 
-    5. Sets up the device for a Kubernetes Cluster. 
+    5. Sets up the device for a Kubernetes cluster. 
 
     6. Initializes the Kubernetes environment. 
 
