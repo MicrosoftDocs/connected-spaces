@@ -73,7 +73,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |Service Principal Application ID|Application ID of the enterprise app from the [service principal step](#create-a-service-principal).| 
     |Service Principal Object ID|Object ID of the enterprise app from the [service principal step](#create-a-service-principal).| 
 
-    When you're done filling in the fields, select **Next**.
+    When you've finished filling in the fields, select **Next**.
 
     ![XXX.](media/ase-activate-8.jpg "XXX")
 
