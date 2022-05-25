@@ -61,10 +61,10 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |Field|Description|
     |------------------------------------------|-----------------------------------------------------------------------------------|
     |Azure Tenant ID|The ID of the Azure Active Directory/tenant for the Azure Account being used|  
-    |Subscription ID|The ID of the Azure subscription which will be used for the Azure Stack Edge Device and related resources.| 
+    |Subscription ID|The ID of the Azure subscription which will be used for the Azure Stack Edge Device and related resources| 
     |Resource Group Name|The name of the resource group in the provided subscription to install the Managed App. Connected Spaces Preview uses [Azure Managed App](https://docs.microsoft.com/azure/azure-resource-manager/managed-applications/overview) to simplify the management of Azure resources needed for running the Connected Spaces Preview application. This resource group might already exist. If it doesn't exist, it will be created in the provided subscription.| 
     |Device IP|The local management IP address of the Azure Stack Edge device (for example: 192.168.1.100)| 
-    |Device Serial Number|The serial number for the device (listed on the side of the physical device) or the local UI on the device (accessible by using the IP address for the device).| 
+    |Device Serial Number|The serial number for the device (listed on the side of the physical device) or the local UI on the device (accessible by using the IP address for the device)| 
     |Compute Node|The device interface number to install the compute node to, which should match the port number used to connect to the network (for example: 2)|
     |Kubernetes Node IP Range Start|The first IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
     |Kubernetes Node IP Range End|The second and last IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device| 
