@@ -70,8 +70,8 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |Kubernetes Node IP Range End|The second and last IP address of two contiguous open IP addresses on the same network as the Azure Stack Edge device.| 
     |Kubernetes Service IP|A single open IP address on the same network as the Azure Stack Edge device. Ideally, this IP address is next to the previous Node IP values, to use for service endpoints. | 
     |Location|The location to create resources in (for example: eastus).| 
-    |Service Principal Application ID|Application ID of the enterprise app from the [service principal step](#create-a-service-principle).| 
-    |Service Principal Object ID|Object ID of the enterprise app from the [service principal step](#create-a-service-principle).| 
+    |Service Principal Application ID|Application ID of the enterprise app from the [service principal step](#create-a-service-principal).| 
+    |Service Principal Object ID|Object ID of the enterprise app from the [service principal step](#create-a-service-principal).| 
 
     When you're done filling in the fields, select **Next**.
 
