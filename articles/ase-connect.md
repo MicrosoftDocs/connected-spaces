@@ -39,7 +39,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
         ![XXX.](media/ase-activate-4.jpg "XXX")
         
-    5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (below).
+    5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (see below).
 
         ![XXX.](media/ase-activate-5.jpg "XXX")
 
