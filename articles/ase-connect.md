@@ -17,7 +17,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 > [!NOTE]
 > Contact your Connected Spaces Preview Implementation Partner to add your Azure subscription ID to the Preview list.
 
-## Create a service principle
+## Create a service principle object
 
 1. Follow [the Windows Remote Management instructions](/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to verify that Windows Remote Management is installed and configured on the laptop or desktop device you'll use during activation. 
 
