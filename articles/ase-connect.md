@@ -25,23 +25,23 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     1. In the Azure Portal, select **Azure Active Directory**.
 
-        ![XXX.](media/ase-activate-1.jpg "XXX")
+        ![Screenshot of Azure Portal with Azure Active Directory command highlighted.](media/ase-activate-1.jpg "Screenshot of Azure Portal with Azure Active Directory command highlighted")
         
     2. Select **App registrations** on the left side of the screen, and then select **New registration**. 
 
-        ![XXX.](media/ase-activate-2.jpg "XXX")
+        ![Screenshot of App registrations screen with New registration command highlighted.](media/ase-activate-2.jpg "Screenshot of App registrations screen with New registration command highlighted")
         
     3. In the **Register an application** screen, enter a name for the application in the **Name** field, and then under **Supported account types**, select the **Accounts in this organizational directory only (Microsoft only - Single tenant)** option. 
 
-        ![XXX.](media/ase-activate-3.jpg "XXX")
+        ![Screenshot of Register an application screen with appropriate option highlighted.](media/ase-activate-3.jpg "Screenshot of Register an application screen with appropriate option highlighted")
         
     4. Go to the enterprise application that's created by the application registration. The link for the application is on the **Overview** tab in the **Managed application** field. 
 
-        ![XXX.](media/ase-activate-4.jpg "XXX")
+        ![Screenshot that highlights the Overview tab and Managed application field.](media/ase-activate-4.jpg "Screenshot that highlights the Overview tab and Managed application field")
         
     5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (see below).
 
-        ![XXX.](media/ase-activate-5.jpg "XXX")
+        ![Screenshot highlighting the Application ID and Object ID fields.](media/ase-activate-5.jpg "Screenshot highlighting the Application ID and Object ID fields")
 
         > [!TIP]
         > You can reuse the same service principal for multiple Azure Stack Edge devices. 
@@ -50,11 +50,11 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 1. In the Connected Spaces Preview web app, select the **Devices** tab, and then select **Add gateway**. 
 
-   ![XXX.](media/ase-activate-6.jpg "XXX")
+   ![Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted.](media/ase-activate-6.jpg "Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted")
 
 2. In the first screen of the **Add device** wizard, select **Next**.
 
-    ![XXX.](media/ase-activate-7.jpg "XXX")
+    ![Screenshot of first screen of Add device wizard.](media/ase-activate-7.jpg "Screenshot of first screen of Add device wizard")
 
 3. In the **Add device details** screen, use the information in the following table to fill in the fields. 
  
@@ -75,19 +75,19 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     When you've finished filling in the fields, select **Next**.
 
-    ![XXX.](media/ase-activate-8.jpg "XXX")
+    ![Screenshot of second screen of Add device wizard.](media/ase-activate-8.jpg "Screenshot of second screen of Add device wizard")
 
 4. If all the conditions for the values are met, you'll see a message that says "Connected Spaces is generating your Azure Stack Edge installation script." This script is specific for the network and device.
 
-   ![XXX.](media/ase-activate-9.jpg "XXX")
+   ![Screenshot of third screen of Add device wizard.](media/ase-activate-9.jpg "Screenshot of third screen of Add device wizard")
 
 5.  After the script is generated, you'll see a message that says "Azure Stack Edge script generated." Select **Download script** to download the script and store it on a device (for example, a laptop or desktop) that has access to the Azure Stack Edge device. Access can be through remote access (on the same network as the device) or through a physical connection using an ethernet cable to the Azure Stack Edge device. 
 
-    ![XXX.](media/ase-activate-10.jpg "XXX")
+    ![Screenshot of fourth screen of Add device wizard.](media/ase-activate-10.jpg "Screenshot of fourth screen of Add device wizard")
 
     The Azure Stack Edge activation script is named **AzureGatewayActivationScript.ps1**.
 
-    ![XXX.](media/ase-activate-11.jpg "XXX")
+    ![Screenshot of file name.](media/ase-activate-11.jpg "Screenshot of file name")
 
 6. Open a ‘Powershell Terminal’ as an administrator, go to the location where the file is saved, and then run the script. You’ll be prompted to sign in a few times. Sign in as the admin user that set up the Azure subscription.  
 
