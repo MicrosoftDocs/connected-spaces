@@ -35,7 +35,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
         ![XXX.](media/ase-activate-3.jpg "XXX")
         
-    4. Go to the enterprise application that's created by the application registration. The link is on the **Overview** tab in the **Managed application** field. 
+    4. Go to the enterprise application that's created by the application registration. The link for the application is on the **Overview** tab in the **Managed application** field. 
 
         ![XXX.](media/ase-activate-4.jpg "XXX")
         
