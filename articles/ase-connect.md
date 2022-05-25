@@ -89,7 +89,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     ![Screenshot of file name.](media/ase-activate-11.jpg "Screenshot of file name")
 
-6. Open a ‘Powershell Terminal’ as an administrator, go to the location where the file is saved, and then run the script. You’ll be prompted to sign in a few times. Sign in as the admin user that set up the Azure subscription.  
+6. Open a PowerShell Terminal as an administrator, go to the location where the file is saved, and then run the script. You’ll be prompted to sign in a few times. Sign in as the admin user that set up the Azure subscription.  
 
     The script does the following: 
 
