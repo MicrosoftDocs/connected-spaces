@@ -31,7 +31,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
         ![XXX.](media/ase-activate-2.jpg "XXX")
         
-    3. In the **Register an application** screen, enter a name for the application, and then under **Supported account types**, select the **Accounts in this organizational directory only (Microsoft only - Single tenant)** option. 
+    3. In the **Register an application** screen, enter a name for the application in the **Name** field, and then under **Supported account types**, select the **Accounts in this organizational directory only (Microsoft only - Single tenant)** option. 
 
         ![XXX.](media/ase-activate-3.jpg "XXX")
         
