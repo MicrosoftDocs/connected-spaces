@@ -93,11 +93,11 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     The script does the following: 
 
-    1. Adds required permissions to the provided service principal. 
+    - Adds required permissions to the provided service principal. 
 
-    2. Creates a managed application in the provided subscription, which will be used in conjunction with the Connected Spaces Preview application. 
+    - Creates a managed application in the provided subscription, which will be used in conjunction with the Connected Spaces Preview application. 
 
-    3. Activates the Azure Stack Edge device and makes it ready to run the Connected Spaces Preview workload.
+    - Activates the Azure Stack Edge device and prepares it to run the Connected Spaces Preview workload.
 
 When the script has finished running, you'll see a message indicating that the activation of the Azure Stack Edge device is complete. Contact your Connected Spaces Implementation Partner for further information on adding the activated Azure Stack Edge device to the preview list. 
 
