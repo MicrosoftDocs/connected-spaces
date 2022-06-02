@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to activate Azure Stack Edge Pro to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 05/26/2022
+ms.date: 06/02/2022
 ms.topic: article
 title: Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -60,7 +60,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
  
     |Field|Description|
     |------------------------------------------|-----------------------------------------------------------------------------------|
-    |Azure Tenant ID|The ID of the Azure Active Directory/tenant for the Azure Account being used.|  
+    |Azure Tenant ID|The ID of the Azure Active Directory/tenant for the Azure account being used.|  
     |Subscription ID|The ID of the Azure subscription which will be used for the Azure Stack Edge device and related resources.| 
     |Resource Group Name|The name of the resource group in the provided subscription to install the managed application. Connected Spaces Preview uses [Azure managed applications](https://docs.microsoft.com/azure/azure-resource-manager/managed-applications/overview) to simplify the management of Azure resources needed for running the Connected Spaces Preview application. This resource group might already exist. If it doesn't exist, it will be created in the provided subscription.| 
     |Device IP|The local management IP address of the Azure Stack Edge device (for example: 192.168.1.100).| 
