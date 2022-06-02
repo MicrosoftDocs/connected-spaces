@@ -81,7 +81,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
    ![Screenshot of third screen of Add device wizard.](media/ase-activate-9.jpg "Screenshot of third screen of Add device wizard")
 
-5.  After the script is generated, you'll see a message that says "Azure Stack Edge script generated". Select **Download script** to download the script and store it on a device (for example, a laptop or desktop) that has access to the Azure Stack Edge device. Access can be through remote access (on the same network as the device) or through a physical connection using an ethernet cable connected to the Azure Stack Edge device. 
+5.  After the script is generated, you'll see a message that says "Azure Stack Edge script generated". Select **Download script** to download the script and store it on a device (for example, a laptop or desktop) that has access to the Azure Stack Edge device. Access can be through remote access (on the same network as the device) or through a physical connection (using an ethernet cable connected to the Azure Stack Edge device). 
 
     ![Screenshot of fourth screen of Add device wizard.](media/ase-activate-10.jpg "Screenshot of fourth screen of Add device wizard")
 
