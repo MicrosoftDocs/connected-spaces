@@ -95,7 +95,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
     - Adds required permissions to the provided service principal. 
 
-    - Creates a managed application in the provided subscription, which will be used in conjunction with the Connected Spaces Preview application. 
+    - Creates a managed application in the provided subscription that will be used in conjunction with the Connected Spaces Preview application. 
 
     - Activates the Azure Stack Edge device and prepares it to run the Connected Spaces Preview workload.
 
