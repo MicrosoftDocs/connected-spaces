@@ -21,7 +21,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 1. Follow [the Windows Remote Management instructions](/windows/win32/winrm/installation-and-configuration-for-windows-remote-management#quick-default-configuration) to verify that Windows Remote Management is installed and configured correctly on the laptop or desktop device you'll use during activation. 
 
-2. Create a [service principal](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals#service-principal-object) in Azure Active Directory to use with Connected Spaces Preview. To do this:
+2. Create a [service principal](/azure/active-directory/develop/app-objects-and-service-principals#service-principal-object) in Azure Active Directory to use with Connected Spaces Preview. To do this:
 
     1. In the Azure Portal, select **Azure Active Directory**.
 
@@ -62,7 +62,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     |------------------------------------------|-----------------------------------------------------------------------------------|
     |Azure Tenant ID|The ID of the Azure Active Directory/tenant for the Azure account being used.|  
     |Subscription ID|The ID of the Azure subscription that will be used for the Azure Stack Edge device and related resources.| 
-    |Resource Group Name|The name of the resource group in the provided subscription to install the managed application. Connected Spaces Preview uses [Azure managed applications](https://docs.microsoft.com/azure/azure-resource-manager/managed-applications/overview) to simplify the management of Azure resources needed for running the Connected Spaces Preview application. This resource group might already exist. If it doesn't exist, it will be created in the provided subscription.| 
+    |Resource Group Name|The name of the resource group in the provided subscription to install the managed application. Connected Spaces Preview uses [Azure managed applications](/azure/azure-resource-manager/managed-applications/overview) to simplify the management of Azure resources needed for running the Connected Spaces Preview application. This resource group might already exist. If it doesn't exist, it will be created in the provided subscription.| 
     |Device IP|The local management IP address of the Azure Stack Edge device (for example: 192.168.1.100).| 
     |Device Serial Number|The serial number for the device (listed on the side of the physical device) or the local UI on the device (accessible by using the IP address for the device).| 
     |Compute Node|The device interface number to install the compute node to, which should match the port number used to connect to the network (for example: 2).|
