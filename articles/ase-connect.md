@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to activate Azure Stack Edge Pro to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 06/02/2022
+ms.date: 06/23/2022
 ms.topic: article
 title: Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -90,6 +90,9 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
     ![Screenshot of file name.](media/ase-activate-11.jpg "Screenshot of file name")
 
 6. Open a PowerShell Terminal as an administrator, go to the location where the file is saved, and then run the script. You’ll be prompted to sign in a few times. Sign in as the admin user that set up the Azure subscription.  
+
+    > [!IMPORTANT]
+    > The account that's used to sign in to run the script must have [Owner permissions](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles#owner) for the subscription that's configured in Step 3.
 
     The script does the following: 
 
