@@ -92,7 +92,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 6. Open a PowerShell Terminal as an administrator, go to the location where the file is saved, and then run the script. You’ll be prompted to sign in a few times. Sign in as the admin user that set up the Azure subscription.  
 
     > [!IMPORTANT]
-    > The account that's used to sign in to run the script must have [Owner permissions](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles#owner) for the subscription that's configured in Step 3.
+    > The account that's used to sign in to run the script must have [Owner permissions](/azure/role-based-access-control/built-in-roles#owner) for the subscription that's configured in Step 3.
 
     The script does the following: 
 
