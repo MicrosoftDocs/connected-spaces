@@ -18,7 +18,7 @@ This article describes how to install and configure cameras to use with Microsof
 
 Connected Spaces Preview supports standard IP cameras that meet the following requirements:
 
-- Can provide a Real-Time Streaming Protocol (RTSP) stream to Connected Spaces Preview
+- Can provide a Real-Time Streaming Protocol (RTSP) stream 
 
 - Use the H.264 or M-JPEG codec standard
 
