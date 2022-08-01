@@ -25,7 +25,7 @@ Connected Spaces Preview supports standard IP cameras that meet the following re
 > [!NOTE]
 > Currently, Connected Spaces Preview does not support fisheye or panoramic cameras that don’t support on-camera dewarping.
 
-Most Connected Spaces customers can use their existing security cameras. Microsoft supports a variety of cameras, including Axis, Bosch, and Sony. Validated camera models include Axis M5075 PTZ, Axis M3065-V, Axis M5065, Axis P3324-V Mk II, and Axis P3325-V Mk II. To get the best analytics results, follow the guidelines in [Camera placement suggestions](camera-placement-recommendations.md).
+Most Connected Spaces Preview customers can use their existing security cameras. Microsoft supports a variety of cameras, including Axis, Bosch, and Sony. Validated camera models include Axis M5075 PTZ, Axis M3065-V, Axis M5065, Axis P3324-V Mk II, and Axis P3325-V Mk II. To get the best analytics results, follow the guidelines in [Camera placement suggestions](camera-placement-recommendations.md).
    
 ## Install a camera	
 
