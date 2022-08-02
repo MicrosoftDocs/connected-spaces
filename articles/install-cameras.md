@@ -16,7 +16,7 @@ This article describes how to install and configure cameras to use with Microsof
 
 ## Supported cameras
 
-Connected Spaces Preview supports standard IP cameras that meet the following requirements:
+Connected Spaces Preview supports standard IP cameras that:
 
 - Can provide a Real-Time Streaming Protocol (RTSP) stream 
 
