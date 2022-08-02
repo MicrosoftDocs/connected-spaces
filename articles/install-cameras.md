@@ -23,7 +23,7 @@ Connected Spaces Preview supports standard IP cameras that:
 - Use the H.264 or M-JPEG codec standard
 
 > [!NOTE]
-> Currently, Connected Spaces Preview supports only fisheye or panoramic cameras with on-camera dewarping capabilities.
+> If you're using a fisheye or panoramic-type camera, the camera must have on-camera dewarping capabilities.
 
 Connected Spaces Preview supports a variety of cameras, including Axis, Bosch, and Sony. Validated camera models include Axis M5075 PTZ, Axis M3065-V, Axis M5065, Axis P3324-V Mk II, and Axis P3325-V Mk II. Most Connected Spaces Preview customers are able to use their existing security cameras. To get the best analytics results, follow the guidelines in [Camera placement suggestions](camera-placement-recommendations.md).
    
