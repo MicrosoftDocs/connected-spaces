@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to install LP cameras to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 12/07/2021
+ms.date: 08/08/2022
 ms.topic: article
 title: Install a camera to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -12,25 +12,20 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-This article describes how to install and configure Loss Prevention (LP) cameras to use with Microsoft Dynamics 365 Connected Spaces Preview.
+This article describes how to install and configure cameras to use with Microsoft Dynamics 365 Connected Spaces Preview.
 
 ## Supported cameras
 
-Dynamics 365 Connected Spaces supports the following LP cameras:
+Connected Spaces Preview supports standard IP cameras that:
 
-- Axis:
+- Can provide a Real-Time Streaming Protocol (RTSP) stream 
 
-   - M3045-V (must have 9.60.1 or later firmware)
-   
-   - M3065-V
-   
-   - M5065 
-   
-   - P3224-V Mk II
-   
-   - P3225-V Mk II
-   
-   - M3047-P
+- Use the H.264 or M-JPEG codec standard
+
+> [!NOTE]
+> If you're using a fisheye or panoramic-type camera, the camera must have on-camera dewarping capabilities.
+
+Connected Spaces Preview supports a variety of cameras, including Axis, Bosch, and Sony. Validated camera models include Axis M5075 PTZ, Axis M3065-V, Axis M5065, Axis P3324-V Mk II, and Axis P3325-V Mk II. Most Connected Spaces Preview customers are able to use their existing security cameras. To get the best analytics results, follow the guidelines in [Camera placement suggestions](camera-placement-recommendations.md).
    
 ## Install a camera	
 
