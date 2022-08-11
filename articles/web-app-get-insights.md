@@ -125,7 +125,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 It's helpful to be able to compare skill data from the current period to a previous period to determine trends in your space. Connected Spaces does this for you automatically when you select a date range. For example, in the following graph, the blue line shows the user-selected data range; the gray dotted line shows the previous equivalent date range.
 
-SCREENSHOT GOES HERE
+![Screenshot showing Current period range and Previous period range.](media/current-previous-period.JPG "Screenshot showing Current period range and Previous period range")
 
 To display just the **Current period** data or just the **Previous period** data, select the label for the data you want to remove.
 
@@ -135,7 +135,7 @@ GIF GOES HERE
 
 The previous date range is selected as the range of equivalent length in the week or weeks that immediately precede the current range. This range will always start and end on the same days of the week. For example, if the selected range is Tuesday, February 22 to Friday, February 25, the range of comparison will be Tuesday, February 15 to Friday, February 18.
 
-SCREENSHOT GOES HERE
+![Screenshot of calendar showing two date ranges.](media/previous-period-calculation.JPG "Screenshot of calendar showing two date ranges")
 
 
 
