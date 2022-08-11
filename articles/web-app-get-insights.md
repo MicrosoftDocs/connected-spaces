@@ -123,7 +123,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ## Compare two sets of data for a skill type
 
-It's helpful to be able to compare skill data from the current period to a previous period to determine trends in your space. Connected Spaces does this for you automatically when you select a date range. For example, in the following graph, the blue line shows the user-selected date range; the gray dotted line shows the previous equivalent date range.
+It's helpful to be able to compare skill data from the current period to a previous period to determine trends in your space. Connected Spaces does this for you automatically when you select a date range in a graph. For example, in the following graph, the blue line shows the user-selected date range; the gray dotted line shows the previous equivalent date range.
 
 ![Screenshot showing Current period range and Previous period range.](media/current-previous-period.JPG "Screenshot showing Current period range and Previous period range")
 
