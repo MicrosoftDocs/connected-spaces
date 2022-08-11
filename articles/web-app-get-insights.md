@@ -129,7 +129,7 @@ It's helpful to be able to compare skill data from the current period to a previ
 
 To display just the current period data or just the previous period data, select the label (**Current period** or **Previous period** for the data that you want to remove.
 
-![Animation showing current period data and previous period data being removed from the chart.](media/compare-line.gif "Animation showing current period data and previous period data being removed from the chart")
+![Animation showing current period data and previous period data being removed from the chart.](media/compareline.gif "Animation showing current period data and previous period data being removed from the chart")
 
 ### How is the previous period calculated?
 
