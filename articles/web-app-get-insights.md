@@ -127,7 +127,7 @@ It's helpful to be able to compare skill data from the current period to a previ
 
 ![Screenshot showing Current period range and Previous period range.](media/current-previous-period.JPG "Screenshot showing Current period range and Previous period range")
 
-To display just the current period data or just the previous period data, select the label (**Current period** or **Previous period** for the data you want to remove.
+To display just the current period data or just the previous period data, select the label (**Current period** or **Previous period** for the data that you want to remove.
 
 GIF GOES HERE
 
