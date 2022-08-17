@@ -32,6 +32,8 @@
           href: install-cameras.md
     - name: Add a store, connect cameras, and add skills 
       items:              
+        - name: Get started with the web app
+          href: home-page.md
         - name: Create a store
           href: store-create.md
         - name: Connect a camera to the gateway
