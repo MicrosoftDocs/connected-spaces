@@ -8,7 +8,7 @@ The Dynamics 365 Connected Spaces web app [works together with the Azure Stack E
 
 - [Add skills to collect data](cameras-add-skills.md)
 
-- [Configure alerts]()
+- [Set up alerts]()
 
 - [Get insights on your store](web-app-get-insights.md)
 
