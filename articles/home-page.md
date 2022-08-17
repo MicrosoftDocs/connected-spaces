@@ -22,4 +22,4 @@ The Home page also provides links to videos and other helpful information to hel
 
 ## See also
 
-- [How Connected Spaces works](how-cs-works.md)
+- [How Connected Spaces Preview works](how-cs-works.md)
