@@ -6,7 +6,7 @@ The Dynamics 365 Connected Spaces web app [works together with the Azure Stack E
 
 - [Connect cameras to your Azure Stack Edge gateway](cameras-connect.md)
 
-- [Add camera skills to collect data](cameras-add-skills.md)
+- [Add skills to collect data](cameras-add-skills.md)
 
 - [Configure alerts]()
 
