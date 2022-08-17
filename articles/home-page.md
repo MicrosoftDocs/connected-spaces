@@ -2,7 +2,7 @@
 
 # Get started with the Dynamics 365 Connected Spaces Preview web app
 
-With the Dynamics 365 Connected Spaces Preview web app, you can:
+You can use the Dynamics 365 Connected Spaces Preview web app to:
 
 - [Connect cameras to your Azure Stack Edge Pro gateway](cameras-connect.md)
 
