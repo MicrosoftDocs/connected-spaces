@@ -12,7 +12,7 @@ You can use the Dynamics 365 Connected Spaces Preview web app to:
 
 - [Get insights on your store](web-app-get-insights.md)
 
-- Access store setttings (store name, time zone, max occupancy, and address)
+- [Set store hours and access other store settings](web-app-set-operating-hours.md)
 
 The web app Home page provides links for all of the above tasks, which makes it easy to get started.
 
