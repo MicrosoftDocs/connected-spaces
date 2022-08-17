@@ -4,7 +4,7 @@
 
 The Dynamics 365 Connected Spaces web app [works together with the Azure Stack Edge gateway, networked cameras, and the Azure Cloud Service](how-cs-works.md) to provide you with insights on your connected store or space. You can use the Dynamics 365 Connected Spaces Preview web app to:
 
-- [Connect cameras to your Azure Stack Edge Pro gateway](cameras-connect.md)
+- [Connect cameras to your Azure Stack Edge gateway](cameras-connect.md)
 
 - [Add camera skills to collect data](cameras-add-skills.md)
 
