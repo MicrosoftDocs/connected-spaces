@@ -18,4 +18,8 @@ The web app Home page provides links for all of the above tasks, which makes it 
 
 ![Screenshot of Connected Spaces Preview web app home page.](media/home-page.JPG "Screenshot of Connected Spaces Preview web app home page")
 
-The Home page also provides links to videos and other helpful information for your customers and employees. 
+The Home page also provides links to videos and other helpful information to help you build trust with your customers and employees. 
+
+## See also
+
+- [How Connected Spaces works](how-cs-works.md)
