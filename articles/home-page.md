@@ -6,7 +6,7 @@ With the Dynamics 365 Connected Spaces Preview web app, you can:
 
 - [Connect cameras to your Azure Stack Edge Pro gateway](cameras-connect.md)
 
-- [Add camera skills](cameras-add-skills.md)
+- [Add camera skills to collect data](cameras-add-skills.md)
 
 - [Configure alerts]()
 
