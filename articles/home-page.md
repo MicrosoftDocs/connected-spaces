@@ -10,7 +10,7 @@ You can use the Dynamics 365 Connected Spaces Preview web app to:
 
 - [Configure alerts]()
 
-- [Get insights using the Analytics page](web-app-get-insights.md)
+- [Get insights on your store](web-app-get-insights.md)
 
 - Access setttings
 
