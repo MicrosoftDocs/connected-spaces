@@ -12,7 +12,7 @@ The Dynamics 365 Connected Spaces web app [works together with the Azure Stack E
 
 - [Get insights on your store](web-app-get-insights.md)
 
-- [Set store hours and access other store settings](web-app-set-operating-hours.md)
+- [Set store operating hours or access other store settings](web-app-set-operating-hours.md)
 
 The web app Home page provides links for all of the above tasks, which makes it easy to get started.
 
