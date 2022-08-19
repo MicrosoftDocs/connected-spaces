@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 08/18/2022
+ms.date: 08/19/2022
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -42,12 +42,13 @@ In addition to using [URL patterns for firewall rules](/azure/databox-online/azu
 |'https://csppe*.azurewebsites.net'|Provides access to the Connected Spaces reality services|
 |'https://csprod*azurewebsites.net'|Provides access to the Connected Spaces reality services|
 |'https://dev.azure.com/proddynamicscrm'|Provides access to the Git-Ops repository|
-|'https://pkgs.dev/azure.com/dynamicscrm'|Provides access to the Kubernetes cluster endpoints|
+|'https://pkgs.dev.azure.com/dynamicscrm'|Provides access to the Kubernetes cluster endpoints|
 
 See also these links for other URLs to add to the allowed list:
 
-- [URL patterns for gateway feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
-- [URL patterns for compute feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
+- [URL patterns for ASE Gateway feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
+- [URL patterns for ASE Compute feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
+- [URL patterns for Azure Arc](https://docs.microsoft.com/azure/azure-arc/kubernetes/quickstart-connect-cluster?tabs=azure-cli#meet-network-requirements)
 
 ## Site preparation	
 This section covers what you need to know to prepare your site for Azure Stack Edge Pro installation and configuration.
