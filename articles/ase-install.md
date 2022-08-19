@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 03/01/2021
+ms.date: 08/18/2022
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -41,7 +41,8 @@ In addition to using [URL patterns for firewall rules](/azure/databox-online/azu
 |'https://*.cognitiveservices.azure.com/'|Needed to use computer vision APIs|
 |'https://csppe*.azurewebsites.net'|Provides access to the Connected Spaces reality services|
 |'https://csprod*azurewebsites.net'|Provides access to the Connected Spaces reality services|
-|'https://dev.azure.com/ppedynamicscrm'|Provides access to the Git-Ops repository|
+|'https://dev.azure.com/proddynamicscrm'|Provides access to the Git-Ops repository|
+|'https://pkgs.dev/azure.com/dynamicscrm'|Provides access to the Kubernetes cluster endpoints|
 
 See also these links for other URLs to add to the allowed list:
 
