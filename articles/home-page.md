@@ -30,4 +30,4 @@ The Home page also provides links to videos and other helpful information to hel
 
 ## See also
 
-- [How Connected Spaces Preview works](how-cs-works.md)
+- [How Dynamics 365 Connected Spaces Preview works](how-cs-works.md)
