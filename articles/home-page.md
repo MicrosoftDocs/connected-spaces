@@ -16,8 +16,6 @@ The Dynamics 365 Connected Spaces Preview web app [works together with the Azure
 
 - [Add skills to collect data](cameras-add-skills.md)
 
-- [Set up alerts]()
-
 - [Get insights on your store](web-app-get-insights.md)
 
 - [Set store operating hours or access other store settings](web-app-set-operating-hours.md)
