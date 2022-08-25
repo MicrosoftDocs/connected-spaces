@@ -90,7 +90,7 @@ Verify that the server rack is accessible and is ready for you to load the Azure
 
 ## Install and connect Azure Stack Edge Pro	
 
-> [NOTE] 
+> [!NOTE] 
 > The steps in this section will be completed by your Microsoft Solution Implementation partner. Contact your partner directly. 
 
 Use the following tutorials to install and connect Azure Stack Edge Pro:
