@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your store
 ms.author: alissag
-ms.date: 12/08/2021
+ms.date: 08/31/2022
 ms.topic: article
 title: Use Dynamics 365 Connected Spaces Preview to get insights on your store
 ms.reviewer: v-bholmes
@@ -121,5 +121,18 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 **Queue enters by individual queues time [by time slice (day, hour)].** The total number of queue entries for each specific queue.
 
+## Compare two sets of data for a skill type
 
+It's helpful to be able to compare skill data from the current period to a previous period to determine trends in your space. Connected Spaces automatically does this comparison for you when you select a date range in a chart. For example, in the following chart, the blue line shows the user-selected date range, and the gray dotted line shows the previous equivalent date range.
 
+![Screenshot showing the Current period range and the Previous period range.](media/current-previous-period.JPG "Screenshot showing the Current period range and the Previous period range")
+
+To view just the data for the current period or the previous period, select the label (**Current period** or **Previous period**) for the data that you want to remove.
+
+![Animation showing the current period data and the previous period data being removed from the chart.](media/compareline.gif "Animation showing current period data and the previous period data being removed from the chart")
+
+### How is the previous period calculated?
+
+The previous date range is the range of equivalent length in the week or weeks that immediately precede the currently selected date range. It always starts and ends on the same days of the week as the selected range. For example, if the selected range is Tuesday, February 22 through Friday, February 25, the previous date range for the comparison will be Tuesday, February 15 through Friday, February 18.
+
+![Screenshot of a calendar showing two date ranges.](media/previous-period-calculation.JPG "Screenshot of a calendar showing two date ranges")
