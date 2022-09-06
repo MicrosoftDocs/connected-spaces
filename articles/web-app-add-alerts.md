@@ -41,7 +41,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 4. Connect your Microsoft Dataverse, Teams, and Outlook accounts, and then select **Connect**.
 
     > [!NOTE]
-    > You need an Teams or Outlook account to send the alert.
+    > You need a Teams or Outlook account to send an alert.
 
     This will take you to a Power Automate flow.
     
