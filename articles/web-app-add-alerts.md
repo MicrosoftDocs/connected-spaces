@@ -49,7 +49,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
 ## Add an alert
 
-1. In the web app, on the left side of the screen, select **Alerts**, and then select on the right side of the screen, select the type of alert you want to create from the **Alert type** list.
+1. In the web app, on the left side of the screen, select **Alerts**, and then on the right side of the screen, select the type of alert you want to create from the **Alert type** list.
 
     SCREENSHOT GOES HERE
     
