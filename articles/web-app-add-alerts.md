@@ -7,7 +7,7 @@ You can add alerts in the Dynamics 365 Connected Spaces Preview web app to:
 - Optimize staffing
 - Save time
 
-You can create alerts for skills (pre-built AI models) after [creating those skills](cameras-add-skills.md) in the web app. Connected Spaces Preview includes three types of skills: display effectiveness, shopper analytics, and queue management.
+You can create alerts for skills (pre-built AI models) after [adding those skills](cameras-add-skills.md) in the web app. Connected Spaces Preview includes three types of skills: display effectiveness, shopper analytics, and queue management.
 
 |Queue management|Display effectiveness|Shopper analytics|
 |-------------------------|-------------------------|-------------------------|
