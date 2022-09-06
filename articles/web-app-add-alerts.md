@@ -11,7 +11,7 @@ You can create alerts for skills (pre-built AI models) after [creating those ski
 
 |Queue management|Display effectiveness|Shopper analytics|
 |-------------------------|-------------------------|-------------------------|
-|SCREENSHOT GOES HERE|SCREENSHOT GOES HERE|SCREENSHOT GOES HERE|
+|![Illustration of queue management skill.](media/queue-management-skill.JPG "Illustration of queue management skill")|![Illustration of display effectiveness skill.](media/queue-management-skill.JPG "Illustration of display effectiveness skill")|![Illustration of shopper analytics skill.](media/shopper-analytics-skill.JPG "Illustration of shopper analytics skill")|
 
 The following table shows which alerts are available for each skill.
 
