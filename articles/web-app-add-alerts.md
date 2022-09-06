@@ -15,7 +15,7 @@ You can create alerts for skills (pre-built AI models) after [adding those skill
 
 The following table shows which alerts are available for each skill.
 
-|Skill|Description|Alert type|
+|Skill|Skill description|Alert type|
 |-----------------------|---------------------------------------------|----------------------------------|
 |Queue management|Monitor queue wait time and queue lengths to improve shopper experience and provide informed insights for employee shift management.|Queue wait time exceeds maximum|
 |||Queue length exceeds maximum|
