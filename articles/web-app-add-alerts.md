@@ -7,5 +7,5 @@ You can add alerts in the Dynamics 365 Connected Spaces Preview web app to:
 - Optimize staffing
 - Save time
 
-You can create alerts after [adding skills](add-camera-skills.md) in the web app. 
+You can create alerts after [adding skills](cameras-add-skills.md) in the web app. 
 
