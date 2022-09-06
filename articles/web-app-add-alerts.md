@@ -17,4 +17,4 @@ The following table shows which alerts are available for each skill.
 |-----------------------|----------------------------------------------------------------|------------------------|
 |Queue management|Monitor queue wait time and queue lengths to improve shopper experience and provide informed insights for employee shift management.|Queue wait time exceeds maximum|
 |||Queue length exceeds maximum|
-|||Display effectiveness|Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.|Dwell time at display exceeds threshold|
+|Display effectiveness|Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.|Dwell time at display exceeds threshold|
