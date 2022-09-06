@@ -30,7 +30,7 @@
           href: ase-connect.md
         - name: Install cameras
           href: install-cameras.md
-    - name: Add a store, connect cameras, and add skills 
+    - name: Add a store, connect cameras, add skills and alerts, and get insights
       items:              
         - name: Get started with the web app
           href: home-page.md
@@ -40,12 +40,12 @@
           href: cameras-connect.md
         - name: Add camera skills
           href: cameras-add-skills.md
-        - name: Create alerts
-          href: create-alerts.md
+        - name: Add alerts
+          href: web-app-add-alerts.md        
+        - name: Use the Analytics page to get insights
+          href: web-app-get-insights.md  
         - name: Set your store's operating hours
           href: web-app-set-operating-hours.md
-    - name: Use the Analytics page to get insights
-      href: web-app-get-insights.md    
     - name: Choose whether to upload video and inference data
       href: video-inference-data-upload.md  
     - name: Communicate with shoppers and employees
