@@ -42,7 +42,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
     ![Screenshot of Power Automate screen showing sources.](media/alerts-configure-sources.JPG "Screenshot of Power Automate screen showing sources")
     
-5. In the next Power Automate screen, enter the desired values for the fields, and then select **Save** in the upper-right corner of the screen.
+5. In the next Power Automate screen, enter the desired values for the email and Teams fields, and then select **Save** in the upper-right corner of the screen.
 
     ![Screenshot of Power Automate screen with Teams and Email fields.](media/alerts-configuration.JPG "Screenshot of Power Automate screen with Teams and Email fields")
 
