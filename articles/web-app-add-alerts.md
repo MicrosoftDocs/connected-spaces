@@ -30,55 +30,55 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
 1. In the web app, on the left side of the screen select **Alerts**, and then select **Add alert**.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/alerts-.JPG "XXX")
 
 2. In the **Enable alerts** dialog box, select **Go to Power Automate**. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/alerts-.JPG "XXX")
     
 3. Sign in with your work or organization account.
 
-4. Connect your Microsoft Dataverse, Teams, and Outlook accounts, and then select **Connect**.
+4. In the Power Automate screen, connect your Microsoft Dataverse, Teams, and Outlook accounts, and then select **Connect**.
 
-    > [!NOTE]
-    > You need a Teams or Outlook account to send an alert.
-
-    This will take you to a Power Automate flow.
+    ![XXX.](media/alerts-.JPG "XXX")
     
-5. Enter a placeholder value for any missing fields, and then select **Save**.
+5. In the next Power Automate screen, enter the desired values for the fields, and then select **Save** in the upper-right corner of the screen.
+
+    ![XXX.](media/alerts-.JPG "XXX")
 
 ## Add an alert
 
-1. In the web app, on the left side of the screen, select **Alerts**, and then on the right side of the screen, select the type of alert you want to create from the **Alert type** list.
+1. In the Connected Spaces web app, on the left side of the screen, select **Alerts**, and then on the right side of the screen, select the type of alert you want to create from the **Alert type** list.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/alerts-.JPG "XXX")
     
 2. In the **Add alert** section on the right side of the screen:
 
     1. Select the skill name.
     2. Select your threshold (people or minutes).
     3. Select your send location (Teams or Outlook).
-    4. Enter your recipient information (Outlook email or Teams email address)
-    5. Select **Add alert**.
+    4. Enter your recipient information (Outlook email or Teams email address).
+    5. Select **Add**.
 
-        SCREENSHOT GOES HERE
+        ![XXX.](media/alerts-.JPG "XXX")
         
 ## Edit an existing alert
 
 1. In the web app, on the left side of the screen, select **Alerts**, and then under **Actions**, select the **Edit** (pencil) button or select the **More info** (three dots) button. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/alerts-.JPG "XXX")
 
 2. Under **Edit alert** on the right side of the screen, make your changes.
 
-    SCREENSHOT GOES HERE
-    
+    ![XXX.](media/alerts-.JPG "XXX")
+
+3. Select **Save** when you're done.
 
 ## Delete an alert
 
 1. In the web app, on the left side of the screen, select **Alerts**, and then under **Actions**, select the **More info** (three dots) button. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/alerts-.JPG "XXX")
     
 2. Select **Delete**. 
 
