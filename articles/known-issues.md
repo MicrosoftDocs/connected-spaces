@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE[banner](includes/banner.md)]
 
-## Error message displayed on Settings page if using a browser set to a non-English or non-German language
+## Error message displayed on Settings page if browser is set to a non-English or non-German language
 
 If your browser is set to a non-English or non-German language, when you go to the Settings page, you'll see the following error message. 
 
