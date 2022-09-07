@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 
 ## Site can crash on Settings page if viewing Connected Spaces in a non-English or non-German language
 
-If your browser is set to a non-English or non-German language, and you go to the Settings page, Dynamics 365 Connected Spaces Preview may experience an error. To work around this known issue, update your brower's language setting to English or German. 
+If your browser is set to a non-English or non-German language, and you go to the Settings page, Dynamics 365 Connected Spaces Preview may experience an error. To work around this issue, update your brower's language setting to English or German. 
 
 ![Screenshot of Edge browser language setting.](media/known-issues-language-setting-edge-browser.JPG "Screenshot of Edge browser language setting")
 
