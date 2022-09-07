@@ -28,7 +28,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 > [!NOTE]
 > You only need to enable alerts one time through Power Automate. After enabling alerts, all alert management happens in the Connected Spaces web app. 
 
-1. In the web app, on the left side of the screen select **Alerts**, and then select **Add alert**.
+1. In the web app, on the left side of the screen, select **Alerts**, and then select **Add alert**.
 
     ![Screenshot highlighting Alerts command and Add alert button.](media/alerts-add-alert.JPG "Screenshot highlighting Alerts command and Add alert button")
 
