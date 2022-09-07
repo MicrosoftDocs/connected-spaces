@@ -52,7 +52,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
     ![Screenshot highlighting Alert type list.](media/alerts-alert-type.JPG "Screenshot highlighting Alert type list")
     
-2. In the **Add alert** section on the right side of the screen:
+2. In the **Add alert** section:
 
     1. Select the skill name.
     2. Select your threshold (people or minutes).
