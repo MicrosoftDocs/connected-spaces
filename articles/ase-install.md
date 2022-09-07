@@ -46,11 +46,11 @@ In addition to using [URL patterns for firewall rules](/azure/databox-online/azu
 
 See also these links for other URLs to add to the allowed list:
 
-- [URL patterns for Azure Stack Edge gateway feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
-- [URL patterns for Azure Stack Edge compute feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
-- [URL patterns for Azure Arc](https://docs.microsoft.com/azure/azure-arc/kubernetes/quickstart-connect-cluster?tabs=azure-cli#meet-network-requirements)
+- [URL patterns for Azure Stack Edge gateway feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
+- [URL patterns for Azure Stack Edge compute feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
+- [URL patterns for Azure Arc](/azure/azure-arc/kubernetes/quickstart-connect-cluster?tabs=azure-cli#meet-network-requirements)
 
-## Site preparation	
+## Site preparation
 This section covers what you need to know to prepare your site for Azure Stack Edge Pro installation and configuration.
 
 ### Prepare your LAN information
