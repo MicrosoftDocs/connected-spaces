@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 02/03/2022
+ms.date: 09/27/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -11,6 +11,12 @@ ms.reviewer: v-bholmes
 # Known issues with Microsoft Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
+
+## Site can crash on Settings page if viewing Connected Spaces in a non-English or non-German language
+
+If your browser is set to a non-English or non-German language, and you go to the Settings page, Connected Spaces may experience an error. To work around this known issue, update your brower's language setting to English or German. 
+
+![Screenshot of Edge browser language setting.](media/known-issues-language-setting-edge-browser.JPG "Screenshot of Edge browser language setting")
 
 ## When I connect a camera and configure a skill, screen items aren't rendering properly
 
