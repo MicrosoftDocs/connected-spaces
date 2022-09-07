@@ -30,27 +30,27 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
 1. In the web app, on the left side of the screen select **Alerts**, and then select **Add alert**.
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-add-alert.JPG "XXX")
 
 2. In the **Enable alerts** dialog box, select **Go to Power Automate**. 
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-go-to-power-automate.JPG "XXX")
     
 3. Sign in with your work or organization account.
 
 4. In the Power Automate screen, connect your Microsoft Dataverse, Teams, and Outlook accounts, and then select **Connect**.
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-configure-sources.JPG "XXX")
     
 5. In the next Power Automate screen, enter the desired values for the fields, and then select **Save** in the upper-right corner of the screen.
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-configuration.JPG "XXX")
 
 ## Add an alert
 
 1. In the Connected Spaces web app, on the left side of the screen, select **Alerts**, and then on the right side of the screen, select the type of alert you want to create from the **Alert type** list.
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-alert-type.JPG "XXX")
     
 2. In the **Add alert** section on the right side of the screen:
 
@@ -60,17 +60,17 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
     4. Enter your recipient information (Outlook email or Teams email address).
     5. Select **Add**.
 
-        ![XXX.](media/alerts-.JPG "XXX")
+        ![XXX.](media/alerts-fill-in-fields.JPG "XXX")
         
 ## Edit an existing alert
 
 1. In the web app, on the left side of the screen, select **Alerts**, and then under **Actions**, select the **Edit** (pencil) button or select the **More info** (three dots) button. 
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-edit-button.JPG "XXX")
 
 2. Under **Edit alert** on the right side of the screen, make your changes.
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-edit-alert.JPG "XXX")
 
 3. Select **Save** when you're done.
 
@@ -78,7 +78,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
 1. In the web app, on the left side of the screen, select **Alerts**, and then under **Actions**, select the **More info** (three dots) button. 
 
-    ![XXX.](media/alerts-.JPG "XXX")
+    ![XXX.](media/alerts-delete-alert.JPG "XXX")
     
 2. Select **Delete**. 
 
