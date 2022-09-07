@@ -56,7 +56,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
     1. Select the skill name.
     2. Select your threshold (people or minutes).
-    3. Select your send location (Teams or Outlook).
+    3. Select the location where you want to send the alert (Teams or Outlook).
     4. Enter your recipient information (Outlook email or Teams email address).
     5. Select **Add**.
 
