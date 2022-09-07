@@ -109,4 +109,4 @@ Use the following tutorials to install and connect Azure Stack Edge Pro:
     
 ## Next step
 
-- [Connect your Azure Stack Edge Pro device to the network](ase-connect.md)
+- [Activate Azure Stack Edge Pro](ase-connect.md)
