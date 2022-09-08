@@ -9,17 +9,12 @@ You can add alerts in the Dynamics 365 Connected Spaces Preview web app to:
 
 You can create alerts for skills (pre-built AI models) after [adding those skills](cameras-add-skills.md) in the web app. Connected Spaces Preview includes alerts for two types of skills: queue and area
 
-|Queue management|Display effectiveness|Shopper analytics|
-|-------------------------|-------------------------|-------------------------|
-|![Illustration of queue management skill.](media/queue-management-skill.JPG "Illustration of queue management skill")|![Illustration of display effectiveness skill.](media/display-effectiveness-skill.JPG "Illustration of display effectiveness skill")|![Illustration of shopper analytics skill.](media/shopper-analytics-skill.JPG "Illustration of shopper analytics skill")|
-
 The following table shows which alerts are available for each skill.
 
-|Skill|Skill description|Alert type|
+|Skill|Image|Skill description|Alert type|
 |-----------------------|---------------------------------------------|----------------------------------|
-|Queue|Monitor queue wait time and queue lengths to improve shopper experience and provide informed insights for employee shift management.|Queue wait time exceeds maximum|
-|||Queue length exceeds maximum|
-|Area|Create the real-world equivalent of the digital customer engagement funnel for promotions. This capability allows merchandisers and store managers to measure the effectiveness of promotions/displays within the store, tracking shopper footfall and engagement.|Dwell time at display exceeds threshold|
+|Queue||Monitor queue wait time and queue lengths to improve the experience and provide informed insights for employee shift management.|- Queue wait time exceeds maximum<p>-Queue length exceeds maximum|
+|Area||Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
 ## Enable alerts
 
