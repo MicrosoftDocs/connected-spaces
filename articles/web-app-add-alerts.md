@@ -13,8 +13,8 @@ The following table shows which alerts are available for each skill.
 
 |Skill|Image|Skill description|Alert type|
 |-----------|--------------------------------|----------------------------------|--------------------------------|
-|Queue||Monitor queue wait time and queue lengths to improve the experience and provide informed insights for employee shift management.|- Queue wait time exceeds maximum<br>-Queue length exceeds maximum|
-|Area||Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
+|Queue|![Illustration of queue skill.](media/queue-skill.JPG "Illustration of queue skill")|Monitor queue wait time and queue lengths to improve the experience and provide informed insights for employee shift management.|- Queue wait time exceeds maximum<br>-Queue length exceeds maximum|
+|Area|![Illustration of area skill.](media/area-skill.JPG "Illustration of area skill")|Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
 ## Enable alerts
 
