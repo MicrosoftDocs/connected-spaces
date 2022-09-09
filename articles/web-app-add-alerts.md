@@ -40,7 +40,7 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
     ![Screenshot of Power Automate screen showing sources.](media/alerts-configure-sources.JPG "Screenshot of Power Automate screen showing sources")
     
-5. In the next Power Automate screen, select the down arrow in the **Team** field. The Team ID will automatically be filled in when you do this. Select **Save** in the upper-right corner of the screen when you're done.
+5. In the next Power Automate screen, select the down arrow for the **Team** field. The Team ID will automatically be filled in when you do this. Select **Save** in the upper-right corner of the screen when you're done.
 
     ![Screenshot of Power Automate screen with Teams and Email fields.](media/alerts-configuration.JPG "Screenshot of Power Automate screen with Teams and Email fields")
 
