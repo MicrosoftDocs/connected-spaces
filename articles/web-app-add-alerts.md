@@ -16,9 +16,12 @@ The following table shows which alerts are available for each skill.
 |Queue|![Illustration of queue skill.](media/queue-skill.JPG "Illustration of queue skill")|Monitor queue wait time and queue lengths to improve the experience and provide informed insights for employee shift management.|- Queue wait time exceeds maximum<br>-Queue length exceeds maximum|
 |Area|![Illustration of area skill.](media/area-skill.JPG "Illustration of area skill")|Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
+> [!NOTE]
+> You must have a Microsoft Teams and Outlook license to use alerts in Connected Spaces Preview.
+
 ## Enable alerts
 
-Connected Spaces uses Microsoft Power Automate as the alert delivery platform, which means that you must enable alerts in  Power Automate before you can add them in Connected Spaces. You can open Power Automate directly from Connected Spaces.
+Connected Spaces uses Microsoft Power Automate as the alert delivery platform, which means that you must enable alerts in  Power Automate before you can add them in Connected Spaces. You can open Power Automate directly from Connected Spaces Preview.
 
 > [!NOTE]
 > You only need to enable alerts one time through Power Automate. After enabling alerts, all alert management happens in the Connected Spaces web app. 
@@ -33,11 +36,11 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
     
 3. Sign in with your work or organization account.
 
-4. In the Power Automate screen, connect your Microsoft Dataverse, Teams, and Outlook accounts, and then select **Connect**.
+4. In the Power Automate screen, Microsoft Dataverse will automatically be connected for you. If you have Teams and Outlook licenses, those apps should also be connected for you. If you need to connect them manually, at the bottom of the screen, select the **More info** (three dots) button next to each source, and then sign into the apps to connect them. Select **Continue** when you're ready to move forward.
 
     ![Screenshot of Power Automate screen showing sources.](media/alerts-configure-sources.JPG "Screenshot of Power Automate screen showing sources")
     
-5. In the next Power Automate screen, enter the desired values for the Outlook and Teams fields, and then select **Save** in the upper-right corner of the screen.
+5. In the next Power Automate screen, select the down arrow in the **Team ID** field. The Team ID will automatically be filled in when you do this. Select **Save** in the upper-right corner of the screen when you're done.
 
     ![Screenshot of Power Automate screen with Teams and Email fields.](media/alerts-configuration.JPG "Screenshot of Power Automate screen with Teams and Email fields")
 
