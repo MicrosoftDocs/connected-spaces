@@ -17,7 +17,7 @@ The following table shows which alerts are available for each skill.
 |Area|![Illustration of area skill.](media/area-skill.JPG "Illustration of area skill")|Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
 > [!NOTE]
-> You must have a Microsoft Teams and Outlook license to use alerts in Connected Spaces Preview.
+> You must have a Microsoft Teams and a Microsoft Outlook license to use alerts in Connected Spaces Preview.
 
 ## Enable alerts
 
