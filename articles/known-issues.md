@@ -34,11 +34,11 @@ You may see the following message when you try to sign up for a free trial: "You
 
 To complete the trial sign-up, [your Azure Active Directory administrator can assign you a special license so you can sign up for the trial](trial-signup-admin.md). 
 
-## The Connected Spaces app is running in the wrong geographic region
+## The Connected Spaces Preview app is running in the wrong geographic region
 
-When using Connected Spaces, make sure you're using the web app in the geographic region that your company's Azure Active Directory tenant and user accounts are in.
+When using Connected Spaces Preview, make sure you're using the web app in the geographic region that your company's Azure Active Directory tenant and user accounts are in.
 
-| Your Azure Active Directory account region | Connected Spaces web app URL |
+| Your Azure Active Directory account region | Connected Spaces Preview web app URL |
 | --- | --- |
 | United States | https://us.connectedspaces.dynamics.com/ |
 | United Kingdom | https://uk.connectedspaces.dynamics.com/ |
