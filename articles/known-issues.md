@@ -18,7 +18,7 @@ If your browser's language setting is not set to English or German, when you go 
 
 ![Screenshot of error message.](media/known-issues-language-setting-error-message.JPG "Screenshot of error message")
 
-To work around this issue, update your brower's language setting to English or German. 
+To work around this issue, update your brower's language setting to English or German. For example, this is what the language setting looks like in Microsoft Edge.
 
 ![Screenshot of Edge browser language setting.](media/known-issues-language-setting-edge-browser.JPG "Screenshot of Edge browser language setting")
 
