@@ -14,7 +14,7 @@ ms.reviewer: v-bholmes
 
 ## Error message displayed on Settings page if browser is not set to English or German
 
-If your browser's language setting is not set to English or German, when you go to the Settings page, you'll see the following error message. 
+If your browser's language setting is not set to English or German, when you go to the **Settings** page, you'll see the following error message. 
 
 ![Screenshot of error message.](media/known-issues-language-setting-error-message.JPG "Screenshot of error message")
 
