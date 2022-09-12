@@ -45,7 +45,7 @@ In addition to using [URL patterns for firewall rules](/azure/databox-online/azu
 |'https://pkgs.dev.azure.com/dynamicscrm'|Provides access to the Kubernetes cluster endpoints|
 |'https://dev.azure.com'|Provides access to internal services for health ping|
 |'https://azure.github.io'|Provides access to additional packages|
-|'https://notification-controller.flux-system.svc.cluster.local'|To allow the notification controller to receive messages from other pods|
+|'https://notification-controller.flux-system.svc.cluster.local'|Allows the notification controller to receive messages from other pods|
 
 See also these links for other URLs to add to the allowed list:
 
