@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 02/03/2022
+ms.date: 09/12/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -11,6 +11,16 @@ ms.reviewer: v-bholmes
 # Known issues with Microsoft Dynamics 365 Connected Spaces Preview
 
 [!INCLUDE[banner](includes/banner.md)]
+
+## Error message displayed on Settings page if browser is not set to English or German
+
+If your browser's language setting is not set to English or German, when you go to the **Settings** page, you'll see the following error message. 
+
+![Screenshot of error message.](media/known-issues-language-setting-error-message.JPG "Screenshot of error message")
+
+To work around this issue, update your brower's language setting to English or German. For example, this is what the language setting looks like in Microsoft Edge.
+
+![Screenshot of Edge browser language setting.](media/known-issues-language-setting-edge-browser.JPG "Screenshot of Edge browser language setting")
 
 ## When I connect a camera and configure a skill, screen items aren't rendering properly
 
@@ -24,11 +34,11 @@ You may see the following message when you try to sign up for a free trial: "You
 
 To complete the trial sign-up, [your Azure Active Directory administrator can assign you a special license so you can sign up for the trial](trial-signup-admin.md). 
 
-## The Connected Spaces app is running in the wrong geographic region
+## The Connected Spaces Preview app is running in the wrong geographic region
 
-When using Connected Spaces, make sure you're using the web app in the geographic region that your company's AAD tenant and user accounts are in.
+When using Connected Spaces Preview, make sure you're using the web app in the geographic region that your company's Azure Active Directory tenant and user accounts are in.
 
-| Your AAD account region | Connected Spaces web app URL |
+| Your Azure Active Directory account region | Connected Spaces Preview web app URL |
 | --- | --- |
 | United States | https://us.connectedspaces.dynamics.com/ |
 | United Kingdom | https://uk.connectedspaces.dynamics.com/ |
