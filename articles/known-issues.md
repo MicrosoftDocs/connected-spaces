@@ -36,9 +36,9 @@ To complete the trial sign-up, [your Azure Active Directory administrator can as
 
 ## The Connected Spaces app is running in the wrong geographic region
 
-When using Connected Spaces, make sure you're using the web app in the geographic region that your company's AAD tenant and user accounts are in.
+When using Connected Spaces, make sure you're using the web app in the geographic region that your company's Azure Active Directory tenant and user accounts are in.
 
-| Your AAD account region | Connected Spaces web app URL |
+| Your Azure Active Directory account region | Connected Spaces web app URL |
 | --- | --- |
 | United States | https://us.connectedspaces.dynamics.com/ |
 | United Kingdom | https://uk.connectedspaces.dynamics.com/ |
