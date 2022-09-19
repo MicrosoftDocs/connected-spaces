@@ -126,7 +126,7 @@ More detailed guidance on best practices for [drawing skill zones](cameras-add-s
 
 [Microsoft principles for developing and deploying facial recognition technology](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/12/MSFT-Principles-on-Facial-Recognition.pdf) 
 
-[Microsoft Azure Learning courses on Responsible AI](/learn/paths/responsible-ai-business-principles/) 
+[Microsoft Azure Learning courses on Responsible AI](/training/paths/responsible-ai-business-principles/) 
 
 ## Contact us 
 
