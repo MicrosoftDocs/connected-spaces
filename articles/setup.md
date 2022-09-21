@@ -2,15 +2,13 @@
 author: alwinv
 description: Learn how to set up Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
-ms.date: 12/07/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Set up Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Set up Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 After you've [signed up for a free trial](trial-signup.md) and selected the **Launch Trial** button, you can set up Microsoft Dynamics 365 Connected Spaces Preview by using this procedure. 
 
