@@ -2,15 +2,13 @@
 author: kfrankc-ms
 description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 12/07/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 The main scenarios for camera placement in Microsoft Dynamics 365 Connected Spaces Preview include the following zones:
 
