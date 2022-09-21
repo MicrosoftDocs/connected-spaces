@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to turn off or on upload of video and inference data to the cloud in Microsoft Dynamics 365 Connected Spaces
 ms.author: alwinv
-ms.date: 12/07/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Choose whether to upload video and inference data to the cloud in Dynamics 365 Connected Spaces
 ms.reviewer: v-bholmes
