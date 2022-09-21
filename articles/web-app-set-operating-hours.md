@@ -2,15 +2,13 @@
 author: alissapolucha
 description: Learn how to set your store's operating hours in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 12/07/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Set your store's operating hours in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
 ---
 
 # Set your store's operating hours in Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 You can set your store's operating hours in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your operating hours, by default, Connected Spaces will set your store hours for every day of the week to 6:00 am – 8:00 pm in your store's time zone.
 
