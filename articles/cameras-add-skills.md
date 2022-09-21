@@ -2,15 +2,13 @@
 author: alissapolucha
 description: Learn how to add skills (Display effectiveness, Queue management, or Shopper analytics) to collect data in Dynamics 365 Connected Spaces Preview.
 ms.author: alissag
-ms.date: 12/07/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Add skills to collect data in Dynamics 365 Connected Spaces Preview 
 ms.reviewer: v-bholmes
 ---
 
 # Add skills to collect data in Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 You can use customizable skills in Microsoft Dynamics 365 Connected Spaces Preview to have your cameras collect physical data based on the needs of your store. You can set up a custom zone with one of three available skills:
 
