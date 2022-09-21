@@ -2,15 +2,13 @@
 author: kfrankc-ms
 description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 11/02/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Dynamics 365 Connected Spaces Preview FAQ
 ms.reviewer: v-bholmes
 ---
 
 # Dynamics 365 Connected Spaces Preview FAQ
-
-[!INCLUDE[banner](includes/banner.md)]
 
 ## Are all IP cameras supported?
 
