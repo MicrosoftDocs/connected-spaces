@@ -1,6 +1,6 @@
 ---
 author: alissapolucha
-description: Learn how to add skills (Display effectiveness, Queue management, or Shopper analytics) to collect data in Dynamics 365 Connected Spaces Preview.
+description: Learn how to add skills (Area, Queue, or Entries) to collect data in Dynamics 365 Connected Spaces Preview.
 ms.author: alissag
 ms.date: 09/30/2022
 ms.topic: article
@@ -10,15 +10,15 @@ ms.reviewer: v-bholmes
 
 # Add skills to collect data in Dynamics 365 Connected Spaces Preview
 
-You can use customizable skills in Microsoft Dynamics 365 Connected Spaces Preview to have your cameras collect physical data based on the needs of your store. You can set up a custom zone with one of three available skills:
+You can use customizable skills in Microsoft Dynamics 365 Connected Spaces Preview to have your cameras collect physical data based on the needs of your space. You can set up a custom zone with one of three available skills:
 
 |Skill|Description|Examples|
 |-------------------------|-------------------------------------------------|-------------------------------------------------|
-|**Display effectiveness**|	Track how your displays perform	|End caps, displays, promotions|
-|**Queue management**| 	Monitor queue wait time, length, and abandonment rate|	Queues, checkouts, returns|
-|**Shopper analytics**|	Understand traffic patterns into and around the store|	Store entry/exit|
+|**Area**|Track how your displays and areas of interest perform	|End caps, displays, promotions, breakrooms, lobbies|
+|**Queue**|Monitor queue wait time, length, and abandonment rate|Queues, checkouts, returns|
+|**Entries**|Understand traffic patterns into your space|Space entry/exit|
 
-Each gateway supports up to 10 cameras with a maximum of one skill for each camera view. Your skills can have custom names and shapes (limited to four sides).
+Each gateway supports up to 7 cameras with a maximum of one skill for each camera view. Your skills can have custom names and shapes (limited to four sides).
 
 > [!NOTE]
 > Skills don't change what your camera sees at any time. After you create a skill, the camera continues to see the entire field of view but only tracks and collects data from the skill drawing that you add. 
@@ -46,11 +46,11 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
     ![Screenshot of drawing a skill zone for a Display effectiveness skill.](media/draw-skill-area.jpg "Screenshot of drawing a skill zone for a Display effectiveness skill")
 
-    - For a **Display effectiveness** skill, drag the zone endpoints to resize the polygon and move it where you want it. Use the tips on the right side of the page to learn  about best practices.
+    - For an **Area** skill, drag the zone endpoints to resize the polygon and move it where you want it. Use the tips on the right side of the page to learn  about best practices.
 
-    - For a **Shopper analytics** skill, move and extend the line to align with your store entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when entering the store, and the white arrow points in the direction that people walk when exiting the store. Data analytics won't work correctly if you don't have the blue and white arrows set up correctly.  
+    - For an **Entries** skill, move and extend the line to align with your space entrance. Select **Flip Direction** to make sure that the blue arrow points in the direction that people walk when entering the space, and the white arrow points in the direction that people walk when exiting the space. Data analytics won't work correctly if you don't have the blue and white arrows set up correctly.  
 
-    - For a **Queue management** skill, drag the zone endpoints to resize the zone and move it where you want it.
+    - For a **Queue** skill, drag the zone endpoints to resize the zone and move it where you want it.
 
     > [!TIP]
     > If you need to start over at any point when drawing a skill zone, select **Reset**. See also [Tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones). 
@@ -79,20 +79,20 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
 If you want to see a specific section of your camera view, create the largest zone that you can, covering the specific floor area that you're interested in but not including other areas that you're not interested in. This increases the accuracy of the data collected and prevents false positives from areas you don't want to track. Be careful when placing the corners of your polygon, to make sure they're not outside the area you want to track. Also, don't drag the borders of the polygon to the edge of the camera field of view. You need to provide space for a person to be seen before they enter the zone. 
  
-### Example of a well-shaped Display effectiveness skill zone
+### Example of a well-shaped Area skill zone
 
-The skill zone should be big enough to accommodate three people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you're drawing them as if they lie on the store floor.
+The skill zone should be big enough to accommodate three people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you're drawing them as if they lie on the space floor.
 
 ![Well-shaped Display effectiveness skill zone.](media/skill-zone-de-good-example.png "Well-shaped Display effectiveness skill zone")
  
-### Examples of Display effectiveness skill zones that aren't well-shaped
+### Examples of Area skill zones that aren't well-shaped
 
-The following examples show poorly shaped **Display effectiveness** skill zones. In these examples, the display of interest is the **It's Game Time** display.
+The following examples show poorly shaped **Area** skill zones. In these examples, the display of interest is the **It's Game Time** display.
 
 ![Poorly shaped Display effectiveness skill zone.](media/skill-zone-de-bad-example-1.png "Poorly shaped Display effectiveness skill zone")
  
 > [!TIP]
-> For **Display effectiveness** zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
+> For **Area** zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
 
 **Skill zone is too small.**
 
@@ -110,15 +110,15 @@ The following examples show poorly shaped **Display effectiveness** skill zones.
 
 ![Skill zone is partially blocked, so people aren't fully visible.](media/skill-zone-de-bad-example-5.png "Skill zone is partially blocked, so people aren't fully visible")
 
-### Example of a well-shaped Shopper analytics skill line
+### Example of a well-shaped Entries skill line
 
-The line should be long enough to accommodate the entire entrance. When drawing lines on the 2D image, imagine you're drawing them as if they lie on the store floor.
+The line should be long enough to accommodate the entire entrance. When drawing lines on the 2D image, imagine you're drawing them as if they lie on the floor.
 
-![Well-shaped Shopper analytics skill line.](media/skill-zone-sa-good-example.png "Well-shaped Shopper analytics skill line")
+![Well-shaped Entries skill line.](media/skill-zone-sa-good-example.png "Well-shaped Entries skill line")
 
-### Examples of Shopper analytics skill lines that aren't well-shaped
+### Examples of Entries skill lines that aren't well-shaped
 
-The following examples show poorly defined **Shopper analytics** skill lines.
+The following examples show poorly defined **Entries** skill lines.
 
 **Line doesn't cover the entire entry way on the floor.**
 
@@ -128,15 +128,15 @@ The following examples show poorly defined **Shopper analytics** skill lines.
 
 ![Line is too high and doesn't cover the entirety of the door.](media/skill-zone-sa-bad-example-2.png "Line is too high and doesn't cover the entirety of the door")
 
-### Example of well-shaped Queue management skill zone
+### Example of well-shaped Queue skill zone
 
-The zone should be big enough to accommodate three people standing along each edge and focused on the area of interest. When drawing zones on a 2D image, imagine you're drawing them as if they lie on the store floor.
+The zone should be big enough to accommodate three people standing along each edge and focused on the area of interest. When drawing zones on a 2D image, imagine you're drawing them as if they lie on the floor.
 
-![Well-shaped Queue management skill zone.](media/skill-zone-qm-good-example.png "Well-shaped Queue management skill zone")
+![Well-shaped Queue skill zone.](media/skill-zone-qm-good-example.png "Well-shaped Queue skill zone")
 
-### Examples of Queue management skill zones that aren't well-shaped
+### Examples of Queue skill zones that aren't well-shaped
 
-The following examples show poorly defined **Queue management** skill zones.
+The following examples show poorly defined **Queue** skill zones.
 
 **Queue defined is too thin.**
 
@@ -148,7 +148,7 @@ The following examples show poorly defined **Queue management** skill zones.
 
 ## Manage your skills
 
-Use the **Skills** page to view all the skills created for your store. For each skill, the page shows the camera image, friendly name, type of skill (Display effectiveness, Shopper analytics, or Queue management), whether the skill is active or inactive, and the date the skill was last updated.
+Use the **Skills** page to view all the skills created for your space. For each skill, the page shows the camera image, friendly name, type of skill (Area, Entries, or Queue), whether the skill is active or inactive, and the date the skill was last updated.
 
 ![Screenshot of skills page showing multiple skills.](media/skills-management.jpg "Screenshot of skills page showing multiple skills")
 
@@ -171,7 +171,7 @@ Select a column title to sort on a column.
     ![Screenshot showing Actions column and Edit command again.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command again")
     
     > [!NOTE]
-    > Deleting a skill will permanently remove it from Azure Stack Edge, the Connected Spaces web app, and all collected data in the dashboards. This information cannot be recovered. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
+    > Deleting a skill will permanently remove it from Azure Stack Edge and the Connected Spaces Preview web app, and cannot be recovered. All collected data will remain in the dashboards. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
 
 ## Next step
 
