@@ -2,15 +2,13 @@
 author: alwinv
 description: How Microsoft Dynamics 365 Connected Spaces Preview uses artificial intelligence technology to provide insights.
 ms.author: alwinv
-ms.date: 12/09/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: AI and Insights for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # AI and insights for Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 Microsoft Dynamics 365 Connected Spaces leverages industry-leading computer vision Artificial intelligence (AI) and machine learning to provide data-driven stored-based analytics (referred to as "insights") to optimize retail operations. Connected Spaces provides retailers with: (i) simple analytics and trends on observational data generated in the retail environment; (ii) actionable insights based on multiple sources of data through machine learning and AI; and (iii) easy ways to create and manage manual and automated tasks across the retail environment.  
 
