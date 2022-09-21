@@ -2,15 +2,13 @@
 author: alissapolucha
 description: Learn how to connect an LP camera to a gateway in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 12/07/2021
+ms.date: 09/30/2022
 ms.topic: article
 title: Connect your cameras to a gateway in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Connect your cameras to a gateway in Dynamics 365 Connected Spaces Preview 
-
-[!INCLUDE[banner](includes/banner.md)]
 
 After you've [paired a gateway to your store](ase-connect.md), you can connect your cameras to the gateway. Keep in mind that cameras are connected to a specific gateway. You can connect any camera approved for Connected Spaces on the same network as your gateway.
 
