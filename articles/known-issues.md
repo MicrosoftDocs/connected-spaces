@@ -2,15 +2,13 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 02/03/2022
+ms.date: 09/30/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Known issues with Microsoft Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 ## When I connect a camera and configure a skill, screen items aren't rendering properly
 
