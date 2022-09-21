@@ -44,7 +44,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     
 4. Draw a skill zone to track customer behavior.
 
-    ![Screenshot of drawing a skill zone for a Display effectiveness skill.](media/draw-skill-area.jpg "Screenshot of drawing a skill zone for a Display effectiveness skill")
+    ![Screenshot of drawing a skill zone for an Area skill.](media/draw-skill-area.jpg "Screenshot of drawing a skill zone for an Area skill")
 
     - For an **Area** skill, drag the zone endpoints to resize the polygon and move it where you want it. Use the tips on the right side of the page to learn  about best practices.
 
@@ -83,13 +83,13 @@ If you want to see a specific section of your camera view, create the largest zo
 
 The skill zone should be big enough to accommodate three people standing along each edge and focused on the area of interest. When drawing zones on the 2D image, imagine you're drawing them as if they lie on the space floor.
 
-![Well-shaped Display effectiveness skill zone.](media/skill-zone-de-good-example.png "Well-shaped Display effectiveness skill zone")
+![Well-shaped Area skill zone.](media/skill-zone-de-good-example.png "Well-shaped Area skill zone")
  
 ### Examples of Area skill zones that aren't well-shaped
 
 The following examples show poorly shaped **Area** skill zones. In these examples, the display of interest is the **It's Game Time** display.
 
-![Poorly shaped Display effectiveness skill zone.](media/skill-zone-de-bad-example-1.png "Poorly shaped Display effectiveness skill zone")
+![Poorly shaped Area skill zone.](media/skill-zone-de-bad-example-1.png "Poorly shaped Area skill zone")
  
 > [!TIP]
 > For **Area** zones, make sure to extend the zone at least three feet (one meter) in front of the areas of interest.
