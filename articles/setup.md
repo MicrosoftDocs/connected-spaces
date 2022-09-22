@@ -22,7 +22,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
      ![Screenshot of Setting up your account for Connected Spaces message.](media/setup-installing.JPG "Screenshot of Setting up your account for Connected Spaces message")
   
-4. Select **Add a store**.
+4. Select **Add a space**.
 
    ![Screenshot of Get started page with Add a store highlighted.](media/setup-add-space.JPG "Screenshot of Get started page with Add a store highlighted")
 
