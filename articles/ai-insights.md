@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # AI and insights for Dynamics 365 Connected Spaces Preview
 
-Microsoft Dynamics 365 Connected Spaces Preview leverages industry-leading computer vision Artificial intelligence (AI) and machine learning to provide data-driven stored-based analytics (referred to as "insights") to optimize your space operations. Connected Spaces Preview provides: (i) simple analytics and trends on observational data generated in the retail environment; (ii) actionable insights based on multiple sources of data through machine learning and AI; and (iii) easy ways to create and manage manual and automated tasks across the retail environment.  
+Microsoft Dynamics 365 Connected Spaces Preview leverages industry-leading computer vision Artificial intelligence (AI) and machine learning to provide data-driven stored-based analytics (referred to as "insights") to optimize your space operations. Connected Spaces Preview provides: (i) simple analytics and trends on observational data generated in the space environment; (ii) actionable insights based on multiple sources of data through machine learning and AI; and (iii) easy ways to create and manage manual and automated tasks across the retail environment.  
 
 ## How AI works to produce insights
 
