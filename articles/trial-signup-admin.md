@@ -37,7 +37,7 @@ In this case, an Azure Active Directory admin will need to use the following pro
    Get-MsolCompanyInformation | fl AllowAdHocSubscriptions
    ```
 
-2. Acquire a Dynamics 365 Connected Spaces viral license for your company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
+2. Acquire a Dynamics 365 Connected Spaces viral license for your company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1  
 
     ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
   
