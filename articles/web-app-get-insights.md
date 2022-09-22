@@ -14,11 +14,11 @@ Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, ex
 
 Connected Spaces supports the following camera skills: 
 
-- Shopper analytics
+- Entries
 
-- Display effectiveness
+- Area
 
-- Queue management
+- Queue
  
 For a quick overview of how to get insights, scan the screens in this and other articles. 
 
@@ -27,7 +27,7 @@ For a quick overview of how to get insights, scan the screens in this and other 
 
 ## Analytics page overview
 
-The **Analytics** page, which is organized by skill (Shopper analytics, Queue management, and Display effectiveness), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
+The **Analytics** page, which is organized by skill (Entries, Queue, and Area), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
 
 ![Analytics page.](media/analytics-screen-overview.JPG "Analytics page")
 
@@ -39,19 +39,19 @@ By default, the **Analytics** page shows the last 7 days, but you can select a c
 
 ## Filter by skill type
 
-By default, the skill type filter shows all skill types, but you can select a skill type (Shopper analytics, Queue management, or Display effectiveness) in the **Skill** filter.
+By default, the skill type filter shows all skill types, but you can select a skill type (Entries, Queue, or Area) in the **Skill** filter.
 
 ![Screenshot of filter by skill type.](media/analytics-filter-by-skill-type.jpg "Screenshot of filter by skill type")
 
-## Highlights cards
+## Highlight cards
 
 Each skill type includes highlight cards with information buttons that you can hover over to get additional details.
 
 ![Information buttons.](media/analytics-information-buttons.jpg "Information buttons")
 
-**Change in store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
+**Change in space entries.** This card highlights the sum of people that entered the space for the selected time frame. 
 
-![Change in store entries card.](media/analytics-screen-change-store-entries.JPG "Change in store entries card")
+![Change in space entries card.](media/analytics-screen-change-store-entries.JPG "Change in space entries card")
 
 >[!NOTE]
 > If there’s insufficient data, no information is displayed in the card. This is true for all cards on the **Analytics** and other pages.
