@@ -58,6 +58,5 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 ## Next steps
 
 - [Learn about camera placement](camera-placement-checklist.md)
-- [Learn about camera installation](install-cameras.md)
-- [Connect cameras to an installed gateway](cameras-connect.md)
-- [Add camera skills](cameras-add-skills.md)
+- [Connect cameras to an installed gateway](web-app-cameras-connect.md)
+- [Add camera skills](web-app-cameras-add-skills.md)

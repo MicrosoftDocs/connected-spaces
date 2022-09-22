@@ -35,9 +35,9 @@
         - name: Create a space
           href: web-app-space-create.md
         - name: Connect a camera to the gateway
-          href: cameras-connect.md
+          href: web-app-cameras-connect.md
         - name: Add camera skills
-          href: cameras-add-skills.md
+          href: web-app-cameras-add-skills.md
         - name: Add alerts
           href: web-app-add-alerts.md        
         - name: Use the Analytics page to get insights
