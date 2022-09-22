@@ -31,7 +31,7 @@
     - name: Add a store, connect cameras, add skills and alerts, and get insights
       items:              
         - name: Get started with the web app
-          href: home-page.md
+          href: web-app-home-page.md
         - name: Create a store
           href: store-create.md
         - name: Connect a camera to the gateway
