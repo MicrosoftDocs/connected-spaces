@@ -38,9 +38,9 @@ On the **Set up my space** page:
 
 7. Select **Next**.
 
-8. Make sure that all the store details are correct, and then select **Create store**.
+8. Make sure that all the store details are correct, and then select **Create space**.
 
-    ![Create store review.](media/create-store-review.jpg "Create store review")  
+    ![Create space review.](media/create-store-review.jpg "Create space review")  
     
 9. Select **Done**. 
 
