@@ -10,7 +10,7 @@ ms.reviewer: v-brycho
 
 # Set options for your space in Dynamics 365 Connected Spaces Preview
 
-You can set options for your space, such as operating hours, in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your operating hours, by default, Connected Spaces will set your operating hours for every day of the week to 6:00 am – 8:00 pm in your store's time zone.
+You can set options for your space, such as operating hours, in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your operating hours, by default, Connected Spaces will set your operating hours for every day of the week to 6:00 am – 8:00 pm in the time zone for your space.
 
 ## Set operating hours
 
