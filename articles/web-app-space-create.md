@@ -17,7 +17,7 @@ Microsoft Dynamics 365 Connected Spaces Preview.
 
 When you sign in to Connected Spaces with your admin credentials for the first time (and if you haven't already created a space), the **Set up my space** page automatically appears.
 
-![Create store prompt.](media/create-store-prompt.jpg "Create store prompt")
+![Create store prompt.](media/create-space-prompt.JPG "Create store prompt")
 
 On the **Set up my space** page:
 
@@ -40,7 +40,7 @@ On the **Set up my space** page:
 
 8. Make sure that all the store details are correct, and then select **Create space**.
 
-    ![Create space review.](media/create-store-review.jpg "Create space review")  
+    ![Create space review.](media/create-space-review.JPG "Create space review")  
     
 9. Select **Done**. 
 
