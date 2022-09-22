@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 08/19/2022
+ms.date: 09/12/2022
 ms.topic: article
 title: Prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -43,14 +43,17 @@ In addition to using [URL patterns for firewall rules](/azure/databox-online/azu
 |'https://csprod*azurewebsites.net'|Provides access to the Connected Spaces reality services|
 |'https://dev.azure.com/proddynamicscrm'|Provides access to the Git-Ops repository|
 |'https://pkgs.dev.azure.com/dynamicscrm'|Provides access to the Kubernetes cluster endpoints|
+|'https://dev.azure.com'|Provides access to internal services for health ping|
+|'https://azure.github.io'|Provides access to additional packages|
+|'https://notification-controller.flux-system.svc.cluster.local'|Allows the notification controller to receive messages from other pods|
 
 See also these links for other URLs to add to the allowed list:
 
-- [URL patterns for Azure Stack Edge gateway feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
-- [URL patterns for Azure Stack Edge compute feature](https://docs.microsoft.com/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
-- [URL patterns for Azure Arc](https://docs.microsoft.com/azure/azure-arc/kubernetes/quickstart-connect-cluster?tabs=azure-cli#meet-network-requirements)
+- [URL patterns for Azure Stack Edge gateway feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-gateway-feature)
+- [URL patterns for Azure Stack Edge compute feature](/azure/databox-online/azure-stack-edge-gpu-system-requirements#url-patterns-for-compute-feature)
+- [URL patterns for Azure Arc](/azure/azure-arc/kubernetes/quickstart-connect-cluster?tabs=azure-cli#meet-network-requirements)
 
-## Site preparation	
+## Site preparation
 This section covers what you need to know to prepare your site for Azure Stack Edge Pro installation and configuration.
 
 ### Prepare your LAN information
@@ -109,4 +112,4 @@ Use the following tutorials to install and connect Azure Stack Edge Pro:
     
 ## Next step
 
-- [Connect your Azure Stack Edge Pro device to the network](ase-connect.md)
+- [Activate Azure Stack Edge Pro](ase-connect.md)
