@@ -22,7 +22,7 @@ You can set options for your space, such as operating hours, in Microsoft Dynami
 
     ![Screenshot of Edit button highlighted.](media/space-details-edit.JPG "Screenshot of Edit button highlighted")
     
-3. In the **Store hours** section: 
+3. In the **Space hours** section: 
 
     - Select the check box next to the day of the week to set or remove operating hours for that day.
     - In the **From** and **To** fields, enter opening and closing times for data collection. 
