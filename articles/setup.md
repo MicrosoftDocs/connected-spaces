@@ -24,21 +24,21 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
   
 4. Select **Add a space**.
 
-   ![Screenshot of Get started page with Add a store highlighted.](media/setup-add-space.JPG "Screenshot of Get started page with Add a store highlighted")
+   ![Screenshot of Get started page with Add a space highlighted.](media/setup-add-space.JPG "Screenshot of Get started page with Add a space highlighted")
 
 5. On the **Store Details** page:
 
-    - Enter a descriptive name for the store to distinguish it from your other stores.
+    - Enter a descriptive name for the space to distinguish it from your other spaces.
 
-    - Optional: In the **Max occupancy** field, enter the total number of people that will be allowed in your store at one time. 
+    - Optional: In the **Max occupancy** field, enter the total number of people that will be allowed in your space at one time. 
 
     - Select a time zone.
 
     - Enter an address, city, country/region, and state.
     
-    - Select **Next** when you're finished entering your store details.
+    - Select **Next** when you're finished entering your space details.
 
-      ![Screenshot of Store details page.](media/setup-space-details.JPG "Screenshot of Store details page")
+      ![Screenshot of Space details page.](media/setup-space-details.JPG "Screenshot of Space details page")
    
 6. On the **Gateways** page, do one of the following:
 
@@ -47,11 +47,11 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
         ![Screenshot of Gateways page.](media/setup-add-gateways.JPG "Screenshot of Gateways page")
         
-7. On the **Review and create space** page, review all the details for your store, and then if everything looks OK, select **Create space**.
+7. On the **Review and create space** page, review all the details for your space, and then if everything looks OK, select **Create space**.
 
-    ![Screenshot of Review and create store page.](media/setup-review-space.JPG "Screenshot of Review and create store page")
+    ![Screenshot of Review and create space page.](media/setup-review-space.JPG "Screenshot of Review and create space page")
     
-8. On the **Store created** page, select **Done**.
+8. On the **Space created** page, select **Done**.
 
     ![Screenshot of Done page.](media/setup-created.JPG "Screenshot of Done page")
 
