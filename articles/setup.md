@@ -16,15 +16,15 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
 2. On the Welcome page, select **Get started**.
 
-   ![Screenshot of Get started page.](media/setup-get-started.jpg "Screenshot of Get started page")
+   ![Screenshot of Get started page.](media/setup-welcome.JPG "Screenshot of Get started page")
 
 3. On the next page, look for a message in the upper-left corner of the page. If the message says "Setting up your account for Connected Spaces," wait until the account setup is finished. If the account setup is finished, go to the next step. 
 
-     ![Screenshot of Setting up your account for Connected Spaces message.](media/setup-installing-message.jpg "Screenshot of Setting up your account for Connected Spaces message")
+     ![Screenshot of Setting up your account for Connected Spaces message.](media/setup-installing.JPG "Screenshot of Setting up your account for Connected Spaces message")
   
 4. Select **Add a store**.
 
-   ![Screenshot of Get started page with Add a store highlighted.](media/setup-add-store.jpg "Screenshot of Get started page with Add a store highlighted")
+   ![Screenshot of Get started page with Add a store highlighted.](media/setup-add-space.JPG "Screenshot of Get started page with Add a store highlighted")
 
 5. On the **Store Details** page:
 
@@ -38,22 +38,22 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
     
     - Select **Next** when you're finished entering your store details.
 
-      ![Screenshot of Store details page.](media/setup-store-details.jpg "Screenshot of Store details page")
+      ![Screenshot of Store details page.](media/setup-space-details.JPG "Screenshot of Store details page")
    
 6. On the **Gateways** page, do one of the following:
 
     - If you haven't already installed a gateway, and you want to order an Azure Stack Edge gateway, select **Order gateways on Azure Portal**. Return to this page after ordering and/or installing the gateway. A gateway must be installed to use Connected Spaces.  
     - If you have already installed a gateway, or if you haven't already installed a gateway but you plan to install the gateway later, select **Next** to continue with the Connected Spaces setup.
 
-        ![Screenshot of Gateways page.](media/setup-gateways.jpg "Screenshot of Gateways page")
+        ![Screenshot of Gateways page.](media/setup-add-gateways.JPG "Screenshot of Gateways page")
         
 7. On the **Review and create store** page, select **View more** to review all the details for your store, and then if everything looks OK, select **Create store**.
 
-    ![Screenshot of Review and create store page.](media/setup-review.jpg "Screenshot of Review and create store page")
+    ![Screenshot of Review and create store page.](media/setup-review-space.JPG "Screenshot of Review and create store page")
     
 8. On the **Store created** page, select **Done**.
 
-    ![Screenshot of Done page.](media/setup-done.jpg "Screenshot of Done page")
+    ![Screenshot of Done page.](media/setup-created.JPG "Screenshot of Done page")
 
 ## Next steps
 
