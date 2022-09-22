@@ -27,9 +27,7 @@
         - name: Prepare network and install Azure Stack Edge Pro
           href: ase-install.md
         - name: Activate Azure Stack Edge Pro 
-          href: ase-connect.md
-        - name: Install cameras
-          href: install-cameras.md
+          href: ase-connect.md        
     - name: Add a store, connect cameras, add skills and alerts, and get insights
       items:              
         - name: Get started with the web app
