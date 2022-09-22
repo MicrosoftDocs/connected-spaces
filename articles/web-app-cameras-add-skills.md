@@ -71,7 +71,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
     ![Screenshot of Review and add section.](media/skill-review-add.JPG "Screenshot of Review and add section")
 
-9. Select **Finish** to create the skill. 
+9. Select **Done** to create the skill. 
 
     ![Screenshot of Finish.](media/skill-done.JPG "Screenshot of Finish")
 
