@@ -47,7 +47,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
         ![Screenshot of Gateways page.](media/setup-add-gateways.JPG "Screenshot of Gateways page")
         
-7. On the **Review and create space** page, select **View more** to review all the details for your store, and then if everything looks OK, select **Create store**.
+7. On the **Review and create space** page, review all the details for your store, and then if everything looks OK, select **Create space**.
 
     ![Screenshot of Review and create store page.](media/setup-review-space.JPG "Screenshot of Review and create store page")
     
