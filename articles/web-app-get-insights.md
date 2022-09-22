@@ -15,9 +15,7 @@ Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, ex
 Connected Spaces supports the following camera skills: 
 
 - Entries
-
 - Area
-
 - Queue
  
 For a quick overview of how to get insights, scan the screens in this and other articles. 
@@ -72,7 +70,7 @@ Each skill type includes highlight cards with information buttons that you can h
 
 ![Largest increase in visit time card.](media/analytics-screen-largest-increase-visit-time.JPG "Largest increase in visit time card")
 
-**Largest decrease in visit time.** This card highlights the display with the largest decrease in visit time as compared to all other displays over the previous time period.  
+**Largest decrease in visit time.** This card highlights the area with the largest decrease in visit time as compared to all other areas over the previous time period. 
 
 ![Largest decrease in visit time card.](media/analytics-screen-largest-decrease-visit-time.JPG "Largest decrease in visit time card")
 
@@ -86,32 +84,32 @@ Each skill type includes highlight cards with information buttons that you can h
 
 ## Graphs on the Analytics page
 
-To the right of the highlight cards are graphs for each skill, starting with Shopper analytics.
+To the right of the highlight cards are graphs for each skill, starting with Entries.
 
-### Shopper Analytics graphs
+### Entries graphs
 
-![Shopper analytics graphs section of Analytics page.](media/analytics-screen-overview.JPG "Shopper analytics graphs section of Analytics page")
+![Entries graphs section of Analytics page.](media/analytics-screen-overview.JPG "Entries graphs section of Analytics page")
 
 > [!TIP]
 > You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. 
+**Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Entries zones. 
 
-**Footfall entries power hours [by time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
+**Footfall entries power hours [by time slice (day, hour)].**  This graph shows the hourly breakdown of space entries per day.
 
-**Footfall at each entrance [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across each Shopper analytics skill, individually. 
+**Footfall at each entrance [by time slice (day, hour)].** This graph shows the total number of people that entered the space, across each Entries skill, individually. 
 
-### Display Effectiveness graphs
+### Area graphs
 
-![Display effectiveness graphs section of Analytics page.](media/analytics-screen-area-graphs.JPG "Display effectiveness graphs section of Analytics page")
+![Area graphs section of Analytics page.](media/analytics-screen-area-graphs.JPG "Area graphs section of Analytics page")
 
 **Enters [by time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
 
 **Visit time [by time slice (day, hour)].** This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
 
-### Queue Management graphs
+### Queue graphs
 
-![Queue management graphs section of Analytics page.](media/analytics-screen-queue-graphs.JPG "Queue management graphs section of Analytics page")
+![Queue graphs section of Analytics page.](media/analytics-screen-queue-graphs.JPG "Queue graphs section of Analytics page")
 
 **Total enters across all queues [by time slice (day, hour)].** The total number of people who entered all queues, by day.
 
