@@ -10,7 +10,7 @@ ms.reviewer: v-bholmes
 
 # AI and insights for Dynamics 365 Connected Spaces Preview
 
-Microsoft Dynamics 365 Connected Spaces leverages industry-leading computer vision Artificial intelligence (AI) and machine learning to provide data-driven stored-based analytics (referred to as "insights") to optimize retail operations. Connected Spaces provides retailers with: (i) simple analytics and trends on observational data generated in the retail environment; (ii) actionable insights based on multiple sources of data through machine learning and AI; and (iii) easy ways to create and manage manual and automated tasks across the retail environment.  
+Microsoft Dynamics 365 Connected Spaces Preview leverages industry-leading computer vision Artificial intelligence (AI) and machine learning to provide data-driven stored-based analytics (referred to as "insights") to optimize your space operations. Connected Spaces Preview provides: (i) simple analytics and trends on observational data generated in the retail environment; (ii) actionable insights based on multiple sources of data through machine learning and AI; and (iii) easy ways to create and manage manual and automated tasks across the retail environment.  
 
 ## How AI works to produce insights
 
@@ -32,12 +32,10 @@ The edge device includes computer vision skills (AI models) that detect human pr
 
 - The inferenced data output from the AI skills is depersonalized and aggregated into insight data, which is sent to the Connected Spaces cloud service. In the cloud, insight data is aggregated further into hourly summaries and correlated with other business data and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. 
 
-The following list shows the insights that retail customers can retrieve from the above components of Connected Spaces. The insights are aggregated, and no individual shoppers are identified or tracked.
+The following list displays the insights that retail customers can retrieve from the above components of Connected Spaces. The insights are aggregated, so end users  are not identifiable or tracked. 
 
-> **1. Shopper analytics.** Includes insights around customers entering the store and occupancy such as total footfall across the store or busiest day of the week. 
-
-> **2. Display effectiveness.** Includes insights around shopper engagement for endcap or promotion display such as the largest increase or decrease in display traffic. 
-
-> **3. Queue management.**  Includes insights around queue wait time and lengths such as the largest increase or decrease in queue throughput. 
-
-
+|Skill|Description|Examples|
+|-----------------|-----------------------------------------------|-------------------------------------------------|
+|Area|Track how your displays and areas of interest perform |End caps, displays, promotions, breakrooms, lobbies |
+|Queue|Monitor queue wait time, length, and abandonment rate |Queues, checkouts, returns|
+|Entries|Understand traffic patterns in your space |Space entry/exit |
