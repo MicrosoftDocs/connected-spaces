@@ -19,7 +19,7 @@ When determining where to place your cameras, we suggest using this checklist:
 
 1. [Understand the scenarios](camera-placement-general.md) and your customer insight goals. The three scenarios for the preview release are Display effectiveness, Queue management, and Shopper analytics.
 
-2. Select up to 10 locations for the cameras (based on the previously listed scenarios and insight goals), and mark them on your site floorplan.
+2. Select up to seven locations for the cameras (based on the previously listed scenarios and insight goals), and mark them on your site floorplan.
 
 3. [Review the general placement guidelines and determine camera placement details for the different zones, including height, angle, and focal-point distance from the target](camera-placement-recommendations.md).
 
