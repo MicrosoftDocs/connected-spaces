@@ -10,22 +10,20 @@ ms.reviewer: v-brycho
 
 # Set options for your space in Dynamics 365 Connected Spaces Preview
 
-You can set options for your space, such as operating hours and maximum occupancy, in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your operating hours, by default, Connected Spaces will set your operating hours for every day of the week to 6:00 am – 8:00 pm in the time zone for your space.
+You can set options for your space(name, time zone, address, space hours, and maximum occupancy) in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your space hours, by default, Connected Spaces will set your hours for every day of the week to 6:00 am – 8:00 pm in the time zone for your space.
 
-## Set operating hours
+## Make changes to your options
 
 1. On the left side of the screen, select **Space details**.
 
     ![Screenshot of Settings and operating hours](media/space-details.JPG "Screenshot of Settings and operating hours")
 
-2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, scroll down to the **Space hours** section.
+2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, make your changes.
 
-    ![Screenshot of Edit button highlighted.](media/space-details-edit.JPG "Screenshot of Edit button highlighted")
-    
-3. In the **Space hours** section: 
-
-    - Select the check box next to the day of the week to set or remove operating hours for that day.
-    - In the **From** and **To** fields, enter opening and closing times for data collection. 
+    > [!NOTE]
+    > To set space hours, in the **Space hours** section:     >
+    > - Select the check box next to the day of the week to set or remove hours for that day.
+    > - In the **From** and **To** fields, enter opening and closing times for data collection. 
 
 4. Select **Save**. 
 
