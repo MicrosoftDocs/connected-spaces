@@ -50,4 +50,4 @@ Now you're ready to connect cameras to your space.
 
 - [Connect cameras](cameras-connect.md)
 - [Add camera skills](cameras-add-skills.md)
-- [Set your store's operating hours](web-app-set-operating-hours.md)
+- [See details for your space](web-app-space-details.md)
