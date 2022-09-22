@@ -39,7 +39,7 @@ In this case, an Azure Active Directory admin will need to use the following pro
 
 2. Acquire a Dynamics 365 Connected Spaces viral license for your company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1  
 
-    ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
+    ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral.JPG "Dynamics 365 Connected Spaces Viral Trial screen")
   
 3. Block viral licenses again by running these commands using Azure PowerShell:
 
