@@ -21,7 +21,7 @@ You can set options for your space (name, time zone, address, space hours, and m
 2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, make your changes.
 
     > [!NOTE]
-    > To set space hours, in the **Space hours** section:     >
+    > To set space hours, in the **Space hours** section:     
     > - Select the check box next to the day of the week to set or remove hours for that day.
     > - In the **From** and **To** fields, enter opening and closing times for data collection. 
 
