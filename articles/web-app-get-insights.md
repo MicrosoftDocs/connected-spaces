@@ -97,7 +97,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 **Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. 
 
-**Footfall entries power hour [by time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
+**Footfall entries power hours [by time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
 
 **Footfall at each queue [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across each Shopper analytics skill, individually. 
 
