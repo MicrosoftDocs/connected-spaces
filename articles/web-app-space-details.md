@@ -16,11 +16,11 @@ You can set your store's operating hours in Microsoft Dynamics 365 Connected Spa
 
 1. On the left side of the screen, select the arrow next to **Settings**, and then select **Store details**.
 
-    ![Screenshot of Settings and operating hours](media/view-store-hours.jpg "Screenshot of Settings and operating hours")
+    ![Screenshot of Settings and operating hours](media/space-details.JPG "Screenshot of Settings and operating hours")
 
 2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, scroll down to the **Store hours** section.
 
-    ![Screenshot of Edit button highlighted.](media/edit-store-hours.jpg "Screenshot of Edit button highlighted")
+    ![Screenshot of Edit button highlighted.](media/space-details-edit.JPG "Screenshot of Edit button highlighted")
     
 3. In the **Store hours** section: 
 
