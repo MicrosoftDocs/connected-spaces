@@ -116,7 +116,7 @@ The line should be long enough to accommodate the entire entrance. When drawing 
 
 ![Well-shaped Entries skill line.](media/skill-zone-sa-good-example.png "Well-shaped Entries skill line")
 
-### Examples of Entries skill lines that aren't well-shaped
+### Examples of Entries skill lines that aren't well-formed
 
 The following examples show poorly defined **Entries** skill lines.
 
