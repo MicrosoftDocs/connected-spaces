@@ -32,8 +32,8 @@
       items:              
         - name: Get started with the web app
           href: web-app-home-page.md
-        - name: Create a store
-          href: store-create.md
+        - name: Create a space
+          href: web-app-space-create.md
         - name: Connect a camera to the gateway
           href: cameras-connect.md
         - name: Add camera skills
