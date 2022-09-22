@@ -110,11 +110,11 @@ The following examples show poorly shaped **Area** skill zones. In these example
 
 ![Skill zone is partially blocked, so people aren't fully visible.](media/skill-zone-de-bad-example-5.png "Skill zone is partially blocked, so people aren't fully visible")
 
-### Example of a well-shaped Entries skill line
+### Example of a well-formed Entries skill line
 
 The line should be long enough to accommodate the entire entrance. When drawing lines on the 2D image, imagine you're drawing them as if they lie on the floor.
 
-![Well-shaped Entries skill line.](media/skill-zone-sa-good-example.png "Well-shaped Entries skill line")
+![Well-formed Entries skill line.](media/skill-zone-sa-good-example.png "Well-formed Entries skill line")
 
 ### Examples of Entries skill lines that aren't well-formed
 
