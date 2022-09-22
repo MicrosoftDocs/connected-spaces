@@ -42,8 +42,8 @@
           href: web-app-add-alerts.md        
         - name: Use the Analytics page to get insights
           href: web-app-get-insights.md  
-        - name: Set your store's operating hours
-          href: web-app-set-operating-hours.md
+        - name: See details for your space
+          href: web-app-space-details.md
     - name: Choose whether to upload video and inference data
       href: video-inference-data-upload.md  
     - name: Communicate with shoppers and employees
