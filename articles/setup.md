@@ -26,9 +26,9 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
    ![Screenshot of Get started page with Add a space highlighted.](media/setup-add-space.JPG "Screenshot of Get started page with Add a space highlighted")
 
-5. On the **Store Details** page:
+5. On the **Space details** page:
 
-    - Enter a descriptive name for the space to distinguish it from your other spaces.
+    - Enter a descriptive name for your space to distinguish it from your other spaces.
 
     - Optional: In the **Max occupancy** field, enter the total number of people that will be allowed in your space at one time. 
 
@@ -47,7 +47,7 @@ After you've [signed up for a free trial](trial-signup.md) and selected the **La
 
         ![Screenshot of Gateways page.](media/setup-add-gateways.JPG "Screenshot of Gateways page")
         
-7. On the **Review and create space** page, review all the details for your space, and then if everything looks OK, select **Create space**.
+7. On the **Review and create space** page, if everything looks OK, select **Create space**.
 
     ![Screenshot of Review and create space page.](media/setup-review-space.JPG "Screenshot of Review and create space page")
     
