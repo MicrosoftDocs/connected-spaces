@@ -48,7 +48,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 1. In the Connected Spaces Preview web app, select the **Devices** tab, and then select **Add gateway**. 
 
-   ![Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted.](media/ase-activate-6.jpg "Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted")
+   ![Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted.](media/ase-activate-add-gateway.JPG "Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted")
 
 2. In the first screen of the **Add device** wizard, select **Next**.
 
