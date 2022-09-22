@@ -32,8 +32,8 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 
 Your trial environment includes all of the Dynamics 365 Connected Spaces features. The links below guide you through some of the key features after you've finished setting up Connected Spaces and created a store.
 
-- [Connect cameras to a gateway](cameras-connect.md)
-- [Add camera skills](cameras-add-skills.md)
+- [Connect cameras to a gateway](web-app-cameras-connect.md)
+- [Add camera skills](web-app-cameras-add-skills.md)
 - [Get insights on your store](web-app-get-insights.md)
 
 ## Additional resources
