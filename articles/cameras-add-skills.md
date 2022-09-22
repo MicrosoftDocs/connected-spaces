@@ -148,7 +148,7 @@ The following examples show poorly defined **Queue** skill zones.
 
 ## Manage your skills
 
-Use the **Skills** page to view all the skills created for your space. For each skill, the page shows the camera image, friendly name, type of skill (Area, Entries, or Queue), whether the skill is active or inactive, and the date the skill was last updated.
+Use the **Skills** page to view all the skills created for your space. 
 
 ![Screenshot of skills page showing multiple skills.](media/skill-edit.JPG "Screenshot of skills page showing multiple skills")
 
