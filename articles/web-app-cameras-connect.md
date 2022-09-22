@@ -16,7 +16,7 @@ After you've [paired a gateway to your store](ase-connect.md), you can connect y
 
 You need to do the following before you can connect your cameras to a gateway:
 
-- [Install the cameras](install-cameras.md).
+- Install your cameras.
 
 - Gather the RTSP URLs and credentials for all the cameras you want to connect.
 
@@ -92,4 +92,4 @@ You can edit the details for any camera from the **Devices** page.
 
 ## Next step
 
-[Add camera skills](cameras-add-skills.md)
+[Add camera skills](web-app-cameras-add-skills.md)
