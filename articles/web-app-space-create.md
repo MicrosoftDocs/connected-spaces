@@ -48,6 +48,6 @@ Now you're ready to connect cameras to your space.
  
 ## Next steps
 
-- [Connect cameras](cameras-connect.md)
-- [Add camera skills](cameras-add-skills.md)
+- [Connect cameras](web-app-cameras-connect.md)
+- [Add camera skills](web-app-cameras-add-skills.md)
 - [See details for your space](web-app-space-details.md)
