@@ -29,22 +29,22 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
 1.	On the **Skills** page, select **Add skill**. 
 
-    ![Add a skill command.](media/add-skill.jpg "Add a skill command")
+    ![Add a skill command.](media/skill-add.JPG "Add a skill command")
  
 2.	In the **Add skill** wizard, select one of the three skills, and then select **Next**. 
 
-     ![Screenshot of three types of skills.](media/select-skill.jpg "Screenshot of three types of skills")    
+     ![Screenshot of three types of skills.](media/skill-select.JPG "Screenshot of three types of skills")    
  
 3. Select the appropriate camera for the skill, and then select **Next**. 
 
-    ![Screenshot of Choose camera section.](media/select-skill-camera.jpg "Screenshot of Choose camera section")
+    ![Screenshot of Choose camera section.](media/skill-choose-camera.JPG "Screenshot of Choose camera section")
     
     > [!NOTE]
     > If you don't see any cameras, you need to [connect your cameras to a gateway](cameras-connect.md) before adding skills.
     
 4. Draw a skill zone to track customer behavior.
 
-    ![Screenshot of drawing a skill zone for an Area skill.](media/draw-skill-area.jpg "Screenshot of drawing a skill zone for an Area skill")
+    ![Screenshot of drawing a skill zone for an Area skill.](media/skill-draw.JPG "Screenshot of drawing a skill zone for an Area skill")
 
     - For an **Area** skill, drag the zone endpoints to resize the polygon and move it where you want it. Use the tips on the right side of the page to learn  about best practices.
 
@@ -63,17 +63,17 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
     2. Use the **Skill state** slider to turn the skill on or off. The skill will not collect data if the slider is not in the **Active** position. 
 
-       ![Screenshot of Add details section.](media/skill-add-details.jpg "Screenshot of Add details section")
+       ![Screenshot of Add details section.](media/skill-add-detail.JPG "Screenshot of Add details section")
        
     3. Select **Next**.
 
 8. In the **Review and add** section, review the skill configuration, and then select **Create skill** if the skill is set up the way you want. Otherwise, select **Back** to make changes. 
 
-    ![Screenshot of Review and add section.](media/skill-review.jpg "Screenshot of Review and add section")
+    ![Screenshot of Review and add section.](media/skill-review-add.JPG "Screenshot of Review and add section")
 
 9. Select **Finish** to create the skill. 
 
-    ![Screenshot of Finish.](media/skill-finish.jpg "Screenshot of Finish")
+    ![Screenshot of Finish.](media/skill-done.JPG "Screenshot of Finish")
 
 ## Tips for drawing skill zones
 
@@ -150,7 +150,7 @@ The following examples show poorly defined **Queue** skill zones.
 
 Use the **Skills** page to view all the skills created for your space. For each skill, the page shows the camera image, friendly name, type of skill (Area, Entries, or Queue), whether the skill is active or inactive, and the date the skill was last updated.
 
-![Screenshot of skills page showing multiple skills.](media/skills-management.jpg "Screenshot of skills page showing multiple skills")
+![Screenshot of skills page showing multiple skills.](media/skill-edit.JPG "Screenshot of skills page showing multiple skills")
 
 Select a column title to sort on a column. 
 
@@ -158,17 +158,17 @@ Select a column title to sort on a column.
 
 1. On the **Skills** page, select the **More options** button (...), and then select **Edit**.
 
-    ![Screenshot showing Actions column and Edit command.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command")
+    ![Screenshot showing Actions column and Edit command.](media/skill-more-info-button.JPG "Screenshot showing Actions column and Edit command")
     
 2. In the **Edit skill** pane on the right side of the screen, make any changes, and then select **Save**. 
 
-    ![Screenshot of Edit skill pane.](media/skills-edit-skill-pane.jpg "Screenshot of Edit skill pane")
+    ![Screenshot of Edit skill pane.](media/skill-edit-skill-pane.JPG "Screenshot of Edit skill pane")
 
 ## Delete a skill
 
 1. On the **Skills** page, select the **More options** button (...), and then select **Delete**.
 
-    ![Screenshot showing Actions column and Edit command again.](media/skills-edit.jpg "Screenshot showing Actions column and Edit command again")
+    ![Screenshot showing Actions column and Edit command again.](media/skill-more-info-button.JPG "Screenshot showing Actions column and Edit command again")
     
     > [!NOTE]
     > Deleting a skill will permanently remove it from Azure Stack Edge and the Connected Spaces Preview web app, and cannot be recovered. All collected data will remain in the dashboards. If you're unsure about deleting a skill, change the skill status to **Inactive** instead.
