@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 09/30/2022
+ms.date: 09/12/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
