@@ -18,7 +18,7 @@ You can set options for your space, such as operating hours, in Microsoft Dynami
 
     ![Screenshot of Settings and operating hours](media/space-details.JPG "Screenshot of Settings and operating hours")
 
-2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, scroll down to the **Store hours** section.
+2. Select **Edit** at the top of the screen, and then under **Edit details** on the right side of the screen, scroll down to the **Space hours** section.
 
     ![Screenshot of Edit button highlighted.](media/space-details-edit.JPG "Screenshot of Edit button highlighted")
     
