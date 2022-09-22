@@ -60,11 +60,11 @@ Each skill type includes highlight cards with information buttons that you can h
 
 ![Busiest day card.](media/analytics-screen-busiest-day.JPG "Busiest day card")
 
-**Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
+**Largest increase in area traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
 
 ![Largest increase in display traffic card.](media/analytics-screen-largest-increase-display-traffic.JPG "Largest increase in display traffic card")
 
-**Largest decrease in display traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
+**Largest decrease in area traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
 
 ![Largest decrease in display traffic card.](media/analytics-screen-largest-decrease-display-traffic.JPG "Largest decrease in display traffic card")
 
