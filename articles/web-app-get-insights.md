@@ -111,7 +111,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ### Queue Management graphs
 
-![Queue management graphs section of Analytics page.](media/analytics-screen-queue-management-graphs.JPG "Queue management graphs section of Analytics page")
+![Queue management graphs section of Analytics page.](media/analytics-screen-queue-graphs.JPG "Queue management graphs section of Analytics page")
 
 **Total enters across all queues [by time slice (day, hour)].** The total number of people who entered all queues, by day.
 
