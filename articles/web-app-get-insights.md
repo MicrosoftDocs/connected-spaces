@@ -29,7 +29,7 @@ For a quick overview of how to get insights, scan the screens in this and other 
 
 The **Analytics** page, which is organized by skill (Shopper analytics, Queue management, and Display effectiveness), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
 
-![Analytics page.](media/analytics-overview.jpg "Analytics page")
+![Analytics page.](media/analytics-screen-overview.JPG "Analytics page")
 
 ## Filter by date
 
@@ -51,38 +51,38 @@ Each skill type includes highlight cards with information buttons that you can h
 
 **Change in store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
 
-![Change in store entries card.](media/change-store-entries.jpg "Change in store entries card")
+![Change in store entries card.](media/analytics-screen-change-store-entries.JPG "Change in store entries card")
 
 >[!NOTE]
 > If there’s insufficient data, no information is displayed in the card. This is true for all cards on the **Analytics** and other pages.
 
 **Busiest day.** This card highlights the day of the week and date within the selected time frame that had the greatest number of people, along with the people count. 
 
-![Busiest day card.](media/busiest-day.jpg "Busiest day card")
+![Busiest day card.](media/analytics-screen-busiest-day.JPG "Busiest day card")
 
 **Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
 
-![Largest increase in display traffic card.](media/analytics-largest-increase-display-traffic.jpg "Largest increase in display traffic card")
+![Largest increase in display traffic card.](media/analytics-screen-largest-increase-display-traffic.JPG "Largest increase in display traffic card")
 
 **Largest decrease in display traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
 
-![Largest decrease in display traffic card.](media/largest-decrease-display-traffic.jpg "Largest decrease in display traffic card")
+![Largest decrease in display traffic card.](media/analytics-screen-largest-decrease-display-traffic.JPG "Largest decrease in display traffic card")
 
 **Largest increase in visit time.** This card highlights the display with the largest increase in visit time as compared to all other displays over the previous time period.  
 
-![Largest increase in visit time card.](media/analytics-largest-increase-visit-time.jpg "Largest increase in visit time card")
+![Largest increase in visit time card.](media/analytics-screen-largest-increase-visit-time.JPG "Largest increase in visit time card")
 
 **Largest decrease in visit time.** This card highlights the display with the largest decrease in visit time as compared to all other displays over the previous time period.  
 
-![Largest decrease in visit time card.](media/analytics-largest-decrease-visit-time.jpg "Largest decrease in visit time card")
+![Largest decrease in visit time card.](media/analytics-screen-largest-decrease-visit-time.JPG "Largest decrease in visit time card")
 
 **Change in queue traffic.** This card shows the percentage increase or decrease for queue traffic as compared to the previous time period.
 
-![Change in queue traffic card.](media/change-queue-traffic.jpg "Change in queue traffic card")
+![Change in queue traffic card.](media/analytics-screen-change-queue-traffic.JPG "Change in queue traffic card")
 
 **Change in queue wait time.** This card shows the percentage increase or decrease for the queue wait time as compared to the previous time period. 
 
-![Change in queue wait time card.](media/change-queue-wait-time.jpg "Change in queue wait time card")
+![Change in queue wait time card.](media/analytics-screen-change-queue-wait-time.JPG "Change in queue wait time card")
 
 ## Graphs on the Analytics page
 
@@ -90,7 +90,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ### Shopper Analytics graphs
 
-![Shopper analytics graphs section of Analytics page.](media/analytics-shopper-analytics-graphs.jpg "Shopper analytics graphs section of Analytics page")
+![Shopper analytics graphs section of Analytics page.](media/analytics-screen-overview.JPG "Shopper analytics graphs section of Analytics page")
 
 > [!TIP]
 > You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
@@ -103,7 +103,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ### Display Effectiveness graphs
 
-![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
+![Display effectiveness graphs section of Analytics page.](media/analytics-screen-area-graphs.JPG "Display effectiveness graphs section of Analytics page")
 
 **Enters [by time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
 
@@ -111,7 +111,7 @@ To the right of the highlight cards are graphs for each skill, starting with Sho
 
 ### Queue Management graphs
 
-![Queue management graphs section of Analytics page.](media/analytics-queue-management-graphs.jpg "Queue management graphs section of Analytics page")
+![Queue management graphs section of Analytics page.](media/analytics-screen-queue-management-graphs.JPG "Queue management graphs section of Analytics page")
 
 **Total enters across all queues [by time slice (day, hour)].** The total number of people who entered all queues, by day.
 
