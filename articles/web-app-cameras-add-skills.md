@@ -42,7 +42,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     > [!NOTE]
     > If you don't see any cameras, you need to [connect your cameras to a gateway](cameras-connect.md) before adding skills.
     
-4. Draw a skill zone to track customer behavior.
+4. Draw a skill area to track customer behavior.
 
     ![Screenshot of drawing a skill zone for an Area skill.](media/skill-draw.JPG "Screenshot of drawing a skill zone for an Area skill")
 
