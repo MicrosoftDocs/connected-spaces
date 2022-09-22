@@ -22,7 +22,7 @@ The Microsoft Dynamics 365 Connected Spaces Preview web app [works together with
 
 The **Home** page in the web app provides links for all these tasks, so that you can easily get started.
 
-![Screenshot of Connected Spaces Preview web app Home page.](media/home-page.JPG "Screenshot of Connected Spaces Preview web app Home page")
+![Screenshot of Connected Spaces Preview web app Home page.](media/web-app-home-page.JPG "Screenshot of Connected Spaces Preview web app Home page")
 
 The **Home** page also provides links to videos and other helpful information to help you build trust with your customers and employees.
 
