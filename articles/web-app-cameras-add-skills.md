@@ -67,7 +67,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
        
     3. Select **Next**.
 
-8. In the **Review and add** section, review the skill configuration, and then select **Create skill** if the skill is set up the way you want. Otherwise, select **Back** to make changes. 
+8. In the **Review and add** section, review the skill configuration, and then select **Add skill** if the skill is set up the way you want. Otherwise, select **Back** to make changes. 
 
     ![Screenshot of Review and add section.](media/skill-review-add.JPG "Screenshot of Review and add section")
 
