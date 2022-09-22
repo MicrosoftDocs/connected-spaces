@@ -104,4 +104,4 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 ## Next step
 
-[Install your cameras](install-cameras.md)
+[Get started with the web app](web-app-home-page.md)
