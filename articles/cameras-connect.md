@@ -28,7 +28,7 @@ You need to do the following before you can connect your cameras to a gateway:
 
 1. On the **Devices** page, select **Add cameras**. 
 
-    ![Add camera button highlighted.](media/add-camera-command.jpg "Add camera button highlighted")
+    ![Add camera button highlighted.](media/add-device-cameras.JPG "Add camera button highlighted")
     
 2. On the **Add camera** page, you'll see the list of prerequisites that you must do before you can connect cameras. If you've already completed these steps, select **Start** to begin connecting cameras. 
 
