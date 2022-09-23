@@ -83,7 +83,7 @@ You must be an owner of the service principal that you want to update.
 
     ![XXX.](media/setup-certificates-14.JPG "XXX")
 
-4. Go to the **Certificates** tab.
+4. Go to **Certificates**.
 
     ![XXX.](media/setup-certificates-15.JPG "XXX")
 
