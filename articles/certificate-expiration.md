@@ -1,4 +1,4 @@
-# Find certficate expiration dates
+# Find certificate expiration dates
 
 When trying to identify when your Connected Spaces Preview certificatrs expire, there are two different places you need to collect from.
 
