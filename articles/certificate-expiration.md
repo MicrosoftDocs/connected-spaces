@@ -60,22 +60,22 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 These are the expiration dates to keep in mind. 
 
-## Renew Service Principal certificates and secrets
+## Renew service principal certificates and secrets
 
-When Connected Spaces Preview is deployed, a Service Principal is created in your tenant along with the necessary credentials to authenticate to it. These credentials expire within two years for both the certificate and the secret. You'll receive an email message about six months before the certificate expires, indicating that you need to update the certificate manually. You must do this update before the credentials expire. **Otherwise, you will experience data loss.**
+When Connected Spaces Preview is deployed, a service principal is created in your tenant along with the necessary credentials to authenticate to it. These credentials expire within two years for both the certificate and the secret. You'll receive an email message about six months before the certificate expires, indicating that you need to update the certificate manually. You must do this update before the credentials expire. **Otherwise, you will experience data loss.**
 
 > [!IMPORTANT]
-> After you update the secret and the certificate in the Key Vault, you must apply the same changes to the Service Principal as soon as possible. The device will update and use these new values within 10 minutes after you make the changes. 
+> After you update the secret and the certificate in the Key Vault, you must apply the same changes to the service principal as soon as possible. The device will update and use these new values within 10 minutes after you make the changes. 
 
 ### Prerequisites
 
-You must be an owner of the Service Principal that you want to update.
+You must be an owner of the service principal that you want to update.
 
 ### Find the credentials in the Key Vault
 
 1. Go to [portalzaure.com](portalzaure.com). 
 
-2. In the main the Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
+2. In the main Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
 
     ![XXX.](media/setup-certificates-13.JPG "XXX")
 
