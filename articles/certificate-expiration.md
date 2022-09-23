@@ -171,7 +171,7 @@ After completing the setup for the update, update the Service Principal with the
 
 9. Select the **Create** button at the bottom of the page.
 
-    SCREENSHOT GOES HERE![XXX.](media/setup-certificates-31.JPG "XXX")
+    ![XXX.](media/setup-certificates-31.JPG "XXX")
 
 
 
