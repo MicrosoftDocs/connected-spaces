@@ -37,12 +37,12 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
         ![Screenshot that highlights the Overview tab and Managed application field.](media/ase-activate-4.jpg "Screenshot that highlights the Overview tab and Managed application field")
         
-    5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (see below).
+    5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (see below). You can reuse the same service principal for multiple Azure Stack Edge devices.
 
         ![Screenshot highlighting the Application ID and Object ID fields.](media/ase-activate-5.jpg "Screenshot highlighting the Application ID and Object ID fields")
 
-        > [!TIP]
-        > You can reuse the same service principal for multiple Azure Stack Edge devices. 
+        > [!NOTE]
+        > The service principle admin will need to keep track of expiring certificates. [Learn more](setup-certificates) 
 
 ## Add a gateway device
 
