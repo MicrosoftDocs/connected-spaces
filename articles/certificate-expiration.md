@@ -38,7 +38,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 ### App registrations
 
-1. Go to the Azure Directory Service.
+1. Go to the Azure Active Directory Service.
 
     ![XXX.](media/setup-certificates-8.JPG "XXX")
 
