@@ -30,8 +30,6 @@ After local processing, insights data is uploaded to the Microsoft Dynamics 365 
     ![Screenshot of Change upload preference dialog box](media/change-video-upload-preference.JPG "Screenshot of Change upload preference dialog box")
     
 4. To confirm that your request has been sent, check the **Privacy and about** panel. You should see your updated **Settings** preference. 
-
-    ![Screenshot of Privacy information pane with message at top](media/video-privacy-about-changed-setting.JPG "Screenshot of Privacy information pane with message at top")
  
 ## Benefits of uploading video and inference data 
 
