@@ -14,7 +14,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
     ![XXX.](media/setup-certificates-2.JPG "XXX")
 
-3. Go to the **Certificates** section for the key vault.
+3. Go to the **Certificates** section for the Key Vault.
 
     ![XXX.](media/setup-certificates-3.JPG "XXX")
 
