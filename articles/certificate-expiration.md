@@ -113,7 +113,7 @@ After completing the setup for the update, update the service principal with the
 
     ![XXX.](media/setup-certificates-19.JPG "XXX")
 
-3. Go to the **Certificates & secrets** tab to view your credentials.
+3. Go to **Certificates & secrets** to view your credentials.
 
     ![XXX.](media/setup-certificates-20.JPG "XXX")
 
