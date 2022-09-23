@@ -171,7 +171,7 @@ After completing the setup for the update, update the service principal with the
 
 9. Select the **Create** button at the bottom of the page.
 
-    ![XXX.](media/setup-certificates-31.JPG "XXX")
+    ![Screenshot of Create a secret screen.](media/setup-certificates-31.JPG "Screenshot of Create a secret screen")
 
 
 
