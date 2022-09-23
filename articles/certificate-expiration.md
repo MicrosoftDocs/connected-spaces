@@ -2,7 +2,7 @@
 
 ## Find certificate expiration dates
 
-To identify when your Connected Spaces Preview certificates expire, you need to collect data from two different places: Key Vault and App Registrations. 
+To identify when your Connected Spaces Preview certificates expire, you need to collect data from two different places: Key Vault and App registrations. 
 
 ### Key Vault
 
@@ -30,13 +30,13 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
     ![XXX.](media/setup-certificates-6.JPG "XXX")
 
-7. Find the secret that specifies the App Registration used with Connected Spaces. It's called **ServicePrincipalId**. 
+7. Find the secret that specifies the App registration used with Connected Spaces. It's called **ServicePrincipalId**. 
 
     ![XXX.](media/setup-certificates-7.JPG "XXX")
     
-8. Copy the value of the secret to your Clipboard to look up the App Registration.
+8. Copy the value of the secret to your Clipboard to look up the App registration.
 
-### App Registrations
+### App registrations
 
 1. Go to the Azure Directory Service.
 
