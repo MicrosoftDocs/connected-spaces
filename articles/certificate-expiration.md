@@ -4,13 +4,13 @@
 
 To identify when your Connected Spaces Preview certificates expire, you need to collect data from two different places.
 
-### Key vault
+### Key Vault
 
 1. In Microsoft Azure, in the main Azure search box, enter **mrg-connected-spaces-** to go to the Managed App resource created during the deployment.
 
    ![XXX.](media/setup-certificates-1.JPG "XXX")
     
-2. Select the **Key vault** row. 
+2. Select the **Key Vault** row. 
 
     ![XXX.](media/setup-certificates-2.JPG "XXX")
 
@@ -22,7 +22,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
     ![XXX.](media/setup-certificates-4.JPG "XXX")
 
-5. Go to the **Secrets** section for the Key vault. 
+5. Go to the **Secrets** section for the Key Vault. 
 
     ![XXX.](media/setup-certificates-5.JPG "XXX")
 
@@ -42,7 +42,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
     ![XXX.](media/setup-certificates-8.JPG "XXX")
 
-2. On the **Overview** tab, look up the ID that you copied from the Key vault.
+2. On the **Overview** tab, look up the ID that you copied from the Key Vault.
 
     ![XXX.](media/setup-certificates-9.JPG "XXX")
 
@@ -65,13 +65,13 @@ These are the expiration dates to keep in mind.
 When Connected Spaces Preview is deployed, a Service Principal is created in your tenant along with the necessary credentials to authenticate to it. These credentials expire within two years for both the certificate and the secret. You'll receive an email message about six months before the certificate expires, indicating that you need to update the certificate manually. You must do this update before the credentials expire. **Otherwise, you will experience data loss.**
 
 > [!IMPORTANT]
-> After you update the secret and the certificate in the Key vault, you must apply the same changes to the Service Principal as soon as possible. The device will update and use these new values within 10 minutes after you make the changes. 
+> After you update the secret and the certificate in the Key Vault, you must apply the same changes to the Service Principal as soon as possible. The device will update and use these new values within 10 minutes after you make the changes. 
 
 ### Prerequisites
 
 You must be an owner of the Service Principal that you want to update.
 
-### Find the credentials in the Key vault
+### Find the credentials in the Key Vault
 
 1. Go to [portalzaure.com](portalzaure.com). 
 
@@ -79,7 +79,7 @@ You must be an owner of the Service Principal that you want to update.
 
     ![XXX.](media/setup-certificates-13.JPG "XXX")
 
-3. After you find the resource group, locate the Key vault for this deployment.
+3. After you find the resource group, locate the Key Vault for this deployment.
 
     ![XXX.](media/setup-certificates-14.JPG "XXX")
 
@@ -125,7 +125,7 @@ After completing the setup for the update, update the Service Principal with the
 
     ![XXX.](media/setup-certificates-22.JPG "XXX")
 
-6. You'll see a new exposed secret. This is the only time that the secret is visible. Copy SCREENSHOT GOES HEREthe secret value to a text editor to update the secret in the Key vault.
+6. You'll see a new exposed secret. This is the only time that the secret is visible. Copy SCREENSHOT GOES HEREthe secret value to a text editor to update the secret in the Key Vault.
 
     ![XXX.](media/setup-certificates-23.JPG "XXX")
 
@@ -137,7 +137,7 @@ After completing the setup for the update, update the Service Principal with the
 
     ![XXX.](media/setup-certificates-25.JPG "XXX")
 
-9. Select **Upload certificate**, and then go to the location where you saved the PFX certificate you downloaded from the Key vault.
+9. Select **Upload certificate**, and then go to the location where you saved the PFX certificate you downloaded from the Key Vault.
 
     ![XXX.](media/setup-certificates-26.JPG "XXX")
 
@@ -145,7 +145,7 @@ After completing the setup for the update, update the Service Principal with the
 
 ### Create a new secret
 
-1. Go back to the Key vault.
+1. Go back to the Key Vault.
 
 2. Go to the **Secrets** tab.
 
