@@ -1,4 +1,4 @@
-# Certificates
+# Update expired certificates for Dynamics 365 Connected Spaces Preview
 
 ## Find certificate expiration dates
 
