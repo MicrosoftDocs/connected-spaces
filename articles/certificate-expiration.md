@@ -8,31 +8,31 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 1. In Microsoft Azure, go to the Managed App resource created during the deployment.
 
-    SCREENSHOT GOES HERE
+   ![XXX.](media/setup-certificates-1.JPG "XXX")
     
 2. Select the **Key vault** row. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-2.JPG "XXX")
 
 3. Go to the **Certificates** section for the key vault.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-3.JPG "XXX")
 
 4. Find the certificate named **liveaiserviceprincipalprivatekey**. Note the expiration date. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-4.JPG "XXX")
 
 5. Go to the **Secrets** section for the Key vault. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-5.JPG "XXX")
 
 6. Find the secret used for the service principal called ServicePrincipalSecret. Note the expiration date. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-6.JPG "XXX")
 
 7. Find the secret that specifies the App Registration used with Connected Spaces. It's called **ServicePrincipalId**. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-7.JPG "XXX")
     
 8. Copy the value of the secret to your Clipboard to look up the App Registration.
 
@@ -40,23 +40,23 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 1. Go to the Azure Directory Service.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-8.JPG "XXX")
 
 2. On the **Overview** tab, look up the ID that you copied from the Key vault.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-9.JPG "XXX")
 
 3. In the App Registration, go to the **Certificates & secrets** section. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-10.JPG "XXX")
 
 4. On the **Client secrets** tab, note the expiration date for your current secret. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-11.JPG "XXX")
 
 5. Go to the **Certificates** tab, and find the expiration date for the certificate set in the App Registration. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-12.JPG "XXX")
 
 These are the expiration dates to keep in mind. 
 
@@ -77,21 +77,21 @@ You must be an owner of the Service Principal that you want to update.
 
 2. In the main the Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
 
-SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-13.JPG "XXX")
 
 3. After you find the resource group, locate the Key vault for this deployment.
 
-SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-14.JPG "XXX")
 
 4. Go to the **Certificates** tab.
 
-SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-15.JPG "XXX")
 
 5. Select the **liveaiserviceprincipalprivatekey** certificate. 
 
 6. Select **New Version** at the top of the page to create a new version of the certificate. 
 
-SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-16.JPG "XXX")
 
 7. Select **Create** at the bottom of the page to create the new certificate. You don't need to make any other changes on the page. 
 
@@ -99,7 +99,7 @@ SCREENSHOT GOES HERE
 
 9. Select the newly created version and then download and save the PFX file. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-17.JPG "XXX")
 
 ### Update the Service Principal
 
@@ -107,39 +107,39 @@ After completing the setup for the update, update the Service Principal with the
 
 1. In the main Azure search bar at the top of the page, search for the **Azure Active Directory** service. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-18.JPG "XXX")
 
 2. On the Overview tab, enter **cs-dbe** in the search bar to find your App registration. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-19.JPG "XXX")
 
 3. Go to the **Certificates & secrets** tab to view your credentials.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-20.JPG "XXX")
 
 4. Select the **Client secrets** (default) tab, and then select **New client secret**.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-21.JPG "XXX")
 
 5. In the dialog box that's displayed, enter a description and set the expiration to 24 months. Then select **Add**. 
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-22.JPG "XXX")
 
 6. You'll see a new exposed secret. This is the only time that the secret is visible. Copy SCREENSHOT GOES HEREthe secret value to a text editor to update the secret in the Key vault.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-23.JPG "XXX")
 
 7. Delete any old secrets to avoid any potential security risks.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-24.JPG "XXX")
 
 8. Select the **Certificates** tab.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-25.JPG "XXX")
 
 9. Select **Upload certificate**, and then go to the location where you saved the PFX certificate you downloaded from the Key vault.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-26.JPG "XXX")
 
 10. Delete any old certifiates to avoid any potential security risks.
 
@@ -149,19 +149,19 @@ After completing the setup for the update, update the Service Principal with the
 
 2. Go to the **Secrets** tab.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-27.JPG "XXX")
 
 3. Select **ServicePrinicpalSecret**.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-28.JPG "XXX")
 
 4. Go into **Current** to copy the content type to use in the new secret version. Store it in a text editor to use for the next step.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-29.JPG "XXX")
 
 5. Go back to the previous page and select **New Version** at the top of the page to create a new version of this secret.
 
-    SCREENSHOT GOES HERE
+    ![XXX.](media/setup-certificates-30.JPG "XXX")
 
 6. Include the expiration date: leave the default (2 years)
 
@@ -171,7 +171,7 @@ After completing the setup for the update, update the Service Principal with the
 
 9. Select the **Create** button at the bottom of the page.
 
-    SCREENSHOT GOES HERE
+    SCREENSHOT GOES HERE![XXX.](media/setup-certificates-31.JPG "XXX")
 
 
 
