@@ -109,7 +109,7 @@ After completing the setup for the update, update the service principal with the
 
     ![XXX.](media/setup-certificates-18.JPG "XXX")
 
-2. On the Overview tab, enter **cs-dbe** in the search bar to find your App registration. 
+2. On the **Overview** tab, enter **cs-dbe** in the search bar to find your App registration. 
 
     ![XXX.](media/setup-certificates-19.JPG "XXX")
 
