@@ -141,7 +141,7 @@ After completing the setup for the update, update the service principal with the
 
     ![XXX.](media/setup-certificates-26.JPG "XXX")
 
-10. Delete any old certifiates to avoid any potential security risks.
+10. Delete any old certificates to avoid any potential security risks.
 
 ### Create a new secret
 
