@@ -52,11 +52,11 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 4. On the **Client secrets** tab, note the expiration date for your current secret. 
 
-    ![Screenshot of Client secrets tab.](media/setup-certificates-11.JPG "Screenshot of Client secrets tab")
+    ![Screenshot of Client secrets tab with expiration date highlighted.](media/setup-certificates-11.JPG "Screenshot of Client secrets tab with expiration date highlighted")
 
 5. Go to the **Certificates** tab, and find the expiration date for the certificate set in the App registration. 
 
-    ![Screenshot of Certificates tab.](media/setup-certificates-12.JPG "Screenshot of Certificates tab")
+    ![Screenshot of Certificates tab with expiration date highlighted.](media/setup-certificates-12.JPG "Screenshot of Certificates tab with expiration date highlighted")
 
 These are the expiration dates to keep in mind. 
 
