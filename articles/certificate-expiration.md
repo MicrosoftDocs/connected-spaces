@@ -119,15 +119,15 @@ After completing the setup for the update, update the service principal with the
 
 4. Select the **Client secrets** (default) tab, and then select **New client secret**.
 
-    ![Screenshot of Client secrets tab.](media/setup-certificates-21.JPG "Screenshot of Client secrets tab")
+    ![Screenshot of Client secrets tab and New client secret highlighted.](media/setup-certificates-21.JPG "Screenshot of Client secrets tab and New client secret highlighted")
 
 5. In the dialog box that's displayed, enter a description and set the expiration to 24 months. Then select **Add**. 
 
-    ![XXX.](media/setup-certificates-22.JPG "XXX")
+    ![Screenshot of Description and Expiration fields.](media/setup-certificates-22.JPG "Screenshot of Description and Expiration fields")
 
 6. You'll see a new exposed secret. This is the only time that the secret is visible. Copy the secret value to a text editor to update the secret in the Key Vault.
 
-    ![XXX.](media/setup-certificates-23.JPG "XXX")
+    ![Screenshot of the secret.](media/setup-certificates-23.JPG "Screenshot of the secret")
 
 7. Delete any old secrets to avoid any potential security risks.
 
