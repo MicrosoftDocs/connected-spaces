@@ -6,7 +6,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 ### Key vault
 
-1. In Microsoft Azure, in the main Azure search box, enter xxx to go to the Managed App resource created during the deployment.
+1. In Microsoft Azure, in the main Azure search box, enter **mrg-connected-spaces-** to go to the Managed App resource created during the deployment.
 
    ![XXX.](media/setup-certificates-1.JPG "XXX")
     
