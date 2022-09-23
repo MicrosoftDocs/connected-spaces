@@ -97,7 +97,7 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 
 While shoppers and employees may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and concerns, potentially impacting trust in your brand. For tips for building shopper and employee trust through a notice and disclosure strategy, refer to the best practices outlined in our two guides, [Communicate with shoppers](communication-plan.md) and [Communicate with employees](employee-plan.md).
 
-## How do I update certificates for my deployment
+## How do I update certificates for my Connected Space deployment?
 
 [Learn about updating certificates](setup-certificates.md)
 
