@@ -2,7 +2,7 @@
 
 ## Find certificate expiration dates
 
-When trying to identify when your Connected Spaces Preview certificatrs expire, there are two different places you need to collect from.
+To identify when your Connected Spaces Preview certificates expire, you need to collect data from two different places.
 
 ### Key vault
 
@@ -58,7 +58,7 @@ When trying to identify when your Connected Spaces Preview certificatrs expire, 
 
     SCREENSHOT GOES HERE
 
-These are the valuable expiration dates to keep in mind. 
+These are the expiration dates to keep in mind. 
 
 ## Renew Service Principal certificates and secrets
 
@@ -98,6 +98,8 @@ SCREENSHOT GOES HERE
 8. After the new version has been created, refresh the page. You'll see that a new version is available.
 
 9. Select the newly created version and then download and save the PFX file. 
+
+    SCREENSHOT GOES HERE
 
 ### Update the Service Principal
 
@@ -169,8 +171,7 @@ After completing the setup for the update, update the Service Principal with the
 
 9. Select the **Create** button at the bottom of the page.
 
-
-
+    SCREENSHOT GOES HERE
 
 
 
