@@ -99,27 +99,27 @@ You must be an owner of the service principal that you want to update.
 
 9. Select the newly created version and then download and save the PFX file. 
 
-    ![XXX.](media/setup-certificates-17.JPG "XXX")
+    ![Screenshot showing Download command highlighted.](media/setup-certificates-17.JPG "Screenshot showing Download command highlighted")
 
 ### Update the service principal
 
 After completing the setup for the update, update the service principal with the new credentials.
 
-1. In the main Azure search bar at the top of the page, search for the **Azure Active Directory** service. 
+1. In the main Azure search box at the top of the page, search for the **Azure Active Directory** service. 
 
-    ![XXX.](media/setup-certificates-18.JPG "XXX")
+    ![Screenshot of Azure search box with Azure Active Directory entered in the search box.](media/setup-certificates-18.JPG "XXX")
 
-2. On the **Overview** tab, enter **cs-dbe** in the search bar to find your App registration. 
+2. On the **Overview** tab, enter **cs-dbe** in the search box to find your App registration. 
 
-    ![XXX.](media/setup-certificates-19.JPG "XXX")
+    ![Screenshot of Overview tab.](media/setup-certificates-19.JPG "Screenshot of Overview tab")
 
 3. Go to **Certificates & secrets** to view your credentials.
 
-    ![XXX.](media/setup-certificates-20.JPG "XXX")
+    ![Screenshot of Certificates & secrets command.](media/setup-certificates-20.JPG "Screenshot of Certificates & secrets command")
 
 4. Select the **Client secrets** (default) tab, and then select **New client secret**.
 
-    ![XXX.](media/setup-certificates-21.JPG "XXX")
+    ![Screenshot of Client secrets tab.](media/setup-certificates-21.JPG "Screenshot of Client secrets tab")
 
 5. In the dialog box that's displayed, enter a description and set the expiration to 24 months. Then select **Add**. 
 
