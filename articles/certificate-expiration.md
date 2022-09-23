@@ -129,17 +129,17 @@ After completing the setup for the update, update the service principal with the
 
     ![Screenshot of the secret.](media/setup-certificates-23.JPG "Screenshot of the secret")
 
-7. Delete any old secrets to avoid any potential security risks.
+7. Select the **Trashcan** button to delete any old secrets to avoid any potential security risks.
 
-    ![XXX.](media/setup-certificates-24.JPG "XXX")
+    ![Screenshot showing Trashcan button highlighted.](media/setup-certificates-24.JPG "Screenshot showing Trashcan button highlighted")
 
-8. Select the **Certificates** tab.
+8. Go to **Certificates**.
 
-    ![XXX.](media/setup-certificates-25.JPG "XXX")
+    ![Screenshot of Certificates command.](media/setup-certificates-25.JPG "Screenshot of Certificates command")
 
 9. Select **Upload certificate**, and then go to the location where you saved the PFX certificate you downloaded from the Key Vault.
 
-    ![XXX.](media/setup-certificates-26.JPG "XXX")
+    ![Screenshot highlighting Upload certificate.](media/setup-certificates-26.JPG "Screenshot highlighting Upload certificate")
 
 10. Delete any old certificates to avoid any potential security risks.
 
@@ -149,7 +149,7 @@ After completing the setup for the update, update the service principal with the
 
 2. Go to **Secrets**.
 
-    ![XXX.](media/setup-certificates-27.JPG "XXX")
+    ![Screenshot of Secrets command.](media/setup-certificates-27.JPG "Screenshot of Secrets command")
 
 3. Select **ServicePrinicpalSecret**.
 
