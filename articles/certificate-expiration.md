@@ -8,15 +8,15 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 1. In Microsoft Azure, in the main Azure search box, enter **mrg-connected-spaces-** to go to the Managed App resource created during the deployment.
 
-   ![XXX.](media/setup-certificates-1.JPG "XXX")
+   ![Screenshot of Azure search box with mrg-connected-spaces entered.](media/setup-certificates-1.JPG "Screenshot of Azure search box with mrg-connected-spaces entered")
     
 2. Select the **Key Vault** row. 
 
-    ![XXX.](media/setup-certificates-2.JPG "XXX")
+    ![Screenshot with Key vault row highlighted.](media/setup-certificates-2.JPG "Screenshot with Key vault row highlighted")
 
 3. Go to the **Certificates** section for the Key Vault.
 
-    ![XXX.](media/setup-certificates-3.JPG "XXX")
+    ![Screenshot showing Certificates command highlighted.](media/setup-certificates-3.JPG "Screenshot showing Certificates command highlighted")
 
 4. Find the certificate named **liveaiserviceprincipalprivatekey**. Note the expiration date. 
 
@@ -167,7 +167,7 @@ After completing the setup for the update, update the service principal with the
 
 7. Include the content type: Paste the value you saved in step 4.
 
-8. Enter your new value. This is the secret you generated for the Service Principal. 
+8. Enter your new value. This is the secret you generated for the service principal. 
 
 9. Select the **Create** button at the bottom of the page.
 
