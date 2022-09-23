@@ -83,6 +83,10 @@ After you sign up for the trial and select the **Launch Trial** button, you can 
 
 All Dynamics 365 Connected Spaces Preview features are available for the trial. 
 
+### If my company admin blocks trial environments can I still sign up for Connected Spaces? 
+
+At this time, none of the steps outlined in: [Admin sign-up for companies that restrict viral trials](trial-sign-up-admin.md) work. You and your admin should reach out directly to Connected Spaces to support your onboarding experience.  
+
 ### How long does the trial last?
 
 The Dynamics 365 Connected Spaces Preview trial lasts 180 days. 
