@@ -1,14 +1,14 @@
 ---
 author: alwinv
-description: Learn how to update expired certificates for Dynamics 365 Connected Spaces Preview
+description: Learn how to update expiring certificates for Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
 ms.date: 09/30/2022
 ms.topic: article
-title: Update expired certificates for Dynamics 365 Connected Spaces Preview
+title: Update expiring certificates for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
-# Update expired certificates for Dynamics 365 Connected Spaces Preview
+# Update expiring certificates for Dynamics 365 Connected Spaces Preview
 
 To ensure that the Microsoft Dynamics 365 Connected Spaces Preview deployment in your network remains compliant and secure, the certificate used to authenticate to the Connected Spaces project must be updated regularly. Microsoft tracks the validity of the certificate through the Azure Key Vault as part of the Managed Application. 
 
