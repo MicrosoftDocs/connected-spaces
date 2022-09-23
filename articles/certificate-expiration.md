@@ -125,7 +125,7 @@ After completing the setup for the update, update the service principal with the
 
     ![XXX.](media/setup-certificates-22.JPG "XXX")
 
-6. You'll see a new exposed secret. This is the only time that the secret is visible. Copy SCREENSHOT GOES HEREthe secret value to a text editor to update the secret in the Key Vault.
+6. You'll see a new exposed secret. This is the only time that the secret is visible. Copy the secret value to a text editor to update the secret in the Key Vault.
 
     ![XXX.](media/setup-certificates-23.JPG "XXX")
 
