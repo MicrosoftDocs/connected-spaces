@@ -147,7 +147,7 @@ After completing the setup for the update, update the service principal with the
 
 1. Go back to the Key Vault.
 
-2. Go to the **Secrets** tab.
+2. Go to **Secrets**.
 
     ![XXX.](media/setup-certificates-27.JPG "XXX")
 
