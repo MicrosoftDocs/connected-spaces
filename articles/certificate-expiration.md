@@ -77,7 +77,7 @@ You must be an owner of the service principal that you want to update.
 
 2. In the main Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
 
-    ![Screenshot of Azure search bar with "mrg-connected-spaces-" entered in search box.](media/setup-certificates-13.JPG "Screenshot of Azure search bar with "mrg-connected-spaces-" entered in search box")
+    ![Screenshot of Azure search bar with mrg-connected-spaces- entered in search box.](media/setup-certificates-13.JPG "Screenshot of Azure search bar with mrg-connected-spaces- entered in search box")
 
 3. After you find the resource group, locate the Key Vault for this deployment.
 
