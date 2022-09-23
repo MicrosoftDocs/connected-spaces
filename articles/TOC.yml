@@ -64,3 +64,5 @@
       href: known-issues.md
     - name: Transparency Note
       href: transparency-note.md
+    - name: Update expired certificates
+      href: setup-certificates.md
