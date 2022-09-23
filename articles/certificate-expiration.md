@@ -93,7 +93,7 @@ You must be an owner of the service principal that you want to update.
 
     ![XXX.](media/setup-certificates-16.JPG "XXX")
 
-7. Select **Create** at the bottom of the page to create the new certificate. You don't need to make any other changes on the page. 
+7. Select **Create** at the bottom of the page to create the new certificate. **You don't need to make any other changes on this page.** 
 
 8. After the new version has been created, refresh the page. You'll see that a new version is available.
 
