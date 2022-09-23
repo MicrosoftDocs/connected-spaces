@@ -20,11 +20,11 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 4. Find the certificate named **liveaiserviceprincipalprivatekey**. Note the expiration date. 
 
-    ![XXX.](media/setup-certificates-4.JPG "XXX")
+    ![Screenshot of liveaiserviceprincipalprivatekey and expiration date highlighted.](media/setup-certificates-4.JPG "creenshot of liveaiserviceprincipalprivatekey and expiration date highlighted")
 
 5. Go to the **Secrets** section for the Key Vault. 
 
-    ![XXX.](media/setup-certificates-5.JPG "XXX")
+    ![Screenshot with Secrets command highlighted.](media/setup-certificates-5.JPG "Screenshot with Secrets command highlighted")
 
 6. Find the secret used for the service principal called ServicePrincipalSecret. Note the expiration date. 
 
