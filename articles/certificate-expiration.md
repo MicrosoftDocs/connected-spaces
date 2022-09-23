@@ -32,7 +32,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 7. Find the secret that specifies the App registration used with Connected Spaces. It's called **ServicePrincipalId**. 
 
-    ![XXX.](media/setup-certificates-7.JPG "XXX")
+    ![Screenshot highlighting ServicePrincipalId.](media/setup-certificates-7.JPG "Screenshot highlighting ServicePrincipalId")
     
 8. Copy the value of the secret to your Clipboard to look up the App registration.
 
@@ -40,23 +40,23 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 1. Go to the Azure Active Directory Service.
 
-    ![XXX.](media/setup-certificates-8.JPG "XXX")
+    ![Screenshot of Azure search box with Azure Active Directory entered in the search box.](media/setup-certificates-8.JPG "Screenshot of Azure search box with Azure Active Directory entered in the search box")
 
 2. On the **Overview** tab, look up the ID that you copied from the Key Vault.
 
-    ![XXX.](media/setup-certificates-9.JPG "XXX")
+    ![Screenshot of Overview tab.](media/setup-certificates-9.JPG "Screenshot of Overview tab")
 
 3. In the App registration, go to the **Certificates & secrets** section. 
 
-    ![XXX.](media/setup-certificates-10.JPG "XXX")
+    ![Screenshot of Certificates & secrets command.](media/setup-certificates-10.JPG "Screenshot of Certificates & secrets command")
 
 4. On the **Client secrets** tab, note the expiration date for your current secret. 
 
-    ![XXX.](media/setup-certificates-11.JPG "XXX")
+    ![Screenshot of Client secrets tab.](media/setup-certificates-11.JPG "Screenshot of Client secrets tab")
 
 5. Go to the **Certificates** tab, and find the expiration date for the certificate set in the App registration. 
 
-    ![XXX.](media/setup-certificates-12.JPG "XXX")
+    ![Screenshot of Certificates tab.](media/setup-certificates-12.JPG "Screenshot of Certificates tab")
 
 These are the expiration dates to keep in mind. 
 
@@ -77,7 +77,7 @@ You must be an owner of the service principal that you want to update.
 
 2. In the main Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
 
-    ![XXX.](media/setup-certificates-13.JPG "XXX")
+    ![Screenshot of Azure search bar with "mrg-connected-spaces-" entered in search box.](media/setup-certificates-13.JPG "Screenshot of Azure search bar with "mrg-connected-spaces-" entered in search box")
 
 3. After you find the resource group, locate the Key Vault for this deployment.
 
