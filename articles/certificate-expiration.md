@@ -157,11 +157,11 @@ After completing the setup for the update, update the service principal with the
 
 4. Go into **Current** to copy the content type to use in the new secret version. Store it in a text editor to use for the next step.
 
-    ![XXX.](media/setup-certificates-29.JPG "XXX")
+    ![Screenshot showing Content type highlighted.](media/setup-certificates-29.JPG "Screenshot showing Content type highlighted")
 
 5. Go back to the previous page and select **New Version** at the top of the page to create a new version of this secret.
 
-    ![XXX.](media/setup-certificates-30.JPG "XXX")
+    ![Screenshot showing New Version highlighted.](media/setup-certificates-30.JPG "Screenshot showing New Version highlighted")
 
 6. Include the expiration date: leave the default (2 years)
 
