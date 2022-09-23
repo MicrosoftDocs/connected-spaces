@@ -101,9 +101,9 @@ You must be an owner of the service principal that you want to update.
 
     ![XXX.](media/setup-certificates-17.JPG "XXX")
 
-### Update the Service Principal
+### Update the service principal
 
-After completing the setup for the update, update the Service Principal with the new credentials.
+After completing the setup for the update, update the service principal with the new credentials.
 
 1. In the main Azure search bar at the top of the page, search for the **Azure Active Directory** service. 
 
