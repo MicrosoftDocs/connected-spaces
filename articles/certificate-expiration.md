@@ -153,7 +153,7 @@ After completing the setup for the update, update the service principal with the
 
 3. Select **ServicePrinicpalSecret**.
 
-    ![XXX.](media/setup-certificates-28.JPG "XXX")
+    ![Screenshot showing ServicePrincipalSecret row highlighted.](media/setup-certificates-28.JPG "Screenshot showing ServicePrincipalSecret row highlighted")
 
 4. Go into **Current** to copy the content type to use in the new secret version. Store it in a text editor to use for the next step.
 
