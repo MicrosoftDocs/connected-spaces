@@ -85,7 +85,7 @@ All Dynamics 365 Connected Spaces Preview features are available for the trial.
 
 ### If my company admin blocks trial environments can I still sign up for Connected Spaces? 
 
-At this time, none of the steps outlined in: [Admin sign-up for companies that restrict viral trials](trial-sign-up-admin.md) work. You and your admin should reach out directly to Connected Spaces to support your onboarding experience.  
+At this time, none of the steps in this topic work: [Admin sign-up for companies that restrict viral trials](trial-signup-admin.md). You and your admin should reach out directly to the Connected Spaces team to support your onboarding experience.  
 
 ### How long does the trial last?
 
