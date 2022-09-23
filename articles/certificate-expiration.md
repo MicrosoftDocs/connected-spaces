@@ -46,7 +46,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
     ![XXX.](media/setup-certificates-9.JPG "XXX")
 
-3. In the App Registration, go to the **Certificates & secrets** section. 
+3. In the App registration, go to the **Certificates & secrets** section. 
 
     ![XXX.](media/setup-certificates-10.JPG "XXX")
 
