@@ -81,17 +81,17 @@ You must be an owner of the service principal that you want to update.
 
 3. After you find the resource group, locate the Key Vault for this deployment.
 
-    ![XXX.](media/setup-certificates-14.JPG "XXX")
+    ![Screenshot highlighting Key Vault row.](media/setup-certificates-14.JPG "Screenshot highlighting Key Vault row")
 
 4. Go to **Certificates**.
 
-    ![XXX.](media/setup-certificates-15.JPG "XXX")
+    ![Screenshot of Certificates command.](media/setup-certificates-15.JPG "Screenshot of Certificates command")
 
 5. Select the **liveaiserviceprincipalprivatekey** certificate. 
 
 6. Select **New Version** at the top of the page to create a new version of the certificate. 
 
-    ![XXX.](media/setup-certificates-16.JPG "XXX")
+    ![Screenshot highlighting New Version command.](media/setup-certificates-16.JPG "Screenshot highlighting New Version command")
 
 7. Select **Create** at the bottom of the page to create the new certificate. **You don't need to make any other changes on this page.** 
 
