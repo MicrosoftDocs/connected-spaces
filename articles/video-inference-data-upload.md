@@ -12,34 +12,26 @@ ms.reviewer: v-bholmes
 
 After local processing, insights data is uploaded to the Microsoft Dynamics 365 Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. You can control whether you want to upload video data and inference data to your Microsoft Dataverse cloud storage and manage it. 
 
-[Initial processing of video and inference data occurs on the customer's premises on an edge gateway device to generate aggregated insights data](data-privacy.md). Video, inference data, and insight data is streamed to your Microsoft Dataverse cloud storage by default. Use of the service is not possible without cloud processing of insight data, but you can choose to turn your video and inference data upload off or on in the Connected Spaces web app. This request takes several days to complete. 
+[Initial processing of video and inference data occurs on the customer's premises on an edge gateway device to generate aggregated insights data](data-privacy.md). Inference data and insight data is streamed to your Microsoft Dataverse cloud storage by default. Video data is off by default; to sync video data to the cloud, customers must opt in. Use of the service is not possible without cloud processing of insight data, but you can choose to turn your video and inference data upload off or on in the Connected Spaces web app. This request takes a few minutes to complete. 
 
 > [!NOTE]
 > Turning video upload off might adversely affect the Connected Spaces user experience. It impacts the ability to use certain features of the service and to detect and troubleshoot data quality issues (see [Benefits of uploading video and inference data](video-inference-data-upload.md#benefits-of-uploading-video-and-inference-data)).
 
 ## Turn video upload off or on
 
-1.	Go to **Settings** > **Privacy information**.
+1.	In the upper-right corner of the screen, go to **Settings** > **Privacy and about**.
+    
+2.	On the right side of the screen, in the **Privacy and about** pane, turn the **Save video data to the cloud** setting off or on, and then select **Save**. 
 
-    ![Privacy information command highlighted on right side of screen.](media/video-upload-privacy-information.jpg "Privacy information command highlighted on right side of screen")
-
-2.	On the right side of the screen, in the **Privacy information** pane, turn the **Save video data to the cloud** setting off or on, and then select **Save**. 
-
-     ![Screenshot with Save video data to the cloud setting highlighted](media/video-upload-save-video-data-cloud.jpg "Screenshot with Save video data to the cloud setting highlighted")
+     ![Screenshot of Privacy and about pane](media/privacy-about-pane.JPG "Screenshot of Privacy and about pane")
 
 3.	In the **Change upload preference** dialog box, select **Submit**.  
 
-    ![Screenshot of Change upload preference dialog box](media/video-upload-submit.jpg "Screenshot of Change upload preference dialog box")
+    ![Screenshot of Change upload preference dialog box](media/change-video-upload-preference.JPG "Screenshot of Change upload preference dialog box")
     
-    You'll see the following confirmation
-    
-     ![Screenshot of Change upload preference dialog box with information about request sent](media/video-upload-request-sent.jpg "Screenshot of Change upload preference dialog box with information about request sent")
+4. To confirm that your request has been sent, check the **Privacy and about** panel. You should see your updated **Settings** preference. 
 
-To confirm that your request has been sent, you'll also see a message at the top of the **Privacy information** pane. 
-
-![Screenshot of Privacy information pane with message at top](media/video-upload-message.jpg "Screenshot of Privacy information pane with message at top")
-
-The request might take several days to change. The **Save video data to the cloud** setting will be disabled until the change has occurred. When the change has occurred, the message will disappear. 
+    ![Screenshot of Privacy information pane with message at top](media/video-privacy-about-changed-setting.JPG "Screenshot of Privacy information pane with message at top")
  
 ## Benefits of uploading video and inference data 
 
