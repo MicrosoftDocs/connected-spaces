@@ -27,7 +27,7 @@ LP cameras.
 - **Environmental backlighting.** Outdoor backlighting affects camera image quality. To avoid severe backlighting conditions, 
 avoid directing cameras at external-facing windows and glass doors.
 
-- **Store changes.** Product displays and end caps may get moved after placing cameras. Make sure that camera placement is 
+- **Space changes.** Product displays and end caps may get moved after placing cameras. Make sure that camera placement is 
 optimized for potential store changes to reduce camera re-positioning.
 
 - **Building structure.** HVAC, sprinklers, and existing wiring may limit hard mounting of cameras.
