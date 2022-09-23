@@ -28,7 +28,7 @@ To identify when your Connected Spaces Preview certificates expire, you need to 
 
 6. Find the secret used for the service principal called ServicePrincipalSecret. Note the expiration date. 
 
-    ![XXX.](media/setup-certificates-6.JPG "XXX")
+    ![Screenshot with ServicePrincipal Secret and expiration date highlighted.](media/setup-certificates-6.JPG "Screenshot with ServicePrincipal Secret and expiration date highlighted")
 
 7. Find the secret that specifies the App registration used with Connected Spaces. It's called **ServicePrincipalId**. 
 
