@@ -2,7 +2,7 @@
 
 ## Find certificate expiration dates
 
-To identify when your Connected Spaces Preview certificates expire, you need to collect data from two different places.
+To identify when your Connected Spaces Preview certificates expire, you need to collect data from two different places: Key Vault and App Registrations. 
 
 ### Key Vault
 
