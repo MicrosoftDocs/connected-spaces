@@ -36,21 +36,23 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 > [!NOTE]
 > You only need to enable alerts one time through Power Automate. After enabling alerts, all alert management happens in the Connected Spaces web app. 
 
-1. In the web app, on the left side of the screen, select **Alerts**, and then select **Add alert**.
+1. If you haven't already done so, [create skills for your space](web-app-add-alerts.md). You can't add alerts if you haven't created skills. 
+
+2. In the web app, on the left side of the screen, select **Alerts**, and then select **Add alert**.
 
     ![Screenshot highlighting Alerts command and Add alert button.](media/alerts-add-alert.JPG "Screenshot highlighting Alerts command and Add alert button")
 
-2. In the **Enable alerts** dialog box, select **Go to Power Automate**. 
+3. In the **Enable alerts** dialog box, select **Go to Power Automate**. 
 
     ![Screenshot highlighting Go to Power Automate button.](media/alerts-go-to-power-automate.JPG "Screenshot highlighting Go to Power Automate button")
     
-3. Sign in with your work or organization account.
+4. Sign in with your work or organization account.
 
-4. In the Power Automate screen, Microsoft Dataverse will automatically be connected for you. If you have Teams and Outlook licenses, those apps should also be connected for you. If you need to connect them manually, at the bottom of the screen, select the **More info** (three dots) button next to each source, and then sign into the apps to connect them. Select **Continue** when you're ready to move forward.
+5. In the Power Automate screen, Microsoft Dataverse will automatically be connected for you. If you have Teams and Outlook licenses, those apps should also be connected for you. If you need to connect them manually, at the bottom of the screen, select the **More info** (three dots) button next to each source, and then sign into the apps to connect them. Select **Continue** when you're ready to move forward.
 
     ![Screenshot of Power Automate screen showing sources.](media/alerts-configure-sources.JPG "Screenshot of Power Automate screen showing sources")
     
-5. In the next Power Automate screen, select the down arrow for the **Team** field. The Team ID will automatically be filled in when you do this. You don't need to fill in any other fields in this screen. Select **Save** in the upper-right corner of the screen when you're done.
+6. In the next Power Automate screen, select the down arrow for the **Team** field. The Team ID will automatically be filled in when you do this. You don't need to fill in any other fields in this screen. Select **Save** in the upper-right corner of the screen when you're done.
 
     ![Screenshot of Power Automate screen with Teams and Email fields.](media/alerts-configuration.JPG "Screenshot of Power Automate screen with Teams and Email fields")
 
