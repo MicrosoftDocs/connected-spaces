@@ -89,7 +89,7 @@ You must be an owner of the service principal that you want to update.
 
 ### Find the credentials in the Key Vault
 
-1. Go to [portalzaure.com](portalzaure.com). 
+1. Go to [portalzazure.com](portalzazure.com). 
 
 2. In the main Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
 
@@ -123,15 +123,15 @@ After completing the setup for the update, update the service principal with the
 
 1. In the main Azure search box at the top of the page, search for the **Azure Active Directory** service. 
 
-    ![Screenshot of Azure search box with Azure Active Directory entered in the search box.](media/setup-certificates-18.JPG "XXX")
+    ![Screenshot of the Azure search box and Azure Active Directory entered in the search box.](media/setup-certificates-18.JPG "XXX")
 
 2. On the **Overview** tab, enter **cs-dbe** in the search box to find your App registration. 
 
-    ![Screenshot of Overview tab.](media/setup-certificates-19.JPG "Screenshot of Overview tab")
+    ![Screenshot of the Overview tab.](media/setup-certificates-19.JPG "Screenshot of Overview tab")
 
 3. Go to **Certificates & secrets** to view your credentials.
 
-    ![Screenshot of Certificates & secrets command.](media/setup-certificates-20.JPG "Screenshot of Certificates & secrets command")
+    ![Screenshot of the Certificates & secrets command.](media/setup-certificates-20.JPG "Screenshot of Certificates & secrets command")
 
 4. Select the **Client secrets** (default) tab, and then select **New client secret**.
 
@@ -151,7 +151,7 @@ After completing the setup for the update, update the service principal with the
 
 8. Go to **Certificates**.
 
-    ![Screenshot of Certificates command.](media/setup-certificates-25.JPG "Screenshot of Certificates command")
+    ![Screenshot of the Certificates command.](media/setup-certificates-25.JPG "Screenshot of Certificates command")
 
 9. Select **Upload certificate**, and then go to the location where you saved the PFX certificate you downloaded from the Key Vault.
 
