@@ -16,13 +16,16 @@ After you've [paired a gateway to your store](ase-connect.md), you can connect y
 
 You need to do the following before you can connect your cameras to a gateway:
 
-- Install your cameras. [Learn about camera placement recommendations](camera-placement-recommendations.md). 
+- Install your cameras. [Learn about camera placement recommendations](camera-placement-recommendations.md) 
 
 - Gather the RTSP URLs and credentials for all the cameras you want to connect.
 
 - Have access to a previously configured gateway.
 
 - Connect your computer to the same network as your gateway.
+
+    > [!NOTE]
+    > If you only know the camera’s IP address, you can look up the camera manufacture’s RTSP URL format online or in the user manual. For example, Axis cameras use rtsp://[username]:[password]@[IP address]/axis-media/media.amp. 
 
 ## Connect cameras
 
