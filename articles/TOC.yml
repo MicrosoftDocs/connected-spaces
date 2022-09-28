@@ -14,7 +14,7 @@
           href: trial-faq.md    
     - name: Set up Dynamics 365 Connected Spaces
       href: setup.md     
-    - name: Create your camera plan
+    - name: Install cameras
       items:
         - name: Checklist
           href: camera-placement-checklist.md
@@ -22,7 +22,7 @@
           href: camera-placement-general.md
         - name: Placement
           href: camera-placement-recommendations.md        
-    - name: Install Azure Stack Edge Pro and cameras
+    - name: Install Azure Stack Edge Pro
       items:
         - name: Prepare network and install Azure Stack Edge Pro
           href: ase-install.md
