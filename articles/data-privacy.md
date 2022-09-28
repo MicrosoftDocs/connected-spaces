@@ -67,7 +67,7 @@ The data described above is processed on the Azure Stack Edge on the customers�
 
 Customers are in control of Azure Stack Edge, which processes the data described above. Connected Spaces software running on the customer’s Azure Stack Edge stores this customer data locally:
 
-- Incoming Video stream data, processed inference data and insight data is stored temporarily for up to 72 hours.
+- Incoming Video stream data, processed inference data and insight data is stored temporarily for up to 24 hours.
 
 - A copy of configuration data is also kept in sync on Azure Stack Edge. It mirrors the configuration data stored in the customer’s Dataverse storage, and is kept in sync daily after each store’s working hours.
 
