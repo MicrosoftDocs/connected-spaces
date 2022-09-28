@@ -40,7 +40,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     ![Screenshot of Choose camera section.](media/skill-choose-camera.JPG "Screenshot of Choose camera section")
     
     > [!NOTE]
-    > If you don't see any cameras, you need to [connect your cameras to a gateway](cameras-connect.md) before adding skills.
+    > If you don't see any cameras, you need to [connect your cameras to a gateway](web-app-cameras-connect.md) before adding skills.
     
 4. Draw a skill area to track customer behavior.
 
