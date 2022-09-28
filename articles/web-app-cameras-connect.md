@@ -25,7 +25,7 @@ You need to do the following before you can connect your cameras to a gateway:
 - Connect your computer to the same network as your gateway.
 
     > [!NOTE]
-    > If you only know the camera’s IP address, you can look up the camera manufacture’s RTSP URL format online or in the user manual. For example, Axis cameras use rtsp://[username]:[password]@[IP address]/axis-media/media.amp. 
+    > If you only know the camera’s IP address, you can look up the camera manufacturer’s RTSP URL format online or in the user manual. For example, Axis cameras use rtsp://[username]:[password]@[IP address]/axis-media/media.amp. 
 
 ## Connect cameras
 
