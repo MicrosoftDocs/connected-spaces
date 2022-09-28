@@ -38,6 +38,9 @@ Connected Spaces uses Microsoft Power Automate as the alert delivery platform, w
 
 1. If you haven't already done so, [create skills for your space](web-app-cameras-add-skills.md). You can't add alerts if you haven't created skills. 
 
+    > [!NOTE]
+    > Camera skills must also be active. Alerts cannot be created if camera skills are inactive. 
+
 2. In the web app, on the left side of the screen, select **Alerts**, and then select **Add alert**.
 
     ![Screenshot highlighting Alerts command and Add alert button.](media/alerts-add-alert.JPG "Screenshot highlighting Alerts command and Add alert button")
