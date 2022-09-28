@@ -104,7 +104,7 @@ For computer vision AI models, several factors beyond core model accuracy can af
 
 - Cameras should be set up to yield high-quality images, avoiding lighting conditions outside the recommended operating range that result in over or under exposure of images. 
 
-More detailed guidance on best practices for [drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones) and [camera placement](camera-placement-recommendations.md) is available in the Dynamics 365 Connected Spaces Preview documentation. 
+More detailed guidance on best practices for [drawing skill zones](web-app-cameras-add-skills.md#tips-for-drawing-skill-zones) and [camera placement](camera-placement-recommendations.md) is available in the Dynamics 365 Connected Spaces Preview documentation. 
 
 ### Guidelines for choosing a use case  
 
