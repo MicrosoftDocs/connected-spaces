@@ -23,7 +23,7 @@ When determining where to place your cameras, we suggest using this checklist:
 
 3. [Review the general placement guidelines and determine camera placement details for the different zones, including height, angle, and focal-point distance from the target](camera-placement-recommendations.md).
 
-4. Install new cameras or use existing cameras supported by Connected Spaces Preview. Connected Spaces Preview supports standard IP cameras that: 
+4. Purchase new cameras or use existing cameras supported by Connected Spaces Preview. Connected Spaces Preview supports standard IP cameras that: 
 
     - Can provide a Real-Time Streaming Protocol (RTSP) stream 
 
