@@ -42,7 +42,7 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
         ![Screenshot highlighting the Application ID and Object ID fields.](media/ase-activate-5.jpg "Screenshot highlighting the Application ID and Object ID fields")
 
         > [!NOTE]
-        > The service principle admin will need to keep track of expiring certificates for the deployment. [Learn more](setup-certificates) 
+        > The service principle admin will need to keep track of expiring certificates for the deployment. [Learn more](setup-certificates.md) 
 
 ## Add a gateway device
 
