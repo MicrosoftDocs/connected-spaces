@@ -37,7 +37,7 @@ You need to do the following before you can connect your cameras to a gateway:
 
     ![Screenshot of Get started page showing prerequisites.](media/add-camera-prerequisites.jpg "Screenshot of Get started page showing prerequisites")    
  
-3. In the **Connecting cameras** section, fill in the fields in the **Connect camera** pane on the right side of the page for each camera that you want to connect.
+3. On the **Connecting cameras** page, fill in the fields in the **Connect camera** pane on the right side of the page for each camera that you want to connect.
 
     ![Screenshot of Connecting cameras page.](media/connecting-cameras-page.jpg "Screenshot of Connecting cameras page")
 
