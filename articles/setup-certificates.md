@@ -89,7 +89,7 @@ You must be an owner of the service principal that you want to update.
 
 ### Find the credentials in the Key Vault
 
-1. Go to [portal.azure.com](portal.azure.com). 
+1. Go to [portal.azure.com](https://portal.azure.com). 
 
 2. In the main Azure search bar, enter **mrg-connected-spaces-** to search for the resource group. 
 
