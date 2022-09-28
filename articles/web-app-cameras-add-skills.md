@@ -53,7 +53,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
     - For a **Queue** skill, drag the zone endpoints to resize the zone and move it where you want it.
 
     > [!TIP]
-    > If you need to start over at any point when drawing a skill zone, select **Reset**. See also [Tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones). 
+    > If you need to start over at any point when drawing a skill zone, select **Reset**. See also [Tips for drawing skill zones](web-app-cameras-add-skills.md#tips-for-drawing-skill-zones). 
 
     When you're done drawing the skill zone, select **Next**. 
 
