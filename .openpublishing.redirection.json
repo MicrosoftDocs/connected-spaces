@@ -1,5 +1,36 @@
 {
-  "redirections": [     {
+  "redirections": [
+    {
+      "source_path": "articles/install-cameras.md",
+      "redirect_url": "camera-placement-checklist",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/home-page.md",
+      "redirect_url": "web-app-home-page ",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/store-create.md",
+      "redirect_url": "web-app-space-create",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/cameras-connect.md",
+      "redirect_url": "cameras-connect",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/cameras-add-skills.md",
+      "redirect_url": "web-app-cameras-add-skills",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/web-app-set-operating-hours.md",
+      "redirect_url": "web-app-space-details",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/zadmin-create-new-tenant.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
@@ -88,7 +119,7 @@
       "source_path": "articles/zwebsite-overview.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
-    },
-   
+    }
+
   ]
 }
