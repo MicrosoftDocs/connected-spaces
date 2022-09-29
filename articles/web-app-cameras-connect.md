@@ -25,8 +25,11 @@ You need to do the following before you can connect your cameras to a gateway:
 - Connect your computer to the same network as your gateway.
 
     > [!NOTE]
-    > If you only know the camera’s IP address, you can look up the camera manufacturer’s RTSP URL format online or in the user manual. For example, Axis cameras use rtsp://[username]:[password]@[IP address]/axis-media/media.amp. 
-    > For panoramic cameras with on-camera de-warping capability, additional parameters may be used to specify the de-warped views. For example, Panasonic’s panoramic cameras use rtsp://[IP address]/MediaInput/[Codec]/[Stream_Number]. Please refer to your camera manufacturer’s user manual for more information. 
+    > If you only know the camera’s IP address, you can look up the camera manufacturer’s RTSP URL format. For example, Axis cameras use rtsp://[IP address]/axis-media/media.amp. 
+    > 
+    > For panoramic cameras with on-camera de-warping capability, additional parameters may be used to specify the de-warped views. For example, Panasonic’s panoramic cameras use rtsp://[IP address]/MediaInput/[Codec]/[Stream_Number]. 
+    > 
+    > Please refer to your camera manufacturer’s user manual for more information. 
 
 ## Connect cameras
 
