@@ -26,11 +26,12 @@ The following table shows which alerts are available for each skill.
 |Queue|![Illustration of queue skill.](media/queue-skill.JPG "Illustration of queue skill")|Monitor queue wait time and queue lengths to improve the experience and provide informed insights for employee shift management.|- Queue wait time exceeds maximum<br>-Queue length exceeds maximum|
 |Area|![Illustration of area skill.](media/area-skill.JPG "Illustration of area skill")|Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
-> [!NOTE]
-> You must have a Microsoft Teams and an Outlook license to use alerts in Connected Spaces Preview.
+> [!IMPORTANT]
+> You must have a Microsoft Office 365 license to use alerts in Connected Spaces Preview. If you don't have an Office 365 license, [you can sign up for a free trial](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). After signing up for Office 365, you'll also need to associate the Office 365 license with Connected Spaces Preview users in the Microsoft 365 admin center.
 
 ## Enable alerts
-
+[
+](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab)
 Connected Spaces uses Microsoft Power Automate as the alert delivery platform, which means that you must enable alerts in  Power Automate before you can add them in Connected Spaces. You can open Power Automate directly from Connected Spaces Preview.
 
 > [!NOTE]
