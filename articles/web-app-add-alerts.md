@@ -26,8 +26,28 @@ The following table shows which alerts are available for each skill.
 |Queue|![Illustration of queue skill.](media/queue-skill.JPG "Illustration of queue skill")|Monitor queue wait time and queue lengths to improve the experience and provide informed insights for employee shift management.|- Queue wait time exceeds maximum<br>-Queue length exceeds maximum|
 |Area|![Illustration of area skill.](media/area-skill.JPG "Illustration of area skill")|Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
-> [!IMPORTANT]
-> You must have a Microsoft Office 365 E5 license (which includes Microsoft Outlook and Microsoft Teams) to use alerts in Connected Spaces Preview. If you don't have an Office 365 E5 license, [you can sign up for a free trial](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). After signing up for Office 365, you'll also need to associate the Office 365 license with Connected Spaces Preview users in the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?ref=/users).
+## Prerequisites
+
+You must have a Microsoft Office 365 E5 license (which includes Microsoft Outlook and Microsoft Teams) to use alerts in Connected Spaces Preview. If you don't have an Office 365 E5 license, [you can sign up for a free trial](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). 
+
+After signing up for Office 365, associate the Office 365 license with Connected Spaces Preview users in the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?ref=/users) by doing the following:
+
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?ref=/users).
+
+2. Select a user. 
+
+    ![Screenshot of Microsoft 365 admin center with focus on user record.](media/alerts-admin-center-user.JPG "Screenshot of Microsoft 365 admin center with focus on user record")
+
+3. In the pane on the right side of the screen, select the **Licenses and apps** tab.
+
+4. Make sure that all of the following licenses are selected:
+
+    - Dynamics 365 Connected Spaces vTrial
+    - Microsoft Power Automate Free
+    - Microsoft Teams Exploratory
+    - Office 365 E1 or later ([Compare Office 365 Enterprise](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans))
+
+    ![Screenshot of Microsoft 365 admin center with all appropriate licenses selected.](media/alerts-admin-center-license.JPG "Screenshot of Microsoft 365 admin center with all appropriate licenses selected")
 
 ## Enable alerts
 [
