@@ -42,7 +42,7 @@ After signing up for Office 365, associate the Office 365 license with Connected
 
     - Dynamics 365 Connected Spaces vTrial
     - Microsoft Power Automate Free
-    - Office 365 E1 or later ([Compare Office 365 Enterprise](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans))
+    - Office 365 E1 or later ([Compare Office 365 enterprise licenses](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans))
 
     ![Screenshot of Microsoft 365 admin center with all appropriate licenses selected.](media/alerts-admin-center-licenses.JPG "Screenshot of Microsoft 365 admin center with all appropriate licenses selected")
 
