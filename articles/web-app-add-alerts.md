@@ -27,7 +27,7 @@ The following table shows which alerts are available for each skill.
 |Area|![Illustration of area skill.](media/area-skill.JPG "Illustration of area skill")|Create the real-world equivalent of the digital customer engagement funnel for areas and promotions. This capability allows space managers to measure the effectiveness of areas in their space.|Dwell time at display exceeds threshold|
 
 > [!IMPORTANT]
-> You must have a Microsoft Office 365 license to use alerts in Connected Spaces Preview. If you don't have an Office 365 license, [you can sign up for a free trial](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). After signing up for Office 365, you'll also need to associate the Office 365 license with Connected Spaces Preview users in the Microsoft 365 admin center.
+> You must have a Microsoft Office 365 E5 license to use alerts in Connected Spaces Preview. If you don't have an Office 365 E5 license, [you can sign up for a free trial](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). After signing up for Office 365, you'll also need to associate the Office 365 license with Connected Spaces Preview users in the Microsoft 365 admin center.
 
 ## Enable alerts
 [
