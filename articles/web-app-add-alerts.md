@@ -1,7 +1,7 @@
 ---
-author: alissapolucha
+author: vhorvathms
 description: Learn how to add alerts in the Dynamics 365 Connected Spaces Preview web app 
-ms.author: alissag
+ms.author: vhorvath
 ms.date: 09/30/2022
 ms.topic: article
 title: Add alerts in the Dynamics 365 Co30nnected Spaces Preview web app
