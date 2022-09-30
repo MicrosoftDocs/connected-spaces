@@ -32,15 +32,13 @@ You must have a Microsoft Office 365 (E1 or later) license to use alerts in Conn
 
 After signing up for Office 365, associate the Office 365 license with Connected Spaces Preview users in the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?ref=/users) by doing the following:
 
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?ref=/users).
-
-2. Select a user. 
+1. Select a user. 
 
     ![Screenshot of Microsoft 365 admin center with focus on user record.](media/alerts-admin-center-user.JPG "Screenshot of Microsoft 365 admin center with focus on user record")
 
-3. In the pane on the right side of the screen, select the **Licenses and apps** tab.
+2. In the pane on the right side of the screen, select the **Licenses and apps** tab.
 
-4. Make sure that all of the following licenses are selected:
+3. Make sure that all of the following licenses are selected:
 
     - Dynamics 365 Connected Spaces vTrial
     - Microsoft Power Automate Free
