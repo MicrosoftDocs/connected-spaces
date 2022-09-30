@@ -28,7 +28,7 @@ The following table shows tips for installing and connecting the Azure Stack Edg
 |Airflow|Azure Stack Edge Pro requires adequate ventilation for cooling. The system airflow is front to rear, so make sure that there are no obstructions to air flow from front to back.<br><br>The system must be operated with a low-pressure, rear-exhaust installation.|
 |Power|Azure Stack Edge Pro requires an independent source or a rack power distribution unit (PDU) with an uninterruptible power supply (UPS). The AC power source needs to have the capacity to supply the 750-watt maximum power draw of Azure Stack Edge Pro. [Learn more about power requirements](/azure/databox-online/azure-stack-edge-technical-specifications-compliance#power-supply-unit-specifications).|
 |Noise|Azure Stack Edge Pro uses fan cooling which results in noticeable fan noise. Do not mount or install Azure Stack Edge Pro where people perform daily operations which may be affected by prolonged noise exposure.|
-|Network|Azure Stack Edge Pro requires a 5-megabits-per-second internet connection for data flow to the Dynamics 365 Connected Spaces services and application. Azure Stack Edge Pro and cameras must be on the same local area network (LAN). See also [Adding URLs to allow lists for firewalls](ase-install.md#adding-urls-to-allow-lists-for-firewalls) below.<br><br>If this port can't be opened because of firewall policies, use AMQP over web sockets (port 443).|
+|Network|Azure Stack Edge Pro requires a 5-megabits-per-second internet connection for data flow to the Dynamics 365 Connected Spaces services and application. See also [Adding URLs to allow lists for firewalls](ase-install.md#adding-urls-to-allow-lists-for-firewalls) below.<br><br>If this port can't be opened because of firewall policies, use AMQP over web sockets (port 443).|
 |Operating temperatures|See the [Azure Stack Edge Pro technical specifications](/azure/databox-online/azure-stack-edge-technical-specifications-compliance) for detailed operating and power requirements.|
 
 ## Adding URLs to allow lists for firewalls
@@ -72,16 +72,9 @@ You'll need the following LAN information when you configure Azure Stack Edge Pr
 
    - Secondary DNS
 
-> [!NOTE]
-> When configuring your network, make sure that Azure Stack Edge Pro and cameras are all on the same subnet. At this time, Azure Stack Edge Pro does not support dual-homed networks.
-
 ### Secure the IP addresses
 
-You'll need to secure a range of static IP addresses for your edge hardware (cameras and gateway). 
-
-- The IP cameras require a range of 10 IP addresses. To enable future camera expansion, we recommend securing additional IP addresses. If possible, assign these static IP addresses in sequence to make troubleshooting easier. 
-
-- Azure Stack Edge Pro requires 4 static IP addresses initially. If possible, assign these static IP addresses in sequence to make troubleshooting easier. 
+You'll need to secure a range of static IP addresses for your edge hardware. Azure Stack Edge Pro requires 4 static IP addresses initially. If possible, assign these static IP addresses in sequence to make troubleshooting easier. 
 
 ### Check power and ventilation 
 
