@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to create a space in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Create a space in Dynamics 365 Connected Spaces Preview 
 ms.reviewer: v-bholmes
