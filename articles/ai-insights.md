@@ -2,7 +2,7 @@
 author: alwinv
 description: How Microsoft Dynamics 365 Connected Spaces Preview uses artificial intelligence technology to provide insights.
 ms.author: alwinv
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: AI and Insights for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
