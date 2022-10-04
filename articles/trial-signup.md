@@ -2,7 +2,7 @@
 title: "Sign up for a free trial - Dynamics 365 Connected Spaces Preview| Microsoft Docs"
 description: "Learn how to quickly sign up for and start a free Dynamics 365 Connected Spaces Preview trial. Explore the app with tours and videos, and find additional learning resources."
 author: alwinv
-ms.author: alwinv
+ms.author: abiakolo
 ms.date: 10/05/2022
 ms.topic: get-started
 ms.custom: template-trial-setup 
