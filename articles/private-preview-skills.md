@@ -2,7 +2,7 @@
 author: jasonxian-msft
 description: Learn about Private Preview skills in Dynamics 365 Connected Spaces Preview and how they interact with Public Preview skills.
 ms.author: jasonxian
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Private Preview skills in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
