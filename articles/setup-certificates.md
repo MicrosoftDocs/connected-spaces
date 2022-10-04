@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to update expiring certificates for Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Update expiring certificates for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
