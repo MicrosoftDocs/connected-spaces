@@ -1,5 +1,5 @@
 ---
-author: kfrankc-ms
+author: Athena-Xiao
 description: Understand different scenarios (end cap display effectiveness, queue management, and shopper analytics) for Dynamics 365 Connected Spaces Preview.
 ms.author: atxiao
 ms.date: 10/05/2022
