@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to set your store's operating hours in Dynamics 365 Connected Spaces Preview
 ms.author: alissag
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Set your store's operating hours in Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-brycho
