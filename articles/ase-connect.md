@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to activate Azure Stack Edge Pro to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
