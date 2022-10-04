@@ -2,7 +2,7 @@
 title: "Trial FAQ - Dynamics 365 Connected Spaces Preview | Microsoft Docs"
 description: "Solutions to common questions related to Dynamics 365 Connected Spaces Preview trial setup and management. Learn how to resolve platform and app-specific issues."
 author: alwinv
-ms.author: alwinv
+ms.author: abiakolo
 ms.date: 10/05/2022
 ms.topic: get-started
 ms.custom: template-trial-faq 
