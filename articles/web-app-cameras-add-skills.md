@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to add skills (Area, Queue, or Entries) to collect data in Dynamics 365 Connected Spaces Preview.
 ms.author: alissag
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Add skills to collect data in Dynamics 365 Connected Spaces Preview 
 ms.reviewer: v-bholmes
