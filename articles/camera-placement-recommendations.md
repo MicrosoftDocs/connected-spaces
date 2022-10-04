@@ -2,7 +2,7 @@
 author: kfrankc-ms
 description: Learn how to place LP cameras for use with Dynamics 365 Connected Spaces Preview, including height, mounting angle, and camera-to-focal-point distance
 ms.author: rapraj
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Camera placement suggestions for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
