@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn how to set up Dynamics 365 Connected Spaces Preview
 ms.author: alwinv
-ms.date: 09/30/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Set up Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
