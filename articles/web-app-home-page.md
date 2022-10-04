@@ -1,7 +1,7 @@
 ---
 author: vhorvathms
 description: Learn how to get started with the Dynamics 365 Connected Spaces Preview web app
-ms.author: alissag
+ms.author: vhorvath
 ms.date: 10/05/2022
 ms.topic: article
 title: Get started with the Dynamics 365 Connected Spaces Preview web app
