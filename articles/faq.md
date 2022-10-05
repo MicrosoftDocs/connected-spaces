@@ -2,15 +2,13 @@
 author: kfrankc-ms
 description: Learn about frequently asked questions that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 11/02/2021
+ms.date: 10/05/2022
 ms.topic: article
 title: Dynamics 365 Connected Spaces Preview FAQ
 ms.reviewer: v-bholmes
 ---
 
 # Dynamics 365 Connected Spaces Preview FAQ
-
-[!INCLUDE[banner](includes/banner.md)]
 
 ## Are all IP cameras supported?
 
@@ -31,7 +29,7 @@ Yes, if you need a new skill zone, you can reconfigure an existing zone. However
 
 Be sure to create the largest skill zone that you can, so that it covers the specific floor area that you're interested in but **excludes** areas that you aren't interested in. In this way, you help increase the accuracy of the data that is collected and prevent false positives from areas that you don't want to track. Be careful when you place the corners of your polygon. Make sure that they aren't outside the area that you want to track.
 
-[See tips for drawing skill zones](cameras-add-skills.md#tips-for-drawing-skill-zones).
+[See tips for drawing skill zones](web-app-cameras-add-skills.md#tips-for-drawing-skill-zones).
 
 ## How do I change the IP range that the gateway uses to scan for cameras?
 
@@ -98,6 +96,10 @@ Currently, you must use an Azure AD tenant in the United Kingdom (UK) or the Uni
 ## How do I notify shoppers and employees about the use of Dynamics 365 Connected Spaces in my store?
 
 While shoppers and employees may understand the use of cameras in retail spaces for security purposes, using cameras for other purposes can raise questions and concerns, potentially impacting trust in your brand. For tips for building shopper and employee trust through a notice and disclosure strategy, refer to the best practices outlined in our two guides, [Communicate with shoppers](communication-plan.md) and [Communicate with employees](employee-plan.md).
+
+## How do I update expiring certificates for my Connected Space deployment?
+
+[Learn how to update expiring certificates](setup-certificates.md)
 
 ## See also
 

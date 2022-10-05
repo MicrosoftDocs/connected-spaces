@@ -2,7 +2,7 @@
 author: alissapolucha
 description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your store
 ms.author: alissag
-ms.date: 08/31/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Use Dynamics 365 Connected Spaces Preview to get insights on your store
 ms.reviewer: v-bholmes
@@ -10,17 +10,13 @@ ms.reviewer: v-bholmes
 
 # Use the Analytics page in Dynamics 365 Connected Spaces Preview to get insights on your store
 
-[!INCLUDE[banner](includes/banner.md)]
-
 Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your store. This article describes how to get insights from your store using the **Analytics** page. 
 
 Connected Spaces supports the following camera skills: 
 
-- Shopper analytics
-
-- Display effectiveness
-
-- Queue management
+- Entries
+- Area
+- Queue
  
 For a quick overview of how to get insights, scan the screens in this and other articles. 
 
@@ -29,9 +25,9 @@ For a quick overview of how to get insights, scan the screens in this and other 
 
 ## Analytics page overview
 
-The **Analytics** page, which is organized by skill (Shopper analytics, Queue management, and Display effectiveness), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
+The **Analytics** page, which is organized by skill (Entries, Queue, and Area), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
 
-![Analytics page.](media/analytics-overview.jpg "Analytics page")
+![Analytics page.](media/analytics-screen-overview.JPG "Analytics page")
 
 ## Filter by date
 
@@ -41,79 +37,79 @@ By default, the **Analytics** page shows the last 7 days, but you can select a c
 
 ## Filter by skill type
 
-By default, the skill type filter shows all skill types, but you can select a skill type (Shopper analytics, Queue management, or Display effectiveness) in the **Skill** filter.
+By default, the skill type filter shows all skill types, but you can select a skill type (Entries, Queue, or Area) in the **Skill** filter.
 
 ![Screenshot of filter by skill type.](media/analytics-filter-by-skill-type.jpg "Screenshot of filter by skill type")
 
-## Highlights cards
+## Highlight cards
 
 Each skill type includes highlight cards with information buttons that you can hover over to get additional details.
 
 ![Information buttons.](media/analytics-information-buttons.jpg "Information buttons")
 
-**Change in store entries.** This card highlights the sum of people that entered the store for the selected time frame. 
+**Change in space entries.** This card highlights the sum of people that entered the space for the selected time frame. 
 
-![Change in store entries card.](media/change-store-entries.jpg "Change in store entries card")
+![Change in space entries card.](media/analytics-screen-change-store-entries.JPG "Change in space entries card")
 
 >[!NOTE]
 > If there’s insufficient data, no information is displayed in the card. This is true for all cards on the **Analytics** and other pages.
 
 **Busiest day.** This card highlights the day of the week and date within the selected time frame that had the greatest number of people, along with the people count. 
 
-![Busiest day card.](media/busiest-day.jpg "Busiest day card")
+![Busiest day card.](media/analytics-screen-busiest-day.JPG "Busiest day card")
 
-**Largest increase in display traffic.** This card highlights the display with the largest increase in display traffic as compared to all other displays over the previous time period.  
+**Largest increase in area traffic.** This card highlights the area with the largest increase in area traffic as compared to all other areas over the previous time period.  
 
-![Largest increase in display traffic card.](media/analytics-largest-increase-display-traffic.jpg "Largest increase in display traffic card")
+![Largest increase in area traffic card.](media/analytics-screen-largest-increase-display-traffic.JPG "Largest increase in area traffic card")
 
-**Largest decrease in display traffic.** This card highlights the display with the largest decrease in display traffic as compared to all other displays over the previous time period.   
+**Largest decrease in area traffic.** This card highlights the area with the largest decrease in area traffic as compared to all other areas over the previous time period.   
 
-![Largest decrease in display traffic card.](media/largest-decrease-display-traffic.jpg "Largest decrease in display traffic card")
+![Largest decrease in area traffic card.](media/analytics-screen-largest-decrease-display-traffic.JPG "Largest decrease in area traffic card")
 
-**Largest increase in visit time.** This card highlights the display with the largest increase in visit time as compared to all other displays over the previous time period.  
+**Largest increase in visit time.** This card highlights the area with the largest increase in visit time as compared to all other areas over the previous time period. 
 
-![Largest increase in visit time card.](media/analytics-largest-increase-visit-time.jpg "Largest increase in visit time card")
+![Largest increase in visit time card.](media/analytics-screen-largest-increase-visit-time.JPG "Largest increase in visit time card")
 
-**Largest decrease in visit time.** This card highlights the display with the largest decrease in visit time as compared to all other displays over the previous time period.  
+**Largest decrease in visit time.** This card highlights the area with the largest decrease in visit time as compared to all other areas over the previous time period. 
 
-![Largest decrease in visit time card.](media/analytics-largest-decrease-visit-time.jpg "Largest decrease in visit time card")
+![Largest decrease in visit time card.](media/analytics-screen-largest-decrease-visit-time.JPG "Largest decrease in visit time card")
 
 **Change in queue traffic.** This card shows the percentage increase or decrease for queue traffic as compared to the previous time period.
 
-![Change in queue traffic card.](media/change-queue-traffic.jpg "Change in queue traffic card")
+![Change in queue traffic card.](media/analytics-screen-change-queue-traffic.JPG "Change in queue traffic card")
 
 **Change in queue wait time.** This card shows the percentage increase or decrease for the queue wait time as compared to the previous time period. 
 
-![Change in queue wait time card.](media/change-queue-wait-time.jpg "Change in queue wait time card")
+![Change in queue wait time card.](media/analytics-screen-change-queue-wait-time.JPG "Change in queue wait time card")
 
 ## Graphs on the Analytics page
 
-To the right of the highlight cards are graphs for each skill, starting with Shopper analytics.
+To the right of the highlight cards are graphs for each skill, starting with Entries.
 
-### Shopper Analytics graphs
+### Entries graphs
 
-![Shopper analytics graphs section of Analytics page.](media/analytics-shopper-analytics-graphs.jpg "Shopper analytics graphs section of Analytics page")
+![Entries graphs section of Analytics page.](media/analytics-screen-overview.JPG "Entries graphs section of Analytics page")
 
 > [!TIP]
 > You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Shopper analytics zones. 
+**Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Entries zones. 
 
-**Footfall entries power hour [by time slice (day, hour)].**  This graph shows the hourly breakdown of store entries per day.
+**Footfall entries power hours [by time slice (day, hour)].**  This graph shows the hourly breakdown of space entries per day.
 
-**Footfall at each queue [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across each Shopper analytics skill, individually. 
+**Footfall at each entrance [by time slice (day, hour)].** This graph shows the total number of people that entered the space, across each Entries skill, individually. 
 
-### Display Effectiveness graphs
+### Area graphs
 
-![Display effectiveness graphs section of Analytics page.](media/analytics-display-effectiveness-graphs.jpg "Display effectiveness graphs section of Analytics page")
+![Area graphs section of Analytics page.](media/analytics-screen-area-graphs.JPG "Area graphs section of Analytics page")
 
 **Enters [by time slice (day, hour)].** This graph shows the number of people entering the skill zone over the time period selected.
 
 **Visit time [by time slice (day, hour)].** This graph shows the average dwell time of the people who entered the skill zone over the time period selected.
 
-### Queue Management graphs
+### Queue graphs
 
-![Queue management graphs section of Analytics page.](media/analytics-queue-management-graphs.jpg "Queue management graphs section of Analytics page")
+![Queue graphs section of Analytics page.](media/analytics-screen-queue-graphs.JPG "Queue graphs section of Analytics page")
 
 **Total enters across all queues [by time slice (day, hour)].** The total number of people who entered all queues, by day.
 

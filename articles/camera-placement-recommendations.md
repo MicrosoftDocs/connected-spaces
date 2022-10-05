@@ -1,16 +1,14 @@
 ---
-author: kfrankc-ms
+author: Athena-Xiao
 description: Learn how to place LP cameras for use with Dynamics 365 Connected Spaces Preview, including height, mounting angle, and camera-to-focal-point distance
-ms.author: rapraj
-ms.date: 12/07/2021
+ms.author: atxiao
+ms.date: 10/05/2022
 ms.topic: article
 title: Camera placement suggestions for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Camera placement suggestions for Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 > [!NOTE]
 > The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Dynamics 365 Connected Spaces. [See Compliance and responsible use](compliance.md). 
@@ -29,7 +27,7 @@ LP cameras.
 - **Environmental backlighting.** Outdoor backlighting affects camera image quality. To avoid severe backlighting conditions, 
 avoid directing cameras at external-facing windows and glass doors.
 
-- **Store changes.** Product displays and end caps may get moved after placing cameras. Make sure that camera placement is 
+- **Space changes.** Product displays and end caps may get moved after placing cameras. Make sure that camera placement is 
 optimized for potential store changes to reduce camera re-positioning.
 
 - **Building structure.** HVAC, sprinklers, and existing wiring may limit hard mounting of cameras.
