@@ -2,15 +2,13 @@
 author: alwinv
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: alwinv
-ms.date: 09/12/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Known issues with Microsoft Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 ## Error message displayed on Settings page if browser is not set to English or German
 

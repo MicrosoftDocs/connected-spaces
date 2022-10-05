@@ -1,8 +1,8 @@
 ---
 author: alwinv
 description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Connected Spaces Preview
-ms.author: alwinv
-ms.date: 02/17/2022
+ms.author: abiakolo
+ms.date: 10/05/2022
 ms.topic: article
 title: Obtain and assign a viral license to enable users to sign up for a free trial of Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -37,9 +37,9 @@ In this case, an Azure Active Directory admin will need to use the following pro
    Get-MsolCompanyInformation | fl AllowAdHocSubscriptions
    ```
 
-2. Acquire a Dynamics 365 Connected Spaces viral license for your company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1 
+2. Acquire a Dynamics 365 Connected Spaces viral license for your company by going to the following page: https://signup.microsoft.com/create-account/signup?isAdminSignup=true&products=50374fc8-8587-4df7-b8bf-e1a3699c11ae&ali=1  
 
-    ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral-trial.jpg "Dynamics 365 Connected Spaces Viral Trial screen")
+    ![Dynamics 365 Connected Spaces Viral Trial screen.](media/admin-trial-signup-viral.JPG "Dynamics 365 Connected Spaces Viral Trial screen")
   
 3. Block viral licenses again by running these commands using Azure PowerShell:
 

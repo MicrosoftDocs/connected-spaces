@@ -2,8 +2,8 @@
 title: "Trial FAQ - Dynamics 365 Connected Spaces Preview | Microsoft Docs"
 description: "Solutions to common questions related to Dynamics 365 Connected Spaces Preview trial setup and management. Learn how to resolve platform and app-specific issues."
 author: alwinv
-ms.author: alwinv
-ms.date: 01/13/2022
+ms.author: abiakolo
+ms.date: 10/05/2022
 ms.topic: get-started
 ms.custom: template-trial-faq 
 ms.reviewer: v-bholmes
@@ -82,6 +82,10 @@ After you sign up for the trial and select the **Launch Trial** button, you can 
 ### What features are available in the trial?
 
 All Dynamics 365 Connected Spaces Preview features are available for the trial. 
+
+### If my company admin blocks trial environments can I still sign up for Connected Spaces? 
+
+At this time, none of the steps in this topic work: [Admin sign-up for companies that restrict viral trials](trial-signup-admin.md). You and your admin should reach out directly to the Connected Spaces team to support your onboarding experience.  
 
 ### How long does the trial last?
 

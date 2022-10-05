@@ -2,15 +2,13 @@
 author: kfrankc-ms
 description: Learn how to activate Azure Stack Edge Pro to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
-ms.date: 06/23/2022
+ms.date: 10/05/2022
 ms.topic: article
 title: Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
 ---
 
 # Activate Azure Stack Edge Pro (2 GPU) for use with Dynamics 365 Connected Spaces Preview
-
-[!INCLUDE[banner](includes/banner.md)]
 
 After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're ready to activate it for use with Microsoft Dynamics 365 Connected Spaces Preview. If you're working with a system integrator to install the hardware and set up the network, you might want to contact them for support with this step. 
 
@@ -39,18 +37,18 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
         ![Screenshot that highlights the Overview tab and Managed application field.](media/ase-activate-4.jpg "Screenshot that highlights the Overview tab and Managed application field")
         
-    5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (see below).
+    5. Copy the Application ID and the Object ID of the newly created service principal. You'll use these IDs when you add the gateway device (see below). You can reuse the same service principal for multiple Azure Stack Edge devices.
 
         ![Screenshot highlighting the Application ID and Object ID fields.](media/ase-activate-5.jpg "Screenshot highlighting the Application ID and Object ID fields")
 
-        > [!TIP]
-        > You can reuse the same service principal for multiple Azure Stack Edge devices. 
+        > [!NOTE]
+        > The service principle admin will need to keep track of expiring certificates for the deployment. [Learn more](setup-certificates.md) 
 
 ## Add a gateway device
 
 1. In the Connected Spaces Preview web app, select the **Devices** tab, and then select **Add gateway**. 
 
-   ![Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted.](media/ase-activate-6.jpg "Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted")
+   ![Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted.](media/ase-activate-add-gateway.JPG "Screenshot of Connected Spaces app with Devices tab and Add gateway command highlighted")
 
 2. In the first screen of the **Add device** wizard, select **Next**.
 
@@ -106,4 +104,4 @@ After you've [installed Azure Stack Edge Pro (2 GPU)](ase-install.md), you're re
 
 ## Next step
 
-[Install your cameras](install-cameras.md)
+[Get started with the web app](web-app-home-page.md)
