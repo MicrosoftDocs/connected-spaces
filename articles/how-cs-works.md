@@ -2,7 +2,7 @@
 author: alwinv
 description: Learn about the different components required for Dynamics 365 Connected Spaces and how it works
 ms.author: alwinv
-ms.date: 12/07/2021
+ms.date: 10/05/2022
 ms.topic: article
 title: How Dynamics 365 Connected Spaces works
 ms.reviewer: v-bholmes
@@ -10,8 +10,6 @@ ms.custom: "intro-internal"
 ---
 
 # How Dynamics 365 Connected Spaces works
-
-[!INCLUDE[banner](includes/banner.md)]
 
 [Dynamics 365 Connected Spaces](index.md) consists of the Connected Spaces web app, an Azure cloud service, Microsoft Dataverse, and camera hardware that you install in your store.
 

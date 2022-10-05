@@ -2,7 +2,7 @@
 author: alwinv
 description: How Dynamics 365 Connected Spaces Preview protects data and privacy
 ms.author: alwinv
-ms.date: 12/07/2021
+ms.date: 10/05/2022
 ms.topic: article
 title: Data and Privacy for Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -67,7 +67,7 @@ The data described above is processed on the Azure Stack Edge on the customers�
 
 Customers are in control of Azure Stack Edge, which processes the data described above. Connected Spaces software running on the customer’s Azure Stack Edge stores this customer data locally:
 
-- Incoming Video stream data, processed inference data and insight data is stored temporarily for up to 72 hours.
+- Incoming Video stream data, processed inference data and insight data is stored temporarily for up to 24 hours.
 
 - A copy of configuration data is also kept in sync on Azure Stack Edge. It mirrors the configuration data stored in the customer’s Dataverse storage, and is kept in sync daily after each store’s working hours.
 
@@ -80,7 +80,7 @@ All of this data is stored in local storage, and is not easily accessible by cus
 
 In the Connected Spaces cloud service on Azure, the following types of data are processed at the instructions of the customer:
 
-- **Video data:** The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
+- **Video data:** The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default;  customers can opt in to save their video data. 
 
 - **Inference data:** The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
 
@@ -112,6 +112,8 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 In Microsoft Dataverse cloud storage, the customer data is stored and can be managed by the customer. These Microsoft Dataverse tables are created to store the customer data:
 
+- Power Aggregations: Insight data (hourly summaries)
+
 - HyperStore: Uses Microsoft Dataverse file capacity storage to archive copies of the data sent from the edge gateway:
 
     - Video data (rows with names containing "1-video")
@@ -124,7 +126,6 @@ In Microsoft Dataverse cloud storage, the customer data is stored and can be man
 - HyperDocument: Uses Microsoft Dataverse database capacity to store the data used by the app for configuration, for analytics dashboards, and for HyperStore data indexes:
 
     - Configuration data
-    - Insight data (hourly summaries)
     - Index data to access the HyperStore table (rows with primary key value of HyperAsset or HyperTrack)
 
 The customer can manage the data at any time in their Microsoft Dataverse instance. [Learn more about responding to Data Subject Rights (DSR) requests for Microsoft Dataverse customer data](/power-platform/admin/common-data-service-gdpr-dsr-guide). When handling DSRs for data such as video data or inference data, customers might need to use a date and time to narrow down the data searches since the data does not have any direct association with a particular person’s identity.
@@ -137,7 +138,7 @@ Customers use the Connected Spaces web app to configure their store. They connec
 
 The AI skills running locally on the edge device detect and track unidentified people’s movements in the video feed based on algorithms that detect the presence of one or more humans. The algorithms generate events when a person moves in or out of designated zones configured by the customer in the camera’s field of view and outputs the coordinates of the person’s body into a bounding box. For each bounding box movement detected in a camera zone, the AI skills output "inference data". People are not re-identified across multiple cameras and no facial recognition is done.
 
-The AI data inferencing is done locally in memory on the edge gateway near real time. This inference data is aggregated into insights data and is then sent to the Connected Spaces cloud service for further processing and aggregation with other customer business data and configuration data to deliver insights that are accessible through the Connected Spaces web app. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it ([learn more](video-inference-data-upload.md)). All of the customer data is saved to the customer's Microsoft Dataverse cloud storage. The customer's data stays in the customer's geographic region when processed by the Connected Spaces cloud service and when stored in Microsoft Dataverse. During the Preview, Connected Spaces is only available to customers with Azure Active Directory tenants in the UK or US geographic regions, and Connected Spaces data will be processed in those regions.
+The AI data inferencing is done locally in memory on the edge gateway near real time. This inference data is aggregated into insights data and is then sent to the Connected Spaces cloud service for further processing and aggregation with other customer business data and configuration data to deliver insights that are accessible through the Connected Spaces web app. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it ([learn more](video-inference-data-upload.md)). All of the customer data is saved to the customer's Microsoft Dataverse cloud storage (the customer must opt in to save video data to customer's storage). The customer's data stays in the customer's geographic region when processed by the Connected Spaces cloud service and when stored in Microsoft Dataverse. During the Preview, Connected Spaces is only available to customers with Azure Active Directory tenants in the UK or US geographic regions, and Connected Spaces data will be processed in those regions.
 
 Customer data processed in the Connected Spaces cloud is used to provide customers with the Connected Spaces cloud service, including by providing insights about retail locations, and also to improve and troubleshoot the Connected Spaces cloud service and other operations incident to delivering the services (for example, managing your account, internal reporting, and improving core functionality such as privacy and accessibility). While Dynamics 365 Connected Spaces is still in a Preview phase, some privacy measures may differ from controls in place for Microsoft commercial cloud services. However, for any personal data sent to the Connected Spaces cloud service, such as inference data, Microsoft provides the contractual commitments required by Article 28 of the GDPR. For more information, see [Privacy and Personal Data for Microsoft Dynamics 365 and GDPR Overview](/dynamics365/get-started/gdpr/).
 
