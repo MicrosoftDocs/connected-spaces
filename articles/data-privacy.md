@@ -74,7 +74,7 @@ Customers are in control of Azure Stack Edge, which processes the data described
 All of this data is stored in local storage, and is not easily accessible by customers from their Azure Stack Edge resource on the Azure Portal. Customers that need to delete all the data on their Azure Stack Edge can follow [these instructions for Azure Stack Edge device reset and reactivation](/azure/databox-online/azure-stack-edge-reset-reactivate-device).
 
 > [!NOTE]
-> After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video and inference data is stored. [Learn more](video-inference-data-upload.md)
+> After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy and about** to change where video and inference data is stored. [Learn more](video-inference-data-upload.md)
 
 ### Connected Spaces cloud service
 
@@ -82,11 +82,11 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 #### Video data
 
-The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default;  customers can opt in to save their video data. 
+The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default and customers can [opt-in to save their video data](video-inference-data-upload.md#turn-video-upload-off-or-on). Storing video in the cloud enables additional features like detecting and troubleshooting data quality issues. For more information, see [Benefits of uploading video and inference data](video-inference-data-upload.md#benefits-of-uploading-video-and-inference-data).
 
 #### Inference data
 
-The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
+The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Inference data is only stored in Dataverse when video data is also stored.
 
 #### Insights data
 
