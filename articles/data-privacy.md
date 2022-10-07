@@ -15,7 +15,7 @@ ms.reviewer: v-bholmes
 
 Dynamics 365 Connected Spaces Preview has three components, and each has been designed with privacy, security, and compliance in mind. 
 
-![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platorm components")
+![Illustration of retail store, Azure cloud service and Power Platform components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platform components")
 
 - **Azure Stack Edge gateway** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway computing device installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge gateway processes video data from the in-store camera locally on the device (at the edge) and uses AI models to generate data that can be used to infer a particular event (“inference data” or “event data”) from that video footage. Inference data includes information about what occurred in a snippet of input video but does not include images or video. For example, it includes data such as a time stamp, location relative to user-defined lines and zones, and bounding box coordinates that can be used to infer presence of a person (for example, PersonCrossingZone). Inference data is generated without identifying individuals.
 
@@ -23,7 +23,7 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 - **Microsoft Dataverse storage** – Database and file storage in the customer’s Power Platform environment. All of the customer’s data is stored in Microsoft Dataverse for easy access and management.
 
-## What data does Connected Spaces process? 
+## What data does Connected Spaces process?
 
 ### Retail store(s)
 
@@ -73,38 +73,48 @@ Customers are in control of Azure Stack Edge, which processes the data described
 
 All of this data is stored in local storage, and is not easily accessible by customers from their Azure Stack Edge resource on the Azure Portal. Customers that need to delete all the data on their Azure Stack Edge can follow [these instructions for Azure Stack Edge device reset and reactivation](/azure/databox-online/azure-stack-edge-reset-reactivate-device).
 
-> [!NOTE] 
+> [!NOTE]
 > After local processing, insights data is uploaded to the Connected Spaces cloud service for further processing and presentation through Connected Spaces dashboards. Customers can control whether they want to upload video data and inference data to their Microsoft Dataverse cloud storage and manage it. Go to **Settings** > **Privacy Information** to change where video and inference data is stored. [Learn more](video-inference-data-upload.md)
 
 ### Connected Spaces cloud service
 
-In the Connected Spaces cloud service on Azure, the following types of data are processed at the instructions of the customer:
+In the Connected Spaces cloud service on Azure, the following types of data are processed at the instructions of the customer.
 
-- **Video data:** The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default;  customers can opt in to save their video data. 
+#### Video data
 
-- **Inference data:** The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
+The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default;  customers can opt in to save their video data. 
 
-- **Insights data:** The insights data described above is aggregated further into hourly summaries and correlated with other business data (for example, total entry events during the 9 AM hour for the entire store) and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. Insights data includes: 
+#### Inference data
 
-   - Time stamp, summarized by hour or other time interval
+The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
 
-   - Type: entrance, display, queue, venue
+#### Insights data
 
-   - Value sums, averages and maximums over the hour: dwell time, dwells, enters, exits, visits, visit time, occupancy, occupancy change, over capacity
+The insights data described above is aggregated further into hourly summaries and correlated with other business data (for example, total entry events during the 9 AM hour for the entire store) and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. Insights data includes:
 
-   - AI skill type: shopper analytics, display effectiveness, queue management
+- Time stamp, summarized by hour or other time interval
 
-   - Zone, such as "Front entrance", "Aisle 1 display", and so on
+- Type: entrance, display, queue, venue
 
-   - Time zone info: day of year, hour of day
+- Value sums, averages and maximums over the hour: dwell time, dwells, enters, exits, visits, visit time, occupancy, occupancy change, over capacity
 
-   - Store name, such as "Redmond store", "Seattle store", and so on
+- AI skill type: shopper analytics, display effectiveness, queue management
 
-   - Identifiers: store, skill, insight
- 
-- **Configuration data:** This is information about the retailer’s store and the edge gateway configuration used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills). 
+- Zone, such as "Front entrance", "Aisle 1 display", and so on
 
-- **Telemetry data:** This is information about the health of the edge gateway, the Connected Spaces cloud service, and the Connected Spaces web app. 
+- Time zone info: day of year, hour of day
+
+- Store name, such as "Redmond store", "Seattle store", and so on
+
+- Identifiers: store, skill, insight
+
+#### Configuration data
+
+This is information about the retailer’s store and the edge gateway configuration used for setup and configuration of camera zones (for example, store name, paired camera IP address, camera view snapshot image, and zone skills). 
+
+#### Telemetry data
+
+This is information about the health of the edge gateway, the Connected Spaces cloud service, and the Connected Spaces web app.
 
 - The cloud service processes the data as it arrives for each hourly aggregation and does not store the data in the Connected Spaces cloud.
 
