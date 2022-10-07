@@ -19,7 +19,7 @@ Dynamics 365 Connected Spaces Preview has three components, and each has been de
 
 - **Azure Stack Edge gateway** – A customer-managed Azure Stack Edge Pro (2 GPU) gateway computing device installed in the retail store that runs computer vision AI model(s) to convert video streams from existing or new cameras into inference data. The edge gateway processes video data from the in-store camera locally on the device (at the edge) and uses AI models to generate data that can be used to infer a particular event (“inference data” or “event data”) from that video footage. Inference data includes information about what occurred in a snippet of input video but does not include images or video. For example, it includes data such as a time stamp, location relative to user-defined lines and zones, and bounding box coordinates that can be used to infer presence of a person (for example, PersonCrossingZone). Inference data is generated without identifying individuals.
 
-- **Connected Spaces cloud service and web app** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Spaces web app that provides insights for the retailer. The edge gateway sends the inference data to the Connected Spaces cloud service so that it can be correlated with the retailer’s business data (for example, store business hours, camera zone name) and aggregated to generate actionable insights regarding retail operations. The Connected Spaces cloud service saves the inference data and insight data to the customer's Microsoft Dataverse storage. Customers can then use the Connected Spaces web app to view the resulting insights data for shopper analytics, display effectiveness, and queue management insights.
+- **Connected Spaces cloud service and web app** – A  Software-as-a-service (SaaS) cloud service running on Azure and a Connected Spaces web app that provides insights for the retailer. The edge gateway sends the inference data to the Connected Spaces cloud service so that it can be correlated with the retailer’s business data (for example, store business hours, camera zone name) and aggregated to generate actionable insights regarding retail operations. The Connected Spaces cloud service saves the inference data and insights data to the customer's Microsoft Dataverse storage. Customers can then use the Connected Spaces web app to view the resulting insights data for shopper analytics, display effectiveness, and queue management insights.
 
 - **Microsoft Dataverse storage** – Database and file storage in the customer’s Power Platform environment. All of the customer’s data is stored in Microsoft Dataverse for easy access and management.
 
@@ -49,7 +49,7 @@ In the retail store(s), customers use the Azure Stack Edge gateway to process th
 
    - Identifiers: camera, zone, inference
 
-- **Insight data:** The inference data described above is depersonalized and aggregated into event counts for every 30 seconds of time. Insight data does not include pseudonymous identifiers or bounding box geometry data. Insight data includes:
+- **Insights data:** The inference data described above is depersonalized and aggregated into event counts for every 30 seconds of time. Insights data does not include pseudonymous identifiers or bounding box geometry data. Insights data includes:
  
    - Time stamps for the start and end of the 30-second time window
    
@@ -67,7 +67,7 @@ The data described above is processed on the Azure Stack Edge on the customers�
 
 Customers are in control of Azure Stack Edge, which processes the data described above. Connected Spaces software running on the customer’s Azure Stack Edge stores this customer data locally:
 
-- Incoming Video stream data, processed inference data and insight data is stored temporarily for up to 24 hours.
+- Incoming Video stream data, processed inference data and insights data is stored temporarily for up to 24 hours.
 
 - A copy of configuration data is also kept in sync on Azure Stack Edge. It mirrors the configuration data stored in the customer’s Dataverse storage, and is kept in sync daily after each store’s working hours.
 
@@ -84,7 +84,7 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 - **Inference data:** The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage.
 
-- **Insight data:** The insight data described above is aggregated further into hourly summaries and correlated with other business data (for example, total entry events during the 9 AM hour for the entire store) and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. Insight data includes: 
+- **Insights data:** The insights data described above is aggregated further into hourly summaries and correlated with other business data (for example, total entry events during the 9 AM hour for the entire store) and then stored in the customer's Microsoft Dataverse cloud storage for viewing via the Connected Spaces web app. Insights data includes: 
 
    - Time stamp, summarized by hour or other time interval
 
@@ -112,13 +112,13 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 In Microsoft Dataverse cloud storage, the customer data is stored and can be managed by the customer. These Microsoft Dataverse tables are created to store the customer data:
 
-- Power Aggregations: Insight data (hourly summaries)
+- Power Aggregations: Insights data (hourly summaries)
 
 - HyperStore: Uses Microsoft Dataverse file capacity storage to archive copies of the data sent from the edge gateway:
 
     - Video data (rows with names containing "1-video")
     - Inference data (rows with names containing "1403-metadata")
-    - Insight data with 30-second summaries (rows with names containing "1405-metadata")
+    - Insights data with 30-second summaries (rows with names containing "1405-metadata")
 
     > [!NOTE] 
     > To manage retention of the archive data stored in the HyperStore table, learn how to [free up storage space in Microsoft Dataverse](/power-platform/admin/free-storage-space). The article shows examples of how to manage file capacity using advanced queries and how to automate retention using a bulk deletion job.
