@@ -82,11 +82,11 @@ In the Connected Spaces cloud service on Azure, the following types of data are 
 
 #### Video data
 
-The video stream data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default and customers can [opt-in to save their video data](video-inference-data-upload.md#turn-video-upload-off-or-on). Storing video in the cloud enables additional features like detecting and troubleshooting data quality issues. For more information, see [Benefits of uploading video and inference data](video-inference-data-upload.md#benefits-of-uploading-video-and-inference-data).
+The video stream data sent from the Edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Video is not stored by default and customers can [opt-in to save their video data](video-inference-data-upload.md#turn-video-upload-off-or-on). Storing video in the cloud enables additional features like detecting and troubleshooting data quality issues. For more information, see [Benefits of uploading video and inference data](video-inference-data-upload.md#benefits-of-uploading-video-and-inference-data).
 
 #### Inference data
 
-The inference data sent from the edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Inference data is only stored in Dataverse when video data is also stored.
+The inference data sent from the Edge gateway is saved to the customer's Microsoft Dataverse cloud storage. Inference data is only stored in Dataverse when [video data](#video-data) is also stored.
 
 #### Insights data
 
