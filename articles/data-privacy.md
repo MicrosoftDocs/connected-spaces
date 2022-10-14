@@ -1,5 +1,5 @@
 ---
-author: alwinv
+author: AghoghoBiakolo
 description: How Dynamics 365 Connected Spaces Preview protects data and privacy
 ms.author: alwinv
 ms.date: 10/05/2022
