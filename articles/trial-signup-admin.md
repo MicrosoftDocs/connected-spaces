@@ -1,5 +1,5 @@
 ---
-author: alwinv
+author: AghoghoBiakolo
 description: Learn how to obtain and assign a viral license so users can sign up for the free Dynamics 365 Connected Spaces Preview
 ms.author: abiakolo
 ms.date: 10/05/2022
