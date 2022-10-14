@@ -1,5 +1,5 @@
 ---
-author: alissapolucha
+author: vhorvathms
 description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your space
 ms.author: vhorvath
 ms.date: 10/05/2022
