@@ -1,7 +1,7 @@
 ---
-author: alwinv
+author: rapraj
 description: Learn about the different components required for Dynamics 365 Connected Spaces and how it works
-ms.author: alwinv
+ms.author: rapraj
 ms.date: 10/05/2022
 ms.topic: article
 title: How Dynamics 365 Connected Spaces works
