@@ -1,7 +1,7 @@
 ---
 author: alwinv
 description: Customer responsibilities for compliance and responsible use regarding Dynamics 365 Connected Spaces Preview
-ms.author: alwinv
+ms.author: matthoag
 ms.date: 10/05/2022
 ms.topic: article
 title: Compliance and responsible use for Dynamics 365 Connected Spaces Preview
