@@ -1,7 +1,7 @@
 ---
-author: alwinv
+author: MattHoag-MS
 description: Learn about what to communicate with your employees if you're using Dynamics 365 Connected Spaces Preview.
-ms.author: rapraj
+ms.author: matthoag
 ms.date: 10/05/2022
 ms.topic: article
 title: Communicate with your employees about the use of Dynamics 365 Connected Spaces Preview in your space

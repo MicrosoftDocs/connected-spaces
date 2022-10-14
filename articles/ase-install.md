@@ -1,5 +1,5 @@
 ---
-author: kfrankc-ms
+author: rapraj
 description: Learn how to prepare your network and install Azure Stack Edge Pro (2 GPU) to use with Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
 ms.date: 10/05/2022
