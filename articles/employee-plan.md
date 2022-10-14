@@ -4,7 +4,7 @@ description: Learn about what to communicate with your employees if you're using
 ms.author: rapraj
 ms.date: 10/05/2022
 ms.topic: article
-title: Communicate with your employees about the use of Dynamics 365 Connected Spaces Preview in your store
+title: Communicate with your employees about the use of Dynamics 365 Connected Spaces Preview in your space
 ms.reviewer: v-bholmes
 ---
 
@@ -20,11 +20,11 @@ Employees also have additional concerns about how the technology will affect the
 To uphold human dignity, build trust, and align with the standards set out in Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai), 
 we suggest creating an employee disclosure strategy or expanding an existing strategy, such as how you [communicate with shoppers](communication-plan.md). Our research suggests that employees who understand and trust the technology will be in a better position to use the system effectively and also help shoppers reach the same level of trust and understanding.
 
-The practices in this article can help you decide what information to share with employees as well as how to communicate that information. We arrived at these practices through several rounds of research conducted in a U.S. retail environment, including interviews with eight store managers and evaluations of sample disclosure materials with ten employees. Participants were balanced across a variety of ages, gender identities, ancestral backgrounds, store type, size of store, and their position within the store. We also offer tips for designing disclosure materials with the goal of making information easy to discover and understand.
+The practices in this article can help you decide what information to share with employees as well as how to communicate that information. We arrived at these practices through several rounds of research conducted in a U.S. retail environment, including interviews with eight space managers and evaluations of sample disclosure materials with ten employees. Participants were balanced across a variety of ages, gender identities, ancestral backgrounds, space type, size of space, and their position within the space. We also offer tips for designing disclosure materials with the goal of making information easy to discover and understand.
 
 Based on our research, we’re sharing practices that we’ve found successful in **building shopper trust through transparency**, but they may not be sufficient to comply with all laws and regulations in certain jurisdictions. **It is your responsibility** to create a disclosure strategy that:
 
-- Works within the context of your store and your scenario.
+- Works within the context of your space and your scenario.
 
 - Accurately reflects all of your data collection and processing practices, including those outside of Dynamics 365 Connected Spaces.
 
@@ -58,17 +58,17 @@ A disclosure strategy can build trust by answering employees’ questions and he
 
 - How can employees best respond to shopper questions or concerns?
 
-Many of these answers may be similar to the ones you provide to shoppers (see [Communicate with shoppers](communication-plan.md) for other tips based on our user research). Note that answers to these questions will depend not only on how your store uses Dynamics 365 Connected Spaces, but also how you use other technologies that might affect the employee experience, including technologies you cover in other disclosure strategies. 
+Many of these answers may be similar to the ones you provide to shoppers (see [Communicate with shoppers](communication-plan.md) for other tips based on our user research). Note that answers to these questions will depend not only on how your space uses Dynamics 365 Connected Spaces, but also how you use other technologies that might affect the employee experience, including technologies you cover in other disclosure strategies. 
 
 ## When and where to disclose
 
 Our research shows that it is most effective to notify employees about Dynamics 365 Connected Spaces when the technology is being integrated, and then provide disclosure materials that are available for employees to review anytime. 
 
-The following suggestions represent a range of practices that have been designed to be flexible so that you can choose options that make sense in the unique context of your store. 
+The following suggestions represent a range of practices that have been designed to be flexible so that you can choose options that make sense in the unique context of your space. 
 
 ### Ideas for notifying employees
 
-- Our research shows that while email may be a common way to reach store managers, letting frontline employees know in person, such as during a staff meeting, can be more effective.
+- Our research shows that while email may be a common way to reach space managers, letting frontline employees know in person, such as during a staff meeting, can be more effective.
 
 - Post a **one-page FAQ** where it is highly visible to employees, such as a break room or online. 
 
@@ -104,19 +104,19 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 |--------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** give specific examples of how employees' responsibilities and tasks might change|Vague answers may be ignored or create confusion and distrust. |
 |✔ **DO** describe measures taken to prevent technology misuse|Employees may have concerns regarding the misuse of technology by the company or managers, and appreciate knowing what preventive measures and policies are in place.  |
-|✔ **DO** provide details on how Dynamics 365 Connected Spaces benefits both store operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
-|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Spaces, you have the option to manage and store video footage. Insights are statistics derived from video footage and which are aggregated and anonymized before anyone sees them. |
+|✔ **DO** provide details on how Dynamics 365 Connected Spaces benefits both space operations and customer service.|Employees understand the technology better with specific examples of how insights translate into outcomes. Read our tips for how to [communicate with shoppers](communication-plan.md) for more examples of how insights result in outcomes for shoppers. |
+|✔ **DO** differentiate between “video footage” and “insights”|Outlining the difference between “video footage” and “insights” helps employees understand how data is protected. In Dynamics 365 Connected Spaces, you have the option to manage and space video footage. Insights are statistics derived from video footage and which are aggregated and anonymized before anyone sees them. |
 |✔ **DO** use simple, concise, non-technical language|Simple language helps make the content more accessible to all employees, including those who aren’t native speakers. |
 
 ### Example: Helping employees respond to shoppers’ concerns
 
-![Graphic example showing how employees can respond to questions shoppers might have about cameras in the store.](media/employees-talking-to-shoppers.PNG "Graphic example showing how employees can respond to questions shoppers might have about cameras in the store")
+![Graphic example showing how employees can respond to questions shoppers might have about cameras in the space.](media/employees-talking-to-shoppers.PNG "Graphic example showing how employees can respond to questions shoppers might have about cameras in the space")
 
 |Tip|Why?|
 |---------------------------------------------------------|-------------------------------------------------------|
 |✔ **DO** share a range of concerns that shoppers might bring up|Anticipating likely shopper questions or concerns can help employees provide better customer service. |
 |✔ **DO** provide “quick reply” responses that employees can use to respond to any shopper questions |Employees might not have time to study detailed information about the technology, so it may be easier for them to remember brief, scripted answers.  |
-|✔ **DO** provide an easy escalation as needed, such as redirecting to a store manager |Offering to connect a shopper with a store manager lets employees focus on their primary tasks while reassuring shoppers that their questions are taken seriously. |
+|✔ **DO** provide an easy escalation as needed, such as redirecting to a space manager |Offering to connect a shopper with a space manager lets employees focus on their primary tasks while reassuring shoppers that their questions are taken seriously. |
 
 ## More resources
 
