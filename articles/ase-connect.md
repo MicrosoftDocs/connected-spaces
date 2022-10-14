@@ -1,5 +1,5 @@
 ---
-author: kfrankc-ms
+author: rapraj
 description: Learn how to activate Azure Stack Edge Pro to use with Dynamics 365 Connected Spaces Preview
 ms.author: rapraj
 ms.date: 10/05/2022
