@@ -1,5 +1,5 @@
 ---
-author: alwinv
+author: MattHoag-MS
 description: Learn about what to communicate with your employees if you're using Dynamics 365 Connected Spaces Preview.
 ms.author: matthoag
 ms.date: 10/05/2022
