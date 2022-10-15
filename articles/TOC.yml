@@ -28,7 +28,7 @@
           href: ase-install.md
         - name: Activate Azure Stack Edge Pro 
           href: ase-connect.md        
-    - name: Add a store, connect cameras, add skills and alerts, and get insights
+    - name: Add a space, connect cameras, add skills and alerts, and get insights
       items:              
         - name: Get started with the web app
           href: web-app-home-page.md
@@ -46,9 +46,9 @@
           href: web-app-space-details.md
     - name: Choose whether to upload video and inference data
       href: video-inference-data-upload.md  
-    - name: Communicate with shoppers and employees
+    - name: Communicate with customers and employees
       items: 
-        - name: Shoppers
+        - name: Customers
           href: communication-plan.md
         - name: Employees
           href: employee-plan.md

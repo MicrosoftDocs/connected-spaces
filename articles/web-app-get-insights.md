@@ -1,16 +1,16 @@
 ---
-author: alissapolucha
-description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your store
-ms.author: alissag
+author: vhorvathms
+description: Learn how to use Dynamics 365 Connected Spaces Preview to get insights on your space
+ms.author: vhorvath
 ms.date: 10/05/2022
 ms.topic: article
-title: Use Dynamics 365 Connected Spaces Preview to get insights on your store
+title: Use Dynamics 365 Connected Spaces Preview to get insights on your space
 ms.reviewer: v-bholmes
 ---
 
-# Use the Analytics page in Dynamics 365 Connected Spaces Preview to get insights on your store
+# Use the Analytics page in Dynamics 365 Connected Spaces Preview to get insights on your space
 
-Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your store. This article describes how to get insights from your store using the **Analytics** page. 
+Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your space. This article describes how to get insights from your space using the **Analytics** page. 
 
 Connected Spaces supports the following camera skills: 
 
@@ -25,7 +25,7 @@ For a quick overview of how to get insights, scan the screens in this and other 
 
 ## Analytics page overview
 
-The **Analytics** page, which is organized by skill (Entries, Queue, and Area), provides a sense of the store’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
+The **Analytics** page, which is organized by skill (Entries, Queue, and Area), provides a sense of the spaces’s overall performance for configured skills. Each skill type has small cards on the left that highlight key takeaways for the configured skill and graphs on the right for each skill instance. 
 
 ![Analytics page.](media/analytics-screen-overview.JPG "Analytics page")
 
@@ -93,7 +93,7 @@ To the right of the highlight cards are graphs for each skill, starting with Ent
 > [!TIP]
 > You can hover over the information button for any graph to get more information about the graph. You can also hover over a point in a graph to reveal details.
 
-**Total entries across store [by time slice (day, hour)].** This graph shows the total number of people that entered the store, across all Entries zones. 
+**Total entries across space [by time slice (day, hour)].** This graph shows the total number of people that entered the space, across all Entries zones. 
 
 **Footfall entries power hours [by time slice (day, hour)].**  This graph shows the hourly breakdown of space entries per day.
 

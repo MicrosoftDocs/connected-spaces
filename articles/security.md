@@ -1,7 +1,7 @@
 ---
-author: alwinv
+author: AghoghoBiakolo
 description: How security in Dynamics 365 Connected Spaces Preview is a shared responsibility between customers and Microsoft.
-ms.author: alwinv
+ms.author: abiakolo
 ms.date: 10/05/2022
 ms.topic: article
 title: Security of customer data in Dynamics 365 Connected Spaces Preview
