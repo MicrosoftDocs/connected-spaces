@@ -12,11 +12,11 @@ ms.reviewer: v-bholmes
 
 ## Are all IP cameras supported?
 
-[See the list of supported cameras](install-cameras.md#supported-cameras).
+[See the list of supported cameras](/dynamics365/connected-spaces/camera-placement-checklist#supported-cameras).
 
 ## Can I use my existing analog CCTV cameras?
 
-[See the list of supported cameras](install-cameras.md#supported-cameras).
+[See the list of supported cameras](/dynamics365/connected-spaces/camera-placement-checklist#supported-cameras).
 
 ## Can I reconfigure an existing skill zone if I have already reached the 10-zone limit?
 
