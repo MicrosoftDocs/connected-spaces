@@ -2,10 +2,10 @@
 author: vhorvathms
 description: Learn how to add alerts in the Dynamics 365 Connected Spaces Preview web app 
 ms.author: vhorvath
-ms.date: 10/05/2022
+ms.date: 10/25/2022
 ms.topic: article
 title: Add alerts in the Dynamics 365 Co30nnected Spaces Preview web app
-ms.reviewer: v-bholmes
+ms.reviewer: mhart
 ---
 
 # Add alerts in the Dynamics 365 Connected Spaces Preview web app
@@ -47,12 +47,8 @@ After signing up for Office 365, associate the Office 365 license with Connected
     ![Screenshot of Microsoft 365 admin center with all appropriate licenses selected.](media/alerts-admin-center-licenses.JPG "Screenshot of Microsoft 365 admin center with all appropriate licenses selected")
 
 ## Enable alerts
-[
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab)
-Connected Spaces uses Microsoft Power Automate as the alert delivery platform, which means that you must enable alerts in  Power Automate before you can add them in Connected Spaces. You can open Power Automate directly from Connected Spaces Preview.
 
-> [!NOTE]
-> You only need to enable alerts one time through Power Automate. After enabling alerts, all alert management happens in the Connected Spaces web app. 
+Connected Spaces uses Microsoft Power Automate as the alert delivery platform. As part of the initial configuration process, create an automated workflow with Power Automate by following the steps below. After creating your workflow all future alert management occurs within the Connected Spaces web application.
 
 1. If you haven't already done so, [create skills for your space](web-app-cameras-add-skills.md). You can't add alerts if you haven't created skills. 
 
