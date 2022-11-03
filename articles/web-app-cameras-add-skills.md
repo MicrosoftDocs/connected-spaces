@@ -27,22 +27,22 @@ Each gateway supports up to 7 cameras with a maximum of one skill for each camer
 
 Connected Spaces includes a wizard that makes it easy to set up and customize skills. 
 
-1.	On the **Skills** page, select **Add skill**. 
+1.	On the **Skills** page, select **Add skill**. <a name="add-skill"></a>
 
     ![Add a skill command.](media/skill-add.JPG "Add a skill command")
  
-2.	In the **Add skill** wizard, select one of the three skills, and then select **Next**. 
+2.	In the **Add skill** wizard, select one of the three skills, and then select **Next**. <a name="select-skill"></a>
 
      ![Screenshot of three types of skills.](media/skill-select.JPG "Screenshot of three types of skills")    
  
-3. Select the appropriate camera for the skill, and then select **Next**. 
+3. Select the appropriate camera for the skill, and then select **Next**. <a name="select-camera"></a>
 
     ![Screenshot of Choose camera section.](media/skill-choose-camera.JPG "Screenshot of Choose camera section")
     
     > [!NOTE]
     > If you don't see any cameras, you need to [connect your cameras to a gateway](web-app-cameras-connect.md) before adding skills.
     
-4. Draw a skill area to track customer behavior.
+4. Draw a skill area to track customer behavior. <a name="draw-skill"></a>
 
     ![Screenshot of drawing a skill zone for an Area skill.](media/skill-draw.JPG "Screenshot of drawing a skill zone for an Area skill")
 
@@ -57,7 +57,7 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
 
     When you're done drawing the skill zone, select **Next**. 
 
-7. In the **Add details** section:
+7. In the **Add details** section: <a name="add-details"></a>
 
     1. Give your skill a name to easily identify it in dashboards (for example, "Aisle 3 Display"). 
 
@@ -67,11 +67,11 @@ Connected Spaces includes a wizard that makes it easy to set up and customize sk
        
     3. Select **Next**.
 
-8. In the **Review and add** section, review the skill configuration, and then select **Add skill** if the skill is set up the way you want. Otherwise, select **Back** to make changes. 
+8. In the **Review and add** section, review the skill configuration, and then select **Add skill** if the skill is set up the way you want. Otherwise, select **Back** to make changes. <a name="review-and-add"></a>
 
     ![Screenshot of Review and add section.](media/skill-review-add.JPG "Screenshot of Review and add section")
 
-9. Select **Done** to create the skill. 
+9. Select **Done** to create the skill. <a name="skill-done"></a>
 
     ![Screenshot of Finish.](media/skill-done.JPG "Screenshot of Finish")
 
