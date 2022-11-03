@@ -26,7 +26,7 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 3. After you select the **Launch Trial** button, [go to the instructions for setting up Dynamics 365 Connected Spaces Preview](setup.md). 
 
     > [!NOTE]
-    > Dynamics 365 Connected Spaces Preview is only available for customers with company email accounts in the United States and United Kingdom geographic regions. Connected Spaces data will be processed in those regions. 
+    > Dynamics 365 Connected Spaces Preview is only available for customers with company email accounts in the United States, United Kingdom, or Germany geographic regions. Connected Spaces data will be processed in those regions. 
 
 ## What to try
 
