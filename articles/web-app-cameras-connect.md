@@ -24,7 +24,8 @@ You need to do the following before you can connect your cameras to a gateway:
 
 - Connect your computer to the same network as your gateway.
 
-    > [!NOTE] <a name="camera-ip-note"></a>
+ <a name="camera-ip-note"></a>
+    > [!NOTE]
     > If you only know the camera’s IP address, you can look up the camera manufacturer’s RTSP URL format. For example, Axis cameras use rtsp://[IP address]/axis-media/media.amp. 
     > 
     > For panoramic cameras with on-camera de-warping capability, additional parameters may be used to specify the de-warped views. For example, Panasonic’s panoramic cameras use rtsp://[IP address]/MediaInput/[Codec]/[Stream_Number]. 
@@ -54,8 +55,9 @@ You need to do the following before you can connect your cameras to a gateway:
     3. In the **Camera name** field, enter a friendly name for your camera to help identify it by location. 
 
     4. In the **Camera view image** field, select **Upload image** to upload an image of the camera's field of view.
-    
-     > [!NOTE] <a name="upload-image-note"></a>
+   
+   <a name="upload-image-note"></a>
+     > [!NOTE] 
      > An uploaded image is used to define where you want the AI skill to collect data. It's important that the image matches the resolution and aspect ratio of the RTSP stream. Microsoft recommends uploading an image that doesn't capture any personal data in the field of view. The image is compressed if it's larger than 2 MB.
 
     5. Select **Connect** to add the camera. The camera will appear in the middle of the screen under **All cameras**. 
@@ -93,8 +95,9 @@ You can edit the details for any camera from the **Devices** page.
 1. Select the **More options** button (...), and then select **Remove**. 
 
     ![Screenshot of Action button and Remove command.](media/camera-details.jpg "Screenshot of Action button and Remove command")
-    
-    > [!NOTE] <a name="remove-camera-note"></a>
+
+ <a name="remove-camera-note"></a>
+    > [!NOTE]
     > This will permanently remove the camera. To add the camera back again, on the **Devices** page, select **Add cameras** as described earlier in this article. 
 
 ## Next step
