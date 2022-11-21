@@ -20,7 +20,7 @@ Dynamics 365 Connected Spaces Preview offers a free 180-day trial. After a quick
 2. Follow the on-screen guidance to enter the email name associated with your company Azure Active Directory account and your contact information.
 
     > [!NOTE]
-    > If you see a message that says "Your company doesn't allow team members to sign up with their work email", contact the Connected Spaces team for support.
+    > If you see a message that says "Your company doesn't allow team members to sign up with their work email", contact the Connected Spaces team for support at mailto:dcs-support@microsoft.com.
 
 3. After you select the **Launch Trial** button, [go to the instructions for setting up Dynamics 365 Connected Spaces Preview](setup.md). 
 

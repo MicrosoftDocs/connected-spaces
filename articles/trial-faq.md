@@ -79,7 +79,7 @@ All Dynamics 365 Connected Spaces Preview features are available for the trial.
 
 ### If my company admin blocks trial environments can I still sign up for Connected Spaces?
 
-Yes, contact the Connected Spaces team for support.  
+Yes, contact the Connected Spaces team for support at mailto:dcs-support@microsoft.com.  
 
 ### How long does the trial last?
 

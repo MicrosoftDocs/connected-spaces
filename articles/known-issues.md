@@ -30,7 +30,7 @@ You may see the following message when you try to sign up for a free trial: "You
 
 ![Screenshot of Let's get started dialog box showing error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box showing error message")
 
-To complete the trial sign-up, contact the Connected Spaces team for support.
+To complete the trial sign-up, contact the Connected Spaces team for support at mailto:dcs-support@microsoft.com.
 
 ## The Connected Spaces Preview app is running in the wrong geographic region
 
