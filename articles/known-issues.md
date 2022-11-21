@@ -2,7 +2,7 @@
 author: rapraj
 description: Learn about known issues that are related to Microsoft Dynamics 365 Connected Spaces Preview.
 ms.author: rapraj
-ms.date: 10/05/2022
+ms.date: 11/21/2022
 ms.topic: article
 title: Known issues with Dynamics 365 Connected Spaces Preview
 ms.reviewer: v-bholmes
@@ -30,7 +30,7 @@ You may see the following message when you try to sign up for a free trial: "You
 
 ![Screenshot of Let's get started dialog box showing error message.](media/known-issues-trial-email.jpg "Screenshot of Let's get started dialog box showing error message")
 
-To complete the trial sign-up, [your Azure Active Directory administrator can assign you a special license so you can sign up for the trial](trial-signup-admin.md). 
+To complete the trial sign-up, contact the Connected Spaces team for support.
 
 ## The Connected Spaces Preview app is running in the wrong geographic region
 

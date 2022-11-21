@@ -3,7 +3,7 @@ title: "Sign up for a free trial - Dynamics 365 Connected Spaces Preview| Micros
 description: "Learn how to quickly sign up for and start a free Dynamics 365 Connected Spaces Preview trial. Explore the app with tours and videos, and find additional learning resources."
 author: AghoghoBiakolo
 ms.author: abiakolo
-ms.date: 10/05/2022
+ms.date: 11/21/2022
 ms.topic: get-started
 ms.custom: template-trial-setup 
 ms.reviewer: v-bholmes
@@ -11,8 +11,7 @@ ms.reviewer: v-bholmes
 
 # Sign up for a free Dynamics 365 Connected Spaces Preview trial
 
-Dynamics 365 Connected Spaces Preview offers a free 180-day trial. After a quick sign-up, you'll have access to all of the app's key features. The trial allows you to test the app 
-with your own customer data. [Learn more about Dynamics 365 Connected Spaces features](index.md)
+Dynamics 365 Connected Spaces Preview offers a free 180-day trial. After a quick sign-up, you'll have access to all of the app's key features. The trial allows you to test the app with your own customer data. [Learn more about Dynamics 365 Connected Spaces features](index.md)
 
 ## Sign up for the trial
 
@@ -21,7 +20,7 @@ with your own customer data. [Learn more about Dynamics 365 Connected Spaces fea
 2. Follow the on-screen guidance to enter the email name associated with your company Azure Active Directory account and your contact information.
 
     > [!NOTE]
-    > If you see a message that says "Your company doesn't allow team members to sign up with their work email", [your Azure Active Directory admin can assign you a special license so you can sign up for the trial](trial-signup-admin.md).   
+    > If you see a message that says "Your company doesn't allow team members to sign up with their work email", contact the Connected Spaces team for support.
 
 3. After you select the **Launch Trial** button, [go to the instructions for setting up Dynamics 365 Connected Spaces Preview](setup.md). 
 
