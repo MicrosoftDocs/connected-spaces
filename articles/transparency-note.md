@@ -19,7 +19,7 @@ influence system performance and behavior, and the importance of thinking about 
 use Transparency Notes when developing or deploying your own system, or share them with the people who will use or be affected by your system.  
 
 Microsoft’s Transparency Notes are part of a broader effort at Microsoft to put our AI Principles into practice. To find out more, visit [Microsoft’s responsible AI 
-resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources). 
+resources](https://www.microsoft.com/ai/responsible-ai-resources). 
 
 ## Introduction to Dynamics 365 Connected Spaces Preview
 
@@ -120,9 +120,9 @@ More detailed guidance on best practices for [drawing skill zones](web-app-camer
 
 ## Learn more about Responsible AI 
 
-[Microsoft Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai) 
+[Microsoft Responsible AI principles](https://www.microsoft.com/ai/responsible-ai) 
 
-[Microsoft Responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) 
+[Microsoft Responsible AI resources](https://www.microsoft.com/ai/responsible-ai-resources) 
 
 [Microsoft principles for developing and deploying facial recognition technology](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/12/MSFT-Principles-on-Facial-Recognition.pdf) 
 

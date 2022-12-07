@@ -28,7 +28,7 @@ The following table shows which alerts are available for each skill.
 
 ## Prerequisites
 
-You must have a Microsoft Office 365 (E1 or later) license to use alerts in Connected Spaces Preview. The Office 365 license includes Microsoft Outlook and Microsoft Teams. If you don't have an Office 365 license, [you can sign up for a free trial](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). 
+You must have a Microsoft Office 365 (E1 or later) license to use alerts in Connected Spaces Preview. The Office 365 license includes Microsoft Outlook and Microsoft Teams. If you don't have an Office 365 license, [you can sign up for a free trial](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab). 
 
 After signing up for Office 365, associate the Office 365 license with Connected Spaces Preview users in the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home?ref=/users) by doing the following:
 
@@ -42,7 +42,7 @@ After signing up for Office 365, associate the Office 365 license with Connected
 
     - Dynamics 365 Connected Spaces vTrial
     - Microsoft Power Automate Free
-    - Office 365 E1 or later ([Compare Office 365 enterprise licenses](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans))
+    - Office 365 E1 or later ([Compare Office 365 enterprise licenses](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans))
 
     ![Screenshot of Microsoft 365 admin center with all appropriate licenses selected.](media/alerts-admin-center-licenses.JPG "Screenshot of Microsoft 365 admin center with all appropriate licenses selected")
 
