@@ -17,7 +17,7 @@ when implementing Dynamics 365 Connected Spaces. [See Compliance and responsible
 When it comes to the use of cameras in retail settings, employees have many of the same questions and concerns as shoppers about what data is collected and how it's used. 
 Employees also have additional concerns about how the technology will affect their day-to-day work and whether cameras may be used to monitor their performance. 
 
-To uphold human dignity, build trust, and align with the standards set out in Microsoft’s [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai), 
+To uphold human dignity, build trust, and align with the standards set out in Microsoft’s [Responsible AI principles](https://www.microsoft.com/ai/responsible-ai), 
 we suggest creating an employee disclosure strategy or expanding an existing strategy, such as how you [communicate with shoppers](communication-plan.md). Our research suggests that employees who understand and trust the technology will be in a better position to use the system effectively and also help shoppers reach the same level of trust and understanding.
 
 The practices in this article can help you decide what information to share with employees as well as how to communicate that information. We arrived at these practices through several rounds of research conducted in a U.S. retail environment, including interviews with eight space managers and evaluations of sample disclosure materials with ten employees. Participants were balanced across a variety of ages, gender identities, ancestral backgrounds, space type, size of space, and their position within the space. We also offer tips for designing disclosure materials with the goal of making information easy to discover and understand.
@@ -120,7 +120,7 @@ Refer to the guidelines for [communicating with shoppers](communication-plan.md)
 
 ## More resources
 
-We are always expanding our research and practices for responsible innovation. For more information and resources about putting people at the center of AI technologies, visit [Microsoft’s Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai).
+We are always expanding our research and practices for responsible innovation. For more information and resources about putting people at the center of AI technologies, visit [Microsoft’s Responsible AI principles](https://www.microsoft.com/ai/responsible-ai).
 
 
 
