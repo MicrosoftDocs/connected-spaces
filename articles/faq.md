@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Dynamics 365 Connected Spaces Preview FAQ
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 ## Are all IP cameras supported?
 
 [See the list of supported cameras](./camera-placement-checklist.md).

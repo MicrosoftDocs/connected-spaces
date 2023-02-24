@@ -11,6 +11,8 @@ ms.reviewer: v-bholmes
 
 # Dynamics 365 Connected Spaces Preview trial FAQ
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 ## Sign-up
 
 ### What are the system requirements for the trial?

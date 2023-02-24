@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Known issues with Microsoft Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 ## Error message displayed on Settings page if browser is not set to English or German
 
 If your browser's language setting is not set to English or German, when you go to the **Settings** page, you'll see the following error message. 

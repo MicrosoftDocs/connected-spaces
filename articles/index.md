@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Overview of Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE5cjN4]
 
 Microsoft Dynamics 365 Connected Spaces Preview brings together computer vision and AI to help transform the physical space experience. By utilizing data from video cameras, Dynamics 365 Connected Spaces delivers real-time actionable recommendations that can make operations more efficient and improve customer experiences.

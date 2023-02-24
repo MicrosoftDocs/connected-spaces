@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Update expiring certificates for Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 To ensure that the Microsoft Dynamics 365 Connected Spaces Preview deployment in your network remains compliant and secure, the certificate used to authenticate to the Connected Spaces project must be updated regularly. Microsoft tracks the validity of the certificate through the Azure Key Vault as part of the Managed Application. 
 
 To provide continual access to the Connected Spaces services so that they can propagate data, the Azure Service Principal admin should review and maintain the certificate to keep it from expiring. 
