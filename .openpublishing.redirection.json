@@ -119,6 +119,21 @@
       "source_path": "articles/zwebsite-overview.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/trial-faq.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/trial-signup.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/trial-signup-admin.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
     }
 
   ]
