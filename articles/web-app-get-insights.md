@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Use the Analytics page in Dynamics 365 Connected Spaces Preview to get insights on your space
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 Microsoft Dynamics 365 Connected Spaces Preview serves as a platform to view, explore, and act on the diversity of data captured in your space. This article describes how to get insights from your space using the **Analytics** page. 
 
 Connected Spaces supports the following camera skills: 

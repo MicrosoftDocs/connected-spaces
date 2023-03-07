@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Checklist for placing and installing cameras for use with Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 > [!NOTE]
 > The suggestions in this article are provided for informational purposes only and not for the purpose of providing legal advice. We strongly recommend seeking specialist legal advice when implementing Microsoft Dynamics 365 Connected Spaces. [See Compliance and responsible use](compliance.md).
 

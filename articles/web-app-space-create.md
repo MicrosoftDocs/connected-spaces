@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Create a space in Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 After you [prepare your network and install Azure Stack Edge Pro (2 GPU)](ase-install.md), you’re ready to create a store in 
 Microsoft Dynamics 365 Connected Spaces Preview. 
 

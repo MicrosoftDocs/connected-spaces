@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Private Preview skills in Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 Microsoft Dynamics 365 Connected Spaces Preview partners with customers to understand and meet business requirements, and addresses these requirements by 
 releasing new skills as “Private Preview skills.” Connected Spaces provides custom environments for customers to test these Private Preview skills. 
 These environments isolate Private Preview skills from Public Preview skills to reduce the load on edge gateways and improve performance. 

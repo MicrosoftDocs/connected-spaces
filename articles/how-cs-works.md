@@ -11,6 +11,8 @@ ms.custom: "intro-internal"
 
 # How Dynamics 365 Connected Spaces works
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 [Dynamics 365 Connected Spaces](index.md) consists of the Connected Spaces web app, an Azure cloud service, Microsoft Dataverse, and camera hardware that you install in your store.
 
 ![Illustration of retail store, Azure cloud service and Power Platorm components.](media/how-connected-spaces-works.jpg "Illustration of retail store, Azure cloud service and Power Platform components")

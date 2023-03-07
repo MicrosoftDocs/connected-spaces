@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Scenarios for placing cameras to use with Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 The main scenarios for camera placement in Microsoft Dynamics 365 Connected Spaces Preview include the following zones:
 
 - Area

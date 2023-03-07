@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Add skills to collect data in Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 You can use customizable skills in Microsoft Dynamics 365 Connected Spaces Preview to have your cameras collect physical data based on the needs of your space. You can set up a custom zone with one of three available skills:
 
 |Skill|Description|Examples|

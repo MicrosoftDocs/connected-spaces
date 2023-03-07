@@ -10,6 +10,8 @@ ms.reviewer: mhart
 
 # Add alerts in the Dynamics 365 Connected Spaces Preview web app
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 You can add alerts in the Dynamics 365 Connected Spaces Preview web app to:
 
 - Monitor trends and patterns across your physical space in near real time
