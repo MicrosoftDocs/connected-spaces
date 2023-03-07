@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 
 # Set options for your space in Dynamics 365 Connected Spaces Preview
 
+[!INCLUDE [end-of-life](includes/end-of-life.md)]
+
 You can set options for your space (name, time zone, address, space hours, and maximum occupancy) in Microsoft Dynamics 365 Connected Spaces Preview. If you don't set your space hours, by default, Connected Spaces will set your hours for every day of the week to 6:00 am – 8:00 pm in the time zone for your space.
 
 ## Make changes to your options
