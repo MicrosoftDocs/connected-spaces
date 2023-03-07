@@ -134,6 +134,11 @@
       "source_path": "articles/trial-signup-admin.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/*.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": "false"
     }
 
   ]
