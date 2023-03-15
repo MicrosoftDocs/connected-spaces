@@ -38,5 +38,5 @@ Microsoft is committed to [responsible AI](https://www.microsoft.com/ai/responsi
 
 ## Next steps
 
-- [Sign up for a free trial](trial-signup.md)
+- [Sign up for a free trial](/dynamics365/connected-spaces/)
 - [Learn more about how Connected Spaces works](how-cs-works.md)
