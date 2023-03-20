@@ -39,7 +39,5 @@ The Power Platform environment:
 
 ## Next steps
 
-- [Sign up for a free trial](trial-signup.md)
-- [Trial FAQ](trial-faq.md)
-
-
+- [Sign up for a free trial](/dynamics365/connected-spaces/)
+- [Trial FAQ](/dynamics365/connected-spaces/)

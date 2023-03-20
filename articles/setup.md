@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 [!INCLUDE [end-of-life](includes/end-of-life.md)]
 
-After you've [signed up for a free trial](trial-signup.md) and selected the **Launch Trial** button, you can set up Microsoft Dynamics 365 Connected Spaces Preview by using this procedure. 
+After you've [signed up for a free trial](/dynamics365/connected-spaces/) and selected the **Launch Trial** button, you can set up Microsoft Dynamics 365 Connected Spaces Preview by using this procedure. 
 
 1. You'll see the Connected Spaces logo and a progress bar at the bottom of the screen, and then the Welcome page will appear. 
 
