@@ -55,7 +55,10 @@
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/connected-spaces",
       "feedback_product_url": "https://experience.dynamics.com/ideas/categories/?forum=73076511-12de-e911-a814-000d3a4f1244&forumName=Dynamics%20365%20Connected%20Store",
-      "recommendations": "true"
+      "recommendations": "true",
+      "search.app": [
+        "connectedspaces-docs"
+      ]
     },
     "fileMetadata": {
         "ms.service": {
