@@ -134,7 +134,141 @@
       "source_path": "articles/trial-signup-admin.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/web-app-space-details.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/ai-insights.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/ase-connect.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/ase-install.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/camera-placement-checklist.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/camera-placement-general.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/camera-placement-recommendations.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/communication-plan.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/compliance.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/data-privacy.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/employee-plan.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/faq.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/how-cs-works.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/index.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/known-issues.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/private-preview-skills.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/security.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/setup.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/setup-certificates.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/transparency-note.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/video-inference-data-upload.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/web-app-add-alerts.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/web-app-cameras-add-skills.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/web-app-cameras-connect.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/web-app-get-insights.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/web-app-home-page.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/web-app-space-create.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
     }
-
   ]
 }
