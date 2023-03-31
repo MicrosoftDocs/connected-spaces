@@ -211,6 +211,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "articles/new.md",
+      "redirect_url": "connected-spaces-discontinued",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "articles/private-preview-skills.md",
       "redirect_url": "connected-spaces-discontinued",
       "redirect_document_id": false
