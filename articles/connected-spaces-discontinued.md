@@ -2,7 +2,7 @@
 title: Dynamics 365 Connected Spaces preview service discontinuation FAQ
 description: This article answers frequently asked questions about the discontinuation of service for Dynamics 365 Connected Spaces preview.
 ms.author: mhart
-ms.date: 03/23/2023
+ms.date: 04/15/2024
 ms.topic: conceptual
 author: m-hartmann
 ms.reviewer: mhart
@@ -16,9 +16,7 @@ This article answers frequently asked questions about the discontinuation of ser
 
 ### What is being announced about Dynamics 365 Connected Spaces preview?
 
-Effective April 4, 2023, Dynamics 365 Connected Spaces preview will be discontinued for all customers.
-
-Current customers who have a trial license for Dynamics 365 Connected Spaces preview can continue to access the service and generate usage data until the trial expires on April 4, 2023.
+Since April 4, 2023, Dynamics 365 Connected Spaces preview is discontinued for all customers.
 
 ### Why is Dynamics 365 Connected Spaces preview being discontinued?
 
