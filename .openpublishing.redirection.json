@@ -274,6 +274,11 @@
       "source_path": "articles/web-app-space-create.md",
       "redirect_url": "connected-spaces-discontinued",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/connected-spaces-discontinued.md",
+      "redirect_url": "https://www.microsoft.com/dynamics-365",
+      "redirect_document_id": false
     }
   ]
 }
